@@ -1,0 +1,143 @@
+{
+    "name": "Grounds Maintenance. vol 37, no. 8. (2002)",
+    "machine_name": "grounds_maintenance_vol_37_no_8_2002",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2002",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2117676",
+        "legacy_id": "42689",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grounds Maintenance. vol 37, no. 8. (2002) p C17",
+            "machine_name": "grounds_maintenance_vol_37_no_8_2002_p_c17",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rhododendron_cultivars_rosy_lights",
+                "type": "variety",
+                "archival_data": [
+                    "1486450"
+                ]
+            },
+            "volume": null,
+            "page": "p C17",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1894994",
+                "legacy_id": "241808",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Grounds Maintenance. vol 37, no. 8. (2002) p C18",
+            "machine_name": "grounds_maintenance_vol_37_no_8_2002_p_c18",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "callicarpa_dichotoma",
+                "type": "species",
+                "archival_data": [
+                    "1399291"
+                ]
+            },
+            "volume": null,
+            "page": "p C18",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1894995",
+                "legacy_id": "241809",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Grounds Maintenance. vol 37, no. 8. (2002) p C19",
+            "machine_name": "grounds_maintenance_vol_37_no_8_2002_p_c19",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hamamelis_intermedia_jelena",
+                "type": "variety",
+                "archival_data": [
+                    "1473228"
+                ]
+            },
+            "volume": null,
+            "page": "p C19",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1894996",
+                "legacy_id": "241810",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        }
+    ]
+}

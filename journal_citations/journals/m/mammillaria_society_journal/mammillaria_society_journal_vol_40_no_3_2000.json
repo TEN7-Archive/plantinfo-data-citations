@@ -1,0 +1,61 @@
+{
+    "name": "Mammillaria Society, Journal. vol 40, no. 3. (2000)",
+    "machine_name": "mammillaria_society_journal_vol_40_no_3_2000",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2000",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2116247",
+        "legacy_id": "15591",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Mammillaria Society, Journal. vol 40, no. 3. (2000) p 35-36",
+            "machine_name": "mammillaria_society_journal_vol_40_no_3_2000_p_35_36",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "coryphantha_wohlschlageri",
+                "type": "species",
+                "archival_data": [
+                    "1439619"
+                ]
+            },
+            "volume": null,
+            "page": "p 35-36",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": true,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1867566",
+                "legacy_id": "196560",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        }
+    ]
+}

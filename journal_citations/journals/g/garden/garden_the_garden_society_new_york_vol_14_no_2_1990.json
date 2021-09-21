@@ -1,0 +1,143 @@
+{
+    "name": "Garden. The Garden Society (New York). vol 14, no. 2. (1990)",
+    "machine_name": "garden_the_garden_society_new_york_vol_14_no_2_1990",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1990",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113999",
+        "legacy_id": "2896",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Garden. The Garden Society (New York). vol 14, no. 2. (1990) p 8",
+            "machine_name": "garden_the_garden_society_new_york_vol_14_no_2_1990_p_8",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "eranthis_hyemalis",
+                "type": "species",
+                "archival_data": [
+                    "1415120"
+                ]
+            },
+            "volume": null,
+            "page": "p 8",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1786474",
+                "legacy_id": "92510",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Garden. The Garden Society (New York). vol 14, no. 2. (1990) p 8-9",
+            "machine_name": "garden_the_garden_society_new_york_vol_14_no_2_1990_p_8_9",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "galanthus_elwesii",
+                "type": "species",
+                "archival_data": [
+                    "1414918"
+                ]
+            },
+            "volume": null,
+            "page": "p 8-9",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": true,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1792602",
+                "legacy_id": "97962",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Garden. The Garden Society (New York). vol 14, no. 2. (1990) p 6-7",
+            "machine_name": "garden_the_garden_society_new_york_vol_14_no_2_1990_p_6_7",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "paphiopedilum_bellatulum",
+                "type": "species",
+                "archival_data": [
+                    "1424470"
+                ]
+            },
+            "volume": null,
+            "page": "p 6-7",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1814402",
+                "legacy_id": "118365",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        }
+    ]
+}

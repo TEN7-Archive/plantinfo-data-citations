@@ -1,0 +1,512 @@
+{
+    "name": "Magnolia, Journal of the Magnolia Soc. vol 40, no. 78. (2005)",
+    "machine_name": "magnolia_journal_of_the_magnolia_soc_vol_40_no_78_2005",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2005",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2121739",
+        "legacy_id": "69869",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Magnolia, Journal of the Magnolia Soc. vol 40, no. 78. (2005) p cover",
+            "machine_name": "magnolia_journal_of_the_magnolia_soc_vol_40_no_78_2005_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "magnolia_campbellii_darjeeling",
+                "type": "variety",
+                "archival_data": [
+                    "1477553"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "2005",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1994197",
+                "legacy_id": "312010",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Magnolia, Journal of the Magnolia Soc. vol 40, no. 78. (2005) p 4",
+            "machine_name": "magnolia_journal_of_the_magnolia_soc_vol_40_no_78_2005_p_4",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "magnolia_cavaleriei",
+                "type": "species",
+                "archival_data": [
+                    "1450715"
+                ]
+            },
+            "volume": null,
+            "page": "p 4",
+            "year": "2005",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1994198",
+                "legacy_id": "312011",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Magnolia, Journal of the Magnolia Soc. vol 40, no. 78. (2005) p 6",
+            "machine_name": "magnolia_journal_of_the_magnolia_soc_vol_40_no_78_2005_p_6",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "magnolia_foveolata",
+                "type": "species",
+                "archival_data": [
+                    "1450716"
+                ]
+            },
+            "volume": null,
+            "page": "p 6",
+            "year": "2005",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1994199",
+                "legacy_id": "312012",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Magnolia, Journal of the Magnolia Soc. vol 40, no. 78. (2005) p 7",
+            "machine_name": "magnolia_journal_of_the_magnolia_soc_vol_40_no_78_2005_p_7",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "magnolia_fulva_calcicola",
+                "type": "variety",
+                "archival_data": [
+                    "1630892"
+                ]
+            },
+            "volume": null,
+            "page": "p 7",
+            "year": "2005",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1994200",
+                "legacy_id": "312013",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Magnolia, Journal of the Magnolia Soc. vol 40, no. 78. (2005) p 10",
+            "machine_name": "magnolia_journal_of_the_magnolia_soc_vol_40_no_78_2005_p_10",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "magnolia_odora",
+                "type": "species",
+                "archival_data": [
+                    "1450718"
+                ]
+            },
+            "volume": null,
+            "page": "p 10",
+            "year": "2005",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": true,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1994201",
+                "legacy_id": "312014",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Magnolia, Journal of the Magnolia Soc. vol 40, no. 78. (2005) p 12",
+            "machine_name": "magnolia_journal_of_the_magnolia_soc_vol_40_no_78_2005_p_12",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "magnolia_insignis",
+                "type": "species",
+                "archival_data": [
+                    "1421184"
+                ]
+            },
+            "volume": null,
+            "page": "p 12",
+            "year": "2005",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1994202",
+                "legacy_id": "312015",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Magnolia, Journal of the Magnolia Soc. vol 40, no. 78. (2005) p 13",
+            "machine_name": "magnolia_journal_of_the_magnolia_soc_vol_40_no_78_2005_p_13",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "magnolia_megaphylla",
+                "type": "species",
+                "archival_data": [
+                    "1450719"
+                ]
+            },
+            "volume": null,
+            "page": "p 13",
+            "year": "2005",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1994203",
+                "legacy_id": "312016",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Magnolia, Journal of the Magnolia Soc. vol 40, no. 78. (2005) p 14",
+            "machine_name": "magnolia_journal_of_the_magnolia_soc_vol_40_no_78_2005_p_14",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "magnolia_pachyphylla",
+                "type": "species",
+                "archival_data": [
+                    "1450720"
+                ]
+            },
+            "volume": null,
+            "page": "p 14",
+            "year": "2005",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1994204",
+                "legacy_id": "312017",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Magnolia, Journal of the Magnolia Soc. vol 40, no. 78. (2005) p 15",
+            "machine_name": "magnolia_journal_of_the_magnolia_soc_vol_40_no_78_2005_p_15",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "magnolia_lotungensis",
+                "type": "species",
+                "archival_data": [
+                    "1450721"
+                ]
+            },
+            "volume": null,
+            "page": "p 15",
+            "year": "2005",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1994205",
+                "legacy_id": "312018",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Magnolia, Journal of the Magnolia Soc. vol 40, no. 78. (2005) p 31 (Adv.)",
+            "machine_name": "magnolia_journal_of_the_magnolia_soc_vol_40_no_78_2005_p_31_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "magnolia_coco",
+                "type": "species",
+                "archival_data": [
+                    "1421169"
+                ]
+            },
+            "volume": null,
+            "page": "p 31 (Adv.)",
+            "year": "2005",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1994206",
+                "legacy_id": "312019",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Magnolia, Journal of the Magnolia Soc. vol 40, no. 78. (2005) p 31 (Adv.)",
+            "machine_name": "magnolia_journal_of_the_magnolia_soc_vol_40_no_78_2005_p_31_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "magnolia_champaca",
+                "type": "species",
+                "archival_data": [
+                    "1450722"
+                ]
+            },
+            "volume": null,
+            "page": "p 31 (Adv.)",
+            "year": "2005",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1994207",
+                "legacy_id": "312020",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Magnolia, Journal of the Magnolia Soc. vol 40, no. 78. (2005) p backcover",
+            "machine_name": "magnolia_journal_of_the_magnolia_soc_vol_40_no_78_2005_p_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "magnolia_campbellii_raffillii",
+                "type": "variety",
+                "archival_data": [
+                    "1630893"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover",
+            "year": "2005",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1994208",
+                "legacy_id": "312021",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "name": "Sunset. May\/Jun. 2019.",
+    "machine_name": "sunset_may_jun_2019",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": "7",
+    "description": null,
+    "archival_data": {
+        "id": "2568241",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1570536893"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Sunset. May\/Jun. 2019.  p 32 (Adv.)",
+            "machine_name": "sunset_may_jun_2019_p_32_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_knock_out_series",
+                "type": "variety",
+                "archival_data": [
+                    "1544359"
+                ]
+            },
+            "volume": null,
+            "page": "p 32 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2568246",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1570537076"
+            }
+        }
+    ]
+}

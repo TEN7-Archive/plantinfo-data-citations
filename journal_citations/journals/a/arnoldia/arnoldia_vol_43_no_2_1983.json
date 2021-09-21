@@ -1,0 +1,102 @@
+{
+    "name": "Arnoldia. vol 43, no. 2. (1983)",
+    "machine_name": "arnoldia_vol_43_no_2_1983",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1983",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114268",
+        "legacy_id": "1168",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Arnoldia. vol 43, no. 2. (1983) p backcover",
+            "machine_name": "arnoldia_vol_43_no_2_1983_p_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lilium_superbum",
+                "type": "species",
+                "archival_data": [
+                    "1417735"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover",
+            "year": "1983",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1804334",
+                "legacy_id": "109038",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 43, no. 2. (1983) p cover",
+            "machine_name": "arnoldia_vol_43_no_2_1983_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "nymphaea_odorata",
+                "type": "species",
+                "archival_data": [
+                    "1425136"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1983",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1810017",
+                "legacy_id": "115867",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        }
+    ]
+}

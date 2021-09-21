@@ -1,0 +1,102 @@
+{
+    "name": "Svensk Botanisk Tidskrift. vol 92, no. 2. (1998)",
+    "machine_name": "svensk_botanisk_tidskrift_vol_92_no_2_1998",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1998",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2115007",
+        "legacy_id": "6648",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Svensk Botanisk Tidskrift. vol 92, no. 2. (1998) p cover",
+            "machine_name": "svensk_botanisk_tidskrift_vol_92_no_2_1998_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cypripedium_parviflorum",
+                "type": "species",
+                "archival_data": [
+                    "1404234"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1843525",
+                "legacy_id": "150973",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Svensk Botanisk Tidskrift. vol 92, no. 2. (1998) p 82, Pl. 2.",
+            "machine_name": "svensk_botanisk_tidskrift_vol_92_no_2_1998_p_82_pl_2",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "botrychium_virginianum",
+                "type": "species",
+                "archival_data": [
+                    "1442397"
+                ]
+            },
+            "volume": null,
+            "page": "p 82, Pl. 2.",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1843526",
+                "legacy_id": "150975",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        }
+    ]
+}

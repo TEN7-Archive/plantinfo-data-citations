@@ -1,0 +1,61 @@
+{
+    "name": "Natural History. vol 111, no. 3. (2002)",
+    "machine_name": "natural_history_vol_111_no_3_2002",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2002",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2117267",
+        "legacy_id": "35369",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Natural History. vol 111, no. 3. (2002) p 43",
+            "machine_name": "natural_history_vol_111_no_3_2002_p_43",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "downingia_bella",
+                "type": "species",
+                "archival_data": [
+                    "1446154"
+                ]
+            },
+            "volume": null,
+            "page": "p 43",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1886601",
+                "legacy_id": "229250",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "name": "Daffodil and Tulip Yearbook. 1985-86. (1985)",
+    "machine_name": "daffodil_and_tulip_yearbook_1985_86_1985",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1985",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2112251",
+        "legacy_id": "2090",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Daffodil and Tulip Yearbook. 1985-86. (1985) p cover",
+            "machine_name": "daffodil_and_tulip_yearbook_1985_86_1985_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "narcissus_cultivars_dailmanach",
+                "type": "variety",
+                "archival_data": [
+                    "1483261"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1985",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1734935",
+                "legacy_id": "32883",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        }
+    ]
+}

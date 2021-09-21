@@ -1,0 +1,225 @@
+{
+    "name": "Herb Quarterly, The. no. 79. (i.e., no. 78-Summer) (1998)",
+    "machine_name": "herb_quarterly_the_no_79_i_e_no_78_summer_1998",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1998",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114832",
+        "legacy_id": "6127",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Herb Quarterly, The. no. 79. (i.e., no. 78-Summer) (1998) p 40",
+            "machine_name": "herb_quarterly_the_no_79_i_e_no_78_summer_1998_p_40",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rehmannia_glutinosa",
+                "type": "species",
+                "archival_data": [
+                    "1424308"
+                ]
+            },
+            "volume": null,
+            "page": "p 40",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1840253",
+                "legacy_id": "143748",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Herb Quarterly, The. no. 79. (i.e., no. 78-Summer) (1998) p cover;21;23-24",
+            "machine_name": "herb_quarterly_the_no_79_i_e_no_78_summer_1998_p_cover_21_23_24",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "crocus_sativus",
+                "type": "species",
+                "archival_data": [
+                    "1408013"
+                ]
+            },
+            "volume": null,
+            "page": "p cover;21;23-24",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": true,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1843616",
+                "legacy_id": "147242",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Herb Quarterly, The. no. 79. (i.e., no. 78-Summer) (1998) p 42",
+            "machine_name": "herb_quarterly_the_no_79_i_e_no_78_summer_1998_p_42",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hydrastis_canadensis",
+                "type": "species",
+                "archival_data": [
+                    "1420982"
+                ]
+            },
+            "volume": null,
+            "page": "p 42",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": true,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1843617",
+                "legacy_id": "147243",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Herb Quarterly, The. no. 79. (i.e., no. 78-Summer) (1998) p 43",
+            "machine_name": "herb_quarterly_the_no_79_i_e_no_78_summer_1998_p_43",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "serenoa_repens",
+                "type": "species",
+                "archival_data": [
+                    "1429168"
+                ]
+            },
+            "volume": null,
+            "page": "p 43",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1843618",
+                "legacy_id": "147244",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Herb Quarterly, The. no. 79. (i.e., no. 78-Summer) (1998) p 45",
+            "machine_name": "herb_quarterly_the_no_79_i_e_no_78_summer_1998_p_45",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "anemopsis_californica",
+                "type": "species",
+                "archival_data": [
+                    "1399470"
+                ]
+            },
+            "volume": null,
+            "page": "p 45",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1843619",
+                "legacy_id": "147245",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        }
+    ]
+}

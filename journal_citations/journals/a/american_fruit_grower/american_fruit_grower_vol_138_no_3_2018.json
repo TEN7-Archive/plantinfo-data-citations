@@ -1,0 +1,102 @@
+{
+    "name": "American Fruit Grower. vol 138, no. 3. (2018)",
+    "machine_name": "american_fruit_grower_vol_138_no_3_2018",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2018",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": "7",
+    "description": null,
+    "archival_data": {
+        "id": "2279496",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1522234917"
+    },
+    "citation_reference_items": [
+        {
+            "name": "American Fruit Grower. vol 138, no. 3. (2018) p 25 (Adv.)",
+            "machine_name": "american_fruit_grower_vol_138_no_3_2018_p_25_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "malus_a_cultivars_gale_gala",
+                "type": "variety",
+                "archival_data": [
+                    "1584207"
+                ]
+            },
+            "volume": null,
+            "page": "p 25 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2279501",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1522235036"
+            }
+        },
+        {
+            "name": "American Fruit Grower. vol 138, no. 3. (2018) p 25 (Adv.)",
+            "machine_name": "american_fruit_grower_vol_138_no_3_2018_p_25_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "malus_a_cultivars_scarlet_spur_ii",
+                "type": "variety",
+                "archival_data": [
+                    "1567710"
+                ]
+            },
+            "volume": null,
+            "page": "p 25 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2279506",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1522235036"
+            }
+        }
+    ]
+}

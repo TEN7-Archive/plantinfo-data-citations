@@ -1,0 +1,61 @@
+{
+    "name": "American Horticulturist. vol 62, no. 2. (1986)",
+    "machine_name": "american_horticulturist_vol_62_no_2_1986",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1986",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2119982",
+        "legacy_id": "288",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "American Horticulturist. vol 62, no. 2. (1986) p 25",
+            "machine_name": "american_horticulturist_vol_62_no_2_1986_p_25",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "callistephus_chinensis_contraster_series",
+                "type": "variety",
+                "archival_data": [
+                    "1499074"
+                ]
+            },
+            "volume": null,
+            "page": "p 25",
+            "year": "1986",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1945795",
+                "legacy_id": "289718",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        }
+    ]
+}

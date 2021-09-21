@@ -1,0 +1,61 @@
+{
+    "name": "Smithsonian. vol 39, no. 9. (2008)",
+    "machine_name": "smithsonian_vol_39_no_9_2008",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2008",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2121498",
+        "legacy_id": "99149",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Smithsonian. vol 39, no. 9. (2008) p 26-7",
+            "machine_name": "smithsonian_vol_39_no_9_2008_p_26_7",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "populus_tremuloides",
+                "type": "species",
+                "archival_data": [
+                    "1422779"
+                ]
+            },
+            "volume": null,
+            "page": "p 26-7",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": true,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1987048",
+                "legacy_id": "386362",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        }
+    ]
+}

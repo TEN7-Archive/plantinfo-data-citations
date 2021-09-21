@@ -1,0 +1,61 @@
+{
+    "name": "Sunset. February 2006.",
+    "machine_name": "sunset_february_2006",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1690318",
+        "legacy_id": "70272",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Sunset. February 2006. p 54",
+            "machine_name": "sunset_february_2006_p_54",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_iceberg",
+                "type": "variety",
+                "archival_data": [
+                    "1494537"
+                ]
+            },
+            "volume": null,
+            "page": "p 54",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1993308",
+                "legacy_id": "313273",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        }
+    ]
+}

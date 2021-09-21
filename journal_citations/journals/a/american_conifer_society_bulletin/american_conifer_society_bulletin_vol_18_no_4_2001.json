@@ -1,0 +1,143 @@
+{
+    "name": "American Conifer Society, Bulletin. vol 18, no. 4. (2001)",
+    "machine_name": "american_conifer_society_bulletin_vol_18_no_4_2001",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2001",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2117165",
+        "legacy_id": "29029",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "American Conifer Society, Bulletin. vol 18, no. 4. (2001) p cover",
+            "machine_name": "american_conifer_society_bulletin_vol_18_no_4_2001_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cupressus_nootkatensis_pendula",
+                "type": "variety",
+                "archival_data": [
+                    "1608093"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1884910",
+                "legacy_id": "220130",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "American Conifer Society, Bulletin. vol 18, no. 4. (2001) p inside cover",
+            "machine_name": "american_conifer_society_bulletin_vol_18_no_4_2001_p_inside_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "picea_pungens_globosa",
+                "type": "variety",
+                "archival_data": [
+                    "1521671"
+                ]
+            },
+            "volume": null,
+            "page": "p inside cover",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1884911",
+                "legacy_id": "220131",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "American Conifer Society, Bulletin. vol 18, no. 4. (2001) p inside backcover",
+            "machine_name": "american_conifer_society_bulletin_vol_18_no_4_2001_p_inside_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "picea_meyeri",
+                "type": "species",
+                "archival_data": [
+                    "1424534"
+                ]
+            },
+            "volume": null,
+            "page": "p inside backcover",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1884912",
+                "legacy_id": "220132",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        }
+    ]
+}

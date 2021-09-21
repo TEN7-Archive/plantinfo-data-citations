@@ -1,0 +1,61 @@
+{
+    "name": "Nature. vol 360, no. 6401. (1992)",
+    "machine_name": "nature_vol_360_no_6401_1992",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1992",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2118419",
+        "legacy_id": "52910",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Nature. vol 360, no. 6401. (1992) p 274, Pl. 1(c)",
+            "machine_name": "nature_vol_360_no_6401_1992_p_274_pl_1_c",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "arabidopsis_thaliana",
+                "type": "species",
+                "archival_data": [
+                    "1400989"
+                ]
+            },
+            "volume": null,
+            "page": "p 274, Pl. 1(c)",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1911442",
+                "legacy_id": "267950",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        }
+    ]
+}

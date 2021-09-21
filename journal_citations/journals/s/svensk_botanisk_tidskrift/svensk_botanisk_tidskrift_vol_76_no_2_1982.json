@@ -1,0 +1,184 @@
+{
+    "name": "Svensk Botanisk Tidskrift. vol 76, no. 2. (1982)",
+    "machine_name": "svensk_botanisk_tidskrift_vol_76_no_2_1982",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1982",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113953",
+        "legacy_id": "5684",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Svensk Botanisk Tidskrift. vol 76, no. 2. (1982) p 78",
+            "machine_name": "svensk_botanisk_tidskrift_vol_76_no_2_1982_p_78",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "dactylorhiza_sambucina",
+                "type": "species",
+                "archival_data": [
+                    "1404663"
+                ]
+            },
+            "volume": null,
+            "page": "p 78",
+            "year": "1982",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1783733",
+                "legacy_id": "87455",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Svensk Botanisk Tidskrift. vol 76, no. 2. (1982) p 83",
+            "machine_name": "svensk_botanisk_tidskrift_vol_76_no_2_1982_p_83",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "imperatoria_ostruthium",
+                "type": "species",
+                "archival_data": [
+                    "1416503"
+                ]
+            },
+            "volume": null,
+            "page": "p 83",
+            "year": "1982",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1802112",
+                "legacy_id": "104503",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Svensk Botanisk Tidskrift. vol 76, no. 2. (1982) p cover",
+            "machine_name": "svensk_botanisk_tidskrift_vol_76_no_2_1982_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "viburnum_opulus",
+                "type": "species",
+                "archival_data": [
+                    "1429797"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1982",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1834327",
+                "legacy_id": "140771",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Svensk Botanisk Tidskrift. vol 76, no. 2. (1982) p 79",
+            "machine_name": "svensk_botanisk_tidskrift_vol_76_no_2_1982_p_79",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "trollius_europaeus",
+                "type": "species",
+                "archival_data": [
+                    "1427507"
+                ]
+            },
+            "volume": null,
+            "page": "p 79",
+            "year": "1982",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1913131",
+                "legacy_id": "272673",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        }
+    ]
+}

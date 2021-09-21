@@ -1,0 +1,61 @@
+{
+    "name": "American Fruit Grower. vol 118, no. 5. (1998)",
+    "machine_name": "american_fruit_grower_vol_118_no_5_1998",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1998",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114813",
+        "legacy_id": "6181",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "American Fruit Grower. vol 118, no. 5. (1998) p 18",
+            "machine_name": "american_fruit_grower_vol_118_no_5_1998_p_18",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "vitis_cultivars_autumn_royal",
+                "type": "variety",
+                "archival_data": [
+                    "1529347"
+                ]
+            },
+            "volume": null,
+            "page": "p 18",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1839694",
+                "legacy_id": "144893",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        }
+    ]
+}

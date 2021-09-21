@@ -1,0 +1,61 @@
+{
+    "name": "Advances in Strawberry Production. vol. 14 (1995)",
+    "machine_name": "advances_in_strawberry_production_vol_14_1995",
+    "type": "journal_book",
+    "volume": "14",
+    "number": null,
+    "year": "1995",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2111333",
+        "legacy_id": "3",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Advances in Strawberry Production. vol. 14 (1995) 14 p cover|backcover",
+            "machine_name": "advances_in_strawberry_production_vol_14_1995_14_p_cover_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "fragaria_ananassa_northeaster",
+                "type": "variety",
+                "archival_data": [
+                    "1473767"
+                ]
+            },
+            "volume": "14",
+            "page": "p cover|backcover",
+            "year": "1995",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1716954",
+                "legacy_id": "15372",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483346299"
+            }
+        }
+    ]
+}

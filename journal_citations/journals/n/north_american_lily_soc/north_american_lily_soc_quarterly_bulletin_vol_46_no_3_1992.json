@@ -1,0 +1,61 @@
+{
+    "name": "North American Lily Soc., Quarterly Bulletin. vol 46, no. 3. (1992)",
+    "machine_name": "north_american_lily_soc_quarterly_bulletin_vol_46_no_3_1992",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1992",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114251",
+        "legacy_id": "4793",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "North American Lily Soc., Quarterly Bulletin. vol 46, no. 3. (1992) p cover",
+            "machine_name": "north_american_lily_soc_quarterly_bulletin_vol_46_no_3_1992_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lilium_canadense",
+                "type": "species",
+                "archival_data": [
+                    "1417372"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1803295",
+                "legacy_id": "108729",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        }
+    ]
+}

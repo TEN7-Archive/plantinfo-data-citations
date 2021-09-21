@@ -1,0 +1,102 @@
+{
+    "name": "Primroses. vol 49, no. 4. (1991)",
+    "machine_name": "primroses_vol_49_no_4_1991",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1991",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2112593",
+        "legacy_id": "5311",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Primroses. vol 49, no. 4. (1991) p 21",
+            "machine_name": "primroses_vol_49_no_4_1991_p_21",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "primula_auricula_snow_lady",
+                "type": "variety",
+                "archival_data": [
+                    "1487771"
+                ]
+            },
+            "volume": null,
+            "page": "p 21",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1742626",
+                "legacy_id": "40115",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483154438"
+            }
+        },
+        {
+            "name": "Primroses. vol 49, no. 4. (1991) p cover",
+            "machine_name": "primroses_vol_49_no_4_1991_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "primula_marginata",
+                "type": "species",
+                "archival_data": [
+                    "1424217"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1816113",
+                "legacy_id": "124134",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        }
+    ]
+}

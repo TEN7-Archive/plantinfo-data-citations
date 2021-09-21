@@ -1,0 +1,61 @@
+{
+    "name": "Landscape Architecture. vol 95, no. 7. (2005)",
+    "machine_name": "landscape_architecture_vol_95_no_7_2005",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2005",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2121241",
+        "legacy_id": "66411",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Landscape Architecture. vol 95, no. 7. (2005) p 83 (Adv.)",
+            "machine_name": "landscape_architecture_vol_95_no_7_2005_p_83_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "malus_c_cultivars_royal_raindrops",
+                "type": "variety",
+                "archival_data": [
+                    "1574685"
+                ]
+            },
+            "volume": null,
+            "page": "p 83 (Adv.)",
+            "year": "2005",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1979317",
+                "legacy_id": "302774",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        }
+    ]
+}

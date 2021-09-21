@@ -1,0 +1,143 @@
+{
+    "name": "LAIFS: Los Angeles International Fern Society, Journal. vol 45, no. 2. (2018)",
+    "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_45_no_2_2018",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2018",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": "7",
+    "description": null,
+    "archival_data": {
+        "id": "2408551",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1542453692"
+    },
+    "citation_reference_items": [
+        {
+            "name": "LAIFS: Los Angeles International Fern Society, Journal. vol 45, no. 2. (2018) p cover; 33-34; 36-37; 39; 42",
+            "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_45_no_2_2018_p_cover_33_34_36_37_39_42",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "blechnum_cycadifolium",
+                "type": "species",
+                "archival_data": [
+                    "1459984"
+                ]
+            },
+            "volume": null,
+            "page": "p cover; 33-34; 36-37; 39; 42",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2408556",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1542453994"
+            }
+        },
+        {
+            "name": "LAIFS: Los Angeles International Fern Society, Journal. vol 45, no. 2. (2018) p 59",
+            "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_45_no_2_2018_p_59",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "asplenium_goudeyi",
+                "type": "species",
+                "archival_data": [
+                    "1458361"
+                ]
+            },
+            "volume": null,
+            "page": "p 59",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2408561",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1542453994"
+            }
+        },
+        {
+            "name": "LAIFS: Los Angeles International Fern Society, Journal. vol 45, no. 2. (2018) p 62",
+            "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_45_no_2_2018_p_62",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "selaginella_erythropus",
+                "type": "species",
+                "archival_data": [
+                    "1439309"
+                ]
+            },
+            "volume": null,
+            "page": "p 62",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2408566",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1542453994"
+            }
+        }
+    ]
+}

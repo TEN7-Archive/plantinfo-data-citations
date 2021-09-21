@@ -1,0 +1,143 @@
+{
+    "name": "Gloxinian, The. vol 39, no. 6. (1989)",
+    "machine_name": "gloxinian_the_vol_39_no_6_1989",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1989",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2111609",
+        "legacy_id": "3055",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Gloxinian, The. vol 39, no. 6. (1989) p cover",
+            "machine_name": "gloxinian_the_vol_39_no_6_1989_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "gesneria_cultivars_lemon_drop",
+                "type": "variety",
+                "archival_data": [
+                    "1476464"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1989",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1721880",
+                "legacy_id": "16592",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Gloxinian, The. vol 39, no. 6. (1989) p 21",
+            "machine_name": "gloxinian_the_vol_39_no_6_1989_p_21",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "gesneria_christii",
+                "type": "species",
+                "archival_data": [
+                    "1411588"
+                ]
+            },
+            "volume": null,
+            "page": "p 21",
+            "year": "1989",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1797527",
+                "legacy_id": "99288",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Gloxinian, The. vol 39, no. 6. (1989) p 16",
+            "machine_name": "gloxinian_the_vol_39_no_6_1989_p_16",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "sinningia_sellovii",
+                "type": "species",
+                "archival_data": [
+                    "1429995"
+                ]
+            },
+            "volume": null,
+            "page": "p 16",
+            "year": "1989",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1828061",
+                "legacy_id": "133802",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        }
+    ]
+}

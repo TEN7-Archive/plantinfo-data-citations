@@ -1,0 +1,143 @@
+{
+    "name": "Natural History. vol 110, no. 4. (2001)",
+    "machine_name": "natural_history_vol_110_no_4_2001",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2001",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2116934",
+        "legacy_id": "22872",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Natural History. vol 110, no. 4. (2001) p 37",
+            "machine_name": "natural_history_vol_110_no_4_2001_p_37",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "callicarpa_americana",
+                "type": "species",
+                "archival_data": [
+                    "1399288"
+                ]
+            },
+            "volume": null,
+            "page": "p 37",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1880859",
+                "legacy_id": "208911",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Natural History. vol 110, no. 4. (2001) p 37",
+            "machine_name": "natural_history_vol_110_no_4_2001_p_37",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "arisaema_triphyllum",
+                "type": "species",
+                "archival_data": [
+                    "1401847"
+                ]
+            },
+            "volume": null,
+            "page": "p 37",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1880860",
+                "legacy_id": "208912",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Natural History. vol 110, no. 4. (2001) p 34;36",
+            "machine_name": "natural_history_vol_110_no_4_2001_p_34_36",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "taxodium_distichum",
+                "type": "species",
+                "archival_data": [
+                    "1429331"
+                ]
+            },
+            "volume": null,
+            "page": "p 34;36",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1880861",
+                "legacy_id": "208913",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "name": "Trends in Plant Science. vol 7, no. 2. (2002)",
+    "machine_name": "trends_in_plant_science_vol_7_no_2_2002",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2002",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2117553",
+        "legacy_id": "41749",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Trends in Plant Science. vol 7, no. 2. (2002) p 59",
+            "machine_name": "trends_in_plant_science_vol_7_no_2_2002_p_59",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "eichhornia_crassipes",
+                "type": "species",
+                "archival_data": [
+                    "1413149"
+                ]
+            },
+            "volume": null,
+            "page": "p 59",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1891868",
+                "legacy_id": "240190",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Trends in Plant Science. vol 7, no. 2. (2002) p 65, Pl. 1(a).",
+            "machine_name": "trends_in_plant_science_vol_7_no_2_2002_p_65_pl_1_a",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "arabidopsis_thaliana",
+                "type": "species",
+                "archival_data": [
+                    "1400989"
+                ]
+            },
+            "volume": null,
+            "page": "p 65, Pl. 1(a).",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1891869",
+                "legacy_id": "240191",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        }
+    ]
+}

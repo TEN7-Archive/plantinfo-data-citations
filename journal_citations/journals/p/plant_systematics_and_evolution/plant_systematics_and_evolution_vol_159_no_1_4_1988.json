@@ -1,0 +1,143 @@
+{
+    "name": "Plant Systematics and Evolution. vol 159, no. 1-4. (1988)",
+    "machine_name": "plant_systematics_and_evolution_vol_159_no_1_4_1988",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1988",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113586",
+        "legacy_id": "5204",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Plant Systematics and Evolution. vol 159, no. 1-4. (1988) p 50, Pl. 1b-e",
+            "machine_name": "plant_systematics_and_evolution_vol_159_no_1_4_1988_p_50_pl_1b_e",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ancana_stenopetala",
+                "type": "species",
+                "archival_data": [
+                    "1398689"
+                ]
+            },
+            "volume": null,
+            "page": "p 50, Pl. 1b-e",
+            "year": "1988",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1768598",
+                "legacy_id": "71347",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Plant Systematics and Evolution. vol 159, no. 1-4. (1988) p 51, Pl. 2a|d",
+            "machine_name": "plant_systematics_and_evolution_vol_159_no_1_4_1988_p_51_pl_2a_d",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "goniothalamus_australis",
+                "type": "species",
+                "archival_data": [
+                    "1413054"
+                ]
+            },
+            "volume": null,
+            "page": "p 51, Pl. 2a|d",
+            "year": "1988",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1794721",
+                "legacy_id": "99903",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Plant Systematics and Evolution. vol 159, no. 1-4. (1988) p 50, Pl. 1a",
+            "machine_name": "plant_systematics_and_evolution_vol_159_no_1_4_1988_p_50_pl_1a",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "polyalthia_purpurea",
+                "type": "species",
+                "archival_data": [
+                    "1421963"
+                ]
+            },
+            "volume": null,
+            "page": "p 50, Pl. 1a",
+            "year": "1988",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1817313",
+                "legacy_id": "123105",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "name": "Landscape Architecture. vol 103, no. 5. (2013)",
+    "machine_name": "landscape_architecture_vol_103_no_5_2013",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2013",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2124050",
+        "legacy_id": "122509",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Landscape Architecture. vol 103, no. 5. (2013) p 4 (Adv.)",
+            "machine_name": "landscape_architecture_vol_103_no_5_2013_p_4_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hydrangea_arborescens_incrediball_series",
+                "type": "variety",
+                "archival_data": [
+                    "1620169"
+                ]
+            },
+            "volume": null,
+            "page": "p 4 (Adv.)",
+            "year": "2013",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2064559",
+                "legacy_id": "463752",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Landscape Architecture. vol 103, no. 5. (2013) p 38",
+            "machine_name": "landscape_architecture_vol_103_no_5_2013_p_38",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "acer_saccharum",
+                "type": "species",
+                "archival_data": [
+                    "1403193"
+                ]
+            },
+            "volume": null,
+            "page": "p 38",
+            "year": "2013",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2064560",
+                "legacy_id": "463753",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Landscape Architecture. vol 103, no. 5. (2013) p 38",
+            "machine_name": "landscape_architecture_vol_103_no_5_2013_p_38",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "acer_pensylvanicum",
+                "type": "species",
+                "archival_data": [
+                    "1403181"
+                ]
+            },
+            "volume": null,
+            "page": "p 38",
+            "year": "2013",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2064561",
+                "legacy_id": "463754",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        }
+    ]
+}

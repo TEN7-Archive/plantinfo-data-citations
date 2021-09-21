@@ -1,0 +1,143 @@
+{
+    "name": "Horticulture Week. April 9, 2010.",
+    "machine_name": "horticulture_week_april_9_2010",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1694533",
+        "legacy_id": "109109",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Horticulture Week. April 9, 2010. p 16, Pl. 1",
+            "machine_name": "horticulture_week_april_9_2010_p_16_pl_1",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "adiantum_capillus_veneris",
+                "type": "species",
+                "archival_data": [
+                    "1440752"
+                ]
+            },
+            "volume": null,
+            "page": "p 16, Pl. 1",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2071173",
+                "legacy_id": "414532",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Horticulture Week. April 9, 2010. p 17, Pl. 2",
+            "machine_name": "horticulture_week_april_9_2010_p_17_pl_2",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "nephrolepis_exaltata_bostoniensis",
+                "type": "variety",
+                "archival_data": [
+                    "1564585"
+                ]
+            },
+            "volume": null,
+            "page": "p 17, Pl. 2",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2071174",
+                "legacy_id": "414533",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Horticulture Week. April 9, 2010. p 20",
+            "machine_name": "horticulture_week_april_9_2010_p_20",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ulmus_glabra_horizontalis",
+                "type": "variety",
+                "archival_data": [
+                    "1553995"
+                ]
+            },
+            "volume": null,
+            "page": "p 20",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2071175",
+                "legacy_id": "414534",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        }
+    ]
+}

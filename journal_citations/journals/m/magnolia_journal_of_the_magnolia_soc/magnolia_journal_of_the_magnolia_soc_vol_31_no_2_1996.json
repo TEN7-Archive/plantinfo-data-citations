@@ -1,0 +1,184 @@
+{
+    "name": "Magnolia, Journal of the Magnolia Soc. vol 31, no. 2. (1996)",
+    "machine_name": "magnolia_journal_of_the_magnolia_soc_vol_31_no_2_1996",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1996",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2112298",
+        "legacy_id": "4376",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Magnolia, Journal of the Magnolia Soc. vol 31, no. 2. (1996) p 21",
+            "machine_name": "magnolia_journal_of_the_magnolia_soc_vol_31_no_2_1996_p_21",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "magnolia_cultivars_daybreak",
+                "type": "variety",
+                "archival_data": [
+                    "1477279"
+                ]
+            },
+            "volume": null,
+            "page": "p 21",
+            "year": "1996",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1735769",
+                "legacy_id": "30471",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Magnolia, Journal of the Magnolia Soc. vol 31, no. 2. (1996) p cover",
+            "machine_name": "magnolia_journal_of_the_magnolia_soc_vol_31_no_2_1996_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "magnolia_cultivars_leda",
+                "type": "variety",
+                "archival_data": [
+                    "1477288"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1996",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1735800",
+                "legacy_id": "30502",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Magnolia, Journal of the Magnolia Soc. vol 31, no. 2. (1996) p 9",
+            "machine_name": "magnolia_journal_of_the_magnolia_soc_vol_31_no_2_1996_p_9",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "magnolia_insignis",
+                "type": "species",
+                "archival_data": [
+                    "1421184"
+                ]
+            },
+            "volume": null,
+            "page": "p 9",
+            "year": "1996",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1805574",
+                "legacy_id": "112061",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Magnolia, Journal of the Magnolia Soc. vol 31, no. 2. (1996) p 9",
+            "machine_name": "magnolia_journal_of_the_magnolia_soc_vol_31_no_2_1996_p_9",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "magnolia_yunnanensis",
+                "type": "species",
+                "archival_data": [
+                    "1454619"
+                ]
+            },
+            "volume": null,
+            "page": "p 9",
+            "year": "1996",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1805928",
+                "legacy_id": "113416",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        }
+    ]
+}

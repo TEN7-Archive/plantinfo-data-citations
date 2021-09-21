@@ -1,0 +1,348 @@
+{
+    "name": "Arnoldia. vol 73, no. 2. (2015)",
+    "machine_name": "arnoldia_vol_73_no_2_2015",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2015",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2124486",
+        "legacy_id": "131210",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Arnoldia. vol 73, no. 2. (2015) p cover",
+            "machine_name": "arnoldia_vol_73_no_2_2015_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "malus_c_cultivars_prairifire",
+                "type": "variety",
+                "archival_data": [
+                    "1485310"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "2015",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2088425",
+                "legacy_id": "509883",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483209571"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 73, no. 2. (2015) p inside cover",
+            "machine_name": "arnoldia_vol_73_no_2_2015_p_inside_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "protea_cynaroides",
+                "type": "species",
+                "archival_data": [
+                    "1424980"
+                ]
+            },
+            "volume": null,
+            "page": "p inside cover",
+            "year": "2015",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2088426",
+                "legacy_id": "509884",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483209571"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 73, no. 2. (2015) p 27",
+            "machine_name": "arnoldia_vol_73_no_2_2015_p_27",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "strelitzia_reginae_juncea",
+                "type": "variety",
+                "archival_data": [
+                    "1495055"
+                ]
+            },
+            "volume": null,
+            "page": "p 27",
+            "year": "2015",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2088427",
+                "legacy_id": "509885",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483209571"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 73, no. 2. (2015) p inside backcover",
+            "machine_name": "arnoldia_vol_73_no_2_2015_p_inside_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "nyssa_sinensis",
+                "type": "species",
+                "archival_data": [
+                    "1425435"
+                ]
+            },
+            "volume": null,
+            "page": "p inside backcover",
+            "year": "2015",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2088428",
+                "legacy_id": "509886",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483209571"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 73, no. 2. (2015) p backcover",
+            "machine_name": "arnoldia_vol_73_no_2_2015_p_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cyathea_brownii",
+                "type": "species",
+                "archival_data": [
+                    "1449643"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover",
+            "year": "2015",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2088429",
+                "legacy_id": "509907",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483209571"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 73, no. 2. (2015) p 27",
+            "machine_name": "arnoldia_vol_73_no_2_2015_p_27",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "victoria_cruziana",
+                "type": "species",
+                "archival_data": [
+                    "1436482"
+                ]
+            },
+            "volume": null,
+            "page": "p 27",
+            "year": "2015",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2091296",
+                "legacy_id": "509903",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483209571"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 73, no. 2. (2015) p 27",
+            "machine_name": "arnoldia_vol_73_no_2_2015_p_27",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "drosanthemum_bicolor",
+                "type": "species",
+                "archival_data": [
+                    "1404714"
+                ]
+            },
+            "volume": null,
+            "page": "p 27",
+            "year": "2015",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2091297",
+                "legacy_id": "509904",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483209571"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 73, no. 2. (2015) p 32",
+            "machine_name": "arnoldia_vol_73_no_2_2015_p_32",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "adansonia_digitata",
+                "type": "species",
+                "archival_data": [
+                    "1398931"
+                ]
+            },
+            "volume": null,
+            "page": "p 32",
+            "year": "2015",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2091298",
+                "legacy_id": "509905",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483209571"
+            }
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "name": "Australian Horticulture. vol 95, no. 7. (2000)",
+    "machine_name": "australian_horticulture_vol_95_no_7_2000",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2000",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2116479",
+        "legacy_id": "15511",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Australian Horticulture. vol 95, no. 7. (2000) p 71",
+            "machine_name": "australian_horticulture_vol_95_no_7_2000_p_71",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "osteospermum_cultivars_african_queen_series",
+                "type": "variety",
+                "archival_data": [
+                    "1556604"
+                ]
+            },
+            "volume": null,
+            "page": "p 71",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1871978",
+                "legacy_id": "198712",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        }
+    ]
+}

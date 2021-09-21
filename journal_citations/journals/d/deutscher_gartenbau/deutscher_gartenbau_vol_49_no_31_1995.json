@@ -1,0 +1,102 @@
+{
+    "name": "Deutscher Gartenbau. vol 49, no. 31. (1995)",
+    "machine_name": "deutscher_gartenbau_vol_49_no_31_1995",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1995",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2112050",
+        "legacy_id": "2397",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Deutscher Gartenbau. vol 49, no. 31. (1995) p 1857",
+            "machine_name": "deutscher_gartenbau_vol_49_no_31_1995_p_1857",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lilium_cultivars_spirit",
+                "type": "variety",
+                "archival_data": [
+                    "1479036"
+                ]
+            },
+            "volume": null,
+            "page": "p 1857",
+            "year": "1995",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1731684",
+                "legacy_id": "28161",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Deutscher Gartenbau. vol 49, no. 31. (1995) p 1857",
+            "machine_name": "deutscher_gartenbau_vol_49_no_31_1995_p_1857",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "petunia_cultivars_cascadias_series",
+                "type": "variety",
+                "archival_data": [
+                    "1481493"
+                ]
+            },
+            "volume": null,
+            "page": "p 1857",
+            "year": "1995",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1742781",
+                "legacy_id": "37546",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483154438"
+            }
+        }
+    ]
+}

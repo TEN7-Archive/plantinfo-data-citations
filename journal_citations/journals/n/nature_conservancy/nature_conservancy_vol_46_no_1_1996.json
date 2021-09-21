@@ -1,0 +1,102 @@
+{
+    "name": "Nature Conservancy. vol 46, no. 1. (1996)",
+    "machine_name": "nature_conservancy_vol_46_no_1_1996",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1996",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113748",
+        "legacy_id": "4748",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Nature Conservancy. vol 46, no. 1. (1996) p 31",
+            "machine_name": "nature_conservancy_vol_46_no_1_1996_p_31",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "brighamia_insignis",
+                "type": "species",
+                "archival_data": [
+                    "1403461"
+                ]
+            },
+            "volume": null,
+            "page": "p 31",
+            "year": "1996",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1774531",
+                "legacy_id": "76955",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Nature Conservancy. vol 46, no. 1. (1996) p 30",
+            "machine_name": "nature_conservancy_vol_46_no_1_1996_p_30",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "metrosideros_polymorpha",
+                "type": "species",
+                "archival_data": [
+                    "1420077"
+                ]
+            },
+            "volume": null,
+            "page": "p 30",
+            "year": "1996",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1805627",
+                "legacy_id": "113362",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        }
+    ]
+}

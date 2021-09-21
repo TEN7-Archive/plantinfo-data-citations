@@ -1,0 +1,102 @@
+{
+    "name": "Natural History. vol 94, no. 3. (1985)",
+    "machine_name": "natural_history_vol_94_no_3_1985",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1985",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113687",
+        "legacy_id": "4679",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Natural History. vol 94, no. 3. (1985) p 36| 39-41",
+            "machine_name": "natural_history_vol_94_no_3_1985_p_36_39_41",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "artocarpus_altilis",
+                "type": "species",
+                "archival_data": [
+                    "1402607"
+                ]
+            },
+            "volume": null,
+            "page": "p 36| 39-41",
+            "year": "1985",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1772121",
+                "legacy_id": "73700",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Natural History. vol 94, no. 3. (1985) p 84",
+            "machine_name": "natural_history_vol_94_no_3_1985_p_84",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "oenothera_macrocarpa",
+                "type": "species",
+                "archival_data": [
+                    "1426179"
+                ]
+            },
+            "volume": null,
+            "page": "p 84",
+            "year": "1985",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1811370",
+                "legacy_id": "116247",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        }
+    ]
+}

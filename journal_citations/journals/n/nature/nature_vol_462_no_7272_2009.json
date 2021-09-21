@@ -1,0 +1,61 @@
+{
+    "name": "Nature. vol 462, no. 7272. (2009)",
+    "machine_name": "nature_vol_462_no_7272_2009",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2009",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2121907",
+        "legacy_id": "106909",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Nature. vol 462, no. 7272. (2009) p 447, Pl. 4",
+            "machine_name": "nature_vol_462_no_7272_2009_p_447_pl_4",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "dionaea_muscipula",
+                "type": "species",
+                "archival_data": [
+                    "1408837"
+                ]
+            },
+            "volume": null,
+            "page": "p 447, Pl. 4",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1998412",
+                "legacy_id": "406112",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "name": "Native Plants. vol 17, no. 3 & 4. (2000)",
+    "machine_name": "native_plants_vol_17_no_3_4_2000",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2000",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2116571",
+        "legacy_id": "17051",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Native Plants. vol 17, no. 3 & 4. (2000) p 18",
+            "machine_name": "native_plants_vol_17_no_3_4_2000_p_18",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "silphium_laciniatum",
+                "type": "species",
+                "archival_data": [
+                    "1429971"
+                ]
+            },
+            "volume": null,
+            "page": "p 18",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1873867",
+                "legacy_id": "199459",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        }
+    ]
+}

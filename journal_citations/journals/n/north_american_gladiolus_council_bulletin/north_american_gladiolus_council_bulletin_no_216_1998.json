@@ -1,0 +1,102 @@
+{
+    "name": "North American Gladiolus Council Bulletin. no. 216. (1998)",
+    "machine_name": "north_american_gladiolus_council_bulletin_no_216_1998",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1998",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2115306",
+        "legacy_id": "6844",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "North American Gladiolus Council Bulletin. no. 216. (1998) p cover",
+            "machine_name": "north_american_gladiolus_council_bulletin_no_216_1998_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "gladiolus_cultivars_great_lakes",
+                "type": "variety",
+                "archival_data": [
+                    "1537456"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1848767",
+                "legacy_id": "153638",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "North American Gladiolus Council Bulletin. no. 216. (1998) p cover",
+            "machine_name": "north_american_gladiolus_council_bulletin_no_216_1998_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "gladiolus_cultivars_holiday",
+                "type": "variety",
+                "archival_data": [
+                    "1537457"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1848768",
+                "legacy_id": "153639",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "name": "Nursery Retailer. vol 44, no. 5. (1999)",
+    "machine_name": "nursery_retailer_vol_44_no_5_1999",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1999",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2115993",
+        "legacy_id": "7859",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Nursery Retailer. vol 44, no. 5. (1999) p 3 (Adv.)",
+            "machine_name": "nursery_retailer_vol_44_no_5_1999_p_3_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_flower_carpet_series",
+                "type": "variety",
+                "archival_data": [
+                    "1487746"
+                ]
+            },
+            "volume": null,
+            "page": "p 3 (Adv.)",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1861058",
+                "legacy_id": "165596",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Nursery Retailer. vol 44, no. 5. (1999) p 10-11 (Adv.)",
+            "machine_name": "nursery_retailer_vol_44_no_5_1999_p_10_11_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_dream_series",
+                "type": "variety",
+                "archival_data": [
+                    "1545238"
+                ]
+            },
+            "volume": null,
+            "page": "p 10-11 (Adv.)",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1861059",
+                "legacy_id": "165598",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        }
+    ]
+}

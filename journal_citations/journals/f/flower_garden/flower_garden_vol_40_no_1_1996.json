@@ -1,0 +1,676 @@
+{
+    "name": "Flower & Garden. vol 40, no. 1. (1996)",
+    "machine_name": "flower_garden_vol_40_no_1_1996",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1996",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2111601",
+        "legacy_id": "2655",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Flower & Garden. vol 40, no. 1. (1996) p 52",
+            "machine_name": "flower_garden_vol_40_no_1_1996_p_52",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "foeniculum_vulgare_dulce",
+                "type": "variety",
+                "archival_data": [
+                    "1473693"
+                ]
+            },
+            "volume": null,
+            "page": "p 52",
+            "year": "1996",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1721800",
+                "legacy_id": "15275",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Flower & Garden. vol 40, no. 1. (1996) p 36",
+            "machine_name": "flower_garden_vol_40_no_1_1996_p_36",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pyrus_calleryana_aristocrat",
+                "type": "variety",
+                "archival_data": [
+                    "1490806"
+                ]
+            },
+            "volume": null,
+            "page": "p 36",
+            "year": "1996",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1747049",
+                "legacy_id": "41315",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483154438"
+            }
+        },
+        {
+            "name": "Flower & Garden. vol 40, no. 1. (1996) p 39",
+            "machine_name": "flower_garden_vol_40_no_1_1996_p_39",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pyrus_calleryana_autumn_blaze",
+                "type": "variety",
+                "archival_data": [
+                    "1490807"
+                ]
+            },
+            "volume": null,
+            "page": "p 39",
+            "year": "1996",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1747311",
+                "legacy_id": "41330",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483154438"
+            }
+        },
+        {
+            "name": "Flower & Garden. vol 40, no. 1. (1996) p 37",
+            "machine_name": "flower_garden_vol_40_no_1_1996_p_37",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pyrus_calleryana_bradford",
+                "type": "variety",
+                "archival_data": [
+                    "1490808"
+                ]
+            },
+            "volume": null,
+            "page": "p 37",
+            "year": "1996",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1747315",
+                "legacy_id": "41334",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483154438"
+            }
+        },
+        {
+            "name": "Flower & Garden. vol 40, no. 1. (1996) p 39",
+            "machine_name": "flower_garden_vol_40_no_1_1996_p_39",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pyrus_calleryana_capital",
+                "type": "variety",
+                "archival_data": [
+                    "1490810"
+                ]
+            },
+            "volume": null,
+            "page": "p 39",
+            "year": "1996",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1747321",
+                "legacy_id": "41340",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483154438"
+            }
+        },
+        {
+            "name": "Flower & Garden. vol 40, no. 1. (1996) p 38",
+            "machine_name": "flower_garden_vol_40_no_1_1996_p_38",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pyrus_calleryana_chanticleer",
+                "type": "variety",
+                "archival_data": [
+                    "1490811"
+                ]
+            },
+            "volume": null,
+            "page": "p 38",
+            "year": "1996",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1747323",
+                "legacy_id": "41342",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483154438"
+            }
+        },
+        {
+            "name": "Flower & Garden. vol 40, no. 1. (1996) p 7 (Adv.)",
+            "machine_name": "flower_garden_vol_40_no_1_1996_p_7_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_livin_easy",
+                "type": "variety",
+                "archival_data": [
+                    "1491111"
+                ]
+            },
+            "volume": null,
+            "page": "p 7 (Adv.)",
+            "year": "1996",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1748885",
+                "legacy_id": "49670",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483154438"
+            }
+        },
+        {
+            "name": "Flower & Garden. vol 40, no. 1. (1996) p 75 (Adv.)",
+            "machine_name": "flower_garden_vol_40_no_1_1996_p_75_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_freedom",
+                "type": "variety",
+                "archival_data": [
+                    "1488008"
+                ]
+            },
+            "volume": null,
+            "page": "p 75 (Adv.)",
+            "year": "1996",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1751401",
+                "legacy_id": "47706",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483154438"
+            }
+        },
+        {
+            "name": "Flower & Garden. vol 40, no. 1. (1996) p 31",
+            "machine_name": "flower_garden_vol_40_no_1_1996_p_31",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "bambusa_oldhamii",
+                "type": "species",
+                "archival_data": [
+                    "1399521"
+                ]
+            },
+            "volume": null,
+            "page": "p 31",
+            "year": "1996",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1772148",
+                "legacy_id": "74995",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Flower & Garden. vol 40, no. 1. (1996) p 32",
+            "machine_name": "flower_garden_vol_40_no_1_1996_p_32",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "bambusa_tuldoides",
+                "type": "species",
+                "archival_data": [
+                    "1399522"
+                ]
+            },
+            "volume": null,
+            "page": "p 32",
+            "year": "1996",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1772150",
+                "legacy_id": "74997",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Flower & Garden. vol 40, no. 1. (1996) p 40",
+            "machine_name": "flower_garden_vol_40_no_1_1996_p_40",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ilex_decidua",
+                "type": "species",
+                "archival_data": [
+                    "1416132"
+                ]
+            },
+            "volume": null,
+            "page": "p 40",
+            "year": "1996",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1796618",
+                "legacy_id": "104278",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Flower & Garden. vol 40, no. 1. (1996) p 50",
+            "machine_name": "flower_garden_vol_40_no_1_1996_p_50",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "helichrysum_italicum",
+                "type": "species",
+                "archival_data": [
+                    "1411262"
+                ]
+            },
+            "volume": null,
+            "page": "p 50",
+            "year": "1996",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1796741",
+                "legacy_id": "101725",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Flower & Garden. vol 40, no. 1. (1996) p 48-49",
+            "machine_name": "flower_garden_vol_40_no_1_1996_p_48_49",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "marrubium_incanum",
+                "type": "species",
+                "archival_data": [
+                    "1417465"
+                ]
+            },
+            "volume": null,
+            "page": "p 48-49",
+            "year": "1996",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1805867",
+                "legacy_id": "112108",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Flower & Garden. vol 40, no. 1. (1996) p 36-37",
+            "machine_name": "flower_garden_vol_40_no_1_1996_p_36_37",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pyrus_ussuriensis",
+                "type": "species",
+                "archival_data": [
+                    "1427256"
+                ]
+            },
+            "volume": null,
+            "page": "p 36-37",
+            "year": "1996",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1817117",
+                "legacy_id": "125814",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Flower & Garden. vol 40, no. 1. (1996) p 30-31",
+            "machine_name": "flower_garden_vol_40_no_1_1996_p_30_31",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "phyllostachys_edulis",
+                "type": "species",
+                "archival_data": [
+                    "1424139"
+                ]
+            },
+            "volume": null,
+            "page": "p 30-31",
+            "year": "1996",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1819786",
+                "legacy_id": "121139",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Flower & Garden. vol 40, no. 1. (1996) p 34",
+            "machine_name": "flower_garden_vol_40_no_1_1996_p_34",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "thamnocalamus_spathaceus",
+                "type": "species",
+                "archival_data": [
+                    "1430102"
+                ]
+            },
+            "volume": null,
+            "page": "p 34",
+            "year": "1996",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1835113",
+                "legacy_id": "137049",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        }
+    ]
+}

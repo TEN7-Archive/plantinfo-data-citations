@@ -1,0 +1,61 @@
+{
+    "name": "Nature. vol 450, no. 7167. (2007)",
+    "machine_name": "nature_vol_450_no_7167_2007",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2007",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2120293",
+        "legacy_id": "89089",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Nature. vol 450, no. 7167. (2007) p 169",
+            "machine_name": "nature_vol_450_no_7167_2007_p_169",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "castanea_dentata",
+                "type": "species",
+                "archival_data": [
+                    "1409281"
+                ]
+            },
+            "volume": null,
+            "page": "p 169",
+            "year": "2007",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1954259",
+                "legacy_id": "360572",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "name": "Botany (formerly: Canadian Journal of Botany). vol 90, no. 12. (2012)",
+    "machine_name": "botany_formerly_canadian_journal_of_botany_vol_90_no_12_2012",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2012",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2123660",
+        "legacy_id": "120836",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Botany (formerly: Canadian Journal of Botany). vol 90, no. 12. (2012) p 1309, Pl. 1",
+            "machine_name": "botany_formerly_canadian_journal_of_botany_vol_90_no_12_2012_p_1309_pl_1",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "helleborus_foetidus",
+                "type": "species",
+                "archival_data": [
+                    "1411684"
+                ]
+            },
+            "volume": null,
+            "page": "p 1309, Pl. 1",
+            "year": "2012",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2037655",
+                "legacy_id": "456973",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        }
+    ]
+}

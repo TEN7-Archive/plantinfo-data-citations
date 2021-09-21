@@ -1,0 +1,102 @@
+{
+    "name": "Fraterna. no. 2. (1996)",
+    "machine_name": "fraterna_no_2_1996",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1996",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114115",
+        "legacy_id": "2676",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Fraterna. no. 2. (1996) p cover",
+            "machine_name": "fraterna_no_2_1996_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hoya_diversifolia",
+                "type": "species",
+                "archival_data": [
+                    "1420246"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1996",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1797817",
+                "legacy_id": "103341",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Fraterna. no. 2. (1996) p 11",
+            "machine_name": "fraterna_no_2_1996_p_11",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hoya_phyllura",
+                "type": "species",
+                "archival_data": [
+                    "1420593"
+                ]
+            },
+            "volume": null,
+            "page": "p 11",
+            "year": "1996",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1798410",
+                "legacy_id": "103443",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        }
+    ]
+}

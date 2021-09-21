@@ -1,0 +1,143 @@
+{
+    "name": "Plant Cell, The. vol 12, no. 12. (2000)",
+    "machine_name": "plant_cell_the_vol_12_no_12_2000",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2000",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2116626",
+        "legacy_id": "19690",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Plant Cell, The. vol 12, no. 12. (2000) p cover;2390.",
+            "machine_name": "plant_cell_the_vol_12_no_12_2000_p_cover_2390",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "nicotiana_tabacum",
+                "type": "species",
+                "archival_data": [
+                    "1417936"
+                ]
+            },
+            "volume": null,
+            "page": "p cover;2390.",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1874999",
+                "legacy_id": "203951",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Plant Cell, The. vol 12, no. 12. (2000) p cover;2353;2390;2447.",
+            "machine_name": "plant_cell_the_vol_12_no_12_2000_p_cover_2353_2390_2447",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "arabidopsis_thaliana",
+                "type": "species",
+                "archival_data": [
+                    "1400989"
+                ]
+            },
+            "volume": null,
+            "page": "p cover;2353;2390;2447.",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": true,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1875007",
+                "legacy_id": "203950",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Plant Cell, The. vol 12, no. 12. (2000) p 2312",
+            "machine_name": "plant_cell_the_vol_12_no_12_2000_p_2312",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "zea_mays_parviglumis",
+                "type": "variety",
+                "archival_data": [
+                    "1563677"
+                ]
+            },
+            "volume": null,
+            "page": "p 2312",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": true,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1875660",
+                "legacy_id": "204154",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        }
+    ]
+}

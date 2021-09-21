@@ -1,0 +1,61 @@
+{
+    "name": "Nature. vol 445, no. 7130. (2007)",
+    "machine_name": "nature_vol_445_no_7130_2007",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2007",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2120219",
+        "legacy_id": "85729",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Nature. vol 445, no. 7130. (2007) p 817",
+            "machine_name": "nature_vol_445_no_7130_2007_p_817",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ophrys_sphegodes",
+                "type": "species",
+                "archival_data": [
+                    "1427347"
+                ]
+            },
+            "volume": null,
+            "page": "p 817",
+            "year": "2007",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1952493",
+                "legacy_id": "351072",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        }
+    ]
+}

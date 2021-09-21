@@ -1,0 +1,143 @@
+{
+    "name": "Cactus and Succulent Journal. vol 66, no. 3. (1994)",
+    "machine_name": "cactus_and_succulent_journal_vol_66_no_3_1994",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1994",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113762",
+        "legacy_id": "1876",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Cactus and Succulent Journal. vol 66, no. 3. (1994) p 112, Pl. 1.",
+            "machine_name": "cactus_and_succulent_journal_vol_66_no_3_1994_p_112_pl_1",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ceropegia_filiformis",
+                "type": "species",
+                "archival_data": [
+                    "1405225"
+                ]
+            },
+            "volume": null,
+            "page": "p 112, Pl. 1.",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1775256",
+                "legacy_id": "81266",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 66, no. 3. (1994) p 124, Pl. 1.",
+            "machine_name": "cactus_and_succulent_journal_vol_66_no_3_1994_p_124_pl_1",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "echinocactus_grusonii",
+                "type": "species",
+                "archival_data": [
+                    "1405535"
+                ]
+            },
+            "volume": null,
+            "page": "p 124, Pl. 1.",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1785563",
+                "legacy_id": "91061",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 66, no. 3. (1994) p 123, Pl. 2.",
+            "machine_name": "cactus_and_succulent_journal_vol_66_no_3_1994_p_123_pl_2",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "moringa_drouhardii",
+                "type": "species",
+                "archival_data": [
+                    "1421655"
+                ]
+            },
+            "volume": null,
+            "page": "p 123, Pl. 2.",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1808891",
+                "legacy_id": "114193",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        }
+    ]
+}

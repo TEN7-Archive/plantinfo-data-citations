@@ -1,0 +1,61 @@
+{
+    "name": "Sunset. Dec\/Jan 2018-19.",
+    "machine_name": "sunset_dec_jan_2018_19",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": "7",
+    "description": null,
+    "archival_data": {
+        "id": "2517961",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1558785180"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Sunset. December 2018, January 2019. p 31",
+            "machine_name": "sunset_december_2018_january_2019_p_31",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "calendula_officinalis",
+                "type": "species",
+                "archival_data": [
+                    "1399265"
+                ]
+            },
+            "volume": null,
+            "page": "p 31",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2517966",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1558785375"
+            }
+        }
+    ]
+}

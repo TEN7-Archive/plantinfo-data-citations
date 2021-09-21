@@ -1,0 +1,61 @@
+{
+    "name": "Nature. vol 376, no. 6541. (1995)",
+    "machine_name": "nature_vol_376_no_6541_1995",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1995",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2118479",
+        "legacy_id": "53496",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Nature. vol 376, no. 6541. (1995) p vii",
+            "machine_name": "nature_vol_376_no_6541_1995_p_vii",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hesperoyucca_whipplei",
+                "type": "species",
+                "archival_data": [
+                    "1452050"
+                ]
+            },
+            "volume": null,
+            "page": "p vii",
+            "year": "1995",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1912087",
+                "legacy_id": "268430",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        }
+    ]
+}

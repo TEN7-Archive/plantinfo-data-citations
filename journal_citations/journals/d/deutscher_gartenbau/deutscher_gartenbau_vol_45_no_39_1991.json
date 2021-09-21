@@ -1,0 +1,61 @@
+{
+    "name": "Deutscher Gartenbau. vol 45, no. 39. (1991)",
+    "machine_name": "deutscher_gartenbau_vol_45_no_39_1991",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1991",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114519",
+        "legacy_id": "2257",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Deutscher Gartenbau. vol 45, no. 39. (1991) p 2417",
+            "machine_name": "deutscher_gartenbau_vol_45_no_39_1991_p_2417",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ruellia_macrantha",
+                "type": "species",
+                "archival_data": [
+                    "1428710"
+                ]
+            },
+            "volume": null,
+            "page": "p 2417",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1823897",
+                "legacy_id": "130033",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "name": "Smithsonian. vol 38, no. 2. (2007)",
+    "machine_name": "smithsonian_vol_38_no_2_2007",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2007",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2121065",
+        "legacy_id": "83252",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Smithsonian. vol 38, no. 2. (2007) p 91",
+            "machine_name": "smithsonian_vol_38_no_2_2007_p_91",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "dissotis_princeps",
+                "type": "species",
+                "archival_data": [
+                    "1409645"
+                ]
+            },
+            "volume": null,
+            "page": "p 91",
+            "year": "2007",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1974858",
+                "legacy_id": "344065",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        }
+    ]
+}

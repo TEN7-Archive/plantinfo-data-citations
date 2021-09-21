@@ -1,0 +1,61 @@
+{
+    "name": "Lilacs. vol 41, no. 3. (2012)",
+    "machine_name": "lilacs_vol_41_no_3_2012",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2012",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2124070",
+        "legacy_id": "119289",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Lilacs. vol 41, no. 3. (2012) p 106",
+            "machine_name": "lilacs_vol_41_no_3_2012_p_106",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "syringa_vulgaris_rochester",
+                "type": "variety",
+                "archival_data": [
+                    "1495644"
+                ]
+            },
+            "volume": null,
+            "page": "p 106",
+            "year": "2012",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2066747",
+                "legacy_id": "452392",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        }
+    ]
+}

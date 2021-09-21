@@ -1,0 +1,102 @@
+{
+    "name": "American Conifer Society, Bulletin. vol 13, no. 2. (1996)",
+    "machine_name": "american_conifer_society_bulletin_vol_13_no_2_1996",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1996",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2112013",
+        "legacy_id": "161",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "American Conifer Society, Bulletin. vol 13, no. 2. (1996) p inside cover",
+            "machine_name": "american_conifer_society_bulletin_vol_13_no_2_1996_p_inside_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "juniperus_scopulorum_moonglow",
+                "type": "variety",
+                "archival_data": [
+                    "1479862"
+                ]
+            },
+            "volume": null,
+            "page": "p inside cover",
+            "year": "1996",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1730299",
+                "legacy_id": "26511",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "American Conifer Society, Bulletin. vol 13, no. 2. (1996) p cover|backcover",
+            "machine_name": "american_conifer_society_bulletin_vol_13_no_2_1996_p_cover_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "larix_lyallii",
+                "type": "species",
+                "archival_data": [
+                    "1421034"
+                ]
+            },
+            "volume": null,
+            "page": "p cover|backcover",
+            "year": "1996",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1803206",
+                "legacy_id": "107382",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        }
+    ]
+}

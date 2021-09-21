@@ -1,0 +1,61 @@
+{
+    "name": "American Rose Magazine, The. vol 28, no. 10 (1985)",
+    "machine_name": "american_rose_magazine_the_vol_28_no_10_1985",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1985",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113088",
+        "legacy_id": "897",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "American Rose Magazine, The. vol 28, no. 10 (1985) p 25",
+            "machine_name": "american_rose_magazine_the_vol_28_no_10_1985_p_25",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_summer_damask",
+                "type": "variety",
+                "archival_data": [
+                    "1491470"
+                ]
+            },
+            "volume": null,
+            "page": "p 25",
+            "year": "1985",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1758000",
+                "legacy_id": "53394",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483154438"
+            }
+        }
+    ]
+}

@@ -1,0 +1,635 @@
+{
+    "name": "Australian Plants. vol 12, no. 93. (1982)",
+    "machine_name": "australian_plants_vol_12_no_93_1982",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1982",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2111278",
+        "legacy_id": "1331",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Australian Plants. vol 12, no. 93. (1982) p 13",
+            "machine_name": "australian_plants_vol_12_no_93_1982_p_13",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "eremophila_maculata_aurea",
+                "type": "variety",
+                "archival_data": [
+                    "1475206"
+                ]
+            },
+            "volume": null,
+            "page": "p 13",
+            "year": "1982",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1716462",
+                "legacy_id": "13894",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 12, no. 93. (1982) p 12-13",
+            "machine_name": "australian_plants_vol_12_no_93_1982_p_12_13",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "eremophila_maculata_brevifolia",
+                "type": "variety",
+                "archival_data": [
+                    "1475207"
+                ]
+            },
+            "volume": null,
+            "page": "p 12-13",
+            "year": "1982",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1716463",
+                "legacy_id": "13895",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 12, no. 93. (1982) p backcover",
+            "machine_name": "australian_plants_vol_12_no_93_1982_p_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "eremophila_calorhabdos",
+                "type": "species",
+                "archival_data": [
+                    "1415423"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover",
+            "year": "1982",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1786508",
+                "legacy_id": "92544",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 12, no. 93. (1982) p 32",
+            "machine_name": "australian_plants_vol_12_no_93_1982_p_32",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "eremophila_chamaephila",
+                "type": "species",
+                "archival_data": [
+                    "1415424"
+                ]
+            },
+            "volume": null,
+            "page": "p 32",
+            "year": "1982",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1786509",
+                "legacy_id": "92545",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 12, no. 93. (1982) p 37",
+            "machine_name": "australian_plants_vol_12_no_93_1982_p_37",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "eremophila_compacta",
+                "type": "species",
+                "archival_data": [
+                    "1415426"
+                ]
+            },
+            "volume": null,
+            "page": "p 37",
+            "year": "1982",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1786511",
+                "legacy_id": "92547",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 12, no. 93. (1982) p 29",
+            "machine_name": "australian_plants_vol_12_no_93_1982_p_29",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "eremophila_cuneifolia",
+                "type": "species",
+                "archival_data": [
+                    "1415428"
+                ]
+            },
+            "volume": null,
+            "page": "p 29",
+            "year": "1982",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1786513",
+                "legacy_id": "92549",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 12, no. 93. (1982) p 33",
+            "machine_name": "australian_plants_vol_12_no_93_1982_p_33",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "eremophila_denticulata",
+                "type": "species",
+                "archival_data": [
+                    "1415430"
+                ]
+            },
+            "volume": null,
+            "page": "p 33",
+            "year": "1982",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1786515",
+                "legacy_id": "92551",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 12, no. 93. (1982) p 8-9",
+            "machine_name": "australian_plants_vol_12_no_93_1982_p_8_9",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "eremophila_glabra",
+                "type": "species",
+                "archival_data": [
+                    "1415440"
+                ]
+            },
+            "volume": null,
+            "page": "p 8-9",
+            "year": "1982",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1786525",
+                "legacy_id": "92561",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 12, no. 93. (1982) p 13",
+            "machine_name": "australian_plants_vol_12_no_93_1982_p_13",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "eremophila_glabra",
+                "type": "species",
+                "archival_data": [
+                    "1415440"
+                ]
+            },
+            "volume": null,
+            "page": "p 13",
+            "year": "1982",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1786526",
+                "legacy_id": "92562",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 12, no. 93. (1982) p 4",
+            "machine_name": "australian_plants_vol_12_no_93_1982_p_4",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "eremophila_hillii",
+                "type": "species",
+                "archival_data": [
+                    "1415443"
+                ]
+            },
+            "volume": null,
+            "page": "p 4",
+            "year": "1982",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1786531",
+                "legacy_id": "92567",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 12, no. 93. (1982) p 29",
+            "machine_name": "australian_plants_vol_12_no_93_1982_p_29",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "eremophila_inflata",
+                "type": "species",
+                "archival_data": [
+                    "1415444"
+                ]
+            },
+            "volume": null,
+            "page": "p 29",
+            "year": "1982",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1786532",
+                "legacy_id": "92568",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 12, no. 93. (1982) p 13",
+            "machine_name": "australian_plants_vol_12_no_93_1982_p_13",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "eremophila_maculata",
+                "type": "species",
+                "archival_data": [
+                    "1415452"
+                ]
+            },
+            "volume": null,
+            "page": "p 13",
+            "year": "1982",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1786546",
+                "legacy_id": "92582",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 12, no. 93. (1982) p 32",
+            "machine_name": "australian_plants_vol_12_no_93_1982_p_32",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "eremophila_platycalyx",
+                "type": "species",
+                "archival_data": [
+                    "1415460"
+                ]
+            },
+            "volume": null,
+            "page": "p 32",
+            "year": "1982",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1786558",
+                "legacy_id": "92594",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 12, no. 93. (1982) p 36",
+            "machine_name": "australian_plants_vol_12_no_93_1982_p_36",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "eremophila_sargentii",
+                "type": "species",
+                "archival_data": [
+                    "1415464"
+                ]
+            },
+            "volume": null,
+            "page": "p 36",
+            "year": "1982",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1786562",
+                "legacy_id": "92598",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 12, no. 93. (1982) p 16",
+            "machine_name": "australian_plants_vol_12_no_93_1982_p_16",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "eremophila_youngii",
+                "type": "species",
+                "archival_data": [
+                    "1415469"
+                ]
+            },
+            "volume": null,
+            "page": "p 16",
+            "year": "1982",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1786567",
+                "legacy_id": "92603",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        }
+    ]
+}

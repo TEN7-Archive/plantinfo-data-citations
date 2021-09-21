@@ -1,0 +1,61 @@
+{
+    "name": "Grower. February 3, 2005.",
+    "machine_name": "grower_february_3_2005",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1687118",
+        "legacy_id": "63530",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grower. February 3, 2005. p 6",
+            "machine_name": "grower_february_3_2005_p_6",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "begonia_cultivars_dragon_wing_series",
+                "type": "variety",
+                "archival_data": [
+                    "1532197"
+                ]
+            },
+            "volume": null,
+            "page": "p 6",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1960881",
+                "legacy_id": "294764",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        }
+    ]
+}

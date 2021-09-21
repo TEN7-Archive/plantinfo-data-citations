@@ -1,0 +1,102 @@
+{
+    "name": "American Rose Magazine, The. vol 26, no. 18 (1982)",
+    "machine_name": "american_rose_magazine_the_vol_26_no_18_1982",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1982",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113089",
+        "legacy_id": "867",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "American Rose Magazine, The. vol 26, no. 18 (1982) p 4",
+            "machine_name": "american_rose_magazine_the_vol_26_no_18_1982_p_4",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_sun_flare",
+                "type": "variety",
+                "archival_data": [
+                    "1491487"
+                ]
+            },
+            "volume": null,
+            "page": "p 4",
+            "year": "1982",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1758027",
+                "legacy_id": "53421",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483154438"
+            }
+        },
+        {
+            "name": "American Rose Magazine, The. vol 26, no. 18 (1982) p 1| 5| 8 (Adv.)",
+            "machine_name": "american_rose_magazine_the_vol_26_no_18_1982_p_1_5_8_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_sweet_surrender",
+                "type": "variety",
+                "archival_data": [
+                    "1555721"
+                ]
+            },
+            "volume": null,
+            "page": "p 1| 5| 8 (Adv.)",
+            "year": "1982",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1758681",
+                "legacy_id": "53589",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "name": "LAIFS: Los Angeles International Fern Society, Journal. vol 36, no. 5. (2009)",
+    "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_36_no_5_2009",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2009",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2123089",
+        "legacy_id": "107049",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "LAIFS: Los Angeles International Fern Society, Journal. vol 36, no. 5. (2009) p backcover",
+            "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_36_no_5_2009_p_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "platycerium_willinckii",
+                "type": "species",
+                "archival_data": [
+                    "1440067"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2019368",
+                "legacy_id": "406473",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "LAIFS: Los Angeles International Fern Society, Journal. vol 36, no. 5. (2009) p cover",
+            "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_36_no_5_2009_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "sphaeropteris_medullaris",
+                "type": "species",
+                "archival_data": [
+                    "1404766"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2071911",
+                "legacy_id": "406472",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        }
+    ]
+}

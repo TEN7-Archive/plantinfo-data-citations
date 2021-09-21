@@ -1,0 +1,61 @@
+{
+    "name": "Nature. vol 469, no. 7328. (2011)",
+    "machine_name": "nature_vol_469_no_7328_2011",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2011",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2123543",
+        "legacy_id": "112209",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Nature. vol 469, no. 7328. (2011) p 8",
+            "machine_name": "nature_vol_469_no_7328_2011_p_8",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pandanus_tectorius",
+                "type": "species",
+                "archival_data": [
+                    "1424388"
+                ]
+            },
+            "volume": null,
+            "page": "p 8",
+            "year": "2011",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2033119",
+                "legacy_id": "425452",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        }
+    ]
+}

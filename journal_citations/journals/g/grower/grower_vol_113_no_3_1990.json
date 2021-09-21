@@ -1,0 +1,102 @@
+{
+    "name": "Grower. vol 113, no. 3. (1990)",
+    "machine_name": "grower_vol_113_no_3_1990",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1990",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2108883",
+        "legacy_id": "3415",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grower. vol 113, no. 3. (1990) p 21 (Adv.)",
+            "machine_name": "grower_vol_113_no_3_1990_p_21_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "allium_cepa_goldito",
+                "type": "variety",
+                "archival_data": [
+                    "1466902"
+                ]
+            },
+            "volume": null,
+            "page": "p 21 (Adv.)",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": true,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1702644",
+                "legacy_id": "1186",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Grower. vol 113, no. 3. (1990) p 25",
+            "machine_name": "grower_vol_113_no_3_1990_p_25",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "malus_a_cultivars_dabinett",
+                "type": "variety",
+                "archival_data": [
+                    "1478149"
+                ]
+            },
+            "volume": null,
+            "page": "p 25",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1737441",
+                "legacy_id": "30905",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        }
+    ]
+}

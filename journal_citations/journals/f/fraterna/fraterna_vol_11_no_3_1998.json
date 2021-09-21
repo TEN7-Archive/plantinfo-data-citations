@@ -1,0 +1,143 @@
+{
+    "name": "Fraterna. vol 11, no. 3. (1998)",
+    "machine_name": "fraterna_vol_11_no_3_1998",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1998",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2115036",
+        "legacy_id": "6537",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Fraterna. vol 11, no. 3. (1998) p cover;13",
+            "machine_name": "fraterna_vol_11_no_3_1998_p_cover_13",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hoya_imperialis",
+                "type": "species",
+                "archival_data": [
+                    "1420553"
+                ]
+            },
+            "volume": null,
+            "page": "p cover;13",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1843800",
+                "legacy_id": "149822",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Fraterna. vol 11, no. 3. (1998) p 10",
+            "machine_name": "fraterna_vol_11_no_3_1998_p_10",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hoya_purpureo_fusca",
+                "type": "species",
+                "archival_data": [
+                    "1420603"
+                ]
+            },
+            "volume": null,
+            "page": "p 10",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1843801",
+                "legacy_id": "149823",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Fraterna. vol 11, no. 3. (1998) p 13",
+            "machine_name": "fraterna_vol_11_no_3_1998_p_13",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hoya_campanulata",
+                "type": "species",
+                "archival_data": [
+                    "1420228"
+                ]
+            },
+            "volume": null,
+            "page": "p 13",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1843802",
+                "legacy_id": "149824",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        }
+    ]
+}

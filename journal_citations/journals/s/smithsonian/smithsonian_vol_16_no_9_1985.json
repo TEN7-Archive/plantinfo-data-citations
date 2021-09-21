@@ -1,0 +1,61 @@
+{
+    "name": "Smithsonian. Vol 16, no. 9. (1985)",
+    "machine_name": "smithsonian_vol_16_no_9_1985",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1985",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2110670",
+        "legacy_id": "5540",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Smithsonian. Vol 16, no. 9. (1985) p 157",
+            "machine_name": "smithsonian_vol_16_no_9_1985_p_157",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "capsicum_h_cultivars_jalapeno",
+                "type": "variety",
+                "archival_data": [
+                    "1469761"
+                ]
+            },
+            "volume": null,
+            "page": "p 157",
+            "year": "1985",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1710651",
+                "legacy_id": "5753",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        }
+    ]
+}

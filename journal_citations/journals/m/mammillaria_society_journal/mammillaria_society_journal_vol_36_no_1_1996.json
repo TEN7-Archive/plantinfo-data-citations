@@ -1,0 +1,61 @@
+{
+    "name": "Mammillaria Society, Journal. vol 36, no. 1. (1996)",
+    "machine_name": "mammillaria_society_journal_vol_36_no_1_1996",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1996",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2112334",
+        "legacy_id": "4413",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Mammillaria Society, Journal. vol 36, no. 1. (1996) p 3",
+            "machine_name": "mammillaria_society_journal_vol_36_no_1_1996_p_3",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "mammillaria_goodridgei_rectispina",
+                "type": "variety",
+                "archival_data": [
+                    "1485363"
+                ]
+            },
+            "volume": null,
+            "page": "p 3",
+            "year": "1996",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1736242",
+                "legacy_id": "31948",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        }
+    ]
+}

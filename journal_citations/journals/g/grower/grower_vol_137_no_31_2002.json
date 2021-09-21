@@ -1,0 +1,471 @@
+{
+    "name": "Grower. vol 137, no. 31. (2002)",
+    "machine_name": "grower_vol_137_no_31_2002",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2002",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2117572",
+        "legacy_id": "41789",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grower. vol 137, no. 31. (2002) p cover",
+            "machine_name": "grower_vol_137_no_31_2002_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "brassica_oleracea_f_graffiti",
+                "type": "variety",
+                "archival_data": [
+                    "1599630"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1892137",
+                "legacy_id": "240243",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Grower. vol 137, no. 31. (2002) p 14",
+            "machine_name": "grower_vol_137_no_31_2002_p_14",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "elymus_magellanicus",
+                "type": "species",
+                "archival_data": [
+                    "1443377"
+                ]
+            },
+            "volume": null,
+            "page": "p 14",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1892138",
+                "legacy_id": "240244",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Grower. vol 137, no. 31. (2002) p 14-5",
+            "machine_name": "grower_vol_137_no_31_2002_p_14_5",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lonicera_japonica_mint_crisp",
+                "type": "variety",
+                "archival_data": [
+                    "1564910"
+                ]
+            },
+            "volume": null,
+            "page": "p 14-5",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1892139",
+                "legacy_id": "240245",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Grower. vol 137, no. 31. (2002) p 14",
+            "machine_name": "grower_vol_137_no_31_2002_p_14",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "chionochloa_flavescens",
+                "type": "species",
+                "archival_data": [
+                    "1449788"
+                ]
+            },
+            "volume": null,
+            "page": "p 14",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1892140",
+                "legacy_id": "240246",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Grower. vol 137, no. 31. (2002) p 17 (Adv.)",
+            "machine_name": "grower_vol_137_no_31_2002_p_17_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lactuca_cultivars_claremont",
+                "type": "variety",
+                "archival_data": [
+                    "1574223"
+                ]
+            },
+            "volume": null,
+            "page": "p 17 (Adv.)",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1892141",
+                "legacy_id": "240247",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Grower. vol 137, no. 31. (2002) p 17",
+            "machine_name": "grower_vol_137_no_31_2002_p_17",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lactuca_cultivars_benson",
+                "type": "variety",
+                "archival_data": [
+                    "1574224"
+                ]
+            },
+            "volume": null,
+            "page": "p 17",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1892142",
+                "legacy_id": "240248",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Grower. vol 137, no. 31. (2002) p 19",
+            "machine_name": "grower_vol_137_no_31_2002_p_19",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cucurbita_s_cultivars_endurance",
+                "type": "variety",
+                "archival_data": [
+                    "1574225"
+                ]
+            },
+            "volume": null,
+            "page": "p 19",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1892143",
+                "legacy_id": "240249",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Grower. vol 137, no. 31. (2002) p 19",
+            "machine_name": "grower_vol_137_no_31_2002_p_19",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "brassica_oleracea_f_cool",
+                "type": "variety",
+                "archival_data": [
+                    "1599393"
+                ]
+            },
+            "volume": null,
+            "page": "p 19",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1892144",
+                "legacy_id": "240250",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Grower. vol 137, no. 31. (2002) p 18",
+            "machine_name": "grower_vol_137_no_31_2002_p_18",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "brassica_oleracea_c_candisa",
+                "type": "variety",
+                "archival_data": [
+                    "1574226"
+                ]
+            },
+            "volume": null,
+            "page": "p 18",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1892145",
+                "legacy_id": "240251",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Grower. vol 137, no. 31. (2002) p 18",
+            "machine_name": "grower_vol_137_no_31_2002_p_18",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "brassica_oleracea_c_concept",
+                "type": "variety",
+                "archival_data": [
+                    "1574227"
+                ]
+            },
+            "volume": null,
+            "page": "p 18",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1892146",
+                "legacy_id": "240252",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Grower. vol 137, no. 31. (2002) p cover;19.",
+            "machine_name": "grower_vol_137_no_31_2002_p_cover_19",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "brassica_oleracea_f_ca_4706",
+                "type": "variety",
+                "archival_data": [
+                    "1599372"
+                ]
+            },
+            "volume": null,
+            "page": "p cover;19.",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1892147",
+                "legacy_id": "240253",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        }
+    ]
+}

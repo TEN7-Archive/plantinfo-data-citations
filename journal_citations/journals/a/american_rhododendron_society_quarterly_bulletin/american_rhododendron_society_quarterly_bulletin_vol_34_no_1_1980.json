@@ -1,0 +1,143 @@
+{
+    "name": "American Rhododendron Society, Quarterly Bulletin. vol 34, no. 1. (1980)",
+    "machine_name": "american_rhododendron_society_quarterly_bulletin_vol_34_no_1_1980",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1980",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": "7",
+    "description": null,
+    "archival_data": {
+        "id": "2553571",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1564306689"
+    },
+    "citation_reference_items": [
+        {
+            "name": "American Rhododendron Society, Quarterly Bulletin. vol 34, no. 1. (1980) p 34",
+            "machine_name": "american_rhododendron_society_quarterly_bulletin_vol_34_no_1_1980_p_34",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rhododendron_leucogigas",
+                "type": "species",
+                "archival_data": [
+                    "1431319"
+                ]
+            },
+            "volume": null,
+            "page": "p 34",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2553581",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1564307193"
+            }
+        },
+        {
+            "name": "American Rhododendron Society, Quarterly Bulletin. vol 34, no. 1. (1980) p 35",
+            "machine_name": "american_rhododendron_society_quarterly_bulletin_vol_34_no_1_1980_p_35",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rhododendron_cultivars_pacific_glow",
+                "type": "variety",
+                "archival_data": [
+                    "1644700"
+                ]
+            },
+            "volume": null,
+            "page": "p 35",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2553586",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1564307193"
+            }
+        },
+        {
+            "name": "American Rhododendron Society, Quarterly Bulletin. vol 34, no. 1. (1980) p cover",
+            "machine_name": "american_rhododendron_society_quarterly_bulletin_vol_34_no_1_1980_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rhododendron_cultivars_pink_radiance",
+                "type": "variety",
+                "archival_data": [
+                    "2553576"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2553591",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1564307193"
+            }
+        }
+    ]
+}

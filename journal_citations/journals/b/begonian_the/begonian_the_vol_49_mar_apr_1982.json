@@ -1,0 +1,102 @@
+{
+    "name": "Begonian, The. vol 49, Mar\/Apr. (1982)",
+    "machine_name": "begonian_the_vol_49_mar_apr_1982",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1982",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2109607",
+        "legacy_id": "1430",
+        "author": "oitadmin",
+        "created": "1473951060"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Begonian, The. vol 49, Mar-Apr. (1982) p cover",
+            "machine_name": "begonian_the_vol_49_mar_apr_1982_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "begonia_cultivars_nancy_cummins",
+                "type": "variety",
+                "archival_data": [
+                    "1464414"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1982",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1704610",
+                "legacy_id": "3075",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Begonian, The. vol 49, Mar-Apr. (1982) p 31",
+            "machine_name": "begonian_the_vol_49_mar_apr_1982_p_31",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "begonia_pearcei",
+                "type": "species",
+                "archival_data": [
+                    "1400714"
+                ]
+            },
+            "volume": null,
+            "page": "p 31",
+            "year": "1982",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1769605",
+                "legacy_id": "75682",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        }
+    ]
+}

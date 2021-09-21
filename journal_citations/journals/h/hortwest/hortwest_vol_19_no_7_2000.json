@@ -1,0 +1,61 @@
+{
+    "name": "HortWest. vol 19, no. 7. (2000)",
+    "machine_name": "hortwest_vol_19_no_7_2000",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2000",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2116214",
+        "legacy_id": "14149",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "HortWest. vol 19, no. 7. (2000) p backcover (Adv.)",
+            "machine_name": "hortwest_vol_19_no_7_2000_p_backcover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rhododendron_cultivars_hellikki",
+                "type": "variety",
+                "archival_data": [
+                    "1526826"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover (Adv.)",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1866848",
+                "legacy_id": "193490",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        }
+    ]
+}

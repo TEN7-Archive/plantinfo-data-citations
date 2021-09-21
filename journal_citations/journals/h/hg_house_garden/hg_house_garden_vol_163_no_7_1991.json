@@ -1,0 +1,102 @@
+{
+    "name": "HG: House & Garden. vol 163, no. 7. (1991)",
+    "machine_name": "hg_house_garden_vol_163_no_7_1991",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1991",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2111502",
+        "legacy_id": "3729",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "HG: House & Garden. vol 163, no. 7. (1991) p 76",
+            "machine_name": "hg_house_garden_vol_163_no_7_1991_p_76",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "gaillardia_cultivars_dazzler",
+                "type": "variety",
+                "archival_data": [
+                    "1475532"
+                ]
+            },
+            "volume": null,
+            "page": "p 76",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1719896",
+                "legacy_id": "16095",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "HG: House & Garden. vol 163, no. 7. (1991) p 76",
+            "machine_name": "hg_house_garden_vol_163_no_7_1991_p_76",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "alchemilla_mollis",
+                "type": "species",
+                "archival_data": [
+                    "1401705"
+                ]
+            },
+            "volume": null,
+            "page": "p 76",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1767861",
+                "legacy_id": "69810",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "name": "Smithsonian. Vol 15, no. 2. (1984)",
+    "machine_name": "smithsonian_vol_15_no_2_1984",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1984",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113826",
+        "legacy_id": "5531",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Smithsonian. Vol 15, no. 2. (1984) p 74",
+            "machine_name": "smithsonian_vol_15_no_2_1984_p_74",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "capsicum_frutescens",
+                "type": "species",
+                "archival_data": [
+                    "1407364"
+                ]
+            },
+            "volume": null,
+            "page": "p 74",
+            "year": "1984",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1778009",
+                "legacy_id": "79245",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Smithsonian. Vol 15, no. 2. (1984) p 83",
+            "machine_name": "smithsonian_vol_15_no_2_1984_p_83",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "quercus_virginiana",
+                "type": "species",
+                "archival_data": [
+                    "1422057"
+                ]
+            },
+            "volume": null,
+            "page": "p 83",
+            "year": "1984",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1824337",
+                "legacy_id": "126249",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        }
+    ]
+}

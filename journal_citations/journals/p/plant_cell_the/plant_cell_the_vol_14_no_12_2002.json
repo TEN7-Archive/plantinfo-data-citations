@@ -1,0 +1,61 @@
+{
+    "name": "Plant Cell, The. vol 14, no. 12. (2002)",
+    "machine_name": "plant_cell_the_vol_14_no_12_2002",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2002",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2117857",
+        "legacy_id": "45409",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Plant Cell, The. vol 14, no. 12. (2002) p 3034, Pl. 4(m); 3108, Pl. 6(a).",
+            "machine_name": "plant_cell_the_vol_14_no_12_2002_p_3034_pl_4_m_3108_pl_6_a",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "arabidopsis_thaliana",
+                "type": "species",
+                "archival_data": [
+                    "1400989"
+                ]
+            },
+            "volume": null,
+            "page": "p 3034, Pl. 4(m); 3108, Pl. 6(a).",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1898496",
+                "legacy_id": "248410",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        }
+    ]
+}

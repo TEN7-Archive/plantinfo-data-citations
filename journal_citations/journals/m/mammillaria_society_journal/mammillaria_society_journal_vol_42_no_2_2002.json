@@ -1,0 +1,102 @@
+{
+    "name": "Mammillaria Society, Journal. vol 42, no. 2. (2002)",
+    "machine_name": "mammillaria_society_journal_vol_42_no_2_2002",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2002",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2118091",
+        "legacy_id": "46470",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Mammillaria Society, Journal. vol 42, no. 2. (2002) p 15",
+            "machine_name": "mammillaria_society_journal_vol_42_no_2_2002_p_15",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "mammillaria_aureilanata",
+                "type": "species",
+                "archival_data": [
+                    "1415974"
+                ]
+            },
+            "volume": null,
+            "page": "p 15",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1904520",
+                "legacy_id": "251999",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Mammillaria Society, Journal. vol 42, no. 2. (2002) p 15",
+            "machine_name": "mammillaria_society_journal_vol_42_no_2_2002_p_15",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "mammillaria_albicoma",
+                "type": "species",
+                "archival_data": [
+                    "1415963"
+                ]
+            },
+            "volume": null,
+            "page": "p 15",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1904521",
+                "legacy_id": "252000",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        }
+    ]
+}

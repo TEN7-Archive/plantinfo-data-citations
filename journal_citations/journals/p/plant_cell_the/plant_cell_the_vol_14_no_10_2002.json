@@ -1,0 +1,102 @@
+{
+    "name": "Plant Cell, The. vol 14, no. 10. (2002)",
+    "machine_name": "plant_cell_the_vol_14_no_10_2002",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2002",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2117880",
+        "legacy_id": "44509",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Plant Cell, The. vol 14, no. 10. (2002) p 2315; 2326.",
+            "machine_name": "plant_cell_the_vol_14_no_10_2002_p_2315_2326",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_fragrant_cloud",
+                "type": "variety",
+                "archival_data": [
+                    "1487991"
+                ]
+            },
+            "volume": null,
+            "page": "p 2315; 2326.",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1898994",
+                "legacy_id": "245550",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Plant Cell, The. vol 14, no. 10. (2002) p 2315; 2326.",
+            "machine_name": "plant_cell_the_vol_14_no_10_2002_p_2315_2326",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_golden_gate",
+                "type": "variety",
+                "archival_data": [
+                    "1549769"
+                ]
+            },
+            "volume": null,
+            "page": "p 2315; 2326.",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1898995",
+                "legacy_id": "245551",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        }
+    ]
+}

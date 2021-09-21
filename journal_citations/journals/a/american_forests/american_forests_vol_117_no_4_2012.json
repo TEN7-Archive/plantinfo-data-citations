@@ -1,0 +1,143 @@
+{
+    "name": "American Forests. vol 117, no. 4. (2012)",
+    "machine_name": "american_forests_vol_117_no_4_2012",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2012",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2122065",
+        "legacy_id": "120791",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "American Forests. vol 117, no. 4. (2012) p 31",
+            "machine_name": "american_forests_vol_117_no_4_2012_p_31",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pinus_jeffreyi",
+                "type": "species",
+                "archival_data": [
+                    "1425299"
+                ]
+            },
+            "volume": null,
+            "page": "p 31",
+            "year": "2012",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2000491",
+                "legacy_id": "456593",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "American Forests. vol 117, no. 4. (2012) p 10",
+            "machine_name": "american_forests_vol_117_no_4_2012_p_10",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "thuja_plicata",
+                "type": "species",
+                "archival_data": [
+                    "1430813"
+                ]
+            },
+            "volume": null,
+            "page": "p 10",
+            "year": "2012",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2069212",
+                "legacy_id": "456592",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "American Forests. vol 117, no. 4. (2012) p 38-39",
+            "machine_name": "american_forests_vol_117_no_4_2012_p_38_39",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rhizophora_mangle",
+                "type": "species",
+                "archival_data": [
+                    "1423625"
+                ]
+            },
+            "volume": null,
+            "page": "p 38-39",
+            "year": "2012",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2069213",
+                "legacy_id": "456594",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        }
+    ]
+}

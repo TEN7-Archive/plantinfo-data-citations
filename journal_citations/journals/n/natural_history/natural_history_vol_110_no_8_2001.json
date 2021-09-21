@@ -1,0 +1,61 @@
+{
+    "name": "Natural History. vol 110, no. 8. (2001)",
+    "machine_name": "natural_history_vol_110_no_8_2001",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2001",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2117460",
+        "legacy_id": "33230",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Natural History. vol 110, no. 8. (2001) p 53",
+            "machine_name": "natural_history_vol_110_no_8_2001_p_53",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "malus_a_cultivars_braeburn",
+                "type": "variety",
+                "archival_data": [
+                    "1478778"
+                ]
+            },
+            "volume": null,
+            "page": "p 53",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1889979",
+                "legacy_id": "226550",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        }
+    ]
+}

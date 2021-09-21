@@ -1,0 +1,143 @@
+{
+    "name": "Fraterna. vol 13, no. 3. (2000)",
+    "machine_name": "fraterna_vol_13_no_3_2000",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2000",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2116570",
+        "legacy_id": "15909",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Fraterna. vol 13, no. 3. (2000) p 3",
+            "machine_name": "fraterna_vol_13_no_3_2000_p_3",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hoya_campanulata",
+                "type": "species",
+                "archival_data": [
+                    "1420228"
+                ]
+            },
+            "volume": null,
+            "page": "p 3",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1873809",
+                "legacy_id": "197090",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Fraterna. vol 13, no. 3. (2000) p cover;5",
+            "machine_name": "fraterna_vol_13_no_3_2000_p_cover_5",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hoya_cystiantha",
+                "type": "species",
+                "archival_data": [
+                    "1439897"
+                ]
+            },
+            "volume": null,
+            "page": "p cover;5",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1873810",
+                "legacy_id": "197091",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Fraterna. vol 13, no. 3. (2000) p 8",
+            "machine_name": "fraterna_vol_13_no_3_2000_p_8",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hoya_hypolasia",
+                "type": "species",
+                "archival_data": [
+                    "1439898"
+                ]
+            },
+            "volume": null,
+            "page": "p 8",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1873811",
+                "legacy_id": "197092",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        }
+    ]
+}

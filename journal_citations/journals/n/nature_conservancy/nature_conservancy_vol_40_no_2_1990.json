@@ -1,0 +1,102 @@
+{
+    "name": "Nature Conservancy. vol 40, no. 2. (1990)",
+    "machine_name": "nature_conservancy_vol_40_no_2_1990",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1990",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114042",
+        "legacy_id": "4728",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Nature Conservancy. vol 40, no. 2. (1990) p 23",
+            "machine_name": "nature_conservancy_vol_40_no_2_1990_p_23",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "gentiana_puberulenta",
+                "type": "species",
+                "archival_data": [
+                    "1410816"
+                ]
+            },
+            "volume": null,
+            "page": "p 23",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1790131",
+                "legacy_id": "98759",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Nature Conservancy. vol 40, no. 2. (1990) p 16",
+            "machine_name": "nature_conservancy_vol_40_no_2_1990_p_16",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lobelia_thapsoidea",
+                "type": "species",
+                "archival_data": [
+                    "1418906"
+                ]
+            },
+            "volume": null,
+            "page": "p 16",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1807346",
+                "legacy_id": "109845",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        }
+    ]
+}

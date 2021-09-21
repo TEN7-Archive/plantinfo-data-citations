@@ -1,0 +1,143 @@
+{
+    "name": "Linnean Society of London, Botanical Journal. vol 161, no. 1. (2009)",
+    "machine_name": "linnean_society_of_london_botanical_journal_vol_161_no_1_2009",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2009",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2123647",
+        "legacy_id": "106696",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Linnean Society of London, Botanical Journal. vol 161, no. 1. (2009) p 7, Pl. 2a",
+            "machine_name": "linnean_society_of_london_botanical_journal_vol_161_no_1_2009_p_7_pl_2a",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "mystacidium_capense",
+                "type": "species",
+                "archival_data": [
+                    "1416409"
+                ]
+            },
+            "volume": null,
+            "page": "p 7, Pl. 2a",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2037212",
+                "legacy_id": "405133",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        },
+        {
+            "name": "Linnean Society of London, Botanical Journal. vol 161, no. 1. (2009) p 7, Pl. 2b-c",
+            "machine_name": "linnean_society_of_london_botanical_journal_vol_161_no_1_2009_p_7_pl_2b_c",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "angraecum_striatum",
+                "type": "species",
+                "archival_data": [
+                    "1455828"
+                ]
+            },
+            "volume": null,
+            "page": "p 7, Pl. 2b-c",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2037213",
+                "legacy_id": "405134",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        },
+        {
+            "name": "Linnean Society of London, Botanical Journal. vol 161, no. 1. (2009) p 7, Pl. 2e",
+            "machine_name": "linnean_society_of_london_botanical_journal_vol_161_no_1_2009_p_7_pl_2e",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "angraecum_cadetii",
+                "type": "species",
+                "archival_data": [
+                    "1456110"
+                ]
+            },
+            "volume": null,
+            "page": "p 7, Pl. 2e",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2037214",
+                "legacy_id": "405135",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        }
+    ]
+}

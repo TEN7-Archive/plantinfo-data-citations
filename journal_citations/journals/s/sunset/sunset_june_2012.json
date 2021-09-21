@@ -1,0 +1,102 @@
+{
+    "name": "Sunset. June 2012.",
+    "machine_name": "sunset_june_2012",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1691000",
+        "legacy_id": "118213",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Sunset. June 2012. p 20 (Adv.)",
+            "machine_name": "sunset_june_2012_p_20_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "salvia_cultivars_amistad",
+                "type": "variety",
+                "archival_data": [
+                    "1654663"
+                ]
+            },
+            "volume": null,
+            "page": "p 20 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2012467",
+                "legacy_id": "448013",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "Sunset. June 2012. p 25 (Adv.)",
+            "machine_name": "sunset_june_2012_p_25_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "mandevilla_cultivars_sun_parasol_series",
+                "type": "variety",
+                "archival_data": [
+                    "1537972"
+                ]
+            },
+            "volume": null,
+            "page": "p 25 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2012468",
+                "legacy_id": "448014",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        }
+    ]
+}

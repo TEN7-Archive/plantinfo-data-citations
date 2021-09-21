@@ -1,0 +1,184 @@
+{
+    "name": "Azalean, The. vol 22, no. 1. (2000)",
+    "machine_name": "azalean_the_vol_22_no_1_2000",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2000",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2116101",
+        "legacy_id": "9869",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Azalean, The. vol 22, no. 1. (2000) p 5",
+            "machine_name": "azalean_the_vol_22_no_1_2000_p_5",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rhododendron_cultivars_oh_my",
+                "type": "variety",
+                "archival_data": [
+                    "1551297"
+                ]
+            },
+            "volume": null,
+            "page": "p 5",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1863705",
+                "legacy_id": "176352",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Azalean, The. vol 22, no. 1. (2000) p 20",
+            "machine_name": "azalean_the_vol_22_no_1_2000_p_20",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rhododendron_calendulaceum",
+                "type": "species",
+                "archival_data": [
+                    "1430514"
+                ]
+            },
+            "volume": null,
+            "page": "p 20",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1863706",
+                "legacy_id": "176353",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Azalean, The. vol 22, no. 1. (2000) p 21 (Adv.)",
+            "machine_name": "azalean_the_vol_22_no_1_2000_p_21_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rhododendron_cultivars_lawrence_olson",
+                "type": "variety",
+                "archival_data": [
+                    "1489679"
+                ]
+            },
+            "volume": null,
+            "page": "p 21 (Adv.)",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1863707",
+                "legacy_id": "176354",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Azalean, The. vol 22, no. 1. (2000) p 21 (Adv.)",
+            "machine_name": "azalean_the_vol_22_no_1_2000_p_21_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rhododendron_cultivars_girard_s_yellow_pom_pom",
+                "type": "variety",
+                "archival_data": [
+                    "1488782"
+                ]
+            },
+            "volume": null,
+            "page": "p 21 (Adv.)",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1863708",
+                "legacy_id": "176355",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        }
+    ]
+}

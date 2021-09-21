@@ -1,0 +1,102 @@
+{
+    "name": "Florida Foliage. vol 16, no. 12. (1990)",
+    "machine_name": "florida_foliage_vol_16_no_12_1990",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1990",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113591",
+        "legacy_id": "2607",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Florida Foliage. vol 16, no. 12. (1990) p inside backcover ^",
+            "machine_name": "florida_foliage_vol_16_no_12_1990_p_inside_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "araucaria_araucana",
+                "type": "species",
+                "archival_data": [
+                    "1401039"
+                ]
+            },
+            "volume": null,
+            "page": "p inside backcover ^",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1768666",
+                "legacy_id": "72696",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Florida Foliage. vol 16, no. 12. (1990) p 40 (Adv.)",
+            "machine_name": "florida_foliage_vol_16_no_12_1990_p_40_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ficus_lyrata",
+                "type": "species",
+                "archival_data": [
+                    "1413313"
+                ]
+            },
+            "volume": null,
+            "page": "p 40 (Adv.)",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1793803",
+                "legacy_id": "96944",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        }
+    ]
+}

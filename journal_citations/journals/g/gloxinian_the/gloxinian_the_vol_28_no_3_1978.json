@@ -1,0 +1,102 @@
+{
+    "name": "Gloxinian, The. vol 28, no. 3. (1978)",
+    "machine_name": "gloxinian_the_vol_28_no_3_1978",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1978",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": "7",
+    "description": null,
+    "archival_data": {
+        "id": "2577586",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1572181462"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Gloxinian, The. vol 28, no. 3. (1978)  p cover",
+            "machine_name": "gloxinian_the_vol_28_no_3_1978_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "chirita_sinensis",
+                "type": "species",
+                "archival_data": [
+                    "1406348"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2577591",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1572181597"
+            }
+        },
+        {
+            "name": "Gloxinian, The. vol 28, no. 3. (1978)  p 21",
+            "machine_name": "gloxinian_the_vol_28_no_3_1978_p_21",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "sinningia_speciosa_robe",
+                "type": "variety",
+                "archival_data": [
+                    "2576051"
+                ]
+            },
+            "volume": null,
+            "page": "p 21",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2577596",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1572181597"
+            }
+        }
+    ]
+}

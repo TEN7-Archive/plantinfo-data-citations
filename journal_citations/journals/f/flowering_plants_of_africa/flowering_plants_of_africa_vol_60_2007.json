@@ -1,0 +1,840 @@
+{
+    "name": "Flowering Plants of Africa. vol 60. (2007)",
+    "machine_name": "flowering_plants_of_africa_vol_60_2007",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2007",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2119211",
+        "legacy_id": "93029",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Flowering Plants of Africa. vol 60. (2007) Pl. 2222",
+            "machine_name": "flowering_plants_of_africa_vol_60_2007_pl_2222",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ornithogalum_cremnophilum",
+                "type": "species",
+                "archival_data": [
+                    "1453155"
+                ]
+            },
+            "volume": null,
+            "page": "Pl.  2222",
+            "year": "2007",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1926041",
+                "legacy_id": "376772",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "Flowering Plants of Africa. vol 60. (2007) Pl. 2223",
+            "machine_name": "flowering_plants_of_africa_vol_60_2007_pl_2223",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ledebouria_ovatifolia_scabrida",
+                "type": "variety",
+                "archival_data": [
+                    "1636967"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 2223",
+            "year": "2007",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1926042",
+                "legacy_id": "376773",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "Flowering Plants of Africa. vol 60. (2007) Pl. 2225",
+            "machine_name": "flowering_plants_of_africa_vol_60_2007_pl_2225",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hypoxis_sobolifera",
+                "type": "species",
+                "archival_data": [
+                    "1453156"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 2225",
+            "year": "2007",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": true,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1926043",
+                "legacy_id": "376774",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "Flowering Plants of Africa. vol 60. (2007) Pl. 2226",
+            "machine_name": "flowering_plants_of_africa_vol_60_2007_pl_2226",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hypoxis_nivea",
+                "type": "species",
+                "archival_data": [
+                    "1453157"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 2226",
+            "year": "2007",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": true,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1926044",
+                "legacy_id": "376775",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "Flowering Plants of Africa. vol 60. (2007) Pl. 2229",
+            "machine_name": "flowering_plants_of_africa_vol_60_2007_pl_2229",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "viscum_crassulae",
+                "type": "species",
+                "archival_data": [
+                    "1453158"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 2229",
+            "year": "2007",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1926045",
+                "legacy_id": "376776",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "Flowering Plants of Africa. vol 60. (2007) Pl. 2230",
+            "machine_name": "flowering_plants_of_africa_vol_60_2007_pl_2230",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cephalophyllum_spissum",
+                "type": "species",
+                "archival_data": [
+                    "1453159"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 2230",
+            "year": "2007",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1926046",
+                "legacy_id": "376777",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "Flowering Plants of Africa. vol 60. (2007) Pl. 2233",
+            "machine_name": "flowering_plants_of_africa_vol_60_2007_pl_2233",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pelargonium_schlechteri",
+                "type": "species",
+                "archival_data": [
+                    "1453160"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 2233",
+            "year": "2007",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1926047",
+                "legacy_id": "376778",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "Flowering Plants of Africa. vol 60. (2007) Pl. 2235",
+            "machine_name": "flowering_plants_of_africa_vol_60_2007_pl_2235",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "stenostelma_umbelluliferum",
+                "type": "species",
+                "archival_data": [
+                    "1453161"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 2235",
+            "year": "2007",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": true,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1926048",
+                "legacy_id": "376779",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "Flowering Plants of Africa. vol 60. (2007) Pl. 2236",
+            "machine_name": "flowering_plants_of_africa_vol_60_2007_pl_2236",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "orbea_elegans",
+                "type": "species",
+                "archival_data": [
+                    "1453162"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 2236",
+            "year": "2007",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1926049",
+                "legacy_id": "376780",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "Flowering Plants of Africa. vol 60. (2007) Pl. 2237",
+            "machine_name": "flowering_plants_of_africa_vol_60_2007_pl_2237",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "momordica_foetida",
+                "type": "species",
+                "archival_data": [
+                    "1453163"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 2237",
+            "year": "2007",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": true,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1926050",
+                "legacy_id": "376781",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "Flowering Plants of Africa. vol 60. (2007) Pl. 2238",
+            "machine_name": "flowering_plants_of_africa_vol_60_2007_pl_2238",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "coccinia_palmata",
+                "type": "species",
+                "archival_data": [
+                    "1453164"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 2238",
+            "year": "2007",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1926051",
+                "legacy_id": "376782",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "Flowering Plants of Africa. vol 60. (2007) Pl. 2224",
+            "machine_name": "flowering_plants_of_africa_vol_60_2007_pl_2224",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "nerine_pudica",
+                "type": "species",
+                "archival_data": [
+                    "1455245"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 2224",
+            "year": "2007",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": true,
+                "Fruit": true,
+                "Bark": false,
+                "Root": true,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1960328",
+                "legacy_id": "370672",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        },
+        {
+            "name": "Flowering Plants of Africa. vol 60. (2007) p cover;Pl. 2234",
+            "machine_name": "flowering_plants_of_africa_vol_60_2007_p_cover_pl_2234",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "bruguiera_gymnorrhiza",
+                "type": "species",
+                "archival_data": [
+                    "1397704"
+                ]
+            },
+            "volume": null,
+            "page": "p cover;Pl. 2234",
+            "year": "2007",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": true,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1960572",
+                "legacy_id": "370632",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        },
+        {
+            "name": "Flowering Plants of Africa. vol 60. (2007) Pl. 2221",
+            "machine_name": "flowering_plants_of_africa_vol_60_2007_pl_2221",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "zantedeschia_jucunda",
+                "type": "species",
+                "archival_data": [
+                    "1438719"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 2221",
+            "year": "2007",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1960573",
+                "legacy_id": "370652",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        },
+        {
+            "name": "Flowering Plants of Africa. vol 60. (2007) Pl. 2227",
+            "machine_name": "flowering_plants_of_africa_vol_60_2007_pl_2227",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "siphonochilus_kirkii",
+                "type": "species",
+                "archival_data": [
+                    "1442509"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 2227",
+            "year": "2007",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": true,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1960574",
+                "legacy_id": "370673",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        },
+        {
+            "name": "Flowering Plants of Africa. vol 60. (2007) Pl. 2228",
+            "machine_name": "flowering_plants_of_africa_vol_60_2007_pl_2228",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "costus_afer",
+                "type": "species",
+                "archival_data": [
+                    "1441101"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 2228",
+            "year": "2007",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": true,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1960575",
+                "legacy_id": "370674",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        },
+        {
+            "name": "Flowering Plants of Africa. vol 60. (2007) Pl. 2231",
+            "machine_name": "flowering_plants_of_africa_vol_60_2007_pl_2231",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rabiea_albipuncta",
+                "type": "species",
+                "archival_data": [
+                    "1439649"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 2231",
+            "year": "2007",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1960576",
+                "legacy_id": "370675",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        },
+        {
+            "name": "Flowering Plants of Africa. vol 60. (2007) Pl. 2232",
+            "machine_name": "flowering_plants_of_africa_vol_60_2007_pl_2232",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pelargonium_luridum",
+                "type": "species",
+                "archival_data": [
+                    "1426697"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 2232",
+            "year": "2007",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": true,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1960577",
+                "legacy_id": "370676",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        },
+        {
+            "name": "Flowering Plants of Africa. vol 60. (2007) Pl. 2239",
+            "machine_name": "flowering_plants_of_africa_vol_60_2007_pl_2239",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "helichrysum_adenocarpum_adenocarpum",
+                "type": "variety",
+                "archival_data": [
+                    "1474741"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 2239",
+            "year": "2007",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1960578",
+                "legacy_id": "370692",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        },
+        {
+            "name": "Flowering Plants of Africa. vol 60. (2007) Pl. 2240",
+            "machine_name": "flowering_plants_of_africa_vol_60_2007_pl_2240",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "berkheya_radula",
+                "type": "species",
+                "archival_data": [
+                    "1401150"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 2240",
+            "year": "2007",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1960579",
+                "legacy_id": "370693",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        }
+    ]
+}

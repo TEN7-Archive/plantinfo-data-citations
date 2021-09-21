@@ -1,0 +1,143 @@
+{
+    "name": "Maple Society Newsletter. vol 24, no. 1. (2014)",
+    "machine_name": "maple_society_newsletter_vol_24_no_1_2014",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2014",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": "7",
+    "description": null,
+    "archival_data": {
+        "id": "2342921",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1530730934"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Maple Society Newsletter. vol 24, no. 1. (2014) p cover",
+            "machine_name": "maple_society_newsletter_vol_24_no_1_2014_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "acer_pectinatum_laxiflorum",
+                "type": "variety",
+                "archival_data": [
+                    "1576029"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2342926",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1530731109"
+            }
+        },
+        {
+            "name": "Maple Society Newsletter. vol 24, no. 1. (2014) p backcover",
+            "machine_name": "maple_society_newsletter_vol_24_no_1_2014_p_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "acer_palmatum_ukon",
+                "type": "variety",
+                "archival_data": [
+                    "1498140"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2342931",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1530731109"
+            }
+        },
+        {
+            "name": "Maple Society Newsletter. vol 24, no. 1. (2014) p backcover",
+            "machine_name": "maple_society_newsletter_vol_24_no_1_2014_p_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "acer_pectinatum",
+                "type": "species",
+                "archival_data": [
+                    "1403180"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2342936",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1530731109"
+            }
+        }
+    ]
+}

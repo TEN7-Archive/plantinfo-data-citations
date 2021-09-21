@@ -1,0 +1,102 @@
+{
+    "name": "Natural History. vol 93, no. 6. (1984)",
+    "machine_name": "natural_history_vol_93_no_6_1984",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1984",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114093",
+        "legacy_id": "4672",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Natural History. vol 93, no. 6. (1984) p 48-53",
+            "machine_name": "natural_history_vol_93_no_6_1984_p_48_53",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "helianthella_quinquenervis",
+                "type": "species",
+                "archival_data": [
+                    "1410885"
+                ]
+            },
+            "volume": null,
+            "page": "p 48-53",
+            "year": "1984",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1796131",
+                "legacy_id": "101599",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Natural History. vol 93, no. 6. (1984) p 44-45",
+            "machine_name": "natural_history_vol_93_no_6_1984_p_44_45",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pseudotsuga_menziesii",
+                "type": "species",
+                "archival_data": [
+                    "1425741"
+                ]
+            },
+            "volume": null,
+            "page": "p 44-45",
+            "year": "1984",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1819968",
+                "legacy_id": "125055",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        }
+    ]
+}

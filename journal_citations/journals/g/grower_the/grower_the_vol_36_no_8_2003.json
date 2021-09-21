@@ -1,0 +1,102 @@
+{
+    "name": "Grower, The. vol 36, no. 8. (2003)",
+    "machine_name": "grower_the_vol_36_no_8_2003",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2003",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2118189",
+        "legacy_id": "49998",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grower, The. vol 36, no. 8. (2003) p 8",
+            "machine_name": "grower_the_vol_36_no_8_2003_p_8",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "fragaria_ananassa_clancy",
+                "type": "variety",
+                "archival_data": [
+                    "1584340"
+                ]
+            },
+            "volume": null,
+            "page": "p 8",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1907030",
+                "legacy_id": "262970",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Grower, The. vol 36, no. 8. (2003) p 8",
+            "machine_name": "grower_the_vol_36_no_8_2003_p_8",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "fragaria_ananassa_l_amour",
+                "type": "variety",
+                "archival_data": [
+                    "1584341"
+                ]
+            },
+            "volume": null,
+            "page": "p 8",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1907031",
+                "legacy_id": "262971",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        }
+    ]
+}

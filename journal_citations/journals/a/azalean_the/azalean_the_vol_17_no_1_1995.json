@@ -1,0 +1,143 @@
+{
+    "name": "Azalean, The. vol 17, no. 1. (1995)",
+    "machine_name": "azalean_the_vol_17_no_1_1995",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1995",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2112723",
+        "legacy_id": "1404",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Azalean, The. vol 17, no. 1. (1995) p cover",
+            "machine_name": "azalean_the_vol_17_no_1_1995_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rhododendron_cultivars_betty_anne_voss",
+                "type": "variety",
+                "archival_data": [
+                    "1487533"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1995",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1743824",
+                "legacy_id": "41813",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483154438"
+            }
+        },
+        {
+            "name": "Azalean, The. vol 17, no. 1. (1995) p backcover (Adv.)",
+            "machine_name": "azalean_the_vol_17_no_1_1995_p_backcover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rhododendron_cultivars_girard_s_yellow_pom_pom",
+                "type": "variety",
+                "archival_data": [
+                    "1488782"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover (Adv.)",
+            "year": "1995",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1746070",
+                "legacy_id": "42320",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483154438"
+            }
+        },
+        {
+            "name": "Azalean, The. vol 17, no. 1. (1995) p 26 (Adv.)",
+            "machine_name": "azalean_the_vol_17_no_1_1995_p_26_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rhododendron_cultivars_lawrence_olson",
+                "type": "variety",
+                "archival_data": [
+                    "1489679"
+                ]
+            },
+            "volume": null,
+            "page": "p 26 (Adv.)",
+            "year": "1995",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1747409",
+                "legacy_id": "42675",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483154438"
+            }
+        }
+    ]
+}

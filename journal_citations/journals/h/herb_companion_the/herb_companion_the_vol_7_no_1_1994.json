@@ -1,0 +1,389 @@
+{
+    "name": "Herb Companion, The. vol 7, no. 1. (1994)",
+    "machine_name": "herb_companion_the_vol_7_no_1_1994",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1994",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113956",
+        "legacy_id": "3662",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Herb Companion, The. vol 7, no. 1. (1994) p 41",
+            "machine_name": "herb_companion_the_vol_7_no_1_1994_p_41",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "curcuma_longa",
+                "type": "species",
+                "archival_data": [
+                    "1408800"
+                ]
+            },
+            "volume": null,
+            "page": "p 41",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": true,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1784057",
+                "legacy_id": "86272",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Herb Companion, The. vol 7, no. 1. (1994) p 29",
+            "machine_name": "herb_companion_the_vol_7_no_1_1994_p_29",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "haematoxylum_campechianum",
+                "type": "species",
+                "archival_data": [
+                    "1415388"
+                ]
+            },
+            "volume": null,
+            "page": "p 29",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1798908",
+                "legacy_id": "100949",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Herb Companion, The. vol 7, no. 1. (1994) p 59",
+            "machine_name": "herb_companion_the_vol_7_no_1_1994_p_59",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "morella_pensylvanica",
+                "type": "species",
+                "archival_data": [
+                    "1450328"
+                ]
+            },
+            "volume": null,
+            "page": "p 59",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1805029",
+                "legacy_id": "114601",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Herb Companion, The. vol 7, no. 1. (1994) p 29",
+            "machine_name": "herb_companion_the_vol_7_no_1_1994_p_29",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "mammea_americana",
+                "type": "species",
+                "archival_data": [
+                    "1415958"
+                ]
+            },
+            "volume": null,
+            "page": "p 29",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1808728",
+                "legacy_id": "111529",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Herb Companion, The. vol 7, no. 1. (1994) p 34",
+            "machine_name": "herb_companion_the_vol_7_no_1_1994_p_34",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "nicotiana_tabacum",
+                "type": "species",
+                "archival_data": [
+                    "1417936"
+                ]
+            },
+            "volume": null,
+            "page": "p 34",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1813887",
+                "legacy_id": "115559",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Herb Companion, The. vol 7, no. 1. (1994) p 24",
+            "machine_name": "herb_companion_the_vol_7_no_1_1994_p_24",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pimpinella_anisum",
+                "type": "species",
+                "archival_data": [
+                    "1424931"
+                ]
+            },
+            "volume": null,
+            "page": "p 24",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1816273",
+                "legacy_id": "121553",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Herb Companion, The. vol 7, no. 1. (1994) p 30",
+            "machine_name": "herb_companion_the_vol_7_no_1_1994_p_30",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pouteria_campechiana",
+                "type": "species",
+                "archival_data": [
+                    "1423496"
+                ]
+            },
+            "volume": null,
+            "page": "p 30",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1819946",
+                "legacy_id": "123789",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Herb Companion, The. vol 7, no. 1. (1994) p 29",
+            "machine_name": "herb_companion_the_vol_7_no_1_1994_p_29",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pouteria_sapota",
+                "type": "species",
+                "archival_data": [
+                    "1423497"
+                ]
+            },
+            "volume": null,
+            "page": "p 29",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1819947",
+                "legacy_id": "123790",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Herb Companion, The. vol 7, no. 1. (1994) p 29",
+            "machine_name": "herb_companion_the_vol_7_no_1_1994_p_29",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "theobroma_cacao",
+                "type": "species",
+                "archival_data": [
+                    "1430447"
+                ]
+            },
+            "volume": null,
+            "page": "p 29",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1835700",
+                "legacy_id": "137148",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        }
+    ]
+}

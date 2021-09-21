@@ -1,0 +1,143 @@
+{
+    "name": "Lilacs. vol 30, no. 2. (2001)",
+    "machine_name": "lilacs_vol_30_no_2_2001",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2001",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2116921",
+        "legacy_id": "22809",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Lilacs. vol 30, no. 2. (2001) p cover",
+            "machine_name": "lilacs_vol_30_no_2_2001_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "syringa_vulgaris_richard_a_fenicchia",
+                "type": "variety",
+                "archival_data": [
+                    "1563140"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1880602",
+                "legacy_id": "208830",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Lilacs. vol 30, no. 2. (2001) p backcover",
+            "machine_name": "lilacs_vol_30_no_2_2001_p_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "syringa_vulgaris_prince_wolkonsky",
+                "type": "variety",
+                "archival_data": [
+                    "1563141"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1880845",
+                "legacy_id": "208831",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Lilacs. vol 30, no. 2. (2001) p backcover",
+            "machine_name": "lilacs_vol_30_no_2_2001_p_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ligustrum_sempervirens",
+                "type": "species",
+                "archival_data": [
+                    "1417356"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": true,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1880846",
+                "legacy_id": "208832",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        }
+    ]
+}

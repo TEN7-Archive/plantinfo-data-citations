@@ -1,0 +1,143 @@
+{
+    "name": "Plant Cell, The. vol 18, no. 11. (2006)",
+    "machine_name": "plant_cell_the_vol_18_no_11_2006",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2006",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2119140",
+        "legacy_id": "79529",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Plant Cell, The. vol 18, no. 11. (2006) p 3000, Pl. 1a-c;3017, Pl. 1a",
+            "machine_name": "plant_cell_the_vol_18_no_11_2006_p_3000_pl_1a_c_3017_pl_1a",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "oryza_sativa",
+                "type": "species",
+                "archival_data": [
+                    "1422920"
+                ]
+            },
+            "volume": null,
+            "page": "p 3000, Pl. 1a-c;3017, Pl. 1a",
+            "year": "2006",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1924112",
+                "legacy_id": "337509",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "Plant Cell, The. vol 18, no. 11. (2006) p 3097, Pl. 7b",
+            "machine_name": "plant_cell_the_vol_18_no_11_2006_p_3097_pl_7b",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "nicotiana_benthamiana",
+                "type": "species",
+                "archival_data": [
+                    "1417924"
+                ]
+            },
+            "volume": null,
+            "page": "p 3097, Pl. 7b",
+            "year": "2006",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1924113",
+                "legacy_id": "337510",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "Plant Cell, The. vol 18, no. 11. (2006) p 3263-64, Pl. 10,11a-b",
+            "machine_name": "plant_cell_the_vol_18_no_11_2006_p_3263_64_pl_10_11a_b",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "zea_mays",
+                "type": "species",
+                "archival_data": [
+                    "1438732"
+                ]
+            },
+            "volume": null,
+            "page": "p 3263-64, Pl. 10,11a-b",
+            "year": "2006",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1924114",
+                "legacy_id": "337511",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "name": "Nature. vol 433, no. 7022. (2005)",
+    "machine_name": "nature_vol_433_no_7022_2005",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2005",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2120594",
+        "legacy_id": "64411",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Nature. vol 433, no. 7022. (2005) p 119",
+            "machine_name": "nature_vol_433_no_7022_2005_p_119",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rhinanthus_minor",
+                "type": "species",
+                "archival_data": [
+                    "1423584"
+                ]
+            },
+            "volume": null,
+            "page": "p 119",
+            "year": "2005",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1962809",
+                "legacy_id": "297170",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        }
+    ]
+}

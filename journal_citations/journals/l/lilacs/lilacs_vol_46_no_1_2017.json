@@ -1,0 +1,102 @@
+{
+    "name": "Lilacs. vol 46, no. 1. (2017)",
+    "machine_name": "lilacs_vol_46_no_1_2017",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2017",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": "7",
+    "description": null,
+    "archival_data": {
+        "id": "2240011",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1518531342"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Lilacs. vol 46, no. 1. (2017) p 12",
+            "machine_name": "lilacs_vol_46_no_1_2017_p_12",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "syringa_vulgaris_moondust",
+                "type": "variety",
+                "archival_data": [
+                    "1649629"
+                ]
+            },
+            "volume": null,
+            "page": "p 12",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2240016",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1518531677"
+            }
+        },
+        {
+            "name": "Lilacs. vol 46, no. 1. (2017) p 21-22; 24",
+            "machine_name": "lilacs_vol_46_no_1_2017_p_21_22_24",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "syringa_cultivars_vera_khoruzhaya",
+                "type": "variety",
+                "archival_data": [
+                    "1663141"
+                ]
+            },
+            "volume": null,
+            "page": "p 21-22; 24",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2240021",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1518531677"
+            }
+        }
+    ]
+}

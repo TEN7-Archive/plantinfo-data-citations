@@ -1,0 +1,102 @@
+{
+    "name": "National Wildlife. vol 50, no. 2. (2012)",
+    "machine_name": "national_wildlife_vol_50_no_2_2012",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2012",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2122802",
+        "legacy_id": "116971",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "National Wildlife. vol 50, no. 2. (2012) p 20",
+            "machine_name": "national_wildlife_vol_50_no_2_2012_p_20",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cephalanthus_occidentalis",
+                "type": "species",
+                "archival_data": [
+                    "1404791"
+                ]
+            },
+            "volume": null,
+            "page": "p 20",
+            "year": "2012",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2012458",
+                "legacy_id": "443491",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "National Wildlife. vol 50, no. 2. (2012) p 22-23",
+            "machine_name": "national_wildlife_vol_50_no_2_2012_p_22_23",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "clermontia_lindseyana",
+                "type": "species",
+                "archival_data": [
+                    "1458551"
+                ]
+            },
+            "volume": null,
+            "page": "p 22-23",
+            "year": "2012",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2034083",
+                "legacy_id": "443492",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        }
+    ]
+}

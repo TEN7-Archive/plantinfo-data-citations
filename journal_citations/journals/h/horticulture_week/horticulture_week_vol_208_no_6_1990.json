@@ -1,0 +1,143 @@
+{
+    "name": "Horticulture Week. vol 208, no. 6. (1990)",
+    "machine_name": "horticulture_week_vol_208_no_6_1990",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1990",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2110346",
+        "legacy_id": "3789",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Horticulture Week. vol 208, no. 6. (1990) p 19",
+            "machine_name": "horticulture_week_vol_208_no_6_1990_p_19",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "camellia_cultivars_quintessence",
+                "type": "variety",
+                "archival_data": [
+                    "1465365"
+                ]
+            },
+            "volume": null,
+            "page": "p 19",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1707878",
+                "legacy_id": "4998",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Horticulture Week. vol 208, no. 6. (1990) p 19",
+            "machine_name": "horticulture_week_vol_208_no_6_1990_p_19",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pandorea_cultivars_rosea_superba",
+                "type": "variety",
+                "archival_data": [
+                    "1485506"
+                ]
+            },
+            "volume": null,
+            "page": "p 19",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1734139",
+                "legacy_id": "35510",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Horticulture Week. vol 208, no. 6. (1990) p backcover (Adv.)",
+            "machine_name": "horticulture_week_vol_208_no_6_1990_p_backcover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ranunculus_cultivars_accolade_series",
+                "type": "variety",
+                "archival_data": [
+                    "1486339"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover (Adv.)",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1747634",
+                "legacy_id": "41411",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483154438"
+            }
+        }
+    ]
+}

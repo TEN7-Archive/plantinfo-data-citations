@@ -1,0 +1,102 @@
+{
+    "name": "Grower. Suppl.: Grower of the Year Awards 2007.",
+    "machine_name": "grower_suppl_grower_of_the_year_awards_2007",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1689862",
+        "legacy_id": "80158",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grower. Suppl.: Grower of the Year Awards 2007. p 18 (Adv.)",
+            "machine_name": "grower_suppl_grower_of_the_year_awards_2007_p_18_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "impatiens_cultivars_spellbound_series",
+                "type": "variety",
+                "archival_data": [
+                    "1597896"
+                ]
+            },
+            "volume": null,
+            "page": "p 18 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1974055",
+                "legacy_id": "339173",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        },
+        {
+            "name": "Grower. Suppl.: Grower of the Year Awards 2007. p 23",
+            "machine_name": "grower_suppl_grower_of_the_year_awards_2007_p_23",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "angelonia_cultivars_serena_series",
+                "type": "variety",
+                "archival_data": [
+                    "1628161"
+                ]
+            },
+            "volume": null,
+            "page": "p 23",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1974406",
+                "legacy_id": "339312",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        }
+    ]
+}

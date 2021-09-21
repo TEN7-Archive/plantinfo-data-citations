@@ -1,0 +1,61 @@
+{
+    "name": "Grounds Maintenance. vol 34, no. 11. (1999)",
+    "machine_name": "grounds_maintenance_vol_34_no_11_1999",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1999",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2115998",
+        "legacy_id": "7983",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grounds Maintenance. vol 34, no. 11. (1999) p inside backcover",
+            "machine_name": "grounds_maintenance_vol_34_no_11_1999_p_inside_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "poa_pratensis_liberator",
+                "type": "variety",
+                "archival_data": [
+                    "1550038"
+                ]
+            },
+            "volume": null,
+            "page": "p inside backcover",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1861174",
+                "legacy_id": "166907",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        }
+    ]
+}

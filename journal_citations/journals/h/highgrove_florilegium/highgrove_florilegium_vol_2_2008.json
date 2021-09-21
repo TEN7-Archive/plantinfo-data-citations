@@ -1,0 +1,2603 @@
+{
+    "name": "Highgrove Florilegium. vol. 2 (2008)",
+    "machine_name": "highgrove_florilegium_vol_2_2008",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2008",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": "7",
+    "description": null,
+    "archival_data": {
+        "id": "2630961",
+        "legacy_id": null,
+        "author": "kallen",
+        "created": "1617740342"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Highgrove Florilegium. vol. 2 (2008) Pl. 62",
+            "machine_name": "highgrove_florilegium_vol_2_2008_pl_62",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "corylus_avellana",
+                "type": "species",
+                "archival_data": [
+                    "1406099"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 62",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": true,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2630976",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "kallen",
+                "created": "1617743150"
+            }
+        },
+        {
+            "name": "Highgrove Florilegium. vol. 2 (2008) Pl. 63",
+            "machine_name": "highgrove_florilegium_vol_2_2008_pl_63",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "fagus_sylvatica_asplenifolia",
+                "type": "variety",
+                "archival_data": [
+                    "1473103"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 63",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": true,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": true,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2630981",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "kallen",
+                "created": "1617743150"
+            }
+        },
+        {
+            "name": "Highgrove Florilegium. vol. 2 (2008) Pl. 64",
+            "machine_name": "highgrove_florilegium_vol_2_2008_pl_64",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "fagus_sylvatica_purpurea_tricolor",
+                "type": "variety",
+                "archival_data": [
+                    "1504921"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 64",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": true,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2630986",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "kallen",
+                "created": "1617743150"
+            }
+        },
+        {
+            "name": "Highgrove Florilegium. vol. 2 (2008) Pl. 65",
+            "machine_name": "highgrove_florilegium_vol_2_2008_pl_65",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "fagus_sylvatica_rotundifolia",
+                "type": "variety",
+                "archival_data": [
+                    "1473116"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 65",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": true,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2630991",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "kallen",
+                "created": "1617743150"
+            }
+        },
+        {
+            "name": "Highgrove Florilegium. vol. 2 (2008) Pl. 66",
+            "machine_name": "highgrove_florilegium_vol_2_2008_pl_66",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "quercus_ilex",
+                "type": "species",
+                "archival_data": [
+                    "1421708"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 66",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": true,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2630996",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "kallen",
+                "created": "1617743150"
+            }
+        },
+        {
+            "name": "Highgrove Florilegium. vol. 2 (2008) Pl. 67",
+            "machine_name": "highgrove_florilegium_vol_2_2008_pl_67",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pterocarya_rhoifolia",
+                "type": "species",
+                "archival_data": [
+                    "1426089"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 67",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": true,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": true,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2631001",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "kallen",
+                "created": "1617743150"
+            }
+        },
+        {
+            "name": "Highgrove Florilegium. vol. 2 (2008) Pl. 68",
+            "machine_name": "highgrove_florilegium_vol_2_2008_pl_68",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "brassica_oleracea_s_braveheart",
+                "type": "variety",
+                "archival_data": [
+                    "2630966"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 68",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": true,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2631006",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "kallen",
+                "created": "1617743150"
+            }
+        },
+        {
+            "name": "Highgrove Florilegium. vol. 2 (2008) Pl. 69",
+            "machine_name": "highgrove_florilegium_vol_2_2008_pl_69",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lunaria_annua_annua",
+                "type": "variety",
+                "archival_data": [
+                    "2630971"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 69",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": true,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2631011",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "kallen",
+                "created": "1617743150"
+            }
+        },
+        {
+            "name": "Highgrove Florilegium. vol. 2 (2008) Pl. 70",
+            "machine_name": "highgrove_florilegium_vol_2_2008_pl_70",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cistus_ladanifer",
+                "type": "species",
+                "archival_data": [
+                    "1407527"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 70",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": true,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2631016",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "kallen",
+                "created": "1617743150"
+            }
+        },
+        {
+            "name": "Highgrove Florilegium. vol. 2 (2008) Pl. 71",
+            "machine_name": "highgrove_florilegium_vol_2_2008_pl_71",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "alcea_rosea_nigra",
+                "type": "variety",
+                "archival_data": [
+                    "1466855"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 71",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2631021",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "kallen",
+                "created": "1617743150"
+            }
+        },
+        {
+            "name": "Highgrove Florilegium. vol. 2 (2008) Pl. 72",
+            "machine_name": "highgrove_florilegium_vol_2_2008_pl_72",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "alyogyne_huegelii",
+                "type": "species",
+                "archival_data": [
+                    "1397911"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 72",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": true,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2631026",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "kallen",
+                "created": "1617743150"
+            }
+        },
+        {
+            "name": "Highgrove Florilegium. vol. 2 (2008) Pl. 73",
+            "machine_name": "highgrove_florilegium_vol_2_2008_pl_73",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "sparrmannia_africana",
+                "type": "species",
+                "archival_data": [
+                    "1431514"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 73",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": true,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2631031",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "kallen",
+                "created": "1617743150"
+            }
+        },
+        {
+            "name": "Highgrove Florilegium. vol. 2 (2008) Pl. 74",
+            "machine_name": "highgrove_florilegium_vol_2_2008_pl_74",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "fremontodendron_californicum",
+                "type": "species",
+                "archival_data": [
+                    "1414120"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 74",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": true,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2631036",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "kallen",
+                "created": "1617743302"
+            }
+        },
+        {
+            "name": "Highgrove Florilegium. vol. 2 (2008) Pl. 75",
+            "machine_name": "highgrove_florilegium_vol_2_2008_pl_75",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "acer_japonicum_vitifolium",
+                "type": "variety",
+                "archival_data": [
+                    "1466535"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 75",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2631041",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "kallen",
+                "created": "1617743302"
+            }
+        },
+        {
+            "name": "Highgrove Florilegium. vol. 2 (2008) Pl. 76",
+            "machine_name": "highgrove_florilegium_vol_2_2008_pl_76",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "acer_palmatum_hessei",
+                "type": "variety",
+                "archival_data": [
+                    "1497805"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 76",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": true,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2631051",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "kallen",
+                "created": "1617744302"
+            }
+        },
+        {
+            "name": "Highgrove Florilegium. vol. 2 (2008) Pl. 77",
+            "machine_name": "highgrove_florilegium_vol_2_2008_pl_77",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "acer_palmatum_osakazuki",
+                "type": "variety",
+                "archival_data": [
+                    "1466608"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 77",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2631056",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "kallen",
+                "created": "1617744302"
+            }
+        },
+        {
+            "name": "Highgrove Florilegium. vol. 2 (2008) Pl. 78",
+            "machine_name": "highgrove_florilegium_vol_2_2008_pl_78",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "acer_pensylvanicum",
+                "type": "species",
+                "archival_data": [
+                    "1403181"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 78",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": true,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2631061",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "kallen",
+                "created": "1617744302"
+            }
+        },
+        {
+            "name": "Highgrove Florilegium. vol. 2 (2008) Pl. 79",
+            "machine_name": "highgrove_florilegium_vol_2_2008_pl_79",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "aesculus_hippocastanum",
+                "type": "species",
+                "archival_data": [
+                    "1400527"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 79",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": true,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": true,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2631066",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "kallen",
+                "created": "1617744302"
+            }
+        },
+        {
+            "name": "Highgrove Florilegium. vol. 2 (2008) Pl. 80",
+            "machine_name": "highgrove_florilegium_vol_2_2008_pl_80",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hydrangea_quercifolia_snowflake",
+                "type": "variety",
+                "archival_data": [
+                    "1481240"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 80",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": true,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2631071",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "kallen",
+                "created": "1617744302"
+            }
+        },
+        {
+            "name": "Highgrove Florilegium. vol. 2 (2008) Pl. 81",
+            "machine_name": "highgrove_florilegium_vol_2_2008_pl_81",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "philadelphus_cultivars_manteau_d_hermine",
+                "type": "variety",
+                "archival_data": [
+                    "1488940"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 81",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": true,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2631076",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "kallen",
+                "created": "1617744302"
+            }
+        },
+        {
+            "name": "Highgrove Florilegium. vol. 2 (2008) Pl. 82",
+            "machine_name": "highgrove_florilegium_vol_2_2008_pl_82",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rhododendron_basilicum",
+                "type": "species",
+                "archival_data": [
+                    "1423992"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 82",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": true,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2631081",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "kallen",
+                "created": "1617744302"
+            }
+        },
+        {
+            "name": "Highgrove Florilegium. vol. 2 (2008) Pl. 83",
+            "machine_name": "highgrove_florilegium_vol_2_2008_pl_83",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rhododendron_cultivars_magic_flute",
+                "type": "variety",
+                "archival_data": [
+                    "2631046"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 83",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": true,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2631086",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "kallen",
+                "created": "1617744302"
+            }
+        },
+        {
+            "name": "Highgrove Florilegium. vol. 2 (2008) Pl. 84",
+            "machine_name": "highgrove_florilegium_vol_2_2008_pl_84",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rhododendron_cultivars_purple_splendour",
+                "type": "variety",
+                "archival_data": [
+                    "1524996"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 84",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": true,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2631091",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "kallen",
+                "created": "1617744302"
+            }
+        },
+        {
+            "name": "Highgrove Florilegium. vol. 2 (2008) Pl. 85",
+            "machine_name": "highgrove_florilegium_vol_2_2008_pl_85",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rhododendron_cultivars_scarlet_wonder",
+                "type": "variety",
+                "archival_data": [
+                    "1525787"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 85",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": true,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2631096",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "kallen",
+                "created": "1617744302"
+            }
+        },
+        {
+            "name": "Highgrove Florilegium. vol. 2 (2008) Pl. 86",
+            "machine_name": "highgrove_florilegium_vol_2_2008_pl_86",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cyclamen_hederifolium_albiflorum",
+                "type": "variety",
+                "archival_data": [
+                    "1573668"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 86",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": true,
+                "Fruit": true,
+                "Bark": false,
+                "Root": true,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2631101",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "kallen",
+                "created": "1617744302"
+            }
+        },
+        {
+            "name": "Highgrove Florilegium. vol. 2 (2008) Pl. 87",
+            "machine_name": "highgrove_florilegium_vol_2_2008_pl_87",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "primula_veris",
+                "type": "species",
+                "archival_data": [
+                    "1424584"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 87",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": true,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2631106",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "kallen",
+                "created": "1617744302"
+            }
+        },
+        {
+            "name": "Highgrove Florilegium. vol. 2 (2008) Pl. 88",
+            "machine_name": "highgrove_florilegium_vol_2_2008_pl_88",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "brunnera_macrophylla_variegata",
+                "type": "variety",
+                "archival_data": [
+                    "1464779"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 88",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2631111",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "kallen",
+                "created": "1617744302"
+            }
+        },
+        {
+            "name": "Highgrove Florilegium. vol. 2 (2008) Pl. 89",
+            "machine_name": "highgrove_florilegium_vol_2_2008_pl_89",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cerinthe_major_purpurascens",
+                "type": "variety",
+                "archival_data": [
+                    "1467340"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 89",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2631116",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "kallen",
+                "created": "1617744302"
+            }
+        },
+        {
+            "name": "Highgrove Florilegium. vol. 2 (2008) Pl. 90",
+            "machine_name": "highgrove_florilegium_vol_2_2008_pl_90",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pulmonaria_rubra",
+                "type": "species",
+                "archival_data": [
+                    "1426522"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 90",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2631121",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "kallen",
+                "created": "1617744302"
+            }
+        },
+        {
+            "name": "Highgrove Florilegium. vol. 2 (2008) Pl. 91",
+            "machine_name": "highgrove_florilegium_vol_2_2008_pl_91",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "vinca_major",
+                "type": "species",
+                "archival_data": [
+                    "1436509"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 91",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": true,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2631126",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "kallen",
+                "created": "1617745042"
+            }
+        },
+        {
+            "name": "Highgrove Florilegium. vol. 2 (2008) Pl. 92",
+            "machine_name": "highgrove_florilegium_vol_2_2008_pl_92",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "calceolaria_integrifolia",
+                "type": "species",
+                "archival_data": [
+                    "1399249"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 92",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": true,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2631131",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "kallen",
+                "created": "1617745042"
+            }
+        },
+        {
+            "name": "Highgrove Florilegium. vol. 2 (2008) Pl. 93",
+            "machine_name": "highgrove_florilegium_vol_2_2008_pl_93",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ocimum_basilicum_purple_ruffles",
+                "type": "variety",
+                "archival_data": [
+                    "1481974"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 93",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": true,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2631136",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "kallen",
+                "created": "1617745042"
+            }
+        },
+        {
+            "name": "Highgrove Florilegium. vol. 2 (2008) Pl. 94",
+            "machine_name": "highgrove_florilegium_vol_2_2008_pl_94",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "prunella_vulgaris",
+                "type": "species",
+                "archival_data": [
+                    "1425028"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 94",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2631141",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "kallen",
+                "created": "1617745042"
+            }
+        },
+        {
+            "name": "Highgrove Florilegium. vol. 2 (2008) Pl. 95",
+            "machine_name": "highgrove_florilegium_vol_2_2008_pl_95",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "salvia_discolor",
+                "type": "species",
+                "archival_data": [
+                    "1429932"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 95",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2631146",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "kallen",
+                "created": "1617745042"
+            }
+        },
+        {
+            "name": "Highgrove Florilegium. vol. 2 (2008) Pl. 96",
+            "machine_name": "highgrove_florilegium_vol_2_2008_pl_96",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "salvia_involucrata_bethellii",
+                "type": "variety",
+                "archival_data": [
+                    "1491206"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 96",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2631151",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "kallen",
+                "created": "1617745042"
+            }
+        },
+        {
+            "name": "Highgrove Florilegium. vol. 2 (2008) Pl. 97",
+            "machine_name": "highgrove_florilegium_vol_2_2008_pl_97",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "salvia_leucantha",
+                "type": "species",
+                "archival_data": [
+                    "1430253"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 97",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2631156",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "kallen",
+                "created": "1617745042"
+            }
+        },
+        {
+            "name": "Highgrove Florilegium. vol. 2 (2008) Pl. 98",
+            "machine_name": "highgrove_florilegium_vol_2_2008_pl_98",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "salvia_uliginosa",
+                "type": "species",
+                "archival_data": [
+                    "1430300"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 98",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2631161",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "kallen",
+                "created": "1617745042"
+            }
+        },
+        {
+            "name": "Highgrove Florilegium. vol. 2 (2008) Pl. 99",
+            "machine_name": "highgrove_florilegium_vol_2_2008_pl_99",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "forsythia_intermedia_lynwood",
+                "type": "variety",
+                "archival_data": [
+                    "1473708"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 99",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": true,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2631166",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "kallen",
+                "created": "1617745042"
+            }
+        },
+        {
+            "name": "Highgrove Florilegium. vol. 2 (2008) Pl. 100",
+            "machine_name": "highgrove_florilegium_vol_2_2008_pl_100",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "jasminum_nudiflorum",
+                "type": "species",
+                "archival_data": [
+                    "1418406"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 100",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": true,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2631171",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "kallen",
+                "created": "1617745042"
+            }
+        },
+        {
+            "name": "Highgrove Florilegium. vol. 2 (2008) Pl. 101",
+            "machine_name": "highgrove_florilegium_vol_2_2008_pl_101",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "syringa_vulgaris_madame_lemoine",
+                "type": "variety",
+                "archival_data": [
+                    "1495635"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 101",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": true,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2631176",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "kallen",
+                "created": "1617745042"
+            }
+        },
+        {
+            "name": "Highgrove Florilegium. vol. 2 (2008) Pl. 102",
+            "machine_name": "highgrove_florilegium_vol_2_2008_pl_102",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "paulownia_tomentosa",
+                "type": "species",
+                "archival_data": [
+                    "1426262"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 102",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": true,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": true,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2631201",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "kallen",
+                "created": "1617745042"
+            }
+        },
+        {
+            "name": "Highgrove Florilegium. vol. 2 (2008) Pl. 103",
+            "machine_name": "highgrove_florilegium_vol_2_2008_pl_103",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "digitalis_purpurea",
+                "type": "species",
+                "archival_data": [
+                    "1408501"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 103",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2631206",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "kallen",
+                "created": "1617745042"
+            }
+        },
+        {
+            "name": "Highgrove Florilegium. vol. 2 (2008) Pl. 104",
+            "machine_name": "highgrove_florilegium_vol_2_2008_pl_104",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "buddleja_colvillei",
+                "type": "species",
+                "archival_data": [
+                    "1397748"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 104",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": true,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2631216",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "kallen",
+                "created": "1617746065"
+            }
+        },
+        {
+            "name": "Highgrove Florilegium. vol. 2 (2008) Pl. 105",
+            "machine_name": "highgrove_florilegium_vol_2_2008_pl_105",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rhodochiton_atrosanguineus",
+                "type": "species",
+                "archival_data": [
+                    "1423929"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 105",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": true,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2631221",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "kallen",
+                "created": "1617746065"
+            }
+        },
+        {
+            "name": "Highgrove Florilegium. vol. 2 (2008) Pl. 106",
+            "machine_name": "highgrove_florilegium_vol_2_2008_pl_106",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "verbena_bonariensis",
+                "type": "species",
+                "archival_data": [
+                    "1430195"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 106",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": true,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2631226",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "kallen",
+                "created": "1617746065"
+            }
+        },
+        {
+            "name": "Highgrove Florilegium. vol. 2 (2008) Pl. 107",
+            "machine_name": "highgrove_florilegium_vol_2_2008_pl_107",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "solanum_crispum_glasnevin",
+                "type": "variety",
+                "archival_data": [
+                    "1493051"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 107",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": true,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2631231",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "kallen",
+                "created": "1617746065"
+            }
+        },
+        {
+            "name": "Highgrove Florilegium. vol. 2 (2008) Pl. 108",
+            "machine_name": "highgrove_florilegium_vol_2_2008_pl_108",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "solanum_melongena_tres_hative_de_barbentane",
+                "type": "variety",
+                "archival_data": [
+                    "2631211"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 108",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2631236",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "kallen",
+                "created": "1617746065"
+            }
+        },
+        {
+            "name": "Highgrove Florilegium. vol. 2 (2008) Pl. 109",
+            "machine_name": "highgrove_florilegium_vol_2_2008_pl_109",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ilex_aquifolium_ferox_argentea",
+                "type": "variety",
+                "archival_data": [
+                    "1477006"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 109",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": true,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2631241",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "kallen",
+                "created": "1617746065"
+            }
+        },
+        {
+            "name": "Highgrove Florilegium. vol. 2 (2008) Pl. 110",
+            "machine_name": "highgrove_florilegium_vol_2_2008_pl_110",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pimpinella_major_rosea",
+                "type": "variety",
+                "archival_data": [
+                    "1490691"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 110",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2631246",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "kallen",
+                "created": "1617746065"
+            }
+        },
+        {
+            "name": "Highgrove Florilegium. vol. 2 (2008) Pl. 111",
+            "machine_name": "highgrove_florilegium_vol_2_2008_pl_111",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hedera_helix_oro_di_bogliasco",
+                "type": "variety",
+                "archival_data": [
+                    "1509144"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 111",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": true,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2631251",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "kallen",
+                "created": "1617746065"
+            }
+        },
+        {
+            "name": "Highgrove Florilegium. vol. 2 (2008) Pl. 112",
+            "machine_name": "highgrove_florilegium_vol_2_2008_pl_112",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "centaurea_nigra",
+                "type": "species",
+                "archival_data": [
+                    "1404433"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 112",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2631256",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "kallen",
+                "created": "1617746065"
+            }
+        },
+        {
+            "name": "Highgrove Florilegium. vol. 2 (2008) Pl. 113",
+            "machine_name": "highgrove_florilegium_vol_2_2008_pl_113",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cosmos_atrosanguineus",
+                "type": "species",
+                "archival_data": [
+                    "1406469"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 113",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2631281",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "kallen",
+                "created": "1617746065"
+            }
+        },
+        {
+            "name": "Highgrove Florilegium. vol. 2 (2008) Pl. 114",
+            "machine_name": "highgrove_florilegium_vol_2_2008_pl_114",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "dahlia_cultivars_bishop_of_llandaff",
+                "type": "variety",
+                "archival_data": [
+                    "1471707"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 114",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2631286",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "kallen",
+                "created": "1617746665"
+            }
+        },
+        {
+            "name": "Highgrove Florilegium. vol. 2 (2008) Pl. 115",
+            "machine_name": "highgrove_florilegium_vol_2_2008_pl_115",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "dahlia_cultivars_summer_night",
+                "type": "variety",
+                "archival_data": [
+                    "1622504"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 115",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2631291",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "kallen",
+                "created": "1617746665"
+            }
+        },
+        {
+            "name": "Highgrove Florilegium. vol. 2 (2008) Pl. 116",
+            "machine_name": "highgrove_florilegium_vol_2_2008_pl_116",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lactuca_cultivars_little_gem",
+                "type": "variety",
+                "archival_data": [
+                    "1480755"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 116",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": true,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2631296",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "kallen",
+                "created": "1617746665"
+            }
+        },
+        {
+            "name": "Highgrove Florilegium. vol. 2 (2008) Pl. 117",
+            "machine_name": "highgrove_florilegium_vol_2_2008_pl_117",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "leucanthemum_vulgare",
+                "type": "species",
+                "archival_data": [
+                    "1416621"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 117",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2631301",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "kallen",
+                "created": "1617746665"
+            }
+        },
+        {
+            "name": "Highgrove Florilegium. vol. 2 (2008) Pl. 118",
+            "machine_name": "highgrove_florilegium_vol_2_2008_pl_118",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "tragopogon_pratensis",
+                "type": "species",
+                "archival_data": [
+                    "1432410"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 118",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": true,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2631306",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "kallen",
+                "created": "1617746665"
+            }
+        },
+        {
+            "name": "Highgrove Florilegium. vol. 2 (2008) Pl. 119",
+            "machine_name": "highgrove_florilegium_vol_2_2008_pl_119",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "campanula_lactiflora",
+                "type": "species",
+                "archival_data": [
+                    "1406662"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 119",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2631311",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "kallen",
+                "created": "1617746665"
+            }
+        },
+        {
+            "name": "Highgrove Florilegium. vol. 2 (2008) Pl. 120",
+            "machine_name": "highgrove_florilegium_vol_2_2008_pl_120",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lobelia_cardinalis_queen_victoria",
+                "type": "variety",
+                "archival_data": [
+                    "1480201"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 120",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2631316",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "kallen",
+                "created": "1617746665"
+            }
+        },
+        {
+            "name": "Highgrove Florilegium. vol. 2 (2008) Pl. 121",
+            "machine_name": "highgrove_florilegium_vol_2_2008_pl_121",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lonicera_periclymenum_serotina",
+                "type": "variety",
+                "archival_data": [
+                    "1480507"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 121",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": true,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2631321",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "kallen",
+                "created": "1617746665"
+            }
+        },
+        {
+            "name": "Highgrove Florilegium. vol. 2 (2008) Pl. 122",
+            "machine_name": "highgrove_florilegium_vol_2_2008_pl_122",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "knautia_macedonica",
+                "type": "species",
+                "archival_data": [
+                    "1419568"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 122",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2631326",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "kallen",
+                "created": "1617746665"
+            }
+        },
+        {
+            "name": "Highgrove Florilegium. vol. 2 (2008) Pl. 123",
+            "machine_name": "highgrove_florilegium_vol_2_2008_pl_123",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "succisa_pratensis",
+                "type": "species",
+                "archival_data": [
+                    "1428121"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 123",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2631331",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "kallen",
+                "created": "1617746665"
+            }
+        },
+        {
+            "name": "Highgrove Florilegium. vol. 2 (2008) Pl. 124",
+            "machine_name": "highgrove_florilegium_vol_2_2008_pl_124",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "liriodendron_tulipifera_aureo_marginatum",
+                "type": "variety",
+                "archival_data": [
+                    "1479630"
+                ]
+            },
+            "volume": null,
+            "page": "Pl. 124",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": true,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2631336",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "kallen",
+                "created": "1617746665"
+            }
+        }
+    ]
+}

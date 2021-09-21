@@ -1,0 +1,102 @@
+{
+    "name": "Scientific American. vol 293, no. 3. (2005)",
+    "machine_name": "scientific_american_vol_293_no_3_2005",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2005",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2121208",
+        "legacy_id": "67389",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Scientific American. vol 293, no. 3. (2005) p 70",
+            "machine_name": "scientific_american_vol_293_no_3_2005_p_70",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "nematanthus_corticola",
+                "type": "species",
+                "archival_data": [
+                    "1417129"
+                ]
+            },
+            "volume": null,
+            "page": "p 70",
+            "year": "2005",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1978488",
+                "legacy_id": "304910",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        },
+        {
+            "name": "Scientific American. vol 293, no. 3. (2005) p 71",
+            "machine_name": "scientific_american_vol_293_no_3_2005_p_71",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rafflesia_keithii",
+                "type": "species",
+                "archival_data": [
+                    "1454376"
+                ]
+            },
+            "volume": null,
+            "page": "p 71",
+            "year": "2005",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1978489",
+                "legacy_id": "304930",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        }
+    ]
+}

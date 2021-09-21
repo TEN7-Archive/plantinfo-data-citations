@@ -1,0 +1,676 @@
+{
+    "name": "Pacific Horticulture. vol 51, no. 4. (1990)",
+    "machine_name": "pacific_horticulture_vol_51_no_4_1990",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1990",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2110547",
+        "legacy_id": "5095",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Pacific Horticulture. vol 51, no. 4. (1990) p 35",
+            "machine_name": "pacific_horticulture_vol_51_no_4_1990_p_35",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "campanula_lactiflora_pouffe",
+                "type": "variety",
+                "archival_data": [
+                    "1469417"
+                ]
+            },
+            "volume": null,
+            "page": "p 35",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1709563",
+                "legacy_id": "5429",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Pacific Horticulture. vol 51, no. 4. (1990) p cover",
+            "machine_name": "pacific_horticulture_vol_51_no_4_1990_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "primula_auricula_ceperley_series",
+                "type": "variety",
+                "archival_data": [
+                    "1487465"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1742008",
+                "legacy_id": "39992",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483154438"
+            }
+        },
+        {
+            "name": "Pacific Horticulture. vol 51, no. 4. (1990) p 32",
+            "machine_name": "pacific_horticulture_vol_51_no_4_1990_p_32",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "silene_hookeri_bolanderi",
+                "type": "variety",
+                "archival_data": [
+                    "1492995"
+                ]
+            },
+            "volume": null,
+            "page": "p 32",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1758444",
+                "legacy_id": "56116",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Pacific Horticulture. vol 51, no. 4. (1990) p 45",
+            "machine_name": "pacific_horticulture_vol_51_no_4_1990_p_45",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "abrus_precatorius",
+                "type": "species",
+                "archival_data": [
+                    "1400882"
+                ]
+            },
+            "volume": null,
+            "page": "p 45",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": true,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1763747",
+                "legacy_id": "67356",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Pacific Horticulture. vol 51, no. 4. (1990) p 41",
+            "machine_name": "pacific_horticulture_vol_51_no_4_1990_p_41",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "bursera_simaruba",
+                "type": "species",
+                "archival_data": [
+                    "1398831"
+                ]
+            },
+            "volume": null,
+            "page": "p 41",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": true,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1771649",
+                "legacy_id": "77546",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Pacific Horticulture. vol 51, no. 4. (1990) p 41-42| 44?",
+            "machine_name": "pacific_horticulture_vol_51_no_4_1990_p_41_42_44",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "caesalpinia_bonduc",
+                "type": "species",
+                "archival_data": [
+                    "1398874"
+                ]
+            },
+            "volume": null,
+            "page": "p 41-42| 44?",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": true,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1772030",
+                "legacy_id": "77684",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Pacific Horticulture. vol 51, no. 4. (1990) p 43",
+            "machine_name": "pacific_horticulture_vol_51_no_4_1990_p_43",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "caesalpinia_gilliesii",
+                "type": "species",
+                "archival_data": [
+                    "1398883"
+                ]
+            },
+            "volume": null,
+            "page": "p 43",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1772047",
+                "legacy_id": "77701",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Pacific Horticulture. vol 51, no. 4. (1990) p 45",
+            "machine_name": "pacific_horticulture_vol_51_no_4_1990_p_45",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "caesalpinia_major",
+                "type": "species",
+                "archival_data": [
+                    "1398886"
+                ]
+            },
+            "volume": null,
+            "page": "p 45",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": true,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1772054",
+                "legacy_id": "77708",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Pacific Horticulture. vol 51, no. 4. (1990) p 17",
+            "machine_name": "pacific_horticulture_vol_51_no_4_1990_p_17",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "combretum_fruticosum",
+                "type": "species",
+                "archival_data": [
+                    "1403798"
+                ]
+            },
+            "volume": null,
+            "page": "p 17",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1779586",
+                "legacy_id": "83668",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Pacific Horticulture. vol 51, no. 4. (1990) p 36",
+            "machine_name": "pacific_horticulture_vol_51_no_4_1990_p_36",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "oenothera_speciosa",
+                "type": "species",
+                "archival_data": [
+                    "1426192"
+                ]
+            },
+            "volume": null,
+            "page": "p 36",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1811653",
+                "legacy_id": "116287",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Pacific Horticulture. vol 51, no. 4. (1990) p 30-31",
+            "machine_name": "pacific_horticulture_vol_51_no_4_1990_p_30_31",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "silene_californica",
+                "type": "species",
+                "archival_data": [
+                    "1429605"
+                ]
+            },
+            "volume": null,
+            "page": "p 30-31",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1827109",
+                "legacy_id": "133581",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Pacific Horticulture. vol 51, no. 4. (1990) p 33",
+            "machine_name": "pacific_horticulture_vol_51_no_4_1990_p_33",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "silene_hookeri",
+                "type": "species",
+                "archival_data": [
+                    "1429631"
+                ]
+            },
+            "volume": null,
+            "page": "p 33",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1827403",
+                "legacy_id": "133628",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Pacific Horticulture. vol 51, no. 4. (1990) p 28-29",
+            "machine_name": "pacific_horticulture_vol_51_no_4_1990_p_28_29",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "silene_hookeri",
+                "type": "species",
+                "archival_data": [
+                    "1429631"
+                ]
+            },
+            "volume": null,
+            "page": "p 28-29",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1827404",
+                "legacy_id": "133629",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Pacific Horticulture. vol 51, no. 4. (1990) p 16",
+            "machine_name": "pacific_horticulture_vol_51_no_4_1990_p_16",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "senecio_confusus",
+                "type": "species",
+                "archival_data": [
+                    "1428456"
+                ]
+            },
+            "volume": null,
+            "page": "p 16",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1829962",
+                "legacy_id": "133004",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Pacific Horticulture. vol 51, no. 4. (1990) p 16",
+            "machine_name": "pacific_horticulture_vol_51_no_4_1990_p_16",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "thevetia_peruviana",
+                "type": "species",
+                "archival_data": [
+                    "1430470"
+                ]
+            },
+            "volume": null,
+            "page": "p 16",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1835749",
+                "legacy_id": "137197",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Pacific Horticulture. vol 51, no. 4. (1990) p 35",
+            "machine_name": "pacific_horticulture_vol_51_no_4_1990_p_35",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "alstroemeria_cultivars_princess_series",
+                "type": "variety",
+                "archival_data": [
+                    "1536111"
+                ]
+            },
+            "volume": null,
+            "page": "p 35",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1893139",
+                "legacy_id": "240795",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        }
+    ]
+}

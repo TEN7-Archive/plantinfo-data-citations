@@ -1,0 +1,102 @@
+{
+    "name": "Natural History. vol 127, no. 7. (2019)",
+    "machine_name": "natural_history_vol_127_no_7_2019",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2019",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": "7",
+    "description": null,
+    "archival_data": {
+        "id": "2549886",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1563708768"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Natural History. vol 127, no. 7. (2019) p 6",
+            "machine_name": "natural_history_vol_127_no_7_2019_p_6",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "brassica_rapa",
+                "type": "species",
+                "archival_data": [
+                    "1403437"
+                ]
+            },
+            "volume": null,
+            "page": "p 6",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2549891",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1563708965"
+            }
+        },
+        {
+            "name": "Natural History. vol 127, no. 7. (2019) p 43",
+            "machine_name": "natural_history_vol_127_no_7_2019_p_43",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pinus_taeda",
+                "type": "species",
+                "archival_data": [
+                    "1425622"
+                ]
+            },
+            "volume": null,
+            "page": "p 43",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2549896",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1563708965"
+            }
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "name": "LAIFS: Los Angeles International Fern Society, Journal. vol 37, no. 1. (2010)",
+    "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_37_no_1_2010",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2010",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2124085",
+        "legacy_id": "108753",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "LAIFS: Los Angeles International Fern Society, Journal. vol 37, no. 1. (2010) p cover",
+            "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_37_no_1_2010_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "polystichum_munitum",
+                "type": "species",
+                "archival_data": [
+                    "1440389"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "2010",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2068061",
+                "legacy_id": "412651",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "LAIFS: Los Angeles International Fern Society, Journal. vol 37, no. 1. (2010) p backcover",
+            "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_37_no_1_2010_p_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "platycerium_bifurcatum",
+                "type": "species",
+                "archival_data": [
+                    "1440499"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover",
+            "year": "2010",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2068062",
+                "legacy_id": "412652",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        }
+    ]
+}

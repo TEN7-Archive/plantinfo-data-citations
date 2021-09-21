@@ -1,0 +1,143 @@
+{
+    "name": "Orchids: Am. Orchid Soc. vol 67, no. 2. (1999)",
+    "machine_name": "orchids_am_orchid_soc_vol_67_no_2_1999",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1999",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2115578",
+        "legacy_id": "7473",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Orchids: Am. Orchid Soc. vol 67, no. 2. (1999) p 121",
+            "machine_name": "orchids_am_orchid_soc_vol_67_no_2_1999_p_121",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ornithocephalus_gladiatus",
+                "type": "species",
+                "archival_data": [
+                    "1422535"
+                ]
+            },
+            "volume": null,
+            "page": "p 121",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1853640",
+                "legacy_id": "161207",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Orchids: Am. Orchid Soc. vol 67, no. 2. (1999) p 138",
+            "machine_name": "orchids_am_orchid_soc_vol_67_no_2_1999_p_138",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rossioglossum_cultivars_rawdon_jester",
+                "type": "variety",
+                "archival_data": [
+                    "1534494"
+                ]
+            },
+            "volume": null,
+            "page": "p 138",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1853641",
+                "legacy_id": "161208",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Orchids: Am. Orchid Soc. vol 67, no. 2. (1999) p 142",
+            "machine_name": "orchids_am_orchid_soc_vol_67_no_2_1999_p_142",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cattleya_deckeri_marge_soule",
+                "type": "variety",
+                "archival_data": [
+                    "1543236"
+                ]
+            },
+            "volume": null,
+            "page": "p 142",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1853642",
+                "legacy_id": "161209",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "name": "Conifer Quarterly. vol 23, no. 2. (2006)",
+    "machine_name": "conifer_quarterly_vol_23_no_2_2006",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2006",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2119720",
+        "legacy_id": "72609",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Conifer Quarterly. vol 23, no. 2. (2006) p cover",
+            "machine_name": "conifer_quarterly_vol_23_no_2_2006_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "picea_abies_inversa",
+                "type": "variety",
+                "archival_data": [
+                    "1490129"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "2006",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1938137",
+                "legacy_id": "319193",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "Conifer Quarterly. vol 23, no. 2. (2006) p inside backcover?",
+            "machine_name": "conifer_quarterly_vol_23_no_2_2006_p_inside_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "chamaecyparis_cultivars_heritage_gold",
+                "type": "variety",
+                "archival_data": [
+                    "1628670"
+                ]
+            },
+            "volume": null,
+            "page": "p inside backcover?",
+            "year": "2006",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1938138",
+                "legacy_id": "319194",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        }
+    ]
+}

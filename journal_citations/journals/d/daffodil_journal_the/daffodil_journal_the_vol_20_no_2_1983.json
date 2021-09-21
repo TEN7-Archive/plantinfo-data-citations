@@ -1,0 +1,143 @@
+{
+    "name": "Daffodil Journal, The. vol 20, no. 2. (1983)",
+    "machine_name": "daffodil_journal_the_vol_20_no_2_1983",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1983",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2112209",
+        "legacy_id": "2043",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Daffodil Journal, The. vol 20, no. 2. (1983) p 71",
+            "machine_name": "daffodil_journal_the_vol_20_no_2_1983_p_71",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "narcissus_cultivars_badbury_rings",
+                "type": "variety",
+                "archival_data": [
+                    "1482950"
+                ]
+            },
+            "volume": null,
+            "page": "p 71",
+            "year": "1983",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1734310",
+                "legacy_id": "32759",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Daffodil Journal, The. vol 20, no. 2. (1983) p 127",
+            "machine_name": "daffodil_journal_the_vol_20_no_2_1983_p_127",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "narcissus_cultivars_foundling",
+                "type": "variety",
+                "archival_data": [
+                    "1483303"
+                ]
+            },
+            "volume": null,
+            "page": "p 127",
+            "year": "1983",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1735276",
+                "legacy_id": "32976",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Daffodil Journal, The. vol 20, no. 2. (1983) p cover",
+            "machine_name": "daffodil_journal_the_vol_20_no_2_1983_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "narcissus_asturiensis",
+                "type": "species",
+                "archival_data": [
+                    "1416439"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1983",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1805679",
+                "legacy_id": "114765",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        }
+    ]
+}

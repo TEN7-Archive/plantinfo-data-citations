@@ -1,0 +1,184 @@
+{
+    "name": "Agricultural Research. vol 40, no. 5. (1992)",
+    "machine_name": "agricultural_research_vol_40_no_5_1992",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1992",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113846",
+        "legacy_id": "69",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Agricultural Research. vol 40, no. 5. (1992) p 5",
+            "machine_name": "agricultural_research_vol_40_no_5_1992_p_5",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "centaurea_solstitialis",
+                "type": "species",
+                "archival_data": [
+                    "1404449"
+                ]
+            },
+            "volume": null,
+            "page": "p 5",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1778784",
+                "legacy_id": "80805",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Agricultural Research. vol 40, no. 5. (1992) p 14-16",
+            "machine_name": "agricultural_research_vol_40_no_5_1992_p_14_16",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "theobroma_cacao",
+                "type": "species",
+                "archival_data": [
+                    "1430447"
+                ]
+            },
+            "volume": null,
+            "page": "p 14-16",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": true,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1835450",
+                "legacy_id": "137144",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Agricultural Research. vol 40, no. 5. (1992) p 9",
+            "machine_name": "agricultural_research_vol_40_no_5_1992_p_9",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "arachis_hypogaea_spanish",
+                "type": "variety",
+                "archival_data": [
+                    "1571344"
+                ]
+            },
+            "volume": null,
+            "page": "p 9",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1896748",
+                "legacy_id": "244831",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Agricultural Research. vol 40, no. 5. (1992) p 9",
+            "machine_name": "agricultural_research_vol_40_no_5_1992_p_9",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "arachis_hypogaea_virginia",
+                "type": "variety",
+                "archival_data": [
+                    "1571345"
+                ]
+            },
+            "volume": null,
+            "page": "p 9",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1896749",
+                "legacy_id": "244832",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        }
+    ]
+}

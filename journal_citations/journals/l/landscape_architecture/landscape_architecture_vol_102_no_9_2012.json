@@ -1,0 +1,61 @@
+{
+    "name": "Landscape Architecture. vol 102, no. 9. (2012)",
+    "machine_name": "landscape_architecture_vol_102_no_9_2012",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2012",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2122616",
+        "legacy_id": "121013",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Landscape Architecture. vol 102, no. 9. (2012) p 210 (Adv.)",
+            "machine_name": "landscape_architecture_vol_102_no_9_2012_p_210_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hydrangea_macrophylla_let_s_dance_series",
+                "type": "variety",
+                "archival_data": [
+                    "1632860"
+                ]
+            },
+            "volume": null,
+            "page": "p 210 (Adv.)",
+            "year": "2012",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2008392",
+                "legacy_id": "457305",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        }
+    ]
+}

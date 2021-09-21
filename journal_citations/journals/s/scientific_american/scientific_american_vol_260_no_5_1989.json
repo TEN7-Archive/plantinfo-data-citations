@@ -1,0 +1,61 @@
+{
+    "name": "Scientific American. vol 260, no. 5. (1989)",
+    "machine_name": "scientific_american_vol_260_no_5_1989",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1989",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2118955",
+        "legacy_id": "56170",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Scientific American. vol 260, no. 5. (1989) p 105",
+            "machine_name": "scientific_american_vol_260_no_5_1989_p_105",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "podocarpus_oleifolius",
+                "type": "species",
+                "archival_data": [
+                    "1448130"
+                ]
+            },
+            "volume": null,
+            "page": "p 105",
+            "year": "1989",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1919567",
+                "legacy_id": "273371",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        }
+    ]
+}

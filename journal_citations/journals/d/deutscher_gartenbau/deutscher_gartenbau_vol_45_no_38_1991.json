@@ -1,0 +1,61 @@
+{
+    "name": "Deutscher Gartenbau. vol 45, no. 38. (1991)",
+    "machine_name": "deutscher_gartenbau_vol_45_no_38_1991",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1991",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2111703",
+        "legacy_id": "2256",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Deutscher Gartenbau. vol 45, no. 38. (1991) p 2327",
+            "machine_name": "deutscher_gartenbau_vol_45_no_38_1991_p_2327",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hydrangea_macrophylla_lemon_wave",
+                "type": "variety",
+                "archival_data": [
+                    "1481198"
+                ]
+            },
+            "volume": null,
+            "page": "p 2327",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1722635",
+                "legacy_id": "22032",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        }
+    ]
+}

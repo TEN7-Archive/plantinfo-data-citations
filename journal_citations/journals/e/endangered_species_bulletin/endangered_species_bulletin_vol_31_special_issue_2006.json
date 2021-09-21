@@ -1,0 +1,143 @@
+{
+    "name": "Endangered Species Bulletin. vol 31 special issue (2006)",
+    "machine_name": "endangered_species_bulletin_vol_31_special_issue_2006",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2006",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2121045",
+        "legacy_id": "82169",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Endangered Species Bulletin. vol 31 special issue (2006) p inside cover",
+            "machine_name": "endangered_species_bulletin_vol_31_special_issue_2006_p_inside_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lilium_pyrophilum",
+                "type": "species",
+                "archival_data": [
+                    "1449966"
+                ]
+            },
+            "volume": null,
+            "page": "p inside cover",
+            "year": "2006",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1974453",
+                "legacy_id": "341892",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        },
+        {
+            "name": "Endangered Species Bulletin. vol 31 special issue (2006) p 27",
+            "machine_name": "endangered_species_bulletin_vol_31_special_issue_2006_p_27",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "helianthus_eggertii",
+                "type": "species",
+                "archival_data": [
+                    "1445336"
+                ]
+            },
+            "volume": null,
+            "page": "p 27",
+            "year": "2006",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1974454",
+                "legacy_id": "341893",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        },
+        {
+            "name": "Endangered Species Bulletin. vol 31 special issue (2006) p 36",
+            "machine_name": "endangered_species_bulletin_vol_31_special_issue_2006_p_36",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hesperomannia_arbuscula",
+                "type": "species",
+                "archival_data": [
+                    "1449723"
+                ]
+            },
+            "volume": null,
+            "page": "p 36",
+            "year": "2006",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1974455",
+                "legacy_id": "341894",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        }
+    ]
+}

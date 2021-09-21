@@ -1,0 +1,102 @@
+{
+    "name": "Gloxinian, The. vol 44, no. 1. (1994)",
+    "machine_name": "gloxinian_the_vol_44_no_1_1994",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1994",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2109720",
+        "legacy_id": "3079",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Gloxinian, The. vol 44, no. 1. (1994) p 29",
+            "machine_name": "gloxinian_the_vol_44_no_1_1994_p_29",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "achimenantha_cultivars_dutch_treat",
+                "type": "variety",
+                "archival_data": [
+                    "1463712"
+                ]
+            },
+            "volume": null,
+            "page": "p 29",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1705068",
+                "legacy_id": "652",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Gloxinian, The. vol 44, no. 1. (1994) p cover",
+            "machine_name": "gloxinian_the_vol_44_no_1_1994_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "nematanthus_cultivars_tropicana",
+                "type": "variety",
+                "archival_data": [
+                    "1485089"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1733052",
+                "legacy_id": "33746",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        }
+    ]
+}

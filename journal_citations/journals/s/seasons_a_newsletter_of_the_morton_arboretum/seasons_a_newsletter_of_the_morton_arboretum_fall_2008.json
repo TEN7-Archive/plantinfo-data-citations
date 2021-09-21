@@ -1,0 +1,184 @@
+{
+    "name": "Seasons: A Newsletter of The Morton Arboretum. Fall 2008.",
+    "machine_name": "seasons_a_newsletter_of_the_morton_arboretum_fall_2008",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1691514",
+        "legacy_id": "102329",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Seasons: A Newsletter of The Morton Arboretum. Fall 2008. p cover",
+            "machine_name": "seasons_a_newsletter_of_the_morton_arboretum_fall_2008_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "acer_saccharum",
+                "type": "species",
+                "archival_data": [
+                    "1403193"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1981466",
+                "legacy_id": "394616",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Seasons: A Newsletter of The Morton Arboretum. Fall 2008. p 9",
+            "machine_name": "seasons_a_newsletter_of_the_morton_arboretum_fall_2008_p_9",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "carya_illinoinensis",
+                "type": "species",
+                "archival_data": [
+                    "1408577"
+                ]
+            },
+            "volume": null,
+            "page": "p 9",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1981467",
+                "legacy_id": "394617",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Seasons: A Newsletter of The Morton Arboretum. Fall 2008. p 9",
+            "machine_name": "seasons_a_newsletter_of_the_morton_arboretum_fall_2008_p_9",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "parthenocissus_tricuspidata",
+                "type": "species",
+                "archival_data": [
+                    "1425582"
+                ]
+            },
+            "volume": null,
+            "page": "p 9",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1981468",
+                "legacy_id": "394618",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Seasons: A Newsletter of The Morton Arboretum. Fall 2008. p 9",
+            "machine_name": "seasons_a_newsletter_of_the_morton_arboretum_fall_2008_p_9",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cupressus_nootkatensis",
+                "type": "species",
+                "archival_data": [
+                    "1452321"
+                ]
+            },
+            "volume": null,
+            "page": "p 9",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1981469",
+                "legacy_id": "394619",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        }
+    ]
+}

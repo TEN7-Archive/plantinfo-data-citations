@@ -1,0 +1,143 @@
+{
+    "name": "Herb Quarterly, The. no. 86. (2000)",
+    "machine_name": "herb_quarterly_the_no_86_2000",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2000",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2116347",
+        "legacy_id": "13669",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Herb Quarterly, The. no. 86. (2000) p 36",
+            "machine_name": "herb_quarterly_the_no_86_2000_p_36",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "actaea_racemosa",
+                "type": "species",
+                "archival_data": [
+                    "1442496"
+                ]
+            },
+            "volume": null,
+            "page": "p 36",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1869323",
+                "legacy_id": "190970",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Herb Quarterly, The. no. 86. (2000) p 38",
+            "machine_name": "herb_quarterly_the_no_86_2000_p_38",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "angelica_sinensis",
+                "type": "species",
+                "archival_data": [
+                    "1399485"
+                ]
+            },
+            "volume": null,
+            "page": "p 38",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1869324",
+                "legacy_id": "190971",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Herb Quarterly, The. no. 86. (2000) p 43",
+            "machine_name": "herb_quarterly_the_no_86_2000_p_43",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "chamerion_angustifolium",
+                "type": "species",
+                "archival_data": [
+                    "1405924"
+                ]
+            },
+            "volume": null,
+            "page": "p 43",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1869325",
+                "legacy_id": "190972",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        }
+    ]
+}

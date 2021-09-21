@@ -1,0 +1,717 @@
+{
+    "name": "Northern Gardener. vol 131, no. 8. (2003)",
+    "machine_name": "northern_gardener_vol_131_no_8_2003",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2003",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2118240",
+        "legacy_id": "48890",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Northern Gardener. vol 131, no. 8. (2003) p cover;22",
+            "machine_name": "northern_gardener_vol_131_no_8_2003_p_cover_22",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "erinus_alpinus",
+                "type": "species",
+                "archival_data": [
+                    "1411757"
+                ]
+            },
+            "volume": null,
+            "page": "p cover;22",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1907761",
+                "legacy_id": "259970",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Northern Gardener. vol 131, no. 8. (2003) p 12",
+            "machine_name": "northern_gardener_vol_131_no_8_2003_p_12",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "acer_saccharum",
+                "type": "species",
+                "archival_data": [
+                    "1403193"
+                ]
+            },
+            "volume": null,
+            "page": "p 12",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1907762",
+                "legacy_id": "259971",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Northern Gardener. vol 131, no. 8. (2003) p 14",
+            "machine_name": "northern_gardener_vol_131_no_8_2003_p_14",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hemerocallis_cultivars_barbara_mitchell",
+                "type": "variety",
+                "archival_data": [
+                    "1476220"
+                ]
+            },
+            "volume": null,
+            "page": "p 14",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1907763",
+                "legacy_id": "259972",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Northern Gardener. vol 131, no. 8. (2003) p 19",
+            "machine_name": "northern_gardener_vol_131_no_8_2003_p_19",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cucurbita_p_cultivars_howden_biggie",
+                "type": "variety",
+                "archival_data": [
+                    "1468379"
+                ]
+            },
+            "volume": null,
+            "page": "p 19",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1907764",
+                "legacy_id": "259973",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Northern Gardener. vol 131, no. 8. (2003) p 20",
+            "machine_name": "northern_gardener_vol_131_no_8_2003_p_20",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cucurbita_p_cultivars_rouge_vif_d_etampes",
+                "type": "variety",
+                "archival_data": [
+                    "1468627"
+                ]
+            },
+            "volume": null,
+            "page": "p 20",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1907765",
+                "legacy_id": "259974",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Northern Gardener. vol 131, no. 8. (2003) p 20",
+            "machine_name": "northern_gardener_vol_131_no_8_2003_p_20",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cucurbita_p_cultivars_connecticut_field",
+                "type": "variety",
+                "archival_data": [
+                    "1500724"
+                ]
+            },
+            "volume": null,
+            "page": "p 20",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1907766",
+                "legacy_id": "259975",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Northern Gardener. vol 131, no. 8. (2003) p 20",
+            "machine_name": "northern_gardener_vol_131_no_8_2003_p_20",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cucurbita_p_cultivars_jack_be_little",
+                "type": "variety",
+                "archival_data": [
+                    "1468382"
+                ]
+            },
+            "volume": null,
+            "page": "p 20",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1907767",
+                "legacy_id": "259976",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Northern Gardener. vol 131, no. 8. (2003) p 20",
+            "machine_name": "northern_gardener_vol_131_no_8_2003_p_20",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cucurbita_s_cultivars_jarrahdale",
+                "type": "variety",
+                "archival_data": [
+                    "1501045"
+                ]
+            },
+            "volume": null,
+            "page": "p 20",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1907768",
+                "legacy_id": "259977",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Northern Gardener. vol 131, no. 8. (2003) p 20",
+            "machine_name": "northern_gardener_vol_131_no_8_2003_p_20",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cucurbita_p_cultivars_lumina",
+                "type": "variety",
+                "archival_data": [
+                    "1468392"
+                ]
+            },
+            "volume": null,
+            "page": "p 20",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1907769",
+                "legacy_id": "259978",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Northern Gardener. vol 131, no. 8. (2003) p 20",
+            "machine_name": "northern_gardener_vol_131_no_8_2003_p_20",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cucurbita_p_cultivars_baby_pam",
+                "type": "variety",
+                "archival_data": [
+                    "1500718"
+                ]
+            },
+            "volume": null,
+            "page": "p 20",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1907770",
+                "legacy_id": "259979",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Northern Gardener. vol 131, no. 8. (2003) p 23",
+            "machine_name": "northern_gardener_vol_131_no_8_2003_p_23",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "heuchera_pulchella",
+                "type": "species",
+                "archival_data": [
+                    "1443452"
+                ]
+            },
+            "volume": null,
+            "page": "p 23",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1907771",
+                "legacy_id": "259980",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Northern Gardener. vol 131, no. 8. (2003) p 24",
+            "machine_name": "northern_gardener_vol_131_no_8_2003_p_24",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "draba_rigida",
+                "type": "species",
+                "archival_data": [
+                    "1403988"
+                ]
+            },
+            "volume": null,
+            "page": "p 24",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1907772",
+                "legacy_id": "259981",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Northern Gardener. vol 131, no. 8. (2003) p 24",
+            "machine_name": "northern_gardener_vol_131_no_8_2003_p_24",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lewisia_columbeana_rupicola",
+                "type": "variety",
+                "archival_data": [
+                    "1478089"
+                ]
+            },
+            "volume": null,
+            "page": "p 24",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1907773",
+                "legacy_id": "259982",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Northern Gardener. vol 131, no. 8. (2003) p 24",
+            "machine_name": "northern_gardener_vol_131_no_8_2003_p_24",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "saxifraga_umbrosa_primuloides",
+                "type": "variety",
+                "archival_data": [
+                    "1529593"
+                ]
+            },
+            "volume": null,
+            "page": "p 24",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1907774",
+                "legacy_id": "259983",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Northern Gardener. vol 131, no. 8. (2003) p 26",
+            "machine_name": "northern_gardener_vol_131_no_8_2003_p_26",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "phlox_subulata_tamanogalei_candy_stripe",
+                "type": "variety",
+                "archival_data": [
+                    "1489539"
+                ]
+            },
+            "volume": null,
+            "page": "p 26",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1907775",
+                "legacy_id": "259984",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Northern Gardener. vol 131, no. 8. (2003) p 26",
+            "machine_name": "northern_gardener_vol_131_no_8_2003_p_26",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "aubrieta_gracilis",
+                "type": "species",
+                "archival_data": [
+                    "1398777"
+                ]
+            },
+            "volume": null,
+            "page": "p 26",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1907776",
+                "legacy_id": "259985",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Northern Gardener. vol 131, no. 8. (2003) p 26",
+            "machine_name": "northern_gardener_vol_131_no_8_2003_p_26",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "penstemon_fruticosus_serratus",
+                "type": "variety",
+                "archival_data": [
+                    "1485876"
+                ]
+            },
+            "volume": null,
+            "page": "p 26",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1907777",
+                "legacy_id": "259986",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        }
+    ]
+}

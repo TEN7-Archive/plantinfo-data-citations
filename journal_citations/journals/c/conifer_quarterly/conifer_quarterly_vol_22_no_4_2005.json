@@ -1,0 +1,102 @@
+{
+    "name": "Conifer Quarterly. vol 22, no. 4. (2005)",
+    "machine_name": "conifer_quarterly_vol_22_no_4_2005",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2005",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2121663",
+        "legacy_id": "68489",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Conifer Quarterly. vol 22, no. 4. (2005) p cover",
+            "machine_name": "conifer_quarterly_vol_22_no_4_2005_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cupressus_glabra_blue_ice",
+                "type": "variety",
+                "archival_data": [
+                    "1566933"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "2005",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1992452",
+                "legacy_id": "308030",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Conifer Quarterly. vol 22, no. 4. (2005) p inside backcover",
+            "machine_name": "conifer_quarterly_vol_22_no_4_2005_p_inside_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "picea_orientalis_skylands",
+                "type": "variety",
+                "archival_data": [
+                    "1490411"
+                ]
+            },
+            "volume": null,
+            "page": "p inside backcover",
+            "year": "2005",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1992453",
+                "legacy_id": "308031",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        }
+    ]
+}

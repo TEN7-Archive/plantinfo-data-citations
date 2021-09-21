@@ -1,0 +1,61 @@
+{
+    "name": "BioScience. vol 52, no. 10. (2002)",
+    "machine_name": "bioscience_vol_52_no_10_2002",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2002",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2117833",
+        "legacy_id": "44290",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "BioScience. vol 52, no. 10. (2002) p 879",
+            "machine_name": "bioscience_vol_52_no_10_2002_p_879",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "nuphar_polysepala",
+                "type": "species",
+                "archival_data": [
+                    "1425103"
+                ]
+            },
+            "volume": null,
+            "page": "p 879",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1897997",
+                "legacy_id": "245193",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        }
+    ]
+}

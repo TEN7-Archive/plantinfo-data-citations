@@ -1,0 +1,61 @@
+{
+    "name": "Smithsonian. Vol 14, no. 11. (1984)",
+    "machine_name": "smithsonian_vol_14_no_11_1984",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1984",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114469",
+        "legacy_id": "5528",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Smithsonian. Vol 14, no. 11. (1984) p 130",
+            "machine_name": "smithsonian_vol_14_no_11_1984_p_130",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "piper_nigrum",
+                "type": "species",
+                "archival_data": [
+                    "1425640"
+                ]
+            },
+            "volume": null,
+            "page": "p 130",
+            "year": "1984",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1818822",
+                "legacy_id": "122151",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        }
+    ]
+}

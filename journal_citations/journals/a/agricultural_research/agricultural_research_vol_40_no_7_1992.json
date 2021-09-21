@@ -1,0 +1,102 @@
+{
+    "name": "Agricultural Research. vol 40, no. 7. (1992)",
+    "machine_name": "agricultural_research_vol_40_no_7_1992",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1992",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113829",
+        "legacy_id": "71",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Agricultural Research. vol 40, no. 7. (1992) p 23|25",
+            "machine_name": "agricultural_research_vol_40_no_7_1992_p_23_25",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cenchrus_ciliaris",
+                "type": "species",
+                "archival_data": [
+                    "1404095"
+                ]
+            },
+            "volume": null,
+            "page": "p 23|25",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1778145",
+                "legacy_id": "80664",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Agricultural Research. vol 40, no. 7. (1992) p 24",
+            "machine_name": "agricultural_research_vol_40_no_7_1992_p_24",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "eragrostis_curvula",
+                "type": "species",
+                "archival_data": [
+                    "1415102"
+                ]
+            },
+            "volume": null,
+            "page": "p 24",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1786444",
+                "legacy_id": "92479",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "name": "American Iris Society, Bulletin. vol 58, no. 4. (1977)",
+    "machine_name": "american_iris_society_bulletin_vol_58_no_4_1977",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1977",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": "7",
+    "description": null,
+    "archival_data": {
+        "id": "2587526",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1576773481"
+    },
+    "citation_reference_items": [
+        {
+            "name": "American Iris Society, Bulletin. vol 58, no. 4. (1977)  p cover",
+            "machine_name": "american_iris_society_bulletin_vol_58_no_4_1977_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "iris_cultivars_bayberry_candle",
+                "type": "variety",
+                "archival_data": [
+                    "1513713"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2587531",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1576773620"
+            }
+        },
+        {
+            "name": "American Iris Society, Bulletin. vol 58, no. 4. (1977)  p backcover (Adv.)",
+            "machine_name": "american_iris_society_bulletin_vol_58_no_4_1977_p_backcover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "iris_cultivars_bride_s_halo",
+                "type": "variety",
+                "archival_data": [
+                    "1478822"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2587536",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1576773620"
+            }
+        }
+    ]
+}

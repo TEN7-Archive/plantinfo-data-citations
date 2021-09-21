@@ -1,0 +1,102 @@
+{
+    "name": "American Dahlia Society, Bulletin. vol 79, no. 4. (1992)",
+    "machine_name": "american_dahlia_society_bulletin_vol_79_no_4_1992",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1992",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2110817",
+        "legacy_id": "190",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "American Dahlia Society, Bulletin. vol 79, no. 4. (1992) p backcover (Adv.)",
+            "machine_name": "american_dahlia_society_bulletin_vol_79_no_4_1992_p_backcover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "dahlia_cultivars_sea_helado",
+                "type": "variety",
+                "archival_data": [
+                    "1468415"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover (Adv.)",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1711733",
+                "legacy_id": "11391",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "American Dahlia Society, Bulletin. vol 79, no. 4. (1992) p cover",
+            "machine_name": "american_dahlia_society_bulletin_vol_79_no_4_1992_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "dahlia_cultivars_envy",
+                "type": "variety",
+                "archival_data": [
+                    "1467462"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1715611",
+                "legacy_id": "11041",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        }
+    ]
+}

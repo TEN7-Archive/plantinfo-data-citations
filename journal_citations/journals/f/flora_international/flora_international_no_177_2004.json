@@ -1,0 +1,102 @@
+{
+    "name": "Flora International. no. 177. (2004)",
+    "machine_name": "flora_international_no_177_2004",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2004",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2119366",
+        "legacy_id": "58895",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Flora International. no. 177. (2004) p 18",
+            "machine_name": "flora_international_no_177_2004_p_18",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_alnwick_castle",
+                "type": "variety",
+                "archival_data": [
+                    "1571365"
+                ]
+            },
+            "volume": null,
+            "page": "p 18",
+            "year": "2004",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1930321",
+                "legacy_id": "279772",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "Flora International. no. 177. (2004) p 34",
+            "machine_name": "flora_international_no_177_2004_p_34",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hosta_cultivars_mrs_minky",
+                "type": "variety",
+                "archival_data": [
+                    "1538893"
+                ]
+            },
+            "volume": null,
+            "page": "p 34",
+            "year": "2004",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1930322",
+                "legacy_id": "279773",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        }
+    ]
+}

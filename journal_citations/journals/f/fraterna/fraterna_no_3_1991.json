@@ -1,0 +1,184 @@
+{
+    "name": "Fraterna. no. 3. (1991)",
+    "machine_name": "fraterna_no_3_1991",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1991",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2111869",
+        "legacy_id": "2677",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Fraterna. no. 3. (1991) p 10",
+            "machine_name": "fraterna_no_3_1991_p_10",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hoya_cultivars_iml_232",
+                "type": "variety",
+                "archival_data": [
+                    "1480610"
+                ]
+            },
+            "volume": null,
+            "page": "p 10",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1727005",
+                "legacy_id": "21812",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Fraterna. no. 3. (1991) p 12-13",
+            "machine_name": "fraterna_no_3_1991_p_12_13",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hoya_pubicalyx_chimera",
+                "type": "variety",
+                "archival_data": [
+                    "1480631"
+                ]
+            },
+            "volume": null,
+            "page": "p 12-13",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1727039",
+                "legacy_id": "21846",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Fraterna. no. 3. (1991) p cover",
+            "machine_name": "fraterna_no_3_1991_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hoya_archboldiana",
+                "type": "species",
+                "archival_data": [
+                    "1420221"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1797769",
+                "legacy_id": "103293",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Fraterna. no. 3. (1991) p 4",
+            "machine_name": "fraterna_no_3_1991_p_4",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hoya_nicholsoniae",
+                "type": "species",
+                "archival_data": [
+                    "1420582"
+                ]
+            },
+            "volume": null,
+            "page": "p 4",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1798152",
+                "legacy_id": "103428",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        }
+    ]
+}

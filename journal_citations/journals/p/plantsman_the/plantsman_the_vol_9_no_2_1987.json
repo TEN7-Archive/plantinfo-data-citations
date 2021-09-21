@@ -1,0 +1,102 @@
+{
+    "name": "Plantsman, The. vol 9, no. 2. (1987)",
+    "machine_name": "plantsman_the_vol_9_no_2_1987",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1987",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113653",
+        "legacy_id": "5291",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Plantsman, The. vol 9, no. 2. (1987) p facing 65",
+            "machine_name": "plantsman_the_vol_9_no_2_1987_p_facing_65",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "buddleja_australis",
+                "type": "species",
+                "archival_data": [
+                    "1397745"
+                ]
+            },
+            "volume": null,
+            "page": "p facing 65",
+            "year": "1987",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1770352",
+                "legacy_id": "77237",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Plantsman, The. vol 9, no. 2. (1987) p facing 65",
+            "machine_name": "plantsman_the_vol_9_no_2_1987_p_facing_65",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "buddleja_tubiflora",
+                "type": "species",
+                "archival_data": [
+                    "1398052"
+                ]
+            },
+            "volume": null,
+            "page": "p facing 65",
+            "year": "1987",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1770403",
+                "legacy_id": "77288",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "name": "Natural History. vol 118, no. 9. (2009)",
+    "machine_name": "natural_history_vol_118_no_9_2009",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2009",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2121872",
+        "legacy_id": "106993",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Natural History. vol 118, no. 9. (2009) p 38-39",
+            "machine_name": "natural_history_vol_118_no_9_2009_p_38_39",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "taxodium_distichum",
+                "type": "species",
+                "archival_data": [
+                    "1429331"
+                ]
+            },
+            "volume": null,
+            "page": "p 38-39",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1998069",
+                "legacy_id": "406235",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Natural History. vol 118, no. 9. (2009) p 39",
+            "machine_name": "natural_history_vol_118_no_9_2009_p_39",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "taxodium_ascendens",
+                "type": "species",
+                "archival_data": [
+                    "1429330"
+                ]
+            },
+            "volume": null,
+            "page": "p 39",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1998070",
+                "legacy_id": "406236",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        }
+    ]
+}

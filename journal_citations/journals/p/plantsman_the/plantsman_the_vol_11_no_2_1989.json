@@ -1,0 +1,61 @@
+{
+    "name": "Plantsman, The. vol 11, no. 2. (1989)",
+    "machine_name": "plantsman_the_vol_11_no_2_1989",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1989",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2111133",
+        "legacy_id": "5251",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Plantsman, The. vol 11, no. 2. (1989) p facing 65",
+            "machine_name": "plantsman_the_vol_11_no_2_1989_p_facing_65",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cyrtanthus_mackenii_cooperi",
+                "type": "variety",
+                "archival_data": [
+                    "1471389"
+                ]
+            },
+            "volume": null,
+            "page": "p facing 65",
+            "year": "1989",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1714618",
+                "legacy_id": "10798",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        }
+    ]
+}

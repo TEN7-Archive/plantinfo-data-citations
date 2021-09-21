@@ -1,0 +1,61 @@
+{
+    "name": "Seed World. January 2016.",
+    "machine_name": "seed_world_january_2016",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": "7",
+    "description": null,
+    "archival_data": {
+        "id": "2100541",
+        "legacy_id": null,
+        "author": "kallen",
+        "created": "1479412045"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Seed World. January 2016. p 26",
+            "machine_name": "seed_world_january_2016_p_26",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "sorghum_bicolor",
+                "type": "species",
+                "archival_data": [
+                    "1431495"
+                ]
+            },
+            "volume": null,
+            "page": "p 26",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": true,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2100546",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "kallen",
+                "created": "1479412442"
+            }
+        }
+    ]
+}

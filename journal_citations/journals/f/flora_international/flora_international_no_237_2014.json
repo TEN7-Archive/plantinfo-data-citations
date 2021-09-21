@@ -1,0 +1,61 @@
+{
+    "name": "Flora International. no. 237. (2014)",
+    "machine_name": "flora_international_no_237_2014",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2014",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2122540",
+        "legacy_id": "125017",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Flora International. no. 237. (2014) p 51 (Adv.)",
+            "machine_name": "flora_international_no_237_2014_p_51_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_tess",
+                "type": "variety",
+                "archival_data": [
+                    "1660981"
+                ]
+            },
+            "volume": null,
+            "page": "p 51 (Adv.)",
+            "year": "2014",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2007211",
+                "legacy_id": "480222",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        }
+    ]
+}

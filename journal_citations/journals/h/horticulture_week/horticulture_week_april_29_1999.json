@@ -1,0 +1,102 @@
+{
+    "name": "Horticulture Week. April 29, 1999.",
+    "machine_name": "horticulture_week_april_29_1999",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1680958",
+        "legacy_id": "7411",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Horticulture Week. April 29, 1999. p 2 (Adv.)",
+            "machine_name": "horticulture_week_april_29_1999_p_2_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "impatiens_cultivars_infinity_series",
+                "type": "variety",
+                "archival_data": [
+                    "1542836"
+                ]
+            },
+            "volume": null,
+            "page": "p 2 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1854174",
+                "legacy_id": "160072",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Horticulture Week. April 29, 1999. p 5",
+            "machine_name": "horticulture_week_april_29_1999_p_5",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "tagetes_cultivars_safari_series",
+                "type": "variety",
+                "archival_data": [
+                    "1491002"
+                ]
+            },
+            "volume": null,
+            "page": "p 5",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1854175",
+                "legacy_id": "160073",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        }
+    ]
+}

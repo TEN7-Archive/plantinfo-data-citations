@@ -1,0 +1,184 @@
+{
+    "name": "American Forests. vol 107, no. 2. (2001)",
+    "machine_name": "american_forests_vol_107_no_2_2001",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2001",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2117230",
+        "legacy_id": "27989",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "American Forests. vol 107, no. 2. (2001) p cover;36-37",
+            "machine_name": "american_forests_vol_107_no_2_2001_p_cover_36_37",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "tsuga_canadensis",
+                "type": "species",
+                "archival_data": [
+                    "1427535"
+                ]
+            },
+            "volume": null,
+            "page": "p cover;36-37",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1885829",
+                "legacy_id": "218590",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "American Forests. vol 107, no. 2. (2001) p 26",
+            "machine_name": "american_forests_vol_107_no_2_2001_p_26",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "nyssa_sylvatica",
+                "type": "species",
+                "archival_data": [
+                    "1425436"
+                ]
+            },
+            "volume": null,
+            "page": "p 26",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1885830",
+                "legacy_id": "218591",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "American Forests. vol 107, no. 2. (2001) p 35",
+            "machine_name": "american_forests_vol_107_no_2_2001_p_35",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "alliaria_petiolata",
+                "type": "species",
+                "archival_data": [
+                    "1401762"
+                ]
+            },
+            "volume": null,
+            "page": "p 35",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1885831",
+                "legacy_id": "218592",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "American Forests. vol 107, no. 2. (2001) p 44;46-47",
+            "machine_name": "american_forests_vol_107_no_2_2001_p_44_46_47",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "magnolia_grandiflora",
+                "type": "species",
+                "archival_data": [
+                    "1421178"
+                ]
+            },
+            "volume": null,
+            "page": "p 44;46-47",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": true,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1885832",
+                "legacy_id": "218593",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        }
+    ]
+}

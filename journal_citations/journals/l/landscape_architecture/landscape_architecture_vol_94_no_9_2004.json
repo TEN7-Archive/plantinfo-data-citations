@@ -1,0 +1,102 @@
+{
+    "name": "Landscape Architecture. vol 94, no. 9. (2004)",
+    "machine_name": "landscape_architecture_vol_94_no_9_2004",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2004",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2120054",
+        "legacy_id": "60750",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Landscape Architecture. vol 94, no. 9. (2004) p 54 (Adv.)",
+            "machine_name": "landscape_architecture_vol_94_no_9_2004_p_54_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "acer_freemanii_autumn_blaze",
+                "type": "variety",
+                "archival_data": [
+                    "1600016"
+                ]
+            },
+            "volume": null,
+            "page": "p 54 (Adv.)",
+            "year": "2004",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1948027",
+                "legacy_id": "285586",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "Landscape Architecture. vol 94, no. 9. (2004) p 128 (Adv.)",
+            "machine_name": "landscape_architecture_vol_94_no_9_2004_p_128_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ulmus_davidiana_accolade",
+                "type": "variety",
+                "archival_data": [
+                    "1538044"
+                ]
+            },
+            "volume": null,
+            "page": "p 128 (Adv.)",
+            "year": "2004",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1948028",
+                "legacy_id": "285587",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        }
+    ]
+}

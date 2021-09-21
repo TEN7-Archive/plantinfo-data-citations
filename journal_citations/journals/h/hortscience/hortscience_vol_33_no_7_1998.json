@@ -1,0 +1,143 @@
+{
+    "name": "HortScience. vol 33, no. 7. (1998)",
+    "machine_name": "hortscience_vol_33_no_7_1998",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1998",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2115198",
+        "legacy_id": "6820",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "HortScience. vol 33, no. 7. (1998) p cover",
+            "machine_name": "hortscience_vol_33_no_7_1998_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cycas_micronesica",
+                "type": "species",
+                "archival_data": [
+                    "1443202"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1846839",
+                "legacy_id": "153129",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "HortScience. vol 33, no. 7. (1998) p 1265",
+            "machine_name": "hortscience_vol_33_no_7_1998_p_1265",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cornus_florida_appalachian_spring",
+                "type": "variety",
+                "archival_data": [
+                    "1541002"
+                ]
+            },
+            "volume": null,
+            "page": "p 1265",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1846840",
+                "legacy_id": "153130",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "HortScience. vol 33, no. 7. (1998) p 1269",
+            "machine_name": "hortscience_vol_33_no_7_1998_p_1269",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_hope_for_humanity",
+                "type": "variety",
+                "archival_data": [
+                    "1494289"
+                ]
+            },
+            "volume": null,
+            "page": "p 1269",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1846841",
+                "legacy_id": "153131",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        }
+    ]
+}

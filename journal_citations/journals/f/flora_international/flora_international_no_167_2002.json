@@ -1,0 +1,102 @@
+{
+    "name": "Flora International. no. 167. (2002)",
+    "machine_name": "flora_international_no_167_2002",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2002",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2118201",
+        "legacy_id": "48732",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Flora International. no. 167. (2002) p 12-13",
+            "machine_name": "flora_international_no_167_2002_p_12_13",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_geranium",
+                "type": "variety",
+                "archival_data": [
+                    "1493368"
+                ]
+            },
+            "volume": null,
+            "page": "p 12-13",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1907136",
+                "legacy_id": "259632",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Flora International. no. 167. (2002) p 56",
+            "machine_name": "flora_international_no_167_2002_p_56",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "crocosmia_cultivars_lucifer_series",
+                "type": "variety",
+                "archival_data": [
+                    "1467089"
+                ]
+            },
+            "volume": null,
+            "page": "p 56",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1907137",
+                "legacy_id": "259633",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        }
+    ]
+}

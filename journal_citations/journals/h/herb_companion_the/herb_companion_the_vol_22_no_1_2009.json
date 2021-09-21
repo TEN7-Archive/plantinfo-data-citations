@@ -1,0 +1,143 @@
+{
+    "name": "Herb Companion, The. vol 22, no. 1. (2009)",
+    "machine_name": "herb_companion_the_vol_22_no_1_2009",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2009",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2121963",
+        "legacy_id": "105550",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Herb Companion, The. vol 22, no. 1. (2009) p 17",
+            "machine_name": "herb_companion_the_vol_22_no_1_2009_p_17",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "sambucus_nigra",
+                "type": "species",
+                "archival_data": [
+                    "1430319"
+                ]
+            },
+            "volume": null,
+            "page": "p 17",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1999263",
+                "legacy_id": "402045",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Herb Companion, The. vol 22, no. 1. (2009) p 38",
+            "machine_name": "herb_companion_the_vol_22_no_1_2009_p_38",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "sambucus_canadensis",
+                "type": "species",
+                "archival_data": [
+                    "1430313"
+                ]
+            },
+            "volume": null,
+            "page": "p 38",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1999264",
+                "legacy_id": "402046",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Herb Companion, The. vol 22, no. 1. (2009) p 40",
+            "machine_name": "herb_companion_the_vol_22_no_1_2009_p_40",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "sambucus_cultivars_lace_series",
+                "type": "variety",
+                "archival_data": [
+                    "1561879"
+                ]
+            },
+            "volume": null,
+            "page": "p 40",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1999265",
+                "legacy_id": "402047",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "name": "Sunset. June 2014.",
+    "machine_name": "sunset_june_2014",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1695227",
+        "legacy_id": "124851",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Sunset. June 2014. p 76",
+            "machine_name": "sunset_june_2014_p_76",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "billbergia_pyramidalis",
+                "type": "species",
+                "archival_data": [
+                    "1401572"
+                ]
+            },
+            "volume": null,
+            "page": "p 76",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2018403",
+                "legacy_id": "477902",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        }
+    ]
+}

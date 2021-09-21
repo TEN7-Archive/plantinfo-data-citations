@@ -1,0 +1,61 @@
+{
+    "name": "Grower. September 16, 2004.",
+    "machine_name": "grower_september_16_2004",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1689754",
+        "legacy_id": "60811",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grower. September 16, 2004. p 19",
+            "machine_name": "grower_september_16_2004_p_19",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "buddleja_cultivars_leela_kapila",
+                "type": "variety",
+                "archival_data": [
+                    "1599731"
+                ]
+            },
+            "volume": null,
+            "page": "p 19",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1949284",
+                "legacy_id": "285990",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        }
+    ]
+}

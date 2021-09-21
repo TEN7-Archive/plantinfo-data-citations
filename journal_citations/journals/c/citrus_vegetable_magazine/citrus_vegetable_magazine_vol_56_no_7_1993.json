@@ -1,0 +1,102 @@
+{
+    "name": "Citrus & Vegetable Magazine. vol 56, no. 7. (1993)",
+    "machine_name": "citrus_vegetable_magazine_vol_56_no_7_1993",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1993",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113146",
+        "legacy_id": "1947",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Citrus & Vegetable Magazine. vol 56, no. 7. (1993) p 41 (Adv.)",
+            "machine_name": "citrus_vegetable_magazine_vol_56_no_7_1993_p_41_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "zea_c_cultivars_frontier",
+                "type": "variety",
+                "archival_data": [
+                    "1496381"
+                ]
+            },
+            "volume": null,
+            "page": "p 41 (Adv.)",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1759805",
+                "legacy_id": "60453",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Citrus & Vegetable Magazine. vol 56, no. 7. (1993) p cover",
+            "machine_name": "citrus_vegetable_magazine_vol_56_no_7_1993_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lantana_camara",
+                "type": "species",
+                "archival_data": [
+                    "1420722"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1802599",
+                "legacy_id": "107261",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        }
+    ]
+}

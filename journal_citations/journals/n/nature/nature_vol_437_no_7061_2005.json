@@ -1,0 +1,102 @@
+{
+    "name": "Nature. vol 437, no. 7061. (2005)",
+    "machine_name": "nature_vol_437_no_7061_2005",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2005",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2121743",
+        "legacy_id": "68029",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Nature. vol 437, no. 7061. (2005) p 966",
+            "machine_name": "nature_vol_437_no_7061_2005_p_966",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pinus_aristata",
+                "type": "species",
+                "archival_data": [
+                    "1425264"
+                ]
+            },
+            "volume": null,
+            "page": "p 966",
+            "year": "2005",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1994262",
+                "legacy_id": "306870",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Nature. vol 437, no. 7061. (2005) p 944",
+            "machine_name": "nature_vol_437_no_7061_2005_p_944",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "glycine_max",
+                "type": "species",
+                "archival_data": [
+                    "1440052"
+                ]
+            },
+            "volume": null,
+            "page": "p 944",
+            "year": "2005",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": true,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1995841",
+                "legacy_id": "307327",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        }
+    ]
+}

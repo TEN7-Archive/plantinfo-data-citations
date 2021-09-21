@@ -1,0 +1,61 @@
+{
+    "name": "Natural History. vol 118, no. 4. (2009)",
+    "machine_name": "natural_history_vol_118_no_4_2009",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2009",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2121318",
+        "legacy_id": "102310",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Natural History. vol 118, no. 4. (2009) p 53",
+            "machine_name": "natural_history_vol_118_no_4_2009_p_53",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "campsis_radicans",
+                "type": "species",
+                "archival_data": [
+                    "1407007"
+                ]
+            },
+            "volume": null,
+            "page": "p 53",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1981457",
+                "legacy_id": "394576",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        }
+    ]
+}

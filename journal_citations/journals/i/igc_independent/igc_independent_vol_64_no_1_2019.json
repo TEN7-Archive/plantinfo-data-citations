@@ -1,0 +1,61 @@
+{
+    "name": "IGC Independent. vol 64, no. 1. (2019)",
+    "machine_name": "igc_independent_vol_64_no_1_2019",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2019",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": "7",
+    "description": null,
+    "archival_data": {
+        "id": "2449041",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1549366851"
+    },
+    "citation_reference_items": [
+        {
+            "name": "IGC Independent. vol 64, no. 1. (2019) p 9 (Adv.)",
+            "machine_name": "igc_independent_vol_64_no_1_2019_p_9_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "helianthus_annuus_sun_believable_series",
+                "type": "variety",
+                "archival_data": [
+                    "2367316"
+                ]
+            },
+            "volume": null,
+            "page": "p 9 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2449046",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1549366951"
+            }
+        }
+    ]
+}

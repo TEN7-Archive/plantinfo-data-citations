@@ -1,0 +1,184 @@
+{
+    "name": "Grower. vol 133, no. 21. (2000)",
+    "machine_name": "grower_vol_133_no_21_2000",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2000",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2118581",
+        "legacy_id": "50532",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grower. vol 133, no. 21. (2000) p 11",
+            "machine_name": "grower_vol_133_no_21_2000_p_11",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "fragaria_ananassa_rosie",
+                "type": "variety",
+                "archival_data": [
+                    "1548981"
+                ]
+            },
+            "volume": null,
+            "page": "p 11",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1913812",
+                "legacy_id": "264011",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Grower. vol 133, no. 21. (2000) p 12",
+            "machine_name": "grower_vol_133_no_21_2000_p_12",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "fragaria_ananassa_alice",
+                "type": "variety",
+                "archival_data": [
+                    "1551543"
+                ]
+            },
+            "volume": null,
+            "page": "p 12",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1913813",
+                "legacy_id": "264012",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Grower. vol 133, no. 21. (2000) p 20 (Adv.)",
+            "machine_name": "grower_vol_133_no_21_2000_p_20_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "brassica_oleracea_c_tundra",
+                "type": "variety",
+                "archival_data": [
+                    "1497669"
+                ]
+            },
+            "volume": null,
+            "page": "p 20 (Adv.)",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1913814",
+                "legacy_id": "264013",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Grower. vol 133, no. 21. (2000) p 4",
+            "machine_name": "grower_vol_133_no_21_2000_p_4",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "amorphophallus_paeoniifolius",
+                "type": "species",
+                "archival_data": [
+                    "1433663"
+                ]
+            },
+            "volume": null,
+            "page": "p 4",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1915723",
+                "legacy_id": "264876",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        }
+    ]
+}

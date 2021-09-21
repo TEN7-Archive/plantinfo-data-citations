@@ -1,0 +1,143 @@
+{
+    "name": "Daylily Journal, The. vol 36, no. 3. (1982)",
+    "machine_name": "daylily_journal_the_vol_36_no_3_1982",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1982",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2111452",
+        "legacy_id": "2108",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Daylily Journal, The. vol 36, no. 3. (1982) p inside backcover",
+            "machine_name": "daylily_journal_the_vol_36_no_3_1982_p_inside_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hemerocallis_cultivars_canadian_mist",
+                "type": "variety",
+                "archival_data": [
+                    "1472032"
+                ]
+            },
+            "volume": null,
+            "page": "p inside backcover",
+            "year": "1982",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1718455",
+                "legacy_id": "18372",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Daylily Journal, The. vol 36, no. 3. (1982) p cover",
+            "machine_name": "daylily_journal_the_vol_36_no_3_1982_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hemerocallis_cultivars_gallant_eyes",
+                "type": "variety",
+                "archival_data": [
+                    "1473288"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1982",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1720390",
+                "legacy_id": "18823",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Daylily Journal, The. vol 36, no. 3. (1982) p inside backcover",
+            "machine_name": "daylily_journal_the_vol_36_no_3_1982_p_inside_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hemerocallis_cultivars_spanish_fandango",
+                "type": "variety",
+                "archival_data": [
+                    "1471825"
+                ]
+            },
+            "volume": null,
+            "page": "p inside backcover",
+            "year": "1982",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1724997",
+                "legacy_id": "20033",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        }
+    ]
+}

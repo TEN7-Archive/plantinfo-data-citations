@@ -1,0 +1,594 @@
+{
+    "name": "HerbalGram. no. 79. (2008)",
+    "machine_name": "herbalgram_no_79_2008",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2008",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2119204",
+        "legacy_id": "96269",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "HerbalGram. no. 79. (2008) p 1",
+            "machine_name": "herbalgram_no_79_2008_p_1",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "valeriana_officinalis",
+                "type": "species",
+                "archival_data": [
+                    "1428988"
+                ]
+            },
+            "volume": null,
+            "page": "p 1",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1925831",
+                "legacy_id": "378672",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "HerbalGram. no. 79. (2008) p 17 (Adv.);29",
+            "machine_name": "herbalgram_no_79_2008_p_17_adv_29",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ginkgo_biloba",
+                "type": "species",
+                "archival_data": [
+                    "1411935"
+                ]
+            },
+            "volume": null,
+            "page": "p 17 (Adv.);29",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1925832",
+                "legacy_id": "378673",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "HerbalGram. no. 79. (2008) p 30",
+            "machine_name": "herbalgram_no_79_2008_p_30",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "tanacetum_parthenium",
+                "type": "species",
+                "archival_data": [
+                    "1429292"
+                ]
+            },
+            "volume": null,
+            "page": "p 30",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1925833",
+                "legacy_id": "378674",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "HerbalGram. no. 79. (2008) p cover;32-33;36;39",
+            "machine_name": "herbalgram_no_79_2008_p_cover_32_33_36_39",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "sclerocarya_birrea",
+                "type": "species",
+                "archival_data": [
+                    "1433326"
+                ]
+            },
+            "volume": null,
+            "page": "p cover;32-33;36;39",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": true,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1925834",
+                "legacy_id": "378675",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "HerbalGram. no. 79. (2008) p 47",
+            "machine_name": "herbalgram_no_79_2008_p_47",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "errazurizia_rotundata",
+                "type": "species",
+                "archival_data": [
+                    "1453520"
+                ]
+            },
+            "volume": null,
+            "page": "p 47",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1925835",
+                "legacy_id": "378676",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "HerbalGram. no. 79. (2008) p 48",
+            "machine_name": "herbalgram_no_79_2008_p_48",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "polygala_subspinosa",
+                "type": "species",
+                "archival_data": [
+                    "1422005"
+                ]
+            },
+            "volume": null,
+            "page": "p 48",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1925836",
+                "legacy_id": "378677",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "HerbalGram. no. 79. (2008) p 49",
+            "machine_name": "herbalgram_no_79_2008_p_49",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "amsonia_peeblesii",
+                "type": "species",
+                "archival_data": [
+                    "1439926"
+                ]
+            },
+            "volume": null,
+            "page": "p 49",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1925837",
+                "legacy_id": "378678",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "HerbalGram. no. 79. (2008) p 49",
+            "machine_name": "herbalgram_no_79_2008_p_49",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "salvia_pachyphylla",
+                "type": "species",
+                "archival_data": [
+                    "1430272"
+                ]
+            },
+            "volume": null,
+            "page": "p 49",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1925838",
+                "legacy_id": "378679",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "HerbalGram. no. 79. (2008) p 49",
+            "machine_name": "herbalgram_no_79_2008_p_49",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "acourtia_wrightii",
+                "type": "species",
+                "archival_data": [
+                    "1453521"
+                ]
+            },
+            "volume": null,
+            "page": "p 49",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1925839",
+                "legacy_id": "378680",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "HerbalGram. no. 79. (2008) p 54-55",
+            "machine_name": "herbalgram_no_79_2008_p_54_55",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lycopus_virginicus",
+                "type": "species",
+                "archival_data": [
+                    "1455269"
+                ]
+            },
+            "volume": null,
+            "page": "p 54-55",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1925840",
+                "legacy_id": "378681",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "HerbalGram. no. 79. (2008) p 56-57",
+            "machine_name": "herbalgram_no_79_2008_p_56_57",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "melissa_officinalis",
+                "type": "species",
+                "archival_data": [
+                    "1419351"
+                ]
+            },
+            "volume": null,
+            "page": "p 56-57",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1925841",
+                "legacy_id": "378682",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "HerbalGram. no. 79. (2008) p 58-59",
+            "machine_name": "herbalgram_no_79_2008_p_58_59",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rehmannia_glutinosa",
+                "type": "species",
+                "archival_data": [
+                    "1424308"
+                ]
+            },
+            "volume": null,
+            "page": "p 58-59",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1925842",
+                "legacy_id": "378683",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "HerbalGram. no. 79. (2008) p 60",
+            "machine_name": "herbalgram_no_79_2008_p_60",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "diosma_oppositifolia",
+                "type": "species",
+                "archival_data": [
+                    "1408896"
+                ]
+            },
+            "volume": null,
+            "page": "p 60",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1925843",
+                "legacy_id": "378684",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "HerbalGram. no. 79. (2008) p 64",
+            "machine_name": "herbalgram_no_79_2008_p_64",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "prunella_vulgaris",
+                "type": "species",
+                "archival_data": [
+                    "1425028"
+                ]
+            },
+            "volume": null,
+            "page": "p 64",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1925844",
+                "legacy_id": "378685",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        }
+    ]
+}

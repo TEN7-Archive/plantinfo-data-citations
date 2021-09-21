@@ -1,0 +1,143 @@
+{
+    "name": "Horticulture Week. vol 215, no. 15. (1994)",
+    "machine_name": "horticulture_week_vol_215_no_15_1994",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1994",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2112472",
+        "legacy_id": "3866",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Horticulture Week. vol 215, no. 15. (1994) p 22",
+            "machine_name": "horticulture_week_vol_215_no_15_1994_p_22",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "prunus_n_cultivars_garden_beauty",
+                "type": "variety",
+                "archival_data": [
+                    "1489284"
+                ]
+            },
+            "volume": null,
+            "page": "p 22",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1738794",
+                "legacy_id": "40542",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Horticulture Week. vol 215, no. 15. (1994) p 22-23",
+            "machine_name": "horticulture_week_vol_215_no_15_1994_p_22_23",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pyrus_cultivars_minarette_series",
+                "type": "variety",
+                "archival_data": [
+                    "1490772"
+                ]
+            },
+            "volume": null,
+            "page": "p 22-23",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1746979",
+                "legacy_id": "41244",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483154438"
+            }
+        },
+        {
+            "name": "Horticulture Week. vol 215, no. 15. (1994) p 31",
+            "machine_name": "horticulture_week_vol_215_no_15_1994_p_31",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "viola_wittrockiana_allegro_series",
+                "type": "variety",
+                "archival_data": [
+                    "1499722"
+                ]
+            },
+            "volume": null,
+            "page": "p 31",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1761680",
+                "legacy_id": "59624",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "name": "Nature. vol 427, no. 6973. (2004)",
+    "machine_name": "nature_vol_427_no_6973_2004",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2004",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2120658",
+        "legacy_id": "64730",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Nature. vol 427, no. 6973. (2004) p 401, Pl. 1",
+            "machine_name": "nature_vol_427_no_6973_2004_p_401_pl_1",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "theobroma_cacao",
+                "type": "species",
+                "archival_data": [
+                    "1430447"
+                ]
+            },
+            "volume": null,
+            "page": "p 401, Pl. 1",
+            "year": "2004",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1964424",
+                "legacy_id": "297790",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "name": "American Nurseryman. vol 183, no. 4. (1995)",
+    "machine_name": "american_nurseryman_vol_183_no_4_1995",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1995",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2111968",
+        "legacy_id": "623",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "American Nurseryman. vol 183, no. 4. (1995) p 18 (Adv.)",
+            "machine_name": "american_nurseryman_vol_183_no_4_1995_p_18_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "loropetalum_chinense_plum_delight",
+                "type": "variety",
+                "archival_data": [
+                    "1480517"
+                ]
+            },
+            "volume": null,
+            "page": "p 18 (Adv.)",
+            "year": "1995",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1729125",
+                "legacy_id": "28780",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        }
+    ]
+}

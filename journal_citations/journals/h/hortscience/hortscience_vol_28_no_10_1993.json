@@ -1,0 +1,61 @@
+{
+    "name": "HortScience. vol 28, no. 10. (1993)",
+    "machine_name": "hortscience_vol_28_no_10_1993",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1993",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2112173",
+        "legacy_id": "4082",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "HortScience. vol 28, no. 10. (1993) p 1057",
+            "machine_name": "hortscience_vol_28_no_10_1993_p_1057",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "malus_a_cultivars_pink_lady",
+                "type": "variety",
+                "archival_data": [
+                    "1484141"
+                ]
+            },
+            "volume": null,
+            "page": "p 1057",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1733922",
+                "legacy_id": "31375",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        }
+    ]
+}

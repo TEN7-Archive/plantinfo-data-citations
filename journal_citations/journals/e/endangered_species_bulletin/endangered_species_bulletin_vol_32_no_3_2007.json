@@ -1,0 +1,143 @@
+{
+    "name": "Endangered Species Bulletin. vol 32, no. 3. (2007)",
+    "machine_name": "endangered_species_bulletin_vol_32_no_3_2007",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2007",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2122445",
+        "legacy_id": "124926",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Endangered Species Bulletin. vol 32, no. 3. (2007) p 4",
+            "machine_name": "endangered_species_bulletin_vol_32_no_3_2007_p_4",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "helianthus_eggertii",
+                "type": "species",
+                "archival_data": [
+                    "1445336"
+                ]
+            },
+            "volume": null,
+            "page": "p 4",
+            "year": "2007",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2005685",
+                "legacy_id": "478884",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "Endangered Species Bulletin. vol 32, no. 3. (2007) p 11",
+            "machine_name": "endangered_species_bulletin_vol_32_no_3_2007_p_11",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "arctomecon_humilis",
+                "type": "species",
+                "archival_data": [
+                    "1456435"
+                ]
+            },
+            "volume": null,
+            "page": "p 11",
+            "year": "2007",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2005686",
+                "legacy_id": "478885",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "Endangered Species Bulletin. vol 32, no. 3. (2007) p 18-19",
+            "machine_name": "endangered_species_bulletin_vol_32_no_3_2007_p_18_19",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "suaeda_californica",
+                "type": "species",
+                "archival_data": [
+                    "1461150"
+                ]
+            },
+            "volume": null,
+            "page": "p 18-19",
+            "year": "2007",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2038102",
+                "legacy_id": "478886",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        }
+    ]
+}

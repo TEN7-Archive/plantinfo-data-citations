@@ -1,0 +1,61 @@
+{
+    "name": "Horticulture Week. February 2000 (supplement: Grower Equipment & Machinery)",
+    "machine_name": "horticulture_week_february_2000_supplement_grower_equipment_machinery",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1679163",
+        "legacy_id": "8690",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Horticulture Week. February 2000 (supplement: Grower Equipment & Machinery) p 27",
+            "machine_name": "horticulture_week_february_2000_supplement_grower_equipment_machinery_p_27",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "brassica_oleracea_s",
+                "type": "species",
+                "archival_data": [
+                    "1403435"
+                ]
+            },
+            "volume": null,
+            "page": "p 27",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1863006",
+                "legacy_id": "172070",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        }
+    ]
+}

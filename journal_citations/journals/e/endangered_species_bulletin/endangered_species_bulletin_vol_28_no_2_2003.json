@@ -1,0 +1,143 @@
+{
+    "name": "Endangered Species Bulletin. vol 28, no. 2. (2003)",
+    "machine_name": "endangered_species_bulletin_vol_28_no_2_2003",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2003",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2118038",
+        "legacy_id": "47489",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Endangered Species Bulletin. vol 28, no. 2. (2003) p 33",
+            "machine_name": "endangered_species_bulletin_vol_28_no_2_2003_p_33",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ambrosia_pumila",
+                "type": "species",
+                "archival_data": [
+                    "1448470"
+                ]
+            },
+            "volume": null,
+            "page": "p 33",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1902551",
+                "legacy_id": "256239",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Endangered Species Bulletin. vol 28, no. 2. (2003) p 33",
+            "machine_name": "endangered_species_bulletin_vol_28_no_2_2003_p_33",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "yermo_xanthocephalus",
+                "type": "species",
+                "archival_data": [
+                    "1443699"
+                ]
+            },
+            "volume": null,
+            "page": "p 33",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1902552",
+                "legacy_id": "256240",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Endangered Species Bulletin. vol 28, no. 2. (2003) p 34",
+            "machine_name": "endangered_species_bulletin_vol_28_no_2_2003_p_34",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hackelia_venusta",
+                "type": "species",
+                "archival_data": [
+                    "1441688"
+                ]
+            },
+            "volume": null,
+            "page": "p 34",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1902553",
+                "legacy_id": "256241",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        }
+    ]
+}

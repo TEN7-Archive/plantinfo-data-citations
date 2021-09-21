@@ -1,0 +1,102 @@
+{
+    "name": "Grower. vol 121, no. 4. (1994)",
+    "machine_name": "grower_vol_121_no_4_1994",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1994",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2111500",
+        "legacy_id": "3567",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grower. vol 121, no. 4. (1994) p 26",
+            "machine_name": "grower_vol_121_no_4_1994_p_26",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "euphorbia_pulcherrima_peterstar_series",
+                "type": "variety",
+                "archival_data": [
+                    "1472542"
+                ]
+            },
+            "volume": null,
+            "page": "p 26",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1719850",
+                "legacy_id": "14808",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Grower. vol 121, no. 4. (1994) p 23",
+            "machine_name": "grower_vol_121_no_4_1994_p_23",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "euphorbia_pulcherrima_ria",
+                "type": "variety",
+                "archival_data": [
+                    "1472556"
+                ]
+            },
+            "volume": null,
+            "page": "p 23",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1720138",
+                "legacy_id": "14848",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        }
+    ]
+}

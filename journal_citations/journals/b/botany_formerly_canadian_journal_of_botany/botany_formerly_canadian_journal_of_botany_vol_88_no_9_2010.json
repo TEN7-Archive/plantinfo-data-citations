@@ -1,0 +1,102 @@
+{
+    "name": "Botany (formerly: Canadian Journal of Botany). vol 88, no. 9. (2010)",
+    "machine_name": "botany_formerly_canadian_journal_of_botany_vol_88_no_9_2010",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2010",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2123959",
+        "legacy_id": "111452",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Botany (formerly: Canadian Journal of Botany). vol 88, no. 9. (2010) p 800, Pl. 6a-c",
+            "machine_name": "botany_formerly_canadian_journal_of_botany_vol_88_no_9_2010_p_800_pl_6a_c",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "allium_cernuum",
+                "type": "species",
+                "archival_data": [
+                    "1402076"
+                ]
+            },
+            "volume": null,
+            "page": "p 800, Pl. 6a-c",
+            "year": "2010",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": true,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2056403",
+                "legacy_id": "422952",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Botany (formerly: Canadian Journal of Botany). vol 88, no. 9. (2010) p 801, Pl. 7a-c",
+            "machine_name": "botany_formerly_canadian_journal_of_botany_vol_88_no_9_2010_p_801_pl_7a_c",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "allium_stellatum",
+                "type": "species",
+                "archival_data": [
+                    "1402144"
+                ]
+            },
+            "volume": null,
+            "page": "p 801, Pl. 7a-c",
+            "year": "2010",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": true,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2056404",
+                "legacy_id": "422953",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        }
+    ]
+}

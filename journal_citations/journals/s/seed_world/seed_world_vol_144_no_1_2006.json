@@ -1,0 +1,143 @@
+{
+    "name": "Seed World. vol 144, no. 1. (2006)",
+    "machine_name": "seed_world_vol_144_no_1_2006",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2006",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2121649",
+        "legacy_id": "70169",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Seed World. vol 144, no. 1. (2006) p 22",
+            "machine_name": "seed_world_vol_144_no_1_2006_p_22",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "celosia_cultivars_fresh_look_series",
+                "type": "variety",
+                "archival_data": [
+                    "1578505"
+                ]
+            },
+            "volume": null,
+            "page": "p 22",
+            "year": "2006",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1992065",
+                "legacy_id": "313011",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Seed World. vol 144, no. 1. (2006) p 24",
+            "machine_name": "seed_world_vol_144_no_1_2006_p_24",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "brassica_oleracea_f_cheddar",
+                "type": "variety",
+                "archival_data": [
+                    "1599381"
+                ]
+            },
+            "volume": null,
+            "page": "p 24",
+            "year": "2006",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1992066",
+                "legacy_id": "313012",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Seed World. vol 144, no. 1. (2006) p 30 (Adv.)",
+            "machine_name": "seed_world_vol_144_no_1_2006_p_30_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cucurbita_s_cultivars_bonbon",
+                "type": "variety",
+                "archival_data": [
+                    "1587355"
+                ]
+            },
+            "volume": null,
+            "page": "p 30 (Adv.)",
+            "year": "2006",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1992067",
+                "legacy_id": "313013",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        }
+    ]
+}

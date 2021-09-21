@@ -1,0 +1,61 @@
+{
+    "name": "American Fruit Grower. vol 125, no. 7. (2005)",
+    "machine_name": "american_fruit_grower_vol_125_no_7_2005",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2005",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2121255",
+        "legacy_id": "66490",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "American Fruit Grower. vol 125, no. 7. (2005) p 31 (Adv.)",
+            "machine_name": "american_fruit_grower_vol_125_no_7_2005_p_31_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "malus_a_cultivars_zestar",
+                "type": "variety",
+                "archival_data": [
+                    "1540629"
+                ]
+            },
+            "volume": null,
+            "page": "p 31 (Adv.)",
+            "year": "2005",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1979655",
+                "legacy_id": "302924",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        }
+    ]
+}

@@ -1,0 +1,881 @@
+{
+    "name": "Primroses. vol 72, no. 1. (2014)",
+    "machine_name": "primroses_vol_72_no_1_2014",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2014",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2122400",
+        "legacy_id": "124310",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Primroses. vol 72, no. 1. (2014) p cover; 15",
+            "machine_name": "primroses_vol_72_no_1_2014_p_cover_15",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "primula_chionantha",
+                "type": "species",
+                "archival_data": [
+                    "1423860"
+                ]
+            },
+            "volume": null,
+            "page": "p cover; 15",
+            "year": "2014",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2005089",
+                "legacy_id": "475347",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "Primroses. vol 72, no. 1. (2014) p 14",
+            "machine_name": "primroses_vol_72_no_1_2014_p_14",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "primula_pumila",
+                "type": "species",
+                "archival_data": [
+                    "1460701"
+                ]
+            },
+            "volume": null,
+            "page": "p 14",
+            "year": "2014",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2005090",
+                "legacy_id": "475348",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "Primroses. vol 72, no. 1. (2014) p 14",
+            "machine_name": "primroses_vol_72_no_1_2014_p_14",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "primula_macrophylla",
+                "type": "species",
+                "archival_data": [
+                    "1424213"
+                ]
+            },
+            "volume": null,
+            "page": "p 14",
+            "year": "2014",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2005325",
+                "legacy_id": "475349",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "Primroses. vol 72, no. 1. (2014) p 17",
+            "machine_name": "primroses_vol_72_no_1_2014_p_17",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "primula_meeboldii",
+                "type": "species",
+                "archival_data": [
+                    "1460702"
+                ]
+            },
+            "volume": null,
+            "page": "p 17",
+            "year": "2014",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2005326",
+                "legacy_id": "475352",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "Primroses. vol 72, no. 1. (2014) p 19",
+            "machine_name": "primroses_vol_72_no_1_2014_p_19",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "primula_nivalis",
+                "type": "species",
+                "archival_data": [
+                    "1424235"
+                ]
+            },
+            "volume": null,
+            "page": "p 19",
+            "year": "2014",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2005327",
+                "legacy_id": "475356",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "Primroses. vol 72, no. 1. (2014) p 20",
+            "machine_name": "primroses_vol_72_no_1_2014_p_20",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "primula_turkestanica",
+                "type": "species",
+                "archival_data": [
+                    "1424579"
+                ]
+            },
+            "volume": null,
+            "page": "p 20",
+            "year": "2014",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2005328",
+                "legacy_id": "475357",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "Primroses. vol 72, no. 1. (2014) p 17",
+            "machine_name": "primroses_vol_72_no_1_2014_p_17",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "primula_moorcroftiana",
+                "type": "species",
+                "archival_data": [
+                    "1460703"
+                ]
+            },
+            "volume": null,
+            "page": "p 17",
+            "year": "2014",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2035608",
+                "legacy_id": "475353",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        },
+        {
+            "name": "Primroses. vol 72, no. 1. (2014) p 17; 19",
+            "machine_name": "primroses_vol_72_no_1_2014_p_17_19",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "primula_longipes",
+                "type": "species",
+                "archival_data": [
+                    "1449680"
+                ]
+            },
+            "volume": null,
+            "page": "p 17; 19",
+            "year": "2014",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2035609",
+                "legacy_id": "475354",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        },
+        {
+            "name": "Primroses. vol 72, no. 1. (2014) p 18-19",
+            "machine_name": "primroses_vol_72_no_1_2014_p_18_19",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "primula_crassifolia",
+                "type": "species",
+                "archival_data": [
+                    "1444056"
+                ]
+            },
+            "volume": null,
+            "page": "p 18-19",
+            "year": "2014",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2035610",
+                "legacy_id": "475355",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        },
+        {
+            "name": "Primroses. vol 72, no. 1. (2014) p 20",
+            "machine_name": "primroses_vol_72_no_1_2014_p_20",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "primula_brevicula",
+                "type": "species",
+                "archival_data": [
+                    "1423849"
+                ]
+            },
+            "volume": null,
+            "page": "p 20",
+            "year": "2014",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2035611",
+                "legacy_id": "475358",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        },
+        {
+            "name": "Primroses. vol 72, no. 1. (2014) p 21",
+            "machine_name": "primroses_vol_72_no_1_2014_p_21",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "primula_graminifolia",
+                "type": "species",
+                "archival_data": [
+                    "1461251"
+                ]
+            },
+            "volume": null,
+            "page": "p 21",
+            "year": "2014",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2035612",
+                "legacy_id": "475359",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        },
+        {
+            "name": "Primroses. vol 72, no. 1. (2014) p 22",
+            "machine_name": "primroses_vol_72_no_1_2014_p_22",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "primula_longipetiolata",
+                "type": "species",
+                "archival_data": [
+                    "1452817"
+                ]
+            },
+            "volume": null,
+            "page": "p 22",
+            "year": "2014",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2035613",
+                "legacy_id": "475360",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        },
+        {
+            "name": "Primroses. vol 72, no. 1. (2014) p 22",
+            "machine_name": "primroses_vol_72_no_1_2014_p_22",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "primula_limbata",
+                "type": "species",
+                "archival_data": [
+                    "1450547"
+                ]
+            },
+            "volume": null,
+            "page": "p 22",
+            "year": "2014",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2035614",
+                "legacy_id": "475361",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        },
+        {
+            "name": "Primroses. vol 72, no. 1. (2014) p 23; backcover",
+            "machine_name": "primroses_vol_72_no_1_2014_p_23_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "primula_orbicularis",
+                "type": "species",
+                "archival_data": [
+                    "1443193"
+                ]
+            },
+            "volume": null,
+            "page": "p 23; backcover",
+            "year": "2014",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2035615",
+                "legacy_id": "475362",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        },
+        {
+            "name": "Primroses. vol 72, no. 1. (2014) p 24",
+            "machine_name": "primroses_vol_72_no_1_2014_p_24",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "primula_tangutica",
+                "type": "species",
+                "archival_data": [
+                    "1459918"
+                ]
+            },
+            "volume": null,
+            "page": "p 24",
+            "year": "2014",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2035616",
+                "legacy_id": "475363",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        },
+        {
+            "name": "Primroses. vol 72, no. 1. (2014) p 24; 26",
+            "machine_name": "primroses_vol_72_no_1_2014_p_24_26",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "primula_maximowiczii",
+                "type": "species",
+                "archival_data": [
+                    "1455214"
+                ]
+            },
+            "volume": null,
+            "page": "p 24; 26",
+            "year": "2014",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2035617",
+                "legacy_id": "475364",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        },
+        {
+            "name": "Primroses. vol 72, no. 1. (2014) p 24",
+            "machine_name": "primroses_vol_72_no_1_2014_p_24",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "primula_handeliana",
+                "type": "species",
+                "archival_data": [
+                    "1452637"
+                ]
+            },
+            "volume": null,
+            "page": "p 24",
+            "year": "2014",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2035618",
+                "legacy_id": "475365",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        },
+        {
+            "name": "Primroses. vol 72, no. 1. (2014) p 25",
+            "machine_name": "primroses_vol_72_no_1_2014_p_25",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "primula_melanantha",
+                "type": "species",
+                "archival_data": [
+                    "1459917"
+                ]
+            },
+            "volume": null,
+            "page": "p 25",
+            "year": "2014",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2035619",
+                "legacy_id": "475366",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        },
+        {
+            "name": "Primroses. vol 72, no. 1. (2014) p 26",
+            "machine_name": "primroses_vol_72_no_1_2014_p_26",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "primula_japonica",
+                "type": "species",
+                "archival_data": [
+                    "1424201"
+                ]
+            },
+            "volume": null,
+            "page": "p 26",
+            "year": "2014",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2035620",
+                "legacy_id": "475367",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        },
+        {
+            "name": "Primroses. vol 72, no. 1. (2014) p 15",
+            "machine_name": "primroses_vol_72_no_1_2014_p_15",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "primula_obtusifolia",
+                "type": "species",
+                "archival_data": [
+                    "1424239"
+                ]
+            },
+            "volume": null,
+            "page": "p 15",
+            "year": "2014",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2049192",
+                "legacy_id": "475350",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Primroses. vol 72, no. 1. (2014) p 16",
+            "machine_name": "primroses_vol_72_no_1_2014_p_16",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "primula_stuartii",
+                "type": "species",
+                "archival_data": [
+                    "1424286"
+                ]
+            },
+            "volume": null,
+            "page": "p 16",
+            "year": "2014",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2049193",
+                "legacy_id": "475351",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        }
+    ]
+}

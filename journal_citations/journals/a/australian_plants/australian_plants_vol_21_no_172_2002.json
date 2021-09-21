@@ -1,0 +1,881 @@
+{
+    "name": "Australian Plants. vol 21, no. 172. (2002)",
+    "machine_name": "australian_plants_vol_21_no_172_2002",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2002",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2117960",
+        "legacy_id": "45629",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Australian Plants. vol 21, no. 172. (2002) p cover;345;backcover",
+            "machine_name": "australian_plants_vol_21_no_172_2002_p_cover_345_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "eidothea_hardeniana",
+                "type": "species",
+                "archival_data": [
+                    "1446290"
+                ]
+            },
+            "volume": null,
+            "page": "p cover;345;backcover",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1900774",
+                "legacy_id": "249111",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 21, no. 172. (2002) p 332",
+            "machine_name": "australian_plants_vol_21_no_172_2002_p_332",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "grevillea_baileyana",
+                "type": "species",
+                "archival_data": [
+                    "1413462"
+                ]
+            },
+            "volume": null,
+            "page": "p 332",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1900775",
+                "legacy_id": "249112",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 21, no. 172. (2002) p 333",
+            "machine_name": "australian_plants_vol_21_no_172_2002_p_333",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "backhousia_citriodora",
+                "type": "species",
+                "archival_data": [
+                    "1399165"
+                ]
+            },
+            "volume": null,
+            "page": "p 333",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1900776",
+                "legacy_id": "249113",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 21, no. 172. (2002) p 333",
+            "machine_name": "australian_plants_vol_21_no_172_2002_p_333",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "xanthostemon_chrysanthus",
+                "type": "species",
+                "archival_data": [
+                    "1438330"
+                ]
+            },
+            "volume": null,
+            "page": "p 333",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1900777",
+                "legacy_id": "249114",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 21, no. 172. (2002) p 336",
+            "machine_name": "australian_plants_vol_21_no_172_2002_p_336",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "syzygium_paniculatum",
+                "type": "species",
+                "archival_data": [
+                    "1428893"
+                ]
+            },
+            "volume": null,
+            "page": "p 336",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1900778",
+                "legacy_id": "249115",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 21, no. 172. (2002) p 336",
+            "machine_name": "australian_plants_vol_21_no_172_2002_p_336",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "syzygium_luehmannii",
+                "type": "species",
+                "archival_data": [
+                    "1428887"
+                ]
+            },
+            "volume": null,
+            "page": "p 336",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1900779",
+                "legacy_id": "249116",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 21, no. 172. (2002) p 348",
+            "machine_name": "australian_plants_vol_21_no_172_2002_p_348",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "brachychiton_bidwillii",
+                "type": "species",
+                "archival_data": [
+                    "1402701"
+                ]
+            },
+            "volume": null,
+            "page": "p 348",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1900780",
+                "legacy_id": "249117",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 21, no. 172. (2002) p 349",
+            "machine_name": "australian_plants_vol_21_no_172_2002_p_349",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "brachychiton_bidwillii_large_pink",
+                "type": "variety",
+                "archival_data": [
+                    "1574926"
+                ]
+            },
+            "volume": null,
+            "page": "p 349",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1900781",
+                "legacy_id": "249118",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 21, no. 172. (2002) p 352",
+            "machine_name": "australian_plants_vol_21_no_172_2002_p_352",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cassine_australis",
+                "type": "species",
+                "archival_data": [
+                    "1408955"
+                ]
+            },
+            "volume": null,
+            "page": "p 352",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1900782",
+                "legacy_id": "249119",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 21, no. 172. (2002) p 352",
+            "machine_name": "australian_plants_vol_21_no_172_2002_p_352",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "synoum_glandulosum",
+                "type": "species",
+                "archival_data": [
+                    "1428546"
+                ]
+            },
+            "volume": null,
+            "page": "p 352",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1900783",
+                "legacy_id": "249120",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 21, no. 172. (2002) p 352",
+            "machine_name": "australian_plants_vol_21_no_172_2002_p_352",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "clerodendrum_tomentosum",
+                "type": "species",
+                "archival_data": [
+                    "1408694"
+                ]
+            },
+            "volume": null,
+            "page": "p 352",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1900784",
+                "legacy_id": "249121",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 21, no. 172. (2002) p 353",
+            "machine_name": "australian_plants_vol_21_no_172_2002_p_353",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "glochidion_ferdinandi",
+                "type": "species",
+                "archival_data": [
+                    "1412336"
+                ]
+            },
+            "volume": null,
+            "page": "p 353",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1900785",
+                "legacy_id": "249122",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 21, no. 172. (2002) p 353",
+            "machine_name": "australian_plants_vol_21_no_172_2002_p_353",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "eucryphia_moorei",
+                "type": "species",
+                "archival_data": [
+                    "1415208"
+                ]
+            },
+            "volume": null,
+            "page": "p 353",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1900786",
+                "legacy_id": "249123",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 21, no. 172. (2002) p 353",
+            "machine_name": "australian_plants_vol_21_no_172_2002_p_353",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "coprosma_billardieri",
+                "type": "species",
+                "archival_data": [
+                    "1404909"
+                ]
+            },
+            "volume": null,
+            "page": "p 353",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1900787",
+                "legacy_id": "249124",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 21, no. 172. (2002) p 356",
+            "machine_name": "australian_plants_vol_21_no_172_2002_p_356",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "azadirachta_indica",
+                "type": "species",
+                "archival_data": [
+                    "1398821"
+                ]
+            },
+            "volume": null,
+            "page": "p 356",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1900788",
+                "legacy_id": "249125",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 21, no. 172. (2002) p 356",
+            "machine_name": "australian_plants_vol_21_no_172_2002_p_356",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "microcitrus_australasica",
+                "type": "species",
+                "archival_data": [
+                    "1462697"
+                ]
+            },
+            "volume": null,
+            "page": "p 356",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1901028",
+                "legacy_id": "249126",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 21, no. 172. (2002) p 356",
+            "machine_name": "australian_plants_vol_21_no_172_2002_p_356",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "grevillea_robusta",
+                "type": "species",
+                "archival_data": [
+                    "1413875"
+                ]
+            },
+            "volume": null,
+            "page": "p 356",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1901029",
+                "legacy_id": "249127",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 21, no. 172. (2002) p 357",
+            "machine_name": "australian_plants_vol_21_no_172_2002_p_357",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "polyscias_elegans",
+                "type": "species",
+                "archival_data": [
+                    "1422392"
+                ]
+            },
+            "volume": null,
+            "page": "p 357",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1901030",
+                "legacy_id": "249128",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 21, no. 172. (2002) p 357",
+            "machine_name": "australian_plants_vol_21_no_172_2002_p_357",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "melicope_micrococca",
+                "type": "species",
+                "archival_data": [
+                    "1446291"
+                ]
+            },
+            "volume": null,
+            "page": "p 357",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1901031",
+                "legacy_id": "249129",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 21, no. 172. (2002) p 357",
+            "machine_name": "australian_plants_vol_21_no_172_2002_p_357",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pipturus_argenteus",
+                "type": "species",
+                "archival_data": [
+                    "1425652"
+                ]
+            },
+            "volume": null,
+            "page": "p 357",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1901032",
+                "legacy_id": "249130",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 21, no. 172. (2002) p 369;372-73",
+            "machine_name": "australian_plants_vol_21_no_172_2002_p_369_372_73",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "nymphaea_gigantea",
+                "type": "species",
+                "archival_data": [
+                    "1425128"
+                ]
+            },
+            "volume": null,
+            "page": "p 369;372-73",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": true,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1901033",
+                "legacy_id": "249131",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        }
+    ]
+}

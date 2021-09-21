@@ -1,0 +1,102 @@
+{
+    "name": "National Geographic. vol 198, no. 3. (2000)",
+    "machine_name": "national_geographic_vol_198_no_3_2000",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2000",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2119481",
+        "legacy_id": "58529",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "National Geographic. vol 198, no. 3. (2000) p xviii-xix",
+            "machine_name": "national_geographic_vol_198_no_3_2000_p_xviii_xix",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "grammatophyllum_speciosum",
+                "type": "species",
+                "archival_data": [
+                    "1413418"
+                ]
+            },
+            "volume": null,
+            "page": "p xviii-xix",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1933160",
+                "legacy_id": "279010",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "National Geographic. vol 198, no. 3. (2000) p xix",
+            "machine_name": "national_geographic_vol_198_no_3_2000_p_xix",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "symphyotrichum_novi_belgii",
+                "type": "species",
+                "archival_data": [
+                    "1449977"
+                ]
+            },
+            "volume": null,
+            "page": "p xix",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1933161",
+                "legacy_id": "279011",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        }
+    ]
+}

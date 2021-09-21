@@ -1,0 +1,102 @@
+{
+    "name": "IGC Retailer. vol 60, no. 5. (2015)",
+    "machine_name": "igc_retailer_vol_60_no_5_2015",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2015",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": "7",
+    "description": null,
+    "archival_data": {
+        "id": "2220836",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1517230526"
+    },
+    "citation_reference_items": [
+        {
+            "name": "IGC Retailer. vol 60, no. 5. (2015) p 23 (Adv.)",
+            "machine_name": "igc_retailer_vol_60_no_5_2015_p_23_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ligustrum_sinense_sunshine",
+                "type": "variety",
+                "archival_data": [
+                    "1593350"
+                ]
+            },
+            "volume": null,
+            "page": "p 23 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2220841",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1517230642"
+            }
+        },
+        {
+            "name": "IGC Retailer. vol 60, no. 5. (2015) p backcover (Adv.)",
+            "machine_name": "igc_retailer_vol_60_no_5_2015_p_backcover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rhododendron_cultivars_encore_series",
+                "type": "variety",
+                "archival_data": [
+                    "1599263"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2220846",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1517230642"
+            }
+        }
+    ]
+}

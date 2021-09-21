@@ -1,0 +1,143 @@
+{
+    "name": "Horticulture Week. vol 207, no. 23. (1990)",
+    "machine_name": "horticulture_week_vol_207_no_23_1990",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1990",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2109449",
+        "legacy_id": "3762",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Horticulture Week. vol 207, no. 23. (1990) p 29",
+            "machine_name": "horticulture_week_vol_207_no_23_1990_p_29",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "betula_utilis_jermyns",
+                "type": "variety",
+                "archival_data": [
+                    "1464678"
+                ]
+            },
+            "volume": null,
+            "page": "p 29",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1704060",
+                "legacy_id": "3458",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Horticulture Week. vol 207, no. 23. (1990) p 24",
+            "machine_name": "horticulture_week_vol_207_no_23_1990_p_24",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "viola_wittrockiana_ultima_series",
+                "type": "variety",
+                "archival_data": [
+                    "1500011"
+                ]
+            },
+            "volume": null,
+            "page": "p 24",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1763304",
+                "legacy_id": "60013",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Horticulture Week. vol 207, no. 23. (1990) p 29",
+            "machine_name": "horticulture_week_vol_207_no_23_1990_p_29",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cercidiphyllum_japonicum",
+                "type": "species",
+                "archival_data": [
+                    "1405166"
+                ]
+            },
+            "volume": null,
+            "page": "p 29",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1774877",
+                "legacy_id": "81133",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        }
+    ]
+}

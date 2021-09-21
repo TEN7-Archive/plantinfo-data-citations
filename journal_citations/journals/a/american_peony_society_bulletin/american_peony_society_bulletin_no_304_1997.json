@@ -1,0 +1,102 @@
+{
+    "name": "American Peony Society, Bulletin. no. 304. (1997)",
+    "machine_name": "american_peony_society_bulletin_no_304_1997",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1997",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2115256",
+        "legacy_id": "7193",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "American Peony Society, Bulletin. no. 304. (1997) p cover",
+            "machine_name": "american_peony_society_bulletin_no_304_1997_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "paeonia_t_cultivars_golden_bowl",
+                "type": "variety",
+                "archival_data": [
+                    "1522400"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1997",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1847763",
+                "legacy_id": "157316",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "American Peony Society, Bulletin. no. 304. (1997) p backcover",
+            "machine_name": "american_peony_society_bulletin_no_304_1997_p_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "paeonia_t_cultivars_guardian_of_the_monastery",
+                "type": "variety",
+                "archival_data": [
+                    "1484242"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover",
+            "year": "1997",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1847764",
+                "legacy_id": "157317",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        }
+    ]
+}

@@ -1,0 +1,717 @@
+{
+    "name": "Australian Plants. vol 22, no. 176. (2003)",
+    "machine_name": "australian_plants_vol_22_no_176_2003",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2003",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2120345",
+        "legacy_id": "91849",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Australian Plants. vol 22, no. 176. (2003) p cover;backcover",
+            "machine_name": "australian_plants_vol_22_no_176_2003_p_cover_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "atkinsonia_ligustrina",
+                "type": "species",
+                "archival_data": [
+                    "1398726"
+                ]
+            },
+            "volume": null,
+            "page": "p cover;backcover",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1955851",
+                "legacy_id": "368735",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 22, no. 176. (2003) p 101",
+            "machine_name": "australian_plants_vol_22_no_176_2003_p_101",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "platysace_deflexa",
+                "type": "species",
+                "archival_data": [
+                    "1426384"
+                ]
+            },
+            "volume": null,
+            "page": "p 101",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": true,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1955852",
+                "legacy_id": "368736",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 22, no. 176. (2003) p 113",
+            "machine_name": "australian_plants_vol_22_no_176_2003_p_113",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "anigozanthos_cultivars_bush_nugget",
+                "type": "variety",
+                "archival_data": [
+                    "1592477"
+                ]
+            },
+            "volume": null,
+            "page": "p 113",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1955853",
+                "legacy_id": "368737",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 22, no. 176. (2003) p 113",
+            "machine_name": "australian_plants_vol_22_no_176_2003_p_113",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "anigozanthos_cultivars_bush_ranger",
+                "type": "variety",
+                "archival_data": [
+                    "1466688"
+                ]
+            },
+            "volume": null,
+            "page": "p 113",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1955854",
+                "legacy_id": "368738",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 22, no. 176. (2003) p 113",
+            "machine_name": "australian_plants_vol_22_no_176_2003_p_113",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "anigozanthos_cultivars_bush_haze",
+                "type": "variety",
+                "archival_data": [
+                    "1557262"
+                ]
+            },
+            "volume": null,
+            "page": "p 113",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1955855",
+                "legacy_id": "368739",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 22, no. 176. (2003) p 113",
+            "machine_name": "australian_plants_vol_22_no_176_2003_p_113",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "anigozanthos_cultivars_bush_gold",
+                "type": "variety",
+                "archival_data": [
+                    "1532163"
+                ]
+            },
+            "volume": null,
+            "page": "p 113",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1955856",
+                "legacy_id": "368740",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 22, no. 176. (2003) p 116;120-21",
+            "machine_name": "australian_plants_vol_22_no_176_2003_p_116_120_21",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "eucalyptus_salubris",
+                "type": "species",
+                "archival_data": [
+                    "1414814"
+                ]
+            },
+            "volume": null,
+            "page": "p 116;120-21",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": true,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1955857",
+                "legacy_id": "368741",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 22, no. 176. (2003) p 116-17",
+            "machine_name": "australian_plants_vol_22_no_176_2003_p_116_17",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "eucalyptus_salmonophloia",
+                "type": "species",
+                "archival_data": [
+                    "1414813"
+                ]
+            },
+            "volume": null,
+            "page": "p 116-17",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1955858",
+                "legacy_id": "368742",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 22, no. 176. (2003) p 117;125",
+            "machine_name": "australian_plants_vol_22_no_176_2003_p_117_125",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "eucalyptus_campaspe",
+                "type": "species",
+                "archival_data": [
+                    "1413624"
+                ]
+            },
+            "volume": null,
+            "page": "p 117;125",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1955859",
+                "legacy_id": "368743",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 22, no. 176. (2003) p 117;125",
+            "machine_name": "australian_plants_vol_22_no_176_2003_p_117_125",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "eucalyptus_sheathiana",
+                "type": "species",
+                "archival_data": [
+                    "1414824"
+                ]
+            },
+            "volume": null,
+            "page": "p 117;125",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1955860",
+                "legacy_id": "368744",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 22, no. 176. (2003) p 124-25",
+            "machine_name": "australian_plants_vol_22_no_176_2003_p_124_25",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "eucalyptus_woodwardii",
+                "type": "species",
+                "archival_data": [
+                    "1415167"
+                ]
+            },
+            "volume": null,
+            "page": "p 124-25",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1955861",
+                "legacy_id": "368745",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 22, no. 176. (2003) p 124",
+            "machine_name": "australian_plants_vol_22_no_176_2003_p_124",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "eucalyptus_torquata",
+                "type": "species",
+                "archival_data": [
+                    "1415150"
+                ]
+            },
+            "volume": null,
+            "page": "p 124",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1955862",
+                "legacy_id": "368746",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 22, no. 176. (2003) p 128",
+            "machine_name": "australian_plants_vol_22_no_176_2003_p_128",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "melicope_elleryana",
+                "type": "species",
+                "archival_data": [
+                    "1419331"
+                ]
+            },
+            "volume": null,
+            "page": "p 128",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": true,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1955863",
+                "legacy_id": "368747",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 22, no. 176. (2003) p 137;140",
+            "machine_name": "australian_plants_vol_22_no_176_2003_p_137_140",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "nuytsia_floribunda",
+                "type": "species",
+                "archival_data": [
+                    "1425111"
+                ]
+            },
+            "volume": null,
+            "page": "p 137;140",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1955864",
+                "legacy_id": "368748",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 22, no. 176. (2003) p 140",
+            "machine_name": "australian_plants_vol_22_no_176_2003_p_140",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cochlospermum_fraseri",
+                "type": "species",
+                "archival_data": [
+                    "1409080"
+                ]
+            },
+            "volume": null,
+            "page": "p 140",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1955865",
+                "legacy_id": "368749",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 22, no. 176. (2003) p 141",
+            "machine_name": "australian_plants_vol_22_no_176_2003_p_141",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ptilotus_fusiformis",
+                "type": "species",
+                "archival_data": [
+                    "1426464"
+                ]
+            },
+            "volume": null,
+            "page": "p 141",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1955867",
+                "legacy_id": "368751",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 22, no. 176. (2003) p 141",
+            "machine_name": "australian_plants_vol_22_no_176_2003_p_141",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "calytrix_microphylla",
+                "type": "species",
+                "archival_data": [
+                    "1399700"
+                ]
+            },
+            "volume": null,
+            "page": "p 141",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1955868",
+                "legacy_id": "368752",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        }
+    ]
+}

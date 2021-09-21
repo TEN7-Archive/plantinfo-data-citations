@@ -1,0 +1,61 @@
+{
+    "name": "Linnean Society of London, Botanical Journal. vol 155, no. 4. (2007)",
+    "machine_name": "linnean_society_of_london_botanical_journal_vol_155_no_4_2007",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2007",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2120330",
+        "legacy_id": "89369",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Linnean Society of London, Botanical Journal. vol 155, no. 4. (2007) p 498-99, Pl. 1-13",
+            "machine_name": "linnean_society_of_london_botanical_journal_vol_155_no_4_2007_p_498_99_pl_1_13",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "goniothalamus_dumontetii",
+                "type": "species",
+                "archival_data": [
+                    "1456093"
+                ]
+            },
+            "volume": null,
+            "page": "p 498-99, Pl. 1-13",
+            "year": "2007",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": true,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": true,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1955531",
+                "legacy_id": "361572",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        }
+    ]
+}

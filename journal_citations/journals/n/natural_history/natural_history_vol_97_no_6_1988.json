@@ -1,0 +1,102 @@
+{
+    "name": "Natural History. Vol 97, no. 6. (1988)",
+    "machine_name": "natural_history_vol_97_no_6_1988",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1988",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113565",
+        "legacy_id": "4707",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Natural History. Vol 97, no. 6. (1988) p 27",
+            "machine_name": "natural_history_vol_97_no_6_1988_p_27",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "aquilegia_pubescens",
+                "type": "species",
+                "archival_data": [
+                    "1400677"
+                ]
+            },
+            "volume": null,
+            "page": "p 27",
+            "year": "1988",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1768049",
+                "legacy_id": "72559",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Natural History. Vol 97, no. 6. (1988) p 49-50",
+            "machine_name": "natural_history_vol_97_no_6_1988_p_49_50",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ipomopsis_aggregata",
+                "type": "species",
+                "archival_data": [
+                    "1416924"
+                ]
+            },
+            "volume": null,
+            "page": "p 49-50",
+            "year": "1988",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1803393",
+                "legacy_id": "104822",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        }
+    ]
+}

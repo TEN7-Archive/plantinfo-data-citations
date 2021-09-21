@@ -1,0 +1,102 @@
+{
+    "name": "Gloxinian, The. vol 47, no. 3. (1997)",
+    "machine_name": "gloxinian_the_vol_47_no_3_1997",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1997",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114910",
+        "legacy_id": "6423",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Gloxinian, The. vol 47, no. 3. (1997) p cover",
+            "machine_name": "gloxinian_the_vol_47_no_3_1997_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "paradrymonia_hypocyrta",
+                "type": "species",
+                "archival_data": [
+                    "1439991"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1997",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1841802",
+                "legacy_id": "148019",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Gloxinian, The. vol 47, no. 3. (1997) p 16",
+            "machine_name": "gloxinian_the_vol_47_no_3_1997_p_16",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "corytoplectus_cutucuensis",
+                "type": "species",
+                "archival_data": [
+                    "1406465"
+                ]
+            },
+            "volume": null,
+            "page": "p 16",
+            "year": "1997",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1841803",
+                "legacy_id": "148020",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        }
+    ]
+}

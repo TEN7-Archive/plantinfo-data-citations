@@ -1,0 +1,184 @@
+{
+    "name": "Journal of the Botanical Research Institute of Texas. vol 4, no. 1. (2010)",
+    "machine_name": "journal_of_the_botanical_research_institute_of_texas_vol_4_no_1_2010",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2010",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2123436",
+        "legacy_id": "112076",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Journal of the Botanical Research Institute of Texas. vol 4, no. 1. (2010) p 383, Pl. 1A-D",
+            "machine_name": "journal_of_the_botanical_research_institute_of_texas_vol_4_no_1_2010_p_383_pl_1a_d",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lindera_melissifolia",
+                "type": "species",
+                "archival_data": [
+                    "1418109"
+                ]
+            },
+            "volume": null,
+            "page": "p 383, Pl. 1A-D",
+            "year": "2010",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": true,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2027984",
+                "legacy_id": "425108",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        },
+        {
+            "name": "Journal of the Botanical Research Institute of Texas. vol 4, no. 1. (2010) p 383, Pl. 1D",
+            "machine_name": "journal_of_the_botanical_research_institute_of_texas_vol_4_no_1_2010_p_383_pl_1d",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lindera_benzoin",
+                "type": "species",
+                "archival_data": [
+                    "1418105"
+                ]
+            },
+            "volume": null,
+            "page": "p 383, Pl. 1D",
+            "year": "2010",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": true,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2027985",
+                "legacy_id": "425109",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        },
+        {
+            "name": "Journal of the Botanical Research Institute of Texas. vol 4, no. 1. (2010) p 231, Pl. 2C",
+            "machine_name": "journal_of_the_botanical_research_institute_of_texas_vol_4_no_1_2010_p_231_pl_2c",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "vanilla_pompona_grandiflora",
+                "type": "variety",
+                "archival_data": [
+                    "1593861"
+                ]
+            },
+            "volume": null,
+            "page": "p 231, Pl. 2C",
+            "year": "2010",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2035468",
+                "legacy_id": "425105",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        },
+        {
+            "name": "Journal of the Botanical Research Institute of Texas. vol 4, no. 1. (2010) p 231, Pl. 2E",
+            "machine_name": "journal_of_the_botanical_research_institute_of_texas_vol_4_no_1_2010_p_231_pl_2e",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "vanilla_bicolor",
+                "type": "species",
+                "archival_data": [
+                    "1429059"
+                ]
+            },
+            "volume": null,
+            "page": "p 231, Pl. 2E",
+            "year": "2010",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2035470",
+                "legacy_id": "425107",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        }
+    ]
+}

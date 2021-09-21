@@ -1,0 +1,61 @@
+{
+    "name": "Flower & Garden. vol 45, no. 6. (2001)",
+    "machine_name": "flower_garden_vol_45_no_6_2001",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2001",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2117105",
+        "legacy_id": "30071",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Flower & Garden. vol 45, no. 6. (2001) p 22-23",
+            "machine_name": "flower_garden_vol_45_no_6_2001_p_22_23",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "aloysia_triphylla",
+                "type": "species",
+                "archival_data": [
+                    "1403298"
+                ]
+            },
+            "volume": null,
+            "page": "p 22-23",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1883732",
+                "legacy_id": "221714",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        }
+    ]
+}

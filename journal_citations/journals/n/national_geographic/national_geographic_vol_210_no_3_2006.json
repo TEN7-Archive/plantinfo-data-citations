@@ -1,0 +1,102 @@
+{
+    "name": "National Geographic. vol 210, no. 3. (2006)",
+    "machine_name": "national_geographic_vol_210_no_3_2006",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2006",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1688015",
+        "legacy_id": "74450",
+        "author": "oitadmin",
+        "created": "1473951060"
+    },
+    "citation_reference_items": [
+        {
+            "name": "National Geographic. vol 210, no. 3. p 141",
+            "machine_name": "national_geographic_vol_210_no_3_p_141",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pachycereus_pringlei",
+                "type": "species",
+                "archival_data": [
+                    "1423691"
+                ]
+            },
+            "volume": null,
+            "page": "p 141",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2628436",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "kallen",
+                "created": "1609274615"
+            }
+        },
+        {
+            "name": "National Geographic. vol 210, no. 3. p 149",
+            "machine_name": "national_geographic_vol_210_no_3_p_149",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "fouquieria_columnaris",
+                "type": "species",
+                "archival_data": [
+                    "1413761"
+                ]
+            },
+            "volume": null,
+            "page": "p 149",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2628446",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "kallen",
+                "created": "1609274714"
+            }
+        }
+    ]
+}

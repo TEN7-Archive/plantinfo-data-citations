@@ -1,0 +1,553 @@
+{
+    "name": "GM Pro. vol 20, no. 1. (2000)",
+    "machine_name": "gm_pro_vol_20_no_1_2000",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2000",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2116032",
+        "legacy_id": "8289",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "GM Pro. vol 20, no. 1. (2000) p 6",
+            "machine_name": "gm_pro_vol_20_no_1_2000_p_6",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "amaranthus_cultivars_aurora",
+                "type": "variety",
+                "archival_data": [
+                    "1530701"
+                ]
+            },
+            "volume": null,
+            "page": "p 6",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1861965",
+                "legacy_id": "168630",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "GM Pro. vol 20, no. 1. (2000) p 8",
+            "machine_name": "gm_pro_vol_20_no_1_2000_p_8",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "impatiens_cultivars_fiesta_series",
+                "type": "variety",
+                "archival_data": [
+                    "1535433"
+                ]
+            },
+            "volume": null,
+            "page": "p 8",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1861966",
+                "legacy_id": "168631",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "GM Pro. vol 20, no. 1. (2000) p 9",
+            "machine_name": "gm_pro_vol_20_no_1_2000_p_9",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "chrysanthemum_cultivars_dublin",
+                "type": "variety",
+                "archival_data": [
+                    "1546309"
+                ]
+            },
+            "volume": null,
+            "page": "p 9",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1861967",
+                "legacy_id": "168632",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "GM Pro. vol 20, no. 1. (2000) p 9",
+            "machine_name": "gm_pro_vol_20_no_1_2000_p_9",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "clerodendrum_thomsoniae",
+                "type": "species",
+                "archival_data": [
+                    "1408693"
+                ]
+            },
+            "volume": null,
+            "page": "p 9",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1861968",
+                "legacy_id": "168633",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "GM Pro. vol 20, no. 1. (2000) p 10",
+            "machine_name": "gm_pro_vol_20_no_1_2000_p_10",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ficus_benjamina_midnight",
+                "type": "variety",
+                "archival_data": [
+                    "1533449"
+                ]
+            },
+            "volume": null,
+            "page": "p 10",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1861969",
+                "legacy_id": "168634",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "GM Pro. vol 20, no. 1. (2000) p 26",
+            "machine_name": "gm_pro_vol_20_no_1_2000_p_26",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "chrysophyllum_oliviforme",
+                "type": "species",
+                "archival_data": [
+                    "1444625"
+                ]
+            },
+            "volume": null,
+            "page": "p 26",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1861970",
+                "legacy_id": "168635",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "GM Pro. vol 20, no. 1. (2000) p 32",
+            "machine_name": "gm_pro_vol_20_no_1_2000_p_32",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "anthurium_cultivars_purple_plum",
+                "type": "variety",
+                "archival_data": [
+                    "1546310"
+                ]
+            },
+            "volume": null,
+            "page": "p 32",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1861971",
+                "legacy_id": "168636",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "GM Pro. vol 20, no. 1. (2000) p 32",
+            "machine_name": "gm_pro_vol_20_no_1_2000_p_32",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "musella_lasiocarpa",
+                "type": "species",
+                "archival_data": [
+                    "1415992"
+                ]
+            },
+            "volume": null,
+            "page": "p 32",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1861972",
+                "legacy_id": "168637",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "GM Pro. vol 20, no. 1. (2000) p 33",
+            "machine_name": "gm_pro_vol_20_no_1_2000_p_33",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "peperomia_cultivars_starburst",
+                "type": "variety",
+                "archival_data": [
+                    "1546312"
+                ]
+            },
+            "volume": null,
+            "page": "p 33",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1861973",
+                "legacy_id": "168638",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "GM Pro. vol 20, no. 1. (2000) p 33",
+            "machine_name": "gm_pro_vol_20_no_1_2000_p_33",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "phalaenopsis_cultivars_golden_silk",
+                "type": "variety",
+                "archival_data": [
+                    "1546311"
+                ]
+            },
+            "volume": null,
+            "page": "p 33",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1861974",
+                "legacy_id": "168639",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "GM Pro. vol 20, no. 1. (2000) p 33",
+            "machine_name": "gm_pro_vol_20_no_1_2000_p_33",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "spathiphyllum_cultivars_grand_dad",
+                "type": "variety",
+                "archival_data": [
+                    "1546313"
+                ]
+            },
+            "volume": null,
+            "page": "p 33",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1861975",
+                "legacy_id": "168640",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "GM Pro. vol 20, no. 1. (2000) p 33",
+            "machine_name": "gm_pro_vol_20_no_1_2000_p_33",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "philodendron_evansii",
+                "type": "species",
+                "archival_data": [
+                    "1423064"
+                ]
+            },
+            "volume": null,
+            "page": "p 33",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1861976",
+                "legacy_id": "168641",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "GM Pro. vol 20, no. 1. (2000) p 38 (Adv.)",
+            "machine_name": "gm_pro_vol_20_no_1_2000_p_38_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cyclamen_cultivars_halios_series",
+                "type": "variety",
+                "archival_data": [
+                    "1469579"
+                ]
+            },
+            "volume": null,
+            "page": "p 38 (Adv.)",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1861977",
+                "legacy_id": "168642",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        }
+    ]
+}

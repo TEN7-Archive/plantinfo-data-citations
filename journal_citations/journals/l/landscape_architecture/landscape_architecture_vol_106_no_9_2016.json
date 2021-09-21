@@ -1,0 +1,61 @@
+{
+    "name": "Landscape Architecture. vol 106, no. 9. (2016)",
+    "machine_name": "landscape_architecture_vol_106_no_9_2016",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2016",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": "7",
+    "description": null,
+    "archival_data": {
+        "id": "2271521",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1520943938"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Landscape Architecture. vol 106, no. 9. (2016) p 10 (Adv.)",
+            "machine_name": "landscape_architecture_vol_106_no_9_2016_p_10_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "thuja_occidentalis_north_pole",
+                "type": "variety",
+                "archival_data": [
+                    "1649134"
+                ]
+            },
+            "volume": null,
+            "page": "p 10 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2271526",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1520944226"
+            }
+        }
+    ]
+}

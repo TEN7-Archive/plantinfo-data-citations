@@ -1,0 +1,102 @@
+{
+    "name": "P.H.M.-Revue Horticole. no. 509. (2009)",
+    "machine_name": "p_h_m_revue_horticole_no_509_2009",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2009",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2119952",
+        "legacy_id": "100210",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "P.H.M.-Revue Horticole. no. 509. (2009) p 36-37",
+            "machine_name": "p_h_m_revue_horticole_no_509_2009_p_36_37",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lonicera_morrowii",
+                "type": "species",
+                "archival_data": [
+                    "1438875"
+                ]
+            },
+            "volume": null,
+            "page": "p 36-37",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1944938",
+                "legacy_id": "389307",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "P.H.M.-Revue Horticole. no. 509. (2009) p 39, Pl. 2",
+            "machine_name": "p_h_m_revue_horticole_no_509_2009_p_39_pl_2",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ipomoea_pes_caprae",
+                "type": "species",
+                "archival_data": [
+                    "1416912"
+                ]
+            },
+            "volume": null,
+            "page": "p 39, Pl. 2",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1944939",
+                "legacy_id": "389308",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        }
+    ]
+}

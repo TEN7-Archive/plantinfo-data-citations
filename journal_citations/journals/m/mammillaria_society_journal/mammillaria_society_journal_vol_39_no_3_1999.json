@@ -1,0 +1,102 @@
+{
+    "name": "Mammillaria Society, Journal. vol 39, no. 3. (1999)",
+    "machine_name": "mammillaria_society_journal_vol_39_no_3_1999",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1999",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2115789",
+        "legacy_id": "7757",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Mammillaria Society, Journal. vol 39, no. 3. (1999) p 33",
+            "machine_name": "mammillaria_society_journal_vol_39_no_3_1999_p_33",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "mammillaria_insularis",
+                "type": "species",
+                "archival_data": [
+                    "1416665"
+                ]
+            },
+            "volume": null,
+            "page": "p 33",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1857620",
+                "legacy_id": "164744",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Mammillaria Society, Journal. vol 39, no. 3. (1999) p 33",
+            "machine_name": "mammillaria_society_journal_vol_39_no_3_1999_p_33",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "escobaria_robbinsorum",
+                "type": "species",
+                "archival_data": [
+                    "1413229"
+                ]
+            },
+            "volume": null,
+            "page": "p 33",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1857621",
+                "legacy_id": "164745",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        }
+    ]
+}

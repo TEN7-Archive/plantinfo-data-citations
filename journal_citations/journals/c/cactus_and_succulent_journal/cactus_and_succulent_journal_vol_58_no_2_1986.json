@@ -1,0 +1,184 @@
+{
+    "name": "Cactus and Succulent Journal. vol 58, no. 2. (1986)",
+    "machine_name": "cactus_and_succulent_journal_vol_58_no_2_1986",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1986",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113963",
+        "legacy_id": "1828",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Cactus and Succulent Journal. vol 58, no. 2. (1986) p 70, Pl. 2.",
+            "machine_name": "cactus_and_succulent_journal_vol_58_no_2_1986_p_70_pl_2",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "coryphantha_minima",
+                "type": "species",
+                "archival_data": [
+                    "1406434"
+                ]
+            },
+            "volume": null,
+            "page": "p 70, Pl. 2.",
+            "year": "1986",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1784578",
+                "legacy_id": "85040",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 58, no. 2. (1986) p 48, Pl. 1.",
+            "machine_name": "cactus_and_succulent_journal_vol_58_no_2_1986_p_48_pl_1",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "graptopetalum_paraguayense",
+                "type": "species",
+                "archival_data": [
+                    "1413427"
+                ]
+            },
+            "volume": null,
+            "page": "p 48, Pl. 1.",
+            "year": "1986",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1795325",
+                "legacy_id": "100032",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 58, no. 2. (1986) p 70, Pl. 1.",
+            "machine_name": "cactus_and_succulent_journal_vol_58_no_2_1986_p_70_pl_1",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "kalanchoe_humilis",
+                "type": "species",
+                "archival_data": [
+                    "1419188"
+                ]
+            },
+            "volume": null,
+            "page": "p 70, Pl. 1.",
+            "year": "1986",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1804148",
+                "legacy_id": "106345",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 58, no. 2. (1986) p 67, Pl. 2.",
+            "machine_name": "cactus_and_succulent_journal_vol_58_no_2_1986_p_67_pl_2",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "opuntia_imbricata",
+                "type": "species",
+                "archival_data": [
+                    "1421805"
+                ]
+            },
+            "volume": null,
+            "page": "p 67, Pl. 2.",
+            "year": "1986",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1814298",
+                "legacy_id": "116978",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        }
+    ]
+}

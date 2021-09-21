@@ -1,0 +1,102 @@
+{
+    "name": "Grower. vol 121, no. 19. (1994)",
+    "machine_name": "grower_vol_121_no_19_1994",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1994",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2110584",
+        "legacy_id": "3559",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grower. vol 121, no. 19. (1994) p 33",
+            "machine_name": "grower_vol_121_no_19_1994_p_33",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "brassica_oleracea_f_protector",
+                "type": "variety",
+                "archival_data": [
+                    "1465410"
+                ]
+            },
+            "volume": null,
+            "page": "p 33",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1709853",
+                "legacy_id": "4191",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Grower. vol 121, no. 19. (1994) p 33",
+            "machine_name": "grower_vol_121_no_19_1994_p_33",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "brassica_oleracea_f_rialto",
+                "type": "variety",
+                "archival_data": [
+                    "1599661"
+                ]
+            },
+            "volume": null,
+            "page": "p 33",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1709857",
+                "legacy_id": "4195",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        }
+    ]
+}

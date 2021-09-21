@@ -1,0 +1,102 @@
+{
+    "name": "National Geographic. vol 213, no. 4. (2008)",
+    "machine_name": "national_geographic_vol_213_no_4_2008",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2008",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2120455",
+        "legacy_id": "92609",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "National Geographic. vol 213, no. 4. (2008) p front matter",
+            "machine_name": "national_geographic_vol_213_no_4_2008_p_front_matter",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "caesalpinia_echinata",
+                "type": "species",
+                "archival_data": [
+                    "1398881"
+                ]
+            },
+            "volume": null,
+            "page": "p front matter",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1958749",
+                "legacy_id": "369892",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        },
+        {
+            "name": "National Geographic. vol 213, no. 4. (2008) p 118-119",
+            "machine_name": "national_geographic_vol_213_no_4_2008_p_118_119",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ficus_benghalensis",
+                "type": "species",
+                "archival_data": [
+                    "1412984"
+                ]
+            },
+            "volume": null,
+            "page": "p 118-119",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": true,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1958750",
+                "legacy_id": "369912",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        }
+    ]
+}

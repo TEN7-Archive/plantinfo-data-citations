@@ -1,0 +1,102 @@
+{
+    "name": "Grower. vol 116, no. 4. (1991)",
+    "machine_name": "grower_vol_116_no_4_1991",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1991",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2112036",
+        "legacy_id": "3465",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grower. vol 116, no. 4. (1991) p cover (Adv.)",
+            "machine_name": "grower_vol_116_no_4_1991_p_cover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lactuca_cultivars_animo",
+                "type": "variety",
+                "archival_data": [
+                    "1480461"
+                ]
+            },
+            "volume": null,
+            "page": "p cover (Adv.)",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1731255",
+                "legacy_id": "26745",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Grower. vol 116, no. 4. (1991) p cover (Adv.)",
+            "machine_name": "grower_vol_116_no_4_1991_p_cover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lactuca_cultivars_ricardo",
+                "type": "variety",
+                "archival_data": [
+                    "1481043"
+                ]
+            },
+            "volume": null,
+            "page": "p cover (Adv.)",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1731941",
+                "legacy_id": "26946",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        }
+    ]
+}

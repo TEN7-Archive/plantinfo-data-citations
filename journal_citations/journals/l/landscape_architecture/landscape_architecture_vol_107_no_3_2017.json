@@ -1,0 +1,61 @@
+{
+    "name": "Landscape Architecture. vol 107, no. 3. (2017)",
+    "machine_name": "landscape_architecture_vol_107_no_3_2017",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2017",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": "7",
+    "description": null,
+    "archival_data": {
+        "id": "2345421",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1531151413"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Landscape Architecture. vol 107, no. 3. (2017) p 80 (Adv\/)",
+            "machine_name": "landscape_architecture_vol_107_no_3_2017_p_80_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cephalanthus_cultivars_sugar_shack",
+                "type": "variety",
+                "archival_data": [
+                    "1608118"
+                ]
+            },
+            "volume": null,
+            "page": "p 80 (Adv\/)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2345486",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1531153502"
+            }
+        }
+    ]
+}

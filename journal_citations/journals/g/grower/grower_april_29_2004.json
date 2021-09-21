@@ -1,0 +1,184 @@
+{
+    "name": "Grower. April 29, 2004.",
+    "machine_name": "grower_april_29_2004",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1688126",
+        "legacy_id": "58410",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grower. April 29, 2004. p 8",
+            "machine_name": "grower_april_29_2004_p_8",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rubus_b_cultivars_cacanska_bestrna",
+                "type": "variety",
+                "archival_data": [
+                    "1586324"
+                ]
+            },
+            "volume": null,
+            "page": "p 8",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1918760",
+                "legacy_id": "278577",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "Grower. April 29, 2004. p 21",
+            "machine_name": "grower_april_29_2004_p_21",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "viola_wittrockiana_vivaldi_series",
+                "type": "variety",
+                "archival_data": [
+                    "1571330"
+                ]
+            },
+            "volume": null,
+            "page": "p 21",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1918761",
+                "legacy_id": "278578",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "Grower. April 29, 2004. p 22",
+            "machine_name": "grower_april_29_2004_p_22",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "echinacea_purpurea_magnus",
+                "type": "variety",
+                "archival_data": [
+                    "1474237"
+                ]
+            },
+            "volume": null,
+            "page": "p 22",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1918762",
+                "legacy_id": "278579",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "Grower. April 29, 2004. p 25",
+            "machine_name": "grower_april_29_2004_p_25",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "malus_a_cultivars_royal_gala",
+                "type": "variety",
+                "archival_data": [
+                    "1484428"
+                ]
+            },
+            "volume": null,
+            "page": "p 25",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1918763",
+                "legacy_id": "278580",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        }
+    ]
+}

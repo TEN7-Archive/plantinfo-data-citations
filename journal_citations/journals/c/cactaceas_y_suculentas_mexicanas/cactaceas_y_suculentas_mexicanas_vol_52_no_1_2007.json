@@ -1,0 +1,143 @@
+{
+    "name": "Cactaceas y Suculentas Mexicanas. vol 52 , no. 1. (2007)",
+    "machine_name": "cactaceas_y_suculentas_mexicanas_vol_52_no_1_2007",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2007",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2119353",
+        "legacy_id": "94629",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Cactaceas y Suculentas Mexicanas. vol 52 , no. 1. (2007) p cover;backcover",
+            "machine_name": "cactaceas_y_suculentas_mexicanas_vol_52_no_1_2007_p_cover_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "fouquieria_fasciculata",
+                "type": "species",
+                "archival_data": [
+                    "1413763"
+                ]
+            },
+            "volume": null,
+            "page": "p cover;backcover",
+            "year": "2007",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1930051",
+                "legacy_id": "374352",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "Cactaceas y Suculentas Mexicanas. vol 52 , no. 1. (2007) p 5;9",
+            "machine_name": "cactaceas_y_suculentas_mexicanas_vol_52_no_1_2007_p_5_9",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "echeveria_laui",
+                "type": "species",
+                "archival_data": [
+                    "1405493"
+                ]
+            },
+            "volume": null,
+            "page": "p 5;9",
+            "year": "2007",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": true,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1930052",
+                "legacy_id": "374353",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "Cactaceas y Suculentas Mexicanas. vol 52 , no. 1. (2007) p 21;24",
+            "machine_name": "cactaceas_y_suculentas_mexicanas_vol_52_no_1_2007_p_21_24",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "digitostigma_caput_medusae",
+                "type": "species",
+                "archival_data": [
+                    "1446655"
+                ]
+            },
+            "volume": null,
+            "page": "p 21;24",
+            "year": "2007",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1930053",
+                "legacy_id": "374354",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        }
+    ]
+}

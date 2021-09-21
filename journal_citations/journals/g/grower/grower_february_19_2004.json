@@ -1,0 +1,102 @@
+{
+    "name": "Grower. February 19, 2004.",
+    "machine_name": "grower_february_19_2004",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1690758",
+        "legacy_id": "55909",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grower. February 19, 2004. p 10, Pl. 2",
+            "machine_name": "grower_february_19_2004_p_10_pl_2",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "primula_auricula_evie_series",
+                "type": "variety",
+                "archival_data": [
+                    "1587269"
+                ]
+            },
+            "volume": null,
+            "page": "p 10, Pl. 2",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1913138",
+                "legacy_id": "272680",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Grower. February 19, 2004. p 10, Pl. 3",
+            "machine_name": "grower_february_19_2004_p_10_pl_3",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "begonia_cultivars_inca_fire",
+                "type": "variety",
+                "archival_data": [
+                    "1587270"
+                ]
+            },
+            "volume": null,
+            "page": "p 10, Pl. 3",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1913139",
+                "legacy_id": "272681",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        }
+    ]
+}

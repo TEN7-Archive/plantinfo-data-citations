@@ -1,0 +1,758 @@
+{
+    "name": "Horticulture. vol 57, no. 1. (1979)",
+    "machine_name": "horticulture_vol_57_no_1_1979",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1979",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": "7",
+    "description": null,
+    "archival_data": {
+        "id": "2526191",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1560027607"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Horticulture. vol 57, no. 1. (1979) p cover",
+            "machine_name": "horticulture_vol_57_no_1_1979_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cynodontium_polycarpon",
+                "type": "species",
+                "archival_data": [
+                    "2526221"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2526246",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1560029213"
+            }
+        },
+        {
+            "name": "Horticulture. vol 57, no. 1. (1979) p 29 (Adv.)",
+            "machine_name": "horticulture_vol_57_no_1_1979_p_29_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_paradise",
+                "type": "variety",
+                "archival_data": [
+                    "1493159"
+                ]
+            },
+            "volume": null,
+            "page": "p 29 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2526251",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1560029213"
+            }
+        },
+        {
+            "name": "Horticulture. vol 57, no. 1. (1979) p 29 (Adv.)",
+            "machine_name": "horticulture_vol_57_no_1_1979_p_29_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_friendship",
+                "type": "variety",
+                "archival_data": [
+                    "1488016"
+                ]
+            },
+            "volume": null,
+            "page": "p 29 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2526256",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1560029213"
+            }
+        },
+        {
+            "name": "Horticulture. vol 57, no. 1. (1979) p 31 (Adv.)",
+            "machine_name": "horticulture_vol_57_no_1_1979_p_31_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_sundowner",
+                "type": "variety",
+                "archival_data": [
+                    "1522893"
+                ]
+            },
+            "volume": null,
+            "page": "p 31 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2526261",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1560029213"
+            }
+        },
+        {
+            "name": "Horticulture. vol 57, no. 1. (1979) p 37 (Adv.)",
+            "machine_name": "horticulture_vol_57_no_1_1979_p_37_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_american_pride",
+                "type": "variety",
+                "archival_data": [
+                    "1489164"
+                ]
+            },
+            "volume": null,
+            "page": "p 37 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2526266",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1560029213"
+            }
+        },
+        {
+            "name": "Horticulture. vol 57, no. 1. (1979) p 38-39",
+            "machine_name": "horticulture_vol_57_no_1_1979_p_38_39",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "simmondsia_chinensis",
+                "type": "species",
+                "archival_data": [
+                    "1429976"
+                ]
+            },
+            "volume": null,
+            "page": "p 38-39",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2526271",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1560029213"
+            }
+        },
+        {
+            "name": "Horticulture. vol 57, no. 1. (1979) p 46-47",
+            "machine_name": "horticulture_vol_57_no_1_1979_p_46_47",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "dicranella_heteromalla",
+                "type": "species",
+                "archival_data": [
+                    "2526236"
+                ]
+            },
+            "volume": null,
+            "page": "p 46-47",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2526276",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1560029213"
+            }
+        },
+        {
+            "name": "Horticulture. vol 57, no. 1. (1979) p 48-49",
+            "machine_name": "horticulture_vol_57_no_1_1979_p_48_49",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "mammillaria_candida",
+                "type": "species",
+                "archival_data": [
+                    "1416284"
+                ]
+            },
+            "volume": null,
+            "page": "p 48-49",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2526281",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1560029213"
+            }
+        },
+        {
+            "name": "Horticulture. vol 57, no. 1. (1979) p 50",
+            "machine_name": "horticulture_vol_57_no_1_1979_p_50",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "gymnocalycium_mihanovichii",
+                "type": "species",
+                "archival_data": [
+                    "1414938"
+                ]
+            },
+            "volume": null,
+            "page": "p 50",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2526286",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1560029213"
+            }
+        },
+        {
+            "name": "Horticulture. vol 57, no. 1. (1979) p 58-60",
+            "machine_name": "horticulture_vol_57_no_1_1979_p_58_60",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "koelreuteria_paniculata",
+                "type": "species",
+                "archival_data": [
+                    "1419892"
+                ]
+            },
+            "volume": null,
+            "page": "p 58-60",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2526291",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1560029213"
+            }
+        },
+        {
+            "name": "Horticulture. vol 57, no. 1. (1979) p inside backcover (Adv.)",
+            "machine_name": "horticulture_vol_57_no_1_1979_p_inside_backcover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "daucus_carota_pioneer",
+                "type": "variety",
+                "archival_data": [
+                    "1501110"
+                ]
+            },
+            "volume": null,
+            "page": "p inside backcover (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": true,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2526296",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1560029213"
+            }
+        },
+        {
+            "name": "Horticulture. vol 57, no. 1. (1979) p inside backcover (Adv.)",
+            "machine_name": "horticulture_vol_57_no_1_1979_p_inside_backcover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cucurbita_s_cultivars_zucchini_elite",
+                "type": "variety",
+                "archival_data": [
+                    "1549344"
+                ]
+            },
+            "volume": null,
+            "page": "p inside backcover (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2526301",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1560029213"
+            }
+        },
+        {
+            "name": "Horticulture. vol 57, no. 1. (1979) p backcover (Adv.)",
+            "machine_name": "horticulture_vol_57_no_1_1979_p_backcover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pisum_sativum_sugar_snap",
+                "type": "variety",
+                "archival_data": [
+                    "1486287"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2526306",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1560029213"
+            }
+        },
+        {
+            "name": "Horticulture. vol 57, no. 1. (1979) p backcover (Adv.)",
+            "machine_name": "horticulture_vol_57_no_1_1979_p_backcover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "tagetes_cultivars_happy_days_series",
+                "type": "variety",
+                "archival_data": [
+                    "1529399"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2526311",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1560029213"
+            }
+        },
+        {
+            "name": "Horticulture. vol 57, no. 1. (1979) p backcover (Adv.)",
+            "machine_name": "horticulture_vol_57_no_1_1979_p_backcover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lycopersicon_cultivars_big_girl",
+                "type": "variety",
+                "archival_data": [
+                    "1480869"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2526316",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1560029213"
+            }
+        },
+        {
+            "name": "Horticulture. vol 57, no. 1. (1979) p backcover (Adv.)",
+            "machine_name": "horticulture_vol_57_no_1_1979_p_backcover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cucumis_melo_sweet_n_early",
+                "type": "variety",
+                "archival_data": [
+                    "1468021"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2526321",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1560029213"
+            }
+        },
+        {
+            "name": "Horticulture. vol 57, no. 1. (1979) p backcover (Adv.)",
+            "machine_name": "horticulture_vol_57_no_1_1979_p_backcover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "papaver_nudicaule_sparkling_bubbles",
+                "type": "variety",
+                "archival_data": [
+                    "1520785"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2526326",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1560029213"
+            }
+        },
+        {
+            "name": "Horticulture. vol 57, no. 1. (1979) p inside backcover (Adv.)",
+            "machine_name": "horticulture_vol_57_no_1_1979_p_inside_backcover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "zea_c_cultivars_quicksilver",
+                "type": "variety",
+                "archival_data": [
+                    "2526241"
+                ]
+            },
+            "volume": null,
+            "page": "p inside backcover (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2526331",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1560029213"
+            }
+        }
+    ]
+}

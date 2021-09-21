@@ -1,0 +1,102 @@
+{
+    "name": "Scientific American. vol 289, no. 3. (2003)",
+    "machine_name": "scientific_american_vol_289_no_3_2003",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2003",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2118208",
+        "legacy_id": "49469",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Scientific American. vol 289, no. 3. (2003) p 108",
+            "machine_name": "scientific_american_vol_289_no_3_2003_p_108",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "nymphaea_odorata",
+                "type": "species",
+                "archival_data": [
+                    "1425136"
+                ]
+            },
+            "volume": null,
+            "page": "p 108",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1907247",
+                "legacy_id": "261410",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Scientific American. vol 289, no. 3. (2003) p 108",
+            "machine_name": "scientific_american_vol_289_no_3_2003_p_108",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "iris_versicolor",
+                "type": "species",
+                "archival_data": [
+                    "1417667"
+                ]
+            },
+            "volume": null,
+            "page": "p 108",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1907248",
+                "legacy_id": "261411",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        }
+    ]
+}

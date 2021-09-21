@@ -1,0 +1,61 @@
+{
+    "name": "Trends in Plant Science. vol 6, no. 3. (2001)",
+    "machine_name": "trends_in_plant_science_vol_6_no_3_2001",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2001",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2117084",
+        "legacy_id": "29973",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Trends in Plant Science. vol 6, no. 3. (2001) p 97",
+            "machine_name": "trends_in_plant_science_vol_6_no_3_2001_p_97",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ricinus_communis",
+                "type": "species",
+                "archival_data": [
+                    "1433174"
+                ]
+            },
+            "volume": null,
+            "page": "p 97",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": true,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1883408",
+                "legacy_id": "221630",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        }
+    ]
+}

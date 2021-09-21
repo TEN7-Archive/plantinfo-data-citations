@@ -1,0 +1,61 @@
+{
+    "name": "Arnoldia. vol 58, no. 4. (1998-99)",
+    "machine_name": "arnoldia_vol_58_no_4_1998_99",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1998-99",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2115911",
+        "legacy_id": "7602",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Arnoldia. vol 58, no. 4. (1998-99) p cover;62;backcover",
+            "machine_name": "arnoldia_vol_58_no_4_1998_99_p_cover_62_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "metasequoia_glyptostroboides",
+                "type": "species",
+                "archival_data": [
+                    "1420066"
+                ]
+            },
+            "volume": null,
+            "page": "p cover;62;backcover",
+            "year": "1998-99",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": true,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1859685",
+                "legacy_id": "162789",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        }
+    ]
+}

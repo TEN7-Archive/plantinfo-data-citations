@@ -1,0 +1,102 @@
+{
+    "name": "Landscape Architecture. vol 101, no. 4. (2011)",
+    "machine_name": "landscape_architecture_vol_101_no_4_2011",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2011",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2123818",
+        "legacy_id": "113153",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Landscape Architecture. vol 101, no. 4. (2011) p 20",
+            "machine_name": "landscape_architecture_vol_101_no_4_2011_p_20",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "crataegus_monogyna_biflora",
+                "type": "variety",
+                "archival_data": [
+                    "1557037"
+                ]
+            },
+            "volume": null,
+            "page": "p 20",
+            "year": "2011",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2046791",
+                "legacy_id": "429403",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        },
+        {
+            "name": "Landscape Architecture. vol 101, no. 4. (2011) p 32; 34",
+            "machine_name": "landscape_architecture_vol_101_no_4_2011_p_32_34",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "baptisia_australis",
+                "type": "species",
+                "archival_data": [
+                    "1399609"
+                ]
+            },
+            "volume": null,
+            "page": "p 32; 34",
+            "year": "2011",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2046792",
+                "legacy_id": "429404",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        }
+    ]
+}

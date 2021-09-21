@@ -1,0 +1,184 @@
+{
+    "name": "Sunset. March 2016.",
+    "machine_name": "sunset_march_2016",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1696255",
+        "legacy_id": "132311",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Sunset. March 2016. p 48",
+            "machine_name": "sunset_march_2016_p_48",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "delosperma_cultivars_mesa_verde",
+                "type": "variety",
+                "archival_data": [
+                    "1567090"
+                ]
+            },
+            "volume": null,
+            "page": "p 48",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2091759",
+                "legacy_id": "514367",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483209571"
+            }
+        },
+        {
+            "name": "Sunset. March 2016. p 48",
+            "machine_name": "sunset_march_2016_p_48",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "chamaemelum_nobile_treneague",
+                "type": "variety",
+                "archival_data": [
+                    "1468269"
+                ]
+            },
+            "volume": null,
+            "page": "p 48",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2091760",
+                "legacy_id": "514368",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483209571"
+            }
+        },
+        {
+            "name": "Sunset. March 2016. p 48",
+            "machine_name": "sunset_march_2016_p_48",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "dymondia_margaretae",
+                "type": "species",
+                "archival_data": [
+                    "1405454"
+                ]
+            },
+            "volume": null,
+            "page": "p 48",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2091761",
+                "legacy_id": "514369",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483209571"
+            }
+        },
+        {
+            "name": "Sunset. March 2016. p 73",
+            "machine_name": "sunset_march_2016_p_73",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "graptopetalum_paraguayense",
+                "type": "species",
+                "archival_data": [
+                    "1413427"
+                ]
+            },
+            "volume": null,
+            "page": "p 73",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2091762",
+                "legacy_id": "514370",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483209571"
+            }
+        }
+    ]
+}

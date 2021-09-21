@@ -1,0 +1,102 @@
+{
+    "name": "Natural History. vol 103, no. 3. (1994)",
+    "machine_name": "natural_history_vol_103_no_3_1994",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1994",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114265",
+        "legacy_id": "4641",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Natural History. vol 103, no. 3. (1994) p 22",
+            "machine_name": "natural_history_vol_103_no_3_1994_p_22",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lilium_philadelphicum",
+                "type": "species",
+                "archival_data": [
+                    "1417716"
+                ]
+            },
+            "volume": null,
+            "page": "p 22",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1804011",
+                "legacy_id": "108956",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Natural History. vol 103, no. 3. (1994) p 20",
+            "machine_name": "natural_history_vol_103_no_3_1994_p_20",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "primula_mistassinica",
+                "type": "species",
+                "archival_data": [
+                    "1424225"
+                ]
+            },
+            "volume": null,
+            "page": "p 20",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1816375",
+                "legacy_id": "124151",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        }
+    ]
+}

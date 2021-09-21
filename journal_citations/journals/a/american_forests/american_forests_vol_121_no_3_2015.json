@@ -1,0 +1,184 @@
+{
+    "name": "American Forests. vol 121, no. 3. (2015)",
+    "machine_name": "american_forests_vol_121_no_3_2015",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2015",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2124244",
+        "legacy_id": "130172",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "American Forests. vol 121, no. 3. (2015) p 5",
+            "machine_name": "american_forests_vol_121_no_3_2015_p_5",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pyrus_calleryana_bradford",
+                "type": "variety",
+                "archival_data": [
+                    "1490808"
+                ]
+            },
+            "volume": null,
+            "page": "p 5",
+            "year": "2015",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2075098",
+                "legacy_id": "505697",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483209571"
+            }
+        },
+        {
+            "name": "American Forests. vol 121, no. 3. (2015) p 8",
+            "machine_name": "american_forests_vol_121_no_3_2015_p_8",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pinus_lambertiana",
+                "type": "species",
+                "archival_data": [
+                    "1425302"
+                ]
+            },
+            "volume": null,
+            "page": "p 8",
+            "year": "2015",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2075099",
+                "legacy_id": "505698",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483209571"
+            }
+        },
+        {
+            "name": "American Forests. vol 121, no. 3. (2015) p 26-27; 30",
+            "machine_name": "american_forests_vol_121_no_3_2015_p_26_27_30",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "quercus_macrocarpa",
+                "type": "species",
+                "archival_data": [
+                    "1421727"
+                ]
+            },
+            "volume": null,
+            "page": "p 26-27; 30",
+            "year": "2015",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2075100",
+                "legacy_id": "505699",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483209571"
+            }
+        },
+        {
+            "name": "American Forests. vol 121, no. 3. (2015) p 30",
+            "machine_name": "american_forests_vol_121_no_3_2015_p_30",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "fraxinus_quadrangulata",
+                "type": "species",
+                "archival_data": [
+                    "1414102"
+                ]
+            },
+            "volume": null,
+            "page": "p 30",
+            "year": "2015",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2075101",
+                "legacy_id": "505700",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483209571"
+            }
+        }
+    ]
+}

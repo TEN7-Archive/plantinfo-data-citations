@@ -1,0 +1,61 @@
+{
+    "name": "Grounds Maintenance. vol 26, no. 5. (1991)",
+    "machine_name": "grounds_maintenance_vol_26_no_5_1991",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1991",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114001",
+        "legacy_id": "3268",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grounds Maintenance. vol 26, no. 5. (1991) p 1",
+            "machine_name": "grounds_maintenance_vol_26_no_5_1991_p_1",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "eremochloa_ophiuroides",
+                "type": "species",
+                "archival_data": [
+                    "1415421"
+                ]
+            },
+            "volume": null,
+            "page": "p 1",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1786505",
+                "legacy_id": "92541",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        }
+    ]
+}

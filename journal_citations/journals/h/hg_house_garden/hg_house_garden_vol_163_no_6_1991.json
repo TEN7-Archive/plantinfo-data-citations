@@ -1,0 +1,61 @@
+{
+    "name": "HG: House & Garden. vol 163, no. 6. (1991)",
+    "machine_name": "hg_house_garden_vol_163_no_6_1991",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1991",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2111964",
+        "legacy_id": "3728",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "HG: House & Garden. vol 163, no. 6. (1991) p 83",
+            "machine_name": "hg_house_garden_vol_163_no_6_1991_p_83",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lavandula_angustifolia_hidcote",
+                "type": "variety",
+                "archival_data": [
+                    "1477498"
+                ]
+            },
+            "volume": null,
+            "page": "p 83",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1729025",
+                "legacy_id": "27438",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        }
+    ]
+}

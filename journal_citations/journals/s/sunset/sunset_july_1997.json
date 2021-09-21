@@ -1,0 +1,102 @@
+{
+    "name": "Sunset. July 1997.",
+    "machine_name": "sunset_july_1997",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1679634",
+        "legacy_id": "7117",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Sunset. July 1997. p 47",
+            "machine_name": "sunset_july_1997_p_47",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "agastache_cana",
+                "type": "species",
+                "archival_data": [
+                    "1400907"
+                ]
+            },
+            "volume": null,
+            "page": "p 47",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1851101",
+                "legacy_id": "156721",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Sunset. July 1997. p 47",
+            "machine_name": "sunset_july_1997_p_47",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "eryngium_giganteum",
+                "type": "species",
+                "archival_data": [
+                    "1412506"
+                ]
+            },
+            "volume": null,
+            "page": "p 47",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1851102",
+                "legacy_id": "156722",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        }
+    ]
+}

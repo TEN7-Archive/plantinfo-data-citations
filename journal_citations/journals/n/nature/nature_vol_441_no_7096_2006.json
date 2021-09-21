@@ -1,0 +1,102 @@
+{
+    "name": "Nature. vol 441, no. 7096. (2006)",
+    "machine_name": "nature_vol_441_no_7096_2006",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2006",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2120770",
+        "legacy_id": "73710",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Nature. vol 441, no. 7096. (2006) p 945, Pl. a-g",
+            "machine_name": "nature_vol_441_no_7096_2006_p_945_pl_a_g",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "holcoglossum_amesianum",
+                "type": "species",
+                "archival_data": [
+                    "1419787"
+                ]
+            },
+            "volume": null,
+            "page": "p 945, Pl. a-g",
+            "year": "2006",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1967112",
+                "legacy_id": "322358",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        },
+        {
+            "name": "Nature. vol 441, no. 7096. (2006) p 948, Pl. d",
+            "machine_name": "nature_vol_441_no_7096_2006_p_948_pl_d",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "arabidopsis_thaliana",
+                "type": "species",
+                "archival_data": [
+                    "1400989"
+                ]
+            },
+            "volume": null,
+            "page": "p 948, Pl. d",
+            "year": "2006",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1967113",
+                "legacy_id": "322359",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        }
+    ]
+}

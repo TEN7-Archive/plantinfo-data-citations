@@ -1,0 +1,102 @@
+{
+    "name": "New England Wild Flower. vol 1, no. 2. (1997)",
+    "machine_name": "new_england_wild_flower_vol_1_no_2_1997",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1997",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114824",
+        "legacy_id": "6124",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "New England Wild Flower. vol 1, no. 2. (1997) p cover",
+            "machine_name": "new_england_wild_flower_vol_1_no_2_1997_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "arisaema_triphyllum",
+                "type": "species",
+                "archival_data": [
+                    "1401847"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1997",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1839970",
+                "legacy_id": "143705",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "New England Wild Flower. vol 1, no. 2. (1997) p backcover",
+            "machine_name": "new_england_wild_flower_vol_1_no_2_1997_p_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "solidago_sempervirens",
+                "type": "species",
+                "archival_data": [
+                    "1431084"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover",
+            "year": "1997",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1839971",
+                "legacy_id": "143706",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        }
+    ]
+}

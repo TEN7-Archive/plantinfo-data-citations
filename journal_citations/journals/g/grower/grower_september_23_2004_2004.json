@@ -1,0 +1,61 @@
+{
+    "name": "Grower. September 23, 2004. (2004)",
+    "machine_name": "grower_september_23_2004_2004",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2004",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2120025",
+        "legacy_id": "61030",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grower. September 23, 2004. (2004) p 9",
+            "machine_name": "grower_september_23_2004_2004_p_9",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pyrus_cultivars_louise_bonne_d_avranche",
+                "type": "variety",
+                "archival_data": [
+                    "1522931"
+                ]
+            },
+            "volume": null,
+            "page": "p 9",
+            "year": "2004",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1947520",
+                "legacy_id": "287060",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        }
+    ]
+}

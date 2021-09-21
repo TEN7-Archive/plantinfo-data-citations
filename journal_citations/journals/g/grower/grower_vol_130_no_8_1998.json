@@ -1,0 +1,143 @@
+{
+    "name": "Grower. vol 130, no. 8. (1998)",
+    "machine_name": "grower_vol_130_no_8_1998",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1998",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2115145",
+        "legacy_id": "6490",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grower. vol 130, no. 8. (1998) p 10",
+            "machine_name": "grower_vol_130_no_8_1998_p_10",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "solanum_tuberosum_estima",
+                "type": "variety",
+                "archival_data": [
+                    "1493584"
+                ]
+            },
+            "volume": null,
+            "page": "p 10",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": true,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1845607",
+                "legacy_id": "149017",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Grower. vol 130, no. 8. (1998) p 16",
+            "machine_name": "grower_vol_130_no_8_1998_p_16",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "fragaria_ananassa_everest",
+                "type": "variety",
+                "archival_data": [
+                    "1534959"
+                ]
+            },
+            "volume": null,
+            "page": "p 16",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1845608",
+                "legacy_id": "149018",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Grower. vol 130, no. 8. (1998) p 19 (Adv.)",
+            "machine_name": "grower_vol_130_no_8_1998_p_19_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ranunculus_cultivars_accolade_series",
+                "type": "variety",
+                "archival_data": [
+                    "1486339"
+                ]
+            },
+            "volume": null,
+            "page": "p 19 (Adv.)",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1845609",
+                "legacy_id": "149019",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        }
+    ]
+}

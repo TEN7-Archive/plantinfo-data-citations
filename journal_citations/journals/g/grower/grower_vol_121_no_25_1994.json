@@ -1,0 +1,61 @@
+{
+    "name": "Grower. vol 121, no. 25. (1994)",
+    "machine_name": "grower_vol_121_no_25_1994",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1994",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2109102",
+        "legacy_id": "3566",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grower. vol 121, no. 25. (1994) p 32",
+            "machine_name": "grower_vol_121_no_25_1994_p_32",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "antirrhinum_cultivars_tattoo_series",
+                "type": "variety",
+                "archival_data": [
+                    "1463619"
+                ]
+            },
+            "volume": null,
+            "page": "p 32",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1703061",
+                "legacy_id": "2027",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        }
+    ]
+}

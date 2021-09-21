@@ -1,0 +1,61 @@
+{
+    "name": "Flora of New South Wales. vol. 2 (1990)",
+    "machine_name": "flora_of_new_south_wales_vol_2_1990",
+    "type": "journal_book",
+    "volume": "2",
+    "number": null,
+    "year": "1990",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2117569",
+        "legacy_id": "2581",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Flora of New South Wales. vol. 2 (1990) 2 p 362, Pl. 24",
+            "machine_name": "flora_of_new_south_wales_vol_2_1990_2_p_362_pl_24",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "acacia_parramattensis",
+                "type": "species",
+                "archival_data": [
+                    "1402008"
+                ]
+            },
+            "volume": "2",
+            "page": "p 362, Pl. 24",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1892096",
+                "legacy_id": "237276",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483346299"
+            }
+        }
+    ]
+}

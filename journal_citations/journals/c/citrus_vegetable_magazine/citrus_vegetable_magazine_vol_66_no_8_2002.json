@@ -1,0 +1,61 @@
+{
+    "name": "Citrus & Vegetable Magazine. vol 66, no. 8. (2002)",
+    "machine_name": "citrus_vegetable_magazine_vol_66_no_8_2002",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2002",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2117486",
+        "legacy_id": "36532",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Citrus & Vegetable Magazine. vol 66, no. 8. (2002) p 57",
+            "machine_name": "citrus_vegetable_magazine_vol_66_no_8_2002_p_57",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cucumis_melo_galia",
+                "type": "variety",
+                "archival_data": [
+                    "1467727"
+                ]
+            },
+            "volume": null,
+            "page": "p 57",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1890462",
+                "legacy_id": "231067",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        }
+    ]
+}

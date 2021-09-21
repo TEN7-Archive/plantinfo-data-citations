@@ -1,0 +1,102 @@
+{
+    "name": "LAIFS. Los Angeles International Fern Society, Journal. vol 28, no. 3. (2001)",
+    "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_28_no_3_2001",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2001",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2116774",
+        "legacy_id": "26094",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "LAIFS. Los Angeles International Fern Society, Journal. vol 28, no. 3. (2001) p cover",
+            "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_28_no_3_2001_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cyathea_veillardii",
+                "type": "species",
+                "archival_data": [
+                    "1448638"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1877644",
+                "legacy_id": "214370",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "LAIFS. Los Angeles International Fern Society, Journal. vol 28, no. 3. (2001) p cover",
+            "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_28_no_3_2001_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "blechnum_australe",
+                "type": "species",
+                "archival_data": [
+                    "1443318"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1883582",
+                "legacy_id": "217314",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        }
+    ]
+}

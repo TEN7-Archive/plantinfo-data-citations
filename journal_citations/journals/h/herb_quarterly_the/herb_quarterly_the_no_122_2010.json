@@ -1,0 +1,184 @@
+{
+    "name": "Herb Quarterly, The. no. 122. (2010)",
+    "machine_name": "herb_quarterly_the_no_122_2010",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2010",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2122921",
+        "legacy_id": "107532",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Herb Quarterly, The. no. 122. (2010) p 24",
+            "machine_name": "herb_quarterly_the_no_122_2010_p_24",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "tacca_chantrieri",
+                "type": "species",
+                "archival_data": [
+                    "1428915"
+                ]
+            },
+            "volume": null,
+            "page": "p 24",
+            "year": "2010",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2015089",
+                "legacy_id": "408636",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "Herb Quarterly, The. no. 122. (2010) p 27",
+            "machine_name": "herb_quarterly_the_no_122_2010_p_27",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "tropaeolum_majus_black_velvet",
+                "type": "variety",
+                "archival_data": [
+                    "1627577"
+                ]
+            },
+            "volume": null,
+            "page": "p 27",
+            "year": "2010",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2017829",
+                "legacy_id": "408637",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "Herb Quarterly, The. no. 122. (2010) p 44",
+            "machine_name": "herb_quarterly_the_no_122_2010_p_44",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "agrimonia_eupatoria",
+                "type": "species",
+                "archival_data": [
+                    "1400978"
+                ]
+            },
+            "volume": null,
+            "page": "p 44",
+            "year": "2010",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2017830",
+                "legacy_id": "408638",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "Herb Quarterly, The. no. 122. (2010) p 45",
+            "machine_name": "herb_quarterly_the_no_122_2010_p_45",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "arisaema_triphyllum",
+                "type": "species",
+                "archival_data": [
+                    "1401847"
+                ]
+            },
+            "volume": null,
+            "page": "p 45",
+            "year": "2010",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2017831",
+                "legacy_id": "408639",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        }
+    ]
+}

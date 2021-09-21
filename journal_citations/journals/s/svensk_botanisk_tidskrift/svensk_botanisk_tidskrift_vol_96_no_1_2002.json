@@ -1,0 +1,225 @@
+{
+    "name": "Svensk Botanisk Tidskrift. vol 96, no. 1. (2002)",
+    "machine_name": "svensk_botanisk_tidskrift_vol_96_no_1_2002",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2002",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2117692",
+        "legacy_id": "37769",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Svensk Botanisk Tidskrift. vol 96, no. 1. (2002) p 2",
+            "machine_name": "svensk_botanisk_tidskrift_vol_96_no_1_2002_p_2",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "iris_spuria",
+                "type": "species",
+                "archival_data": [
+                    "1417647"
+                ]
+            },
+            "volume": null,
+            "page": "p 2",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1895389",
+                "legacy_id": "233150",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Svensk Botanisk Tidskrift. vol 96, no. 1. (2002) p 11, Pl. 2(a)",
+            "machine_name": "svensk_botanisk_tidskrift_vol_96_no_1_2002_p_11_pl_2_a",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "fagus_sylvatica",
+                "type": "species",
+                "archival_data": [
+                    "1412575"
+                ]
+            },
+            "volume": null,
+            "page": "p 11, Pl. 2(a)",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1895390",
+                "legacy_id": "233151",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Svensk Botanisk Tidskrift. vol 96, no. 1. (2002) p 11, Pl. 2(b)",
+            "machine_name": "svensk_botanisk_tidskrift_vol_96_no_1_2002_p_11_pl_2_b",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "alnus_incana",
+                "type": "species",
+                "archival_data": [
+                    "1402491"
+                ]
+            },
+            "volume": null,
+            "page": "p 11, Pl. 2(b)",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1895391",
+                "legacy_id": "233152",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Svensk Botanisk Tidskrift. vol 96, no. 1. (2002) p 11, Pl. 2(c)",
+            "machine_name": "svensk_botanisk_tidskrift_vol_96_no_1_2002_p_11_pl_2_c",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "alnus_glutinosa",
+                "type": "species",
+                "archival_data": [
+                    "1402490"
+                ]
+            },
+            "volume": null,
+            "page": "p 11, Pl. 2(c)",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1895392",
+                "legacy_id": "233153",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Svensk Botanisk Tidskrift. vol 96, no. 1. (2002) p 43",
+            "machine_name": "svensk_botanisk_tidskrift_vol_96_no_1_2002_p_43",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "nothofagus_solanderi",
+                "type": "species",
+                "archival_data": [
+                    "1424732"
+                ]
+            },
+            "volume": null,
+            "page": "p 43",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": true,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1895393",
+                "legacy_id": "233170",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        }
+    ]
+}

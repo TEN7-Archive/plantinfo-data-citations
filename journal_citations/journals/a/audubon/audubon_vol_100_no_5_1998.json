@@ -1,0 +1,266 @@
+{
+    "name": "Audubon. vol 100, no. 5. (1998)",
+    "machine_name": "audubon_vol_100_no_5_1998",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1998",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114990",
+        "legacy_id": "6524",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Audubon. vol 100, no. 5. (1998) p 32",
+            "machine_name": "audubon_vol_100_no_5_1998_p_32",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "clusia_alata",
+                "type": "species",
+                "archival_data": [
+                    "1440732"
+                ]
+            },
+            "volume": null,
+            "page": "p 32",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1843179",
+                "legacy_id": "149665",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Audubon. vol 100, no. 5. (1998) p 46-51",
+            "machine_name": "audubon_vol_100_no_5_1998_p_46_51",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "acer_saccharum",
+                "type": "species",
+                "archival_data": [
+                    "1403193"
+                ]
+            },
+            "volume": null,
+            "page": "p 46-51",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1843180",
+                "legacy_id": "149666",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Audubon. vol 100, no. 5. (1998) p 110",
+            "machine_name": "audubon_vol_100_no_5_1998_p_110",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lilium_regale",
+                "type": "species",
+                "archival_data": [
+                    "1417724"
+                ]
+            },
+            "volume": null,
+            "page": "p 110",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1843181",
+                "legacy_id": "149667",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Audubon. vol 100, no. 5. (1998) p 110",
+            "machine_name": "audubon_vol_100_no_5_1998_p_110",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "zaluzianskya_capensis",
+                "type": "species",
+                "archival_data": [
+                    "1443130"
+                ]
+            },
+            "volume": null,
+            "page": "p 110",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1843182",
+                "legacy_id": "149668",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Audubon. vol 100, no. 5. (1998) p 110",
+            "machine_name": "audubon_vol_100_no_5_1998_p_110",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lonicera_etrusca",
+                "type": "species",
+                "archival_data": [
+                    "1419606"
+                ]
+            },
+            "volume": null,
+            "page": "p 110",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1843183",
+                "legacy_id": "149669",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Audubon. vol 100, no. 5. (1998) p 112",
+            "machine_name": "audubon_vol_100_no_5_1998_p_112",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ipomoea_alba",
+                "type": "species",
+                "archival_data": [
+                    "1416872"
+                ]
+            },
+            "volume": null,
+            "page": "p 112",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1843184",
+                "legacy_id": "149670",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        }
+    ]
+}

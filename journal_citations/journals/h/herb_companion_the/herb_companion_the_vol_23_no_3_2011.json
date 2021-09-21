@@ -1,0 +1,143 @@
+{
+    "name": "Herb Companion, The. vol 23, no. 3. (2011)",
+    "machine_name": "herb_companion_the_vol_23_no_3_2011",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2011",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2124126",
+        "legacy_id": "112369",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Herb Companion, The. vol 23, no. 3. (2011) p 56",
+            "machine_name": "herb_companion_the_vol_23_no_3_2011_p_56",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lavandula_angustifolia_hidcote",
+                "type": "variety",
+                "archival_data": [
+                    "1477498"
+                ]
+            },
+            "volume": null,
+            "page": "p 56",
+            "year": "2011",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2072385",
+                "legacy_id": "425969",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483209571"
+            }
+        },
+        {
+            "name": "Herb Companion, The. vol 23, no. 3. (2011) p 26-27",
+            "machine_name": "herb_companion_the_vol_23_no_3_2011_p_26_27",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "harpagophytum_procumbens",
+                "type": "species",
+                "archival_data": [
+                    "1410106"
+                ]
+            },
+            "volume": null,
+            "page": "p 26-27",
+            "year": "2011",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": true,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2072393",
+                "legacy_id": "425967",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483209571"
+            }
+        },
+        {
+            "name": "Herb Companion, The. vol 23, no. 3. (2011) p 32-33; 35",
+            "machine_name": "herb_companion_the_vol_23_no_3_2011_p_32_33_35",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "armoracia_rusticana",
+                "type": "species",
+                "archival_data": [
+                    "1402223"
+                ]
+            },
+            "volume": null,
+            "page": "p 32-33; 35",
+            "year": "2011",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": true,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2072394",
+                "legacy_id": "425968",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483209571"
+            }
+        }
+    ]
+}

@@ -1,0 +1,184 @@
+{
+    "name": "Cornell Plantations. vol 54, no. 1. (2000)",
+    "machine_name": "cornell_plantations_vol_54_no_1_2000",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2000",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2116137",
+        "legacy_id": "8949",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Cornell Plantations. vol 54, no. 1. (2000) p 12",
+            "machine_name": "cornell_plantations_vol_54_no_1_2000_p_12",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "betula_nigra",
+                "type": "species",
+                "archival_data": [
+                    "1401493"
+                ]
+            },
+            "volume": null,
+            "page": "p 12",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1864567",
+                "legacy_id": "173110",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Cornell Plantations. vol 54, no. 1. (2000) p 13",
+            "machine_name": "cornell_plantations_vol_54_no_1_2000_p_13",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cornus_mas",
+                "type": "species",
+                "archival_data": [
+                    "1405325"
+                ]
+            },
+            "volume": null,
+            "page": "p 13",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1864568",
+                "legacy_id": "173111",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Cornell Plantations. vol 54, no. 1. (2000) p 14",
+            "machine_name": "cornell_plantations_vol_54_no_1_2000_p_14",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "magnolia_macrophylla",
+                "type": "species",
+                "archival_data": [
+                    "1421190"
+                ]
+            },
+            "volume": null,
+            "page": "p 14",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1864569",
+                "legacy_id": "173112",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Cornell Plantations. vol 54, no. 1. (2000) p backcover",
+            "machine_name": "cornell_plantations_vol_54_no_1_2000_p_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "galanthus_nivalis",
+                "type": "species",
+                "archival_data": [
+                    "1414925"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1864570",
+                "legacy_id": "173113",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        }
+    ]
+}

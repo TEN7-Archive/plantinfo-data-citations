@@ -1,0 +1,61 @@
+{
+    "name": "Canadian Journal of Botany. vol 80, no. 9. (2002)",
+    "machine_name": "canadian_journal_of_botany_vol_80_no_9_2002",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2002",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2118530",
+        "legacy_id": "54229",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Canadian Journal of Botany. vol 80, no. 9. (2002) p 919, Pl. 2-3",
+            "machine_name": "canadian_journal_of_botany_vol_80_no_9_2002_p_919_pl_2_3",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pseudotsuga_menziesii",
+                "type": "species",
+                "archival_data": [
+                    "1425741"
+                ]
+            },
+            "volume": null,
+            "page": "p 919, Pl. 2-3",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": true,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": true,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1912704",
+                "legacy_id": "268950",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        }
+    ]
+}

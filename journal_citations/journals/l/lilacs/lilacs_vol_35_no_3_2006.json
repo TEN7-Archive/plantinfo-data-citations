@@ -1,0 +1,102 @@
+{
+    "name": "Lilacs. vol 35, no. 3. (2006)",
+    "machine_name": "lilacs_vol_35_no_3_2006",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2006",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2120759",
+        "legacy_id": "74589",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Lilacs. vol 35, no. 3. (2006) p backcover",
+            "machine_name": "lilacs_vol_35_no_3_2006_p_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "syringa_vulgaris_pink_elizabeth",
+                "type": "variety",
+                "archival_data": [
+                    "1529133"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover",
+            "year": "2006",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1966900",
+                "legacy_id": "324453",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        },
+        {
+            "name": "Lilacs. vol 35, no. 3. (2006) p backcover",
+            "machine_name": "lilacs_vol_35_no_3_2006_p_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "syringa_vulgaris_president_lincoln",
+                "type": "variety",
+                "archival_data": [
+                    "1495643"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover",
+            "year": "2006",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1966901",
+                "legacy_id": "324454",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        }
+    ]
+}

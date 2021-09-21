@@ -1,0 +1,348 @@
+{
+    "name": "Cactus and Succulent Journal. vol 55, no. 2. (1983)",
+    "machine_name": "cactus_and_succulent_journal_vol_55_no_2_1983",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1983",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2110059",
+        "legacy_id": "1811",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Cactus and Succulent Journal. vol 55, no. 2. (1983) p 72, Pl. 2",
+            "machine_name": "cactus_and_succulent_journal_vol_55_no_2_1983_p_72_pl_2",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "coryphantha_vivipara_alversonii",
+                "type": "variety",
+                "archival_data": [
+                    "1471300"
+                ]
+            },
+            "volume": null,
+            "page": "p 72, Pl. 2",
+            "year": "1983",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1706506",
+                "legacy_id": "8798",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 55, no. 2. (1983) p 69, Pl. 1",
+            "machine_name": "cactus_and_succulent_journal_vol_55_no_2_1983_p_69_pl_1",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "mammillaria_rekoi_leptacantha",
+                "type": "variety",
+                "archival_data": [
+                    "1485601"
+                ]
+            },
+            "volume": null,
+            "page": "p 69, Pl. 1",
+            "year": "1983",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1736258",
+                "legacy_id": "31964",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 55, no. 2. (1983) p 93 (Adv.)",
+            "machine_name": "cactus_and_succulent_journal_vol_55_no_2_1983_p_93_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "didierea_madagascariensis",
+                "type": "species",
+                "archival_data": [
+                    "1408453"
+                ]
+            },
+            "volume": null,
+            "page": "p 93 (Adv.)",
+            "year": "1983",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1780000",
+                "legacy_id": "89208",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 55, no. 2. (1983) p 49 (cover)",
+            "machine_name": "cactus_and_succulent_journal_vol_55_no_2_1983_p_49_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "encephalartos_inopinus",
+                "type": "species",
+                "archival_data": [
+                    "1413591"
+                ]
+            },
+            "volume": null,
+            "page": "p 49 (cover)",
+            "year": "1983",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1785767",
+                "legacy_id": "91783",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 55, no. 2. (1983) p 93 (Adv.)",
+            "machine_name": "cactus_and_succulent_journal_vol_55_no_2_1983_p_93_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "haworthia_blackbeardiana",
+                "type": "species",
+                "archival_data": [
+                    "1410137"
+                ]
+            },
+            "volume": null,
+            "page": "p 93 (Adv.)",
+            "year": "1983",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1795129",
+                "legacy_id": "101327",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 55, no. 2. (1983) p 96 (Adv.)",
+            "machine_name": "cactus_and_succulent_journal_vol_55_no_2_1983_p_96_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "mammillaria_senilis",
+                "type": "species",
+                "archival_data": [
+                    "1417071"
+                ]
+            },
+            "volume": null,
+            "page": "p 96 (Adv.)",
+            "year": "1983",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1805176",
+                "legacy_id": "111909",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 55, no. 2. (1983) p 52, Pl. 1",
+            "machine_name": "cactus_and_succulent_journal_vol_55_no_2_1983_p_52_pl_1",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "mammillaria_beneckei",
+                "type": "species",
+                "archival_data": [
+                    "1416268"
+                ]
+            },
+            "volume": null,
+            "page": "p 52, Pl. 1",
+            "year": "1983",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1808760",
+                "legacy_id": "111561",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 55, no. 2. (1983) p 52, Pl. 2",
+            "machine_name": "cactus_and_succulent_journal_vol_55_no_2_1983_p_52_pl_2",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "mammillaria_guerreronis",
+                "type": "species",
+                "archival_data": [
+                    "1416356"
+                ]
+            },
+            "volume": null,
+            "page": "p 52, Pl. 2",
+            "year": "1983",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1809371",
+                "legacy_id": "111687",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        }
+    ]
+}

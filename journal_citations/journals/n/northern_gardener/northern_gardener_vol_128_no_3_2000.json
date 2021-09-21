@@ -1,0 +1,143 @@
+{
+    "name": "Northern Gardener. vol 128, no. 3. (2000)",
+    "machine_name": "northern_gardener_vol_128_no_3_2000",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2000",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2116052",
+        "legacy_id": "9669",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Northern Gardener. vol 128, no. 3. (2000) p 8",
+            "machine_name": "northern_gardener_vol_128_no_3_2000_p_8",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "actinidia_arguta",
+                "type": "species",
+                "archival_data": [
+                    "1398610"
+                ]
+            },
+            "volume": null,
+            "page": "p 8",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1862452",
+                "legacy_id": "175310",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Northern Gardener. vol 128, no. 3. (2000) p 15",
+            "machine_name": "northern_gardener_vol_128_no_3_2000_p_15",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hemerocallis_cultivars_fuchsia_dream",
+                "type": "variety",
+                "archival_data": [
+                    "1505620"
+                ]
+            },
+            "volume": null,
+            "page": "p 15",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1862453",
+                "legacy_id": "175311",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Northern Gardener. vol 128, no. 3. (2000) p 26",
+            "machine_name": "northern_gardener_vol_128_no_3_2000_p_26",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "clematis_integrifolia",
+                "type": "species",
+                "archival_data": [
+                    "1408294"
+                ]
+            },
+            "volume": null,
+            "page": "p 26",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1862454",
+                "legacy_id": "175330",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        }
+    ]
+}

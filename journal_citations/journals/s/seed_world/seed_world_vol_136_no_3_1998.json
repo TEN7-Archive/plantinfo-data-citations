@@ -1,0 +1,102 @@
+{
+    "name": "Seed World. vol 136, no. 3. (1998)",
+    "machine_name": "seed_world_vol_136_no_3_1998",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1998",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2118622",
+        "legacy_id": "50694",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Seed World. vol 136, no. 3. (1998) p cover",
+            "machine_name": "seed_world_vol_136_no_3_1998_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ocimum_basilicum_siam_queen",
+                "type": "variety",
+                "archival_data": [
+                    "1481977"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1914395",
+                "legacy_id": "264313",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Seed World. vol 136, no. 3. (1998) p 14;17.",
+            "machine_name": "seed_world_vol_136_no_3_1998_p_14_17",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "anethum_graveolens_fernleaf",
+                "type": "variety",
+                "archival_data": [
+                    "1466492"
+                ]
+            },
+            "volume": null,
+            "page": "p 14;17.",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1914396",
+                "legacy_id": "264314",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        }
+    ]
+}

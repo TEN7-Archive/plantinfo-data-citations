@@ -1,0 +1,143 @@
+{
+    "name": "Seasons: A Newsletter of The Morton Arboretum. Jan\/Feb 2003.",
+    "machine_name": "seasons_a_newsletter_of_the_morton_arboretum_jan_feb_2003",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1685011",
+        "legacy_id": "44973",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Seasons: A Newsletter of The Morton Arboretum. Jan\/Feb 2003. p 6",
+            "machine_name": "seasons_a_newsletter_of_the_morton_arboretum_jan_feb_2003_p_6",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "eragrostis_spectabilis",
+                "type": "species",
+                "archival_data": [
+                    "1442110"
+                ]
+            },
+            "volume": null,
+            "page": "p 6",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1899362",
+                "legacy_id": "247166",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Seasons: A Newsletter of The Morton Arboretum. Jan\/Feb 2003. p 6",
+            "machine_name": "seasons_a_newsletter_of_the_morton_arboretum_jan_feb_2003_p_6",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "acer_freemanii_marmo",
+                "type": "variety",
+                "archival_data": [
+                    "1623195"
+                ]
+            },
+            "volume": null,
+            "page": "p 6",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1899363",
+                "legacy_id": "247167",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Seasons: A Newsletter of The Morton Arboretum. Jan\/Feb 2003. p 6",
+            "machine_name": "seasons_a_newsletter_of_the_morton_arboretum_jan_feb_2003_p_6",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "tradescantia_cultivars_sweet_kate",
+                "type": "variety",
+                "archival_data": [
+                    "1550860"
+                ]
+            },
+            "volume": null,
+            "page": "p 6",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1899364",
+                "legacy_id": "247168",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        }
+    ]
+}

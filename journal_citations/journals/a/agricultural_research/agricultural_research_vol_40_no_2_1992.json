@@ -1,0 +1,61 @@
+{
+    "name": "Agricultural Research. vol 40, no. 2. (1992)",
+    "machine_name": "agricultural_research_vol_40_no_2_1992",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1992",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2110182",
+        "legacy_id": "67",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Agricultural Research. vol 40, no. 2. (1992) p 18|20",
+            "machine_name": "agricultural_research_vol_40_no_2_1992_p_18_20",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "citrus_sinensis_ambersweet",
+                "type": "variety",
+                "archival_data": [
+                    "1469197"
+                ]
+            },
+            "volume": null,
+            "page": "p 18|20",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1707078",
+                "legacy_id": "7504",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        }
+    ]
+}

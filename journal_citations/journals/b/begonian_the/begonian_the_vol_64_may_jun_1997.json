@@ -1,0 +1,102 @@
+{
+    "name": "Begonian, The. vol 64. May\/Jun. (1997)",
+    "machine_name": "begonian_the_vol_64_may_jun_1997",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1997",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": "7",
+    "description": null,
+    "archival_data": {
+        "id": "2557231",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1564918962"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Begonian, The. vol 64. May\/Jun. (1997) p 88",
+            "machine_name": "begonian_the_vol_64_may_jun_1997_p_88",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "begonia_partita",
+                "type": "species",
+                "archival_data": [
+                    "1437830"
+                ]
+            },
+            "volume": null,
+            "page": "p 88",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2557236",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1564919100"
+            }
+        },
+        {
+            "name": "Begonian, The. vol 64. May\/Jun. (1997) p 96",
+            "machine_name": "begonian_the_vol_64_may_jun_1997_p_96",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "begonia_cultivars_guy_savard",
+                "type": "variety",
+                "archival_data": [
+                    "1464370"
+                ]
+            },
+            "volume": null,
+            "page": "p 96",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2557241",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1564919100"
+            }
+        }
+    ]
+}

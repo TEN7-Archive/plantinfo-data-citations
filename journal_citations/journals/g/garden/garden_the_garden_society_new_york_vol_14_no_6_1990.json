@@ -1,0 +1,102 @@
+{
+    "name": "Garden. The Garden Society (New York). vol 14, no. 6. (1990)",
+    "machine_name": "garden_the_garden_society_new_york_vol_14_no_6_1990",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1990",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113684",
+        "legacy_id": "2900",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Garden. The Garden Society (New York). vol 14, no. 6. (1990) p 28",
+            "machine_name": "garden_the_garden_society_new_york_vol_14_no_6_1990_p_28",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "bixa_orellana",
+                "type": "species",
+                "archival_data": [
+                    "1401892"
+                ]
+            },
+            "volume": null,
+            "page": "p 28",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1771899",
+                "legacy_id": "76263",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Garden. The Garden Society (New York). vol 14, no. 6. (1990) p 8-9",
+            "machine_name": "garden_the_garden_society_new_york_vol_14_no_6_1990_p_8_9",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "euterpe_oleracea",
+                "type": "species",
+                "archival_data": [
+                    "1412227"
+                ]
+            },
+            "volume": null,
+            "page": "p 8-9",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": true,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1792169",
+                "legacy_id": "96514",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        }
+    ]
+}

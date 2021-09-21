@@ -1,0 +1,184 @@
+{
+    "name": "Smithsonian. vol 41, no. 4. (2010)",
+    "machine_name": "smithsonian_vol_41_no_4_2010",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2010",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2121916",
+        "legacy_id": "110593",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Smithsonian. vol 41, no. 4. (2010) p 53",
+            "machine_name": "smithsonian_vol_41_no_4_2010_p_53",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "impatiens_namchabarwensis",
+                "type": "species",
+                "archival_data": [
+                    "1450691"
+                ]
+            },
+            "volume": null,
+            "page": "p 53",
+            "year": "2010",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1998463",
+                "legacy_id": "420087",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Smithsonian. vol 41, no. 4. (2010) p 22",
+            "machine_name": "smithsonian_vol_41_no_4_2010_p_22",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "phragmipedium_kovachii",
+                "type": "species",
+                "archival_data": [
+                    "1445107"
+                ]
+            },
+            "volume": null,
+            "page": "p 22",
+            "year": "2010",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2007343",
+                "legacy_id": "420086",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "Smithsonian. vol 41, no. 4. (2010) p 55",
+            "machine_name": "smithsonian_vol_41_no_4_2010_p_55",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "solanum_sanchez_vegae",
+                "type": "species",
+                "archival_data": [
+                    "1458988"
+                ]
+            },
+            "volume": null,
+            "page": "p 55",
+            "year": "2010",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2062340",
+                "legacy_id": "420089",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Smithsonian. vol 41, no. 4. (2010) p 52-53",
+            "machine_name": "smithsonian_vol_41_no_4_2010_p_52_53",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "musa_rubinea",
+                "type": "species",
+                "archival_data": [
+                    "1459274"
+                ]
+            },
+            "volume": null,
+            "page": "p 52-53",
+            "year": "2010",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2071447",
+                "legacy_id": "420088",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "name": "Natural History. vol 123, no. 9. (2015)",
+    "machine_name": "natural_history_vol_123_no_9_2015",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2015",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2124695",
+        "legacy_id": "133637",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Natural History. vol 123, no. 9. (2015) p 39",
+            "machine_name": "natural_history_vol_123_no_9_2015_p_39",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lysimachia_ciliata",
+                "type": "species",
+                "archival_data": [
+                    "1420774"
+                ]
+            },
+            "volume": null,
+            "page": "p 39",
+            "year": "2015",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2095957",
+                "legacy_id": "521385",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483209571"
+            }
+        },
+        {
+            "name": "Natural History. vol 123, no. 9. (2015) p 9",
+            "machine_name": "natural_history_vol_123_no_9_2015_p_9",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "iris_pseudacorus",
+                "type": "species",
+                "archival_data": [
+                    "1417618"
+                ]
+            },
+            "volume": null,
+            "page": "p 9",
+            "year": "2015",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2096595",
+                "legacy_id": "521383",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483209571"
+            }
+        },
+        {
+            "name": "Natural History. vol 123, no. 9. (2015) p 9",
+            "machine_name": "natural_history_vol_123_no_9_2015_p_9",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "iris_versicolor",
+                "type": "species",
+                "archival_data": [
+                    "1417667"
+                ]
+            },
+            "volume": null,
+            "page": "p 9",
+            "year": "2015",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2096596",
+                "legacy_id": "521384",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483209571"
+            }
+        }
+    ]
+}

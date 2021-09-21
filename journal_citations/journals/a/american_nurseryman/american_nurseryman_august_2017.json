@@ -1,0 +1,102 @@
+{
+    "name": "American Nurseryman. August 2017.",
+    "machine_name": "american_nurseryman_august_2017",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": "7",
+    "description": null,
+    "archival_data": {
+        "id": "2212756",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1516650078"
+    },
+    "citation_reference_items": [
+        {
+            "name": "American Nurseryman. August 2017. p 25",
+            "machine_name": "american_nurseryman_august_2017_p_25",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lewisia_cultivars_constant_series",
+                "type": "variety",
+                "archival_data": [
+                    "2212761"
+                ]
+            },
+            "volume": null,
+            "page": "p 25",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2212766",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1516650293"
+            }
+        },
+        {
+            "name": "American Nurseryman. August 2017. p 31-32",
+            "machine_name": "american_nurseryman_august_2017_p_31_32",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "eryngium_planum",
+                "type": "species",
+                "archival_data": [
+                    "1412517"
+                ]
+            },
+            "volume": null,
+            "page": "p 31-32",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2212771",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1516650293"
+            }
+        }
+    ]
+}

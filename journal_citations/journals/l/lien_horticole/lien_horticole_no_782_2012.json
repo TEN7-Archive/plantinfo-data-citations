@@ -1,0 +1,184 @@
+{
+    "name": "Lien Horticole. no. 782. (2012)",
+    "machine_name": "lien_horticole_no_782_2012",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2012",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2122035",
+        "legacy_id": "120476",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Lien Horticole. no. 782. (2012) p 3 (Adv.)",
+            "machine_name": "lien_horticole_no_782_2012_p_3_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cyclamen_cultivars_halios_series",
+                "type": "variety",
+                "archival_data": [
+                    "1469579"
+                ]
+            },
+            "volume": null,
+            "page": "p 3 (Adv.)",
+            "year": "2012",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2000218",
+                "legacy_id": "455811",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Lien Horticole. no. 782. (2012) p 16",
+            "machine_name": "lien_horticole_no_782_2012_p_16",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "alcea_ficifolia_las_vegas",
+                "type": "variety",
+                "archival_data": [
+                    "1594678"
+                ]
+            },
+            "volume": null,
+            "page": "p 16",
+            "year": "2012",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2007757",
+                "legacy_id": "455812",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "Lien Horticole. no. 782. (2012) p 16",
+            "machine_name": "lien_horticole_no_782_2012_p_16",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_echo",
+                "type": "variety",
+                "archival_data": [
+                    "1487434"
+                ]
+            },
+            "volume": null,
+            "page": "p 16",
+            "year": "2012",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2013119",
+                "legacy_id": "455813",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "Lien Horticole. no. 782. (2012) p 18 (Adv.)",
+            "machine_name": "lien_horticole_no_782_2012_p_18_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "mandevilla_cultivars_sundaville_series",
+                "type": "variety",
+                "archival_data": [
+                    "1583483"
+                ]
+            },
+            "volume": null,
+            "page": "p 18 (Adv.)",
+            "year": "2012",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2013120",
+                "legacy_id": "455814",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        }
+    ]
+}

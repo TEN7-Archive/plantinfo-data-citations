@@ -1,0 +1,102 @@
+{
+    "name": "Natural History. vol 91, no. 5. (1982)",
+    "machine_name": "natural_history_vol_91_no_5_1982",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1982",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114097",
+        "legacy_id": "4660",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Natural History. vol 91, no. 5. (1982) p 32| 35",
+            "machine_name": "natural_history_vol_91_no_5_1982_p_32_35",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "impatiens_capensis",
+                "type": "species",
+                "archival_data": [
+                    "1416469"
+                ]
+            },
+            "volume": null,
+            "page": "p 32| 35",
+            "year": "1982",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1796283",
+                "legacy_id": "104435",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Natural History. vol 91, no. 5. (1982) p 33",
+            "machine_name": "natural_history_vol_91_no_5_1982_p_33",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "impatiens_pallida",
+                "type": "species",
+                "archival_data": [
+                    "1416488"
+                ]
+            },
+            "volume": null,
+            "page": "p 33",
+            "year": "1982",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1802086",
+                "legacy_id": "104472",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        }
+    ]
+}

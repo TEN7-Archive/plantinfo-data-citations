@@ -1,0 +1,61 @@
+{
+    "name": "Grower. vol 137, no. 28. (2002)",
+    "machine_name": "grower_vol_137_no_28_2002",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2002",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2117631",
+        "legacy_id": "42409",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grower. vol 137, no. 28. (2002) p 18",
+            "machine_name": "grower_vol_137_no_28_2002_p_18",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "acmella_oleracea_peek_a_boo",
+                "type": "variety",
+                "archival_data": [
+                    "1567275"
+                ]
+            },
+            "volume": null,
+            "page": "p 18",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1893440",
+                "legacy_id": "241019",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "name": "LAIFS: Los Angeles International Fern Society, Journal. vol 46, no. 2. (2019)",
+    "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_46_no_2_2019",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2019",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": "7",
+    "description": null,
+    "archival_data": {
+        "id": "2519776",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1559166264"
+    },
+    "citation_reference_items": [
+        {
+            "name": "LAIFS: Los Angeles International Fern Society, Journal. vol 46, no. 2. (2019) p cover; 34-36",
+            "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_46_no_2_2019_p_cover_34_36",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "leptochilus_wrightii",
+                "type": "species",
+                "archival_data": [
+                    "2519791"
+                ]
+            },
+            "volume": null,
+            "page": "p cover; 34-36",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2519796",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1559166576"
+            }
+        }
+    ]
+}

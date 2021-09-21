@@ -1,0 +1,225 @@
+{
+    "name": "Primroses. vol 74, no. 2. (2016)",
+    "machine_name": "primroses_vol_74_no_2_2016",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2016",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2124665",
+        "legacy_id": "133270",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Primroses. vol 74, no. 2. (2016) p 18 (Adv.)",
+            "machine_name": "primroses_vol_74_no_2_2016_p_18_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "primula_auricula_victorian_series",
+                "type": "variety",
+                "archival_data": [
+                    "1487782"
+                ]
+            },
+            "volume": null,
+            "page": "p 18 (Adv.)",
+            "year": "2016",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2095095",
+                "legacy_id": "518190",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483209571"
+            }
+        },
+        {
+            "name": "Primroses. vol 74, no. 2. (2016) p cover; 16-17",
+            "machine_name": "primroses_vol_74_no_2_2016_p_cover_16_17",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "primula_elatior_meyeri",
+                "type": "variety",
+                "archival_data": [
+                    "1488096"
+                ]
+            },
+            "volume": null,
+            "page": "p cover; 16-17",
+            "year": "2016",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2096302",
+                "legacy_id": "518187",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483209571"
+            }
+        },
+        {
+            "name": "Primroses. vol 74, no. 2. (2016) p 13",
+            "machine_name": "primroses_vol_74_no_2_2016_p_13",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "primula_veris",
+                "type": "species",
+                "archival_data": [
+                    "1424584"
+                ]
+            },
+            "volume": null,
+            "page": "p 13",
+            "year": "2016",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2096303",
+                "legacy_id": "518188",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483209571"
+            }
+        },
+        {
+            "name": "Primroses. vol 74, no. 2. (2016) p 18",
+            "machine_name": "primroses_vol_74_no_2_2016_p_18",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "primula_cuneifolia_saxifragifolia",
+                "type": "variety",
+                "archival_data": [
+                    "1488091"
+                ]
+            },
+            "volume": null,
+            "page": "p 18",
+            "year": "2016",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2096304",
+                "legacy_id": "518189",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483209571"
+            }
+        },
+        {
+            "name": "Primroses. vol 74, no. 2. (2016) p backcover",
+            "machine_name": "primroses_vol_74_no_2_2016_p_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "primula_elatior",
+                "type": "species",
+                "archival_data": [
+                    "1423886"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover",
+            "year": "2016",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2098706",
+                "legacy_id": "518207",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483212814"
+            }
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "name": "Arnoldia. vol 46, no. 1. (1986)",
+    "machine_name": "arnoldia_vol_46_no_1_1986",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1986",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113655",
+        "legacy_id": "1177",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Arnoldia. vol 46, no. 1. (1986) p cover",
+            "machine_name": "arnoldia_vol_46_no_1_1986_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "camellia_japonica",
+                "type": "species",
+                "archival_data": [
+                    "1406599"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1986",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1770467",
+                "legacy_id": "78718",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 46, no. 1. (1986) p backcover",
+            "machine_name": "arnoldia_vol_46_no_1_1986_p_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "abies_pinsapo_marocana",
+                "type": "variety",
+                "archival_data": [
+                    "1466109"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover",
+            "year": "1986",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2102557",
+                "legacy_id": "77",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        }
+    ]
+}

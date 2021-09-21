@@ -1,0 +1,102 @@
+{
+    "name": "Better Homes & Gardens. vol 69, no. 11. (1991)",
+    "machine_name": "better_homes_gardens_vol_69_no_11_1991",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1991",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2111084",
+        "legacy_id": "1516",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Better Homes & Gardens. vol 69, no. 11. (1991) p 22-23",
+            "machine_name": "better_homes_gardens_vol_69_no_11_1991_p_22_23",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "chrysanthemum_cultivars_fleurettes_series",
+                "type": "variety",
+                "archival_data": [
+                    "1469974"
+                ]
+            },
+            "volume": null,
+            "page": "p 22-23",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1714074",
+                "legacy_id": "12002",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Better Homes & Gardens. vol 69, no. 11. (1991) p 19",
+            "machine_name": "better_homes_gardens_vol_69_no_11_1991_p_19",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rhododendron_cultivars_tiny_dancers",
+                "type": "variety",
+                "archival_data": [
+                    "1487054"
+                ]
+            },
+            "volume": null,
+            "page": "p 19",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1745538",
+                "legacy_id": "43529",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483154438"
+            }
+        }
+    ]
+}

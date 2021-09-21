@@ -1,0 +1,61 @@
+{
+    "name": "South African Journal of Botany. vol 51, no. 5. (1985)",
+    "machine_name": "south_african_journal_of_botany_vol_51_no_5_1985",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1985",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113920",
+        "legacy_id": "5582",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "South African Journal of Botany. vol 51, no. 5. (1985) p 336, Pl. 1.",
+            "machine_name": "south_african_journal_of_botany_vol_51_no_5_1985_p_336_pl_1",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "disa_arida",
+                "type": "species",
+                "archival_data": [
+                    "1409270"
+                ]
+            },
+            "volume": null,
+            "page": "p 336, Pl. 1.",
+            "year": "1985",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1781634",
+                "legacy_id": "89721",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        }
+    ]
+}

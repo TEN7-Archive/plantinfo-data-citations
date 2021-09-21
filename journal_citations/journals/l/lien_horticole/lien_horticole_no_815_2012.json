@@ -1,0 +1,143 @@
+{
+    "name": "Lien Horticole. no. 815. (2012)",
+    "machine_name": "lien_horticole_no_815_2012",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2012",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2123827",
+        "legacy_id": "120690",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Lien Horticole. no. 815. (2012) p 9",
+            "machine_name": "lien_horticole_no_815_2012_p_9",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "crataegus_durobrivensis",
+                "type": "species",
+                "archival_data": [
+                    "1434406"
+                ]
+            },
+            "volume": null,
+            "page": "p 9",
+            "year": "2012",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": true,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2047821",
+                "legacy_id": "456297",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Lien Horticole. no. 815. (2012) p 14",
+            "machine_name": "lien_horticole_no_815_2012_p_14",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "myrtus_communis",
+                "type": "species",
+                "archival_data": [
+                    "1416403"
+                ]
+            },
+            "volume": null,
+            "page": "p 14",
+            "year": "2012",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2047822",
+                "legacy_id": "456298",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Lien Horticole. no. 815. (2012) p 9",
+            "machine_name": "lien_horticole_no_815_2012_p_9",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "catharanthus_roseus_jams_n_jellies_series",
+                "type": "variety",
+                "archival_data": [
+                    "1625805"
+                ]
+            },
+            "volume": null,
+            "page": "p 9",
+            "year": "2012",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2064182",
+                "legacy_id": "456296",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        }
+    ]
+}

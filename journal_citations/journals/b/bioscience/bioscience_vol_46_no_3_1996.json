@@ -1,0 +1,61 @@
+{
+    "name": "BioScience. vol 46, no. 3. (1996)",
+    "machine_name": "bioscience_vol_46_no_3_1996",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1996",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2117253",
+        "legacy_id": "32169",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "BioScience. vol 46, no. 3. (1996) p cover",
+            "machine_name": "bioscience_vol_46_no_3_1996_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pinus_pinaster",
+                "type": "species",
+                "archival_data": [
+                    "1425605"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1996",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1886415",
+                "legacy_id": "225170",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        }
+    ]
+}

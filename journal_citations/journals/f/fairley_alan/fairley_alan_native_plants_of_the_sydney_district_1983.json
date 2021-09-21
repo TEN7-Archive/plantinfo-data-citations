@@ -1,0 +1,61 @@
+{
+    "name": "Fairley, Alan. Native Plants of the Sydney District. (1983)",
+    "machine_name": "fairley_alan_native_plants_of_the_sydney_district_1983",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1983",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2117762",
+        "legacy_id": "2502",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Fairley, Alan. Native Plants of the Sydney District. (1983) p 96",
+            "machine_name": "fairley_alan_native_plants_of_the_sydney_district_1983_p_96",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "aotus_ericoides",
+                "type": "species",
+                "archival_data": [
+                    "1400293"
+                ]
+            },
+            "volume": null,
+            "page": "p 96",
+            "year": "1983",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1896752",
+                "legacy_id": "244835",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        }
+    ]
+}

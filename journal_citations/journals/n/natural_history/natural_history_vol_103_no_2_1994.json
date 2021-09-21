@@ -1,0 +1,61 @@
+{
+    "name": "Natural History. vol 103, no. 2. (1994)",
+    "machine_name": "natural_history_vol_103_no_2_1994",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1994",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114238",
+        "legacy_id": "4640",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Natural History. vol 103, no. 2. (1994) p 68-69",
+            "machine_name": "natural_history_vol_103_no_2_1994_p_68_69",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lewisia_rediviva",
+                "type": "species",
+                "archival_data": [
+                    "1416998"
+                ]
+            },
+            "volume": null,
+            "page": "p 68-69",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1802332",
+                "legacy_id": "108486",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        }
+    ]
+}

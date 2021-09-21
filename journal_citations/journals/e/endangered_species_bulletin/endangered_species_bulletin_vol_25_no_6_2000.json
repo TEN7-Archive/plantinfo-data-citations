@@ -1,0 +1,102 @@
+{
+    "name": "Endangered Species Bulletin. vol 25, no. 6. (2000)",
+    "machine_name": "endangered_species_bulletin_vol_25_no_6_2000",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2000",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2118327",
+        "legacy_id": "48229",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Endangered Species Bulletin. vol 25, no. 6. (2000) p 12",
+            "machine_name": "endangered_species_bulletin_vol_25_no_6_2000_p_12",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "agave_palmeri",
+                "type": "species",
+                "archival_data": [
+                    "1400940"
+                ]
+            },
+            "volume": null,
+            "page": "p 12",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1909278",
+                "legacy_id": "258470",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Endangered Species Bulletin. vol 25, no. 6. (2000) p 23",
+            "machine_name": "endangered_species_bulletin_vol_25_no_6_2000_p_23",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "sesbania_tomentosa",
+                "type": "species",
+                "archival_data": [
+                    "1429204"
+                ]
+            },
+            "volume": null,
+            "page": "p 23",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1909279",
+                "legacy_id": "258471",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        }
+    ]
+}

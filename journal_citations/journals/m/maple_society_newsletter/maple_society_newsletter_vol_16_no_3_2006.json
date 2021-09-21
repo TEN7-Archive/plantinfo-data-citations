@@ -1,0 +1,102 @@
+{
+    "name": "Maple Society Newsletter. vol 16, no. 3. (2006)",
+    "machine_name": "maple_society_newsletter_vol_16_no_3_2006",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2006",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2120886",
+        "legacy_id": "75989",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Maple Society Newsletter. vol 16, no. 3. (2006) p cover;backcover",
+            "machine_name": "maple_society_newsletter_vol_16_no_3_2006_p_cover_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "acer_langii",
+                "type": "species",
+                "archival_data": [
+                    "1454437"
+                ]
+            },
+            "volume": null,
+            "page": "p cover;backcover",
+            "year": "2006",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1970439",
+                "legacy_id": "328115",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        },
+        {
+            "name": "Maple Society Newsletter. vol 16, no. 3. (2006) p backcover",
+            "machine_name": "maple_society_newsletter_vol_16_no_3_2006_p_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "acer_diabolicum",
+                "type": "species",
+                "archival_data": [
+                    "1402826"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover",
+            "year": "2006",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1970440",
+                "legacy_id": "328116",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        }
+    ]
+}

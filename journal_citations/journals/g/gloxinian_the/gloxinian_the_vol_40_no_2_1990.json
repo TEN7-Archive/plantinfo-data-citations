@@ -1,0 +1,184 @@
+{
+    "name": "Gloxinian, The. vol 40, no. 2. (1990)",
+    "machine_name": "gloxinian_the_vol_40_no_2_1990",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1990",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2112032",
+        "legacy_id": "3057",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Gloxinian, The. vol 40, no. 2. (1990) p 25",
+            "machine_name": "gloxinian_the_vol_40_no_2_1990_p_25",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "kohleria_cultivars_flirt",
+                "type": "variety",
+                "archival_data": [
+                    "1480441"
+                ]
+            },
+            "volume": null,
+            "page": "p 25",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1731218",
+                "legacy_id": "26708",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Gloxinian, The. vol 40, no. 2. (1990) p cover",
+            "machine_name": "gloxinian_the_vol_40_no_2_1990_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "kohleria_amabilis",
+                "type": "species",
+                "archival_data": [
+                    "1419897"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1800334",
+                "legacy_id": "106688",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Gloxinian, The. vol 40, no. 2. (1990) p 12",
+            "machine_name": "gloxinian_the_vol_40_no_2_1990_p_12",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "achimenes_admirabilis",
+                "type": "species",
+                "archival_data": [
+                    "1397815"
+                ]
+            },
+            "volume": null,
+            "page": "p 12",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1893716",
+                "legacy_id": "238131",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Gloxinian, The. vol 40, no. 2. (1990)  p 12",
+            "machine_name": "gloxinian_the_vol_40_no_2_1990_p_12",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "achimenes_harveyi",
+                "type": "species",
+                "archival_data": [
+                    "1397833"
+                ]
+            },
+            "volume": null,
+            "page": "p 12",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2571771",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1571402903"
+            }
+        }
+    ]
+}

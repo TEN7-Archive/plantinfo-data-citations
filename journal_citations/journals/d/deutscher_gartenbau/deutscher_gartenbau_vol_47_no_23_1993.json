@@ -1,0 +1,102 @@
+{
+    "name": "Deutscher Gartenbau. vol 47, no. 23. (1993)",
+    "machine_name": "deutscher_gartenbau_vol_47_no_23_1993",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1993",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114102",
+        "legacy_id": "2319",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Deutscher Gartenbau. vol 47, no. 23. (1993) p 1465",
+            "machine_name": "deutscher_gartenbau_vol_47_no_23_1993_p_1465",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "heliconia_pendula",
+                "type": "species",
+                "archival_data": [
+                    "1412447"
+                ]
+            },
+            "volume": null,
+            "page": "p 1465",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1797377",
+                "legacy_id": "101878",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Deutscher Gartenbau. vol 47, no. 23. (1993) p 1465",
+            "machine_name": "deutscher_gartenbau_vol_47_no_23_1993_p_1465",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "heliconia_standleyi",
+                "type": "species",
+                "archival_data": [
+                    "1411611"
+                ]
+            },
+            "volume": null,
+            "page": "p 1465",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1797671",
+                "legacy_id": "101932",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        }
+    ]
+}

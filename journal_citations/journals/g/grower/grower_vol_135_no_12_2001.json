@@ -1,0 +1,225 @@
+{
+    "name": "Grower. vol 135, no. 12. (2001)",
+    "machine_name": "grower_vol_135_no_12_2001",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2001",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2116800",
+        "legacy_id": "21969",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grower. vol 135, no. 12. (2001) p 5",
+            "machine_name": "grower_vol_135_no_12_2001_p_5",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "brassica_oleracea_c_attraction",
+                "type": "variety",
+                "archival_data": [
+                    "1561638"
+                ]
+            },
+            "volume": null,
+            "page": "p 5",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1878051",
+                "legacy_id": "207530",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Grower. vol 135, no. 12. (2001) p 10",
+            "machine_name": "grower_vol_135_no_12_2001_p_10",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "tulipa_cultivars_upstar",
+                "type": "variety",
+                "archival_data": [
+                    "1492784"
+                ]
+            },
+            "volume": null,
+            "page": "p 10",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1878052",
+                "legacy_id": "207531",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Grower. vol 135, no. 12. (2001) p 10;26",
+            "machine_name": "grower_vol_135_no_12_2001_p_10_26",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "narcissus_cultivars_ice_follies",
+                "type": "variety",
+                "archival_data": [
+                    "1483569"
+                ]
+            },
+            "volume": null,
+            "page": "p 10;26",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1878053",
+                "legacy_id": "207532",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Grower. vol 135, no. 12. (2001) p 24",
+            "machine_name": "grower_vol_135_no_12_2001_p_24",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "brassica_oleracea_c_supervoy",
+                "type": "variety",
+                "archival_data": [
+                    "1561639"
+                ]
+            },
+            "volume": null,
+            "page": "p 24",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1878054",
+                "legacy_id": "207533",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Grower. vol 135, no. 12. (2001) p 27",
+            "machine_name": "grower_vol_135_no_12_2001_p_27",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "malus_a_cultivars_cox",
+                "type": "variety",
+                "archival_data": [
+                    "1478821"
+                ]
+            },
+            "volume": null,
+            "page": "p 27",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1878055",
+                "legacy_id": "207534",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        }
+    ]
+}

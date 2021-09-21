@@ -1,0 +1,61 @@
+{
+    "name": "American Fruit Grower. vol 113, no. 6. (1993)",
+    "machine_name": "american_fruit_grower_vol_113_no_6_1993",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1993",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113353",
+        "legacy_id": "252",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "American Fruit Grower. vol 113, no. 6. (1993) p 25",
+            "machine_name": "american_fruit_grower_vol_113_no_6_1993_p_25",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "vitis_cultivars_riesling",
+                "type": "variety",
+                "archival_data": [
+                    "1559167"
+                ]
+            },
+            "volume": null,
+            "page": "p 25",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1763955",
+                "legacy_id": "60164",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        }
+    ]
+}

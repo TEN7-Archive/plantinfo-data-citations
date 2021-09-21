@@ -1,0 +1,102 @@
+{
+    "name": "Scientific American. vol 290, no. 1. (2004)",
+    "machine_name": "scientific_american_vol_290_no_1_2004",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2004",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2118539",
+        "legacy_id": "54313",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Scientific American. vol 290, no. 1. (2004) p 84",
+            "machine_name": "scientific_american_vol_290_no_1_2004_p_84",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lamium_album",
+                "type": "species",
+                "archival_data": [
+                    "1420681"
+                ]
+            },
+            "volume": null,
+            "page": "p 84",
+            "year": "2004",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1913007",
+                "legacy_id": "269078",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Scientific American. vol 290, no. 1. (2004) p 87",
+            "machine_name": "scientific_american_vol_290_no_1_2004_p_87",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "buddleja_davidii",
+                "type": "species",
+                "archival_data": [
+                    "1397750"
+                ]
+            },
+            "volume": null,
+            "page": "p 87",
+            "year": "2004",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1913008",
+                "legacy_id": "269079",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        }
+    ]
+}

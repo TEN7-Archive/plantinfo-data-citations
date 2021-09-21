@@ -1,0 +1,102 @@
+{
+    "name": "Sunset. November 2010.",
+    "machine_name": "sunset_november_2010",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1692969",
+        "legacy_id": "111252",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Sunset. November 2010. p 57",
+            "machine_name": "sunset_november_2010_p_57",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "begonia_boliviensis",
+                "type": "species",
+                "archival_data": [
+                    "1400341"
+                ]
+            },
+            "volume": null,
+            "page": "p 57",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2016932",
+                "legacy_id": "422272",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "Sunset. November 2010. p 57",
+            "machine_name": "sunset_november_2010_p_57",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "camellia_sasanqua_marge_miller",
+                "type": "variety",
+                "archival_data": [
+                    "1628847"
+                ]
+            },
+            "volume": null,
+            "page": "p 57",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2016933",
+                "legacy_id": "422273",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        }
+    ]
+}

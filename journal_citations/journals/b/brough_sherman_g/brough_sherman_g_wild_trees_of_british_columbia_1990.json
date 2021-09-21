@@ -1,0 +1,922 @@
+{
+    "name": "Brough, Sherman G. Wild Trees of British Columbia. (1990)",
+    "machine_name": "brough_sherman_g_wild_trees_of_british_columbia_1990",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1990",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113179",
+        "legacy_id": "1767",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Brough, Sherman G. Wild Trees of British Columbia. (1990) p 150",
+            "machine_name": "brough_sherman_g_wild_trees_of_british_columbia_1990_p_150",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "acer_macrophyllum",
+                "type": "species",
+                "archival_data": [
+                    "1403154"
+                ]
+            },
+            "volume": null,
+            "page": "p 150",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1760567",
+                "legacy_id": "68062",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Brough, Sherman G. Wild Trees of British Columbia. (1990) p 72",
+            "machine_name": "brough_sherman_g_wild_trees_of_british_columbia_1990_p_72",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "abies_lasiocarpa",
+                "type": "species",
+                "archival_data": [
+                    "1400838"
+                ]
+            },
+            "volume": null,
+            "page": "p 72",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1763408",
+                "legacy_id": "67265",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Brough, Sherman G. Wild Trees of British Columbia. (1990) p 106",
+            "machine_name": "brough_sherman_g_wild_trees_of_british_columbia_1990_p_106",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "alnus_rubra",
+                "type": "species",
+                "archival_data": [
+                    "1402499"
+                ]
+            },
+            "volume": null,
+            "page": "p 106",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1764969",
+                "legacy_id": "70410",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Brough, Sherman G. Wild Trees of British Columbia. (1990) p 122",
+            "machine_name": "brough_sherman_g_wild_trees_of_british_columbia_1990_p_122",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "arbutus_menziesii",
+                "type": "species",
+                "archival_data": [
+                    "1401054"
+                ]
+            },
+            "volume": null,
+            "page": "p 122",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": true,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1768746",
+                "legacy_id": "72776",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Brough, Sherman G. Wild Trees of British Columbia. (1990) p 84",
+            "machine_name": "brough_sherman_g_wild_trees_of_british_columbia_1990_p_84",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cupressus_nootkatensis",
+                "type": "species",
+                "archival_data": [
+                    "1452321"
+                ]
+            },
+            "volume": null,
+            "page": "p 84",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": true,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1775877",
+                "legacy_id": "81392",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Brough, Sherman G. Wild Trees of British Columbia. (1990) p 138",
+            "machine_name": "brough_sherman_g_wild_trees_of_british_columbia_1990_p_138",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "crataegus_douglasii",
+                "type": "species",
+                "archival_data": [
+                    "1407232"
+                ]
+            },
+            "volume": null,
+            "page": "p 138",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1780793",
+                "legacy_id": "85430",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Brough, Sherman G. Wild Trees of British Columbia. (1990) p 142",
+            "machine_name": "brough_sherman_g_wild_trees_of_british_columbia_1990_p_142",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cornus_nuttallii",
+                "type": "species",
+                "archival_data": [
+                    "1405326"
+                ]
+            },
+            "volume": null,
+            "page": "p 142",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1782597",
+                "legacy_id": "84516",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Brough, Sherman G. Wild Trees of British Columbia. (1990) p 46",
+            "machine_name": "brough_sherman_g_wild_trees_of_british_columbia_1990_p_46",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "larix_occidentalis",
+                "type": "species",
+                "archival_data": [
+                    "1421035"
+                ]
+            },
+            "volume": null,
+            "page": "p 46",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1803212",
+                "legacy_id": "107388",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Brough, Sherman G. Wild Trees of British Columbia. (1990) p 88",
+            "machine_name": "brough_sherman_g_wild_trees_of_british_columbia_1990_p_88",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "juniperus_scopulorum",
+                "type": "species",
+                "archival_data": [
+                    "1419129"
+                ]
+            },
+            "volume": null,
+            "page": "p 88",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1803520",
+                "legacy_id": "106205",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Brough, Sherman G. Wild Trees of British Columbia. (1990) p 134",
+            "machine_name": "brough_sherman_g_wild_trees_of_british_columbia_1990_p_134",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "malus_fusca",
+                "type": "species",
+                "archival_data": [
+                    "1415917"
+                ]
+            },
+            "volume": null,
+            "page": "p 134",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1808362",
+                "legacy_id": "111397",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Brough, Sherman G. Wild Trees of British Columbia. (1990) p 54",
+            "machine_name": "brough_sherman_g_wild_trees_of_british_columbia_1990_p_54",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "picea_sitchensis",
+                "type": "species",
+                "archival_data": [
+                    "1424546"
+                ]
+            },
+            "volume": null,
+            "page": "p 54",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1815925",
+                "legacy_id": "121449",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Brough, Sherman G. Wild Trees of British Columbia. (1990) p 34",
+            "machine_name": "brough_sherman_g_wild_trees_of_british_columbia_1990_p_34",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pinus_contorta",
+                "type": "species",
+                "archival_data": [
+                    "1425279"
+                ]
+            },
+            "volume": null,
+            "page": "p 34",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1817217",
+                "legacy_id": "121765",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Brough, Sherman G. Wild Trees of British Columbia. (1990) p 110",
+            "machine_name": "brough_sherman_g_wild_trees_of_british_columbia_1990_p_110",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "populus_balsamifera",
+                "type": "species",
+                "archival_data": [
+                    "1422754"
+                ]
+            },
+            "volume": null,
+            "page": "p 110",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1818310",
+                "legacy_id": "123371",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Brough, Sherman G. Wild Trees of British Columbia. (1990) p 126",
+            "machine_name": "brough_sherman_g_wild_trees_of_british_columbia_1990_p_126",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "prunus_pensylvanica",
+                "type": "species",
+                "archival_data": [
+                    "1425365"
+                ]
+            },
+            "volume": null,
+            "page": "p 126",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1819025",
+                "legacy_id": "124843",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Brough, Sherman G. Wild Trees of British Columbia. (1990) p 68",
+            "machine_name": "brough_sherman_g_wild_trees_of_british_columbia_1990_p_68",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pseudotsuga_menziesii",
+                "type": "species",
+                "archival_data": [
+                    "1425741"
+                ]
+            },
+            "volume": null,
+            "page": "p 68",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1819706",
+                "legacy_id": "125040",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Brough, Sherman G. Wild Trees of British Columbia. (1990) p 116",
+            "machine_name": "brough_sherman_g_wild_trees_of_british_columbia_1990_p_116",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "salix_lasiandra",
+                "type": "species",
+                "archival_data": [
+                    "1429536"
+                ]
+            },
+            "volume": null,
+            "page": "p 116",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1820373",
+                "legacy_id": "130529",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Brough, Sherman G. Wild Trees of British Columbia. (1990) p 146",
+            "machine_name": "brough_sherman_g_wild_trees_of_british_columbia_1990_p_146",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "frangula_purshiana",
+                "type": "species",
+                "archival_data": [
+                    "1452655"
+                ]
+            },
+            "volume": null,
+            "page": "p 146",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1822461",
+                "legacy_id": "127084",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Brough, Sherman G. Wild Trees of British Columbia. (1990) p 96",
+            "machine_name": "brough_sherman_g_wild_trees_of_british_columbia_1990_p_96",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "quercus_garryana",
+                "type": "species",
+                "archival_data": [
+                    "1421695"
+                ]
+            },
+            "volume": null,
+            "page": "p 96",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": true,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1823066",
+                "legacy_id": "125949",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Brough, Sherman G. Wild Trees of British Columbia. (1990) p 130",
+            "machine_name": "brough_sherman_g_wild_trees_of_british_columbia_1990_p_130",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "sorbus_aucuparia",
+                "type": "species",
+                "archival_data": [
+                    "1431149"
+                ]
+            },
+            "volume": null,
+            "page": "p 130",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1830715",
+                "legacy_id": "134531",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Brough, Sherman G. Wild Trees of British Columbia. (1990) p 80",
+            "machine_name": "brough_sherman_g_wild_trees_of_british_columbia_1990_p_80",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "thuja_plicata",
+                "type": "species",
+                "archival_data": [
+                    "1430813"
+                ]
+            },
+            "volume": null,
+            "page": "p 80",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1830966",
+                "legacy_id": "137304",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Brough, Sherman G. Wild Trees of British Columbia. (1990) p 62",
+            "machine_name": "brough_sherman_g_wild_trees_of_british_columbia_1990_p_62",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "tsuga_heterophylla",
+                "type": "species",
+                "archival_data": [
+                    "1427540"
+                ]
+            },
+            "volume": null,
+            "page": "p 62",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1833253",
+                "legacy_id": "139148",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Brough, Sherman G. Wild Trees of British Columbia. (1990) p 92",
+            "machine_name": "brough_sherman_g_wild_trees_of_british_columbia_1990_p_92",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "taxus_brevifolia",
+                "type": "species",
+                "archival_data": [
+                    "1429334"
+                ]
+            },
+            "volume": null,
+            "page": "p 92",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1833746",
+                "legacy_id": "136658",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        }
+    ]
+}

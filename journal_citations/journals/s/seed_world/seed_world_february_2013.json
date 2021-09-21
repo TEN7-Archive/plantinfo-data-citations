@@ -1,0 +1,102 @@
+{
+    "name": "Seed World. February 2013.",
+    "machine_name": "seed_world_february_2013",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1693952",
+        "legacy_id": "121952",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Seed World. February 2013. p 22",
+            "machine_name": "seed_world_february_2013_p_22",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "viola_wittrockiana_wonderfall_series",
+                "type": "variety",
+                "archival_data": [
+                    "1610863"
+                ]
+            },
+            "volume": null,
+            "page": "p 22",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2039393",
+                "legacy_id": "461032",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        },
+        {
+            "name": "Seed World. February 2013. p 24",
+            "machine_name": "seed_world_february_2013_p_24",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "petunia_cultivars_duvet_series",
+                "type": "variety",
+                "archival_data": [
+                    "1607422"
+                ]
+            },
+            "volume": null,
+            "page": "p 24",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2070545",
+                "legacy_id": "461033",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        }
+    ]
+}

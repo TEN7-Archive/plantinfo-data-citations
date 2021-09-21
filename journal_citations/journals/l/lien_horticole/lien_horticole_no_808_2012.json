@@ -1,0 +1,102 @@
+{
+    "name": "Lien Horticole. no. 808. (2012)",
+    "machine_name": "lien_horticole_no_808_2012",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2012",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2123189",
+        "legacy_id": "120633",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Lien Horticole. no. 808. (2012) p 14",
+            "machine_name": "lien_horticole_no_808_2012_p_14",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "centaurea_montana_purple_heart",
+                "type": "variety",
+                "archival_data": [
+                    "1629348"
+                ]
+            },
+            "volume": null,
+            "page": "p 14",
+            "year": "2012",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2021581",
+                "legacy_id": "456226",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        },
+        {
+            "name": "Lien Horticole. no. 808. (2012) p 14",
+            "machine_name": "lien_horticole_no_808_2012_p_14",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "baptisia_australis_alba",
+                "type": "variety",
+                "archival_data": [
+                    "1499604"
+                ]
+            },
+            "volume": null,
+            "page": "p 14",
+            "year": "2012",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2021582",
+                "legacy_id": "456227",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        }
+    ]
+}

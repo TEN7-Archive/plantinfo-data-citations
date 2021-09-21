@@ -1,0 +1,102 @@
+{
+    "name": "Arnoldia. vol 43, no. 1. (1983)",
+    "machine_name": "arnoldia_vol_43_no_1_1983",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1983",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2110195",
+        "legacy_id": "1167",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Arnoldia. vol 43, no. 1. (1983) p cover",
+            "machine_name": "arnoldia_vol_43_no_1_1983_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cotoneaster_bullatus_firebird",
+                "type": "variety",
+                "archival_data": [
+                    "1471573"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1983",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1707129",
+                "legacy_id": "8918",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 43, no. 1. (1983) p backcover",
+            "machine_name": "arnoldia_vol_43_no_1_1983_p_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ilex_verticillata",
+                "type": "species",
+                "archival_data": [
+                    "1416165"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover",
+            "year": "1983",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1795966",
+                "legacy_id": "104359",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        }
+    ]
+}

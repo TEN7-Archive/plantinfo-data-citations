@@ -1,0 +1,758 @@
+{
+    "name": "Gesneriads: Journal for Gesneriad Growers. vol 59, no. 4. (2009)",
+    "machine_name": "gesneriads_journal_for_gesneriad_growers_vol_59_no_4_2009",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2009",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2121947",
+        "legacy_id": "105910",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Gesneriads: Journal for Gesneriad Growers. vol 59, no. 4. (2009) p cover; 29",
+            "machine_name": "gesneriads_journal_for_gesneriad_growers_vol_59_no_4_2009_p_cover_29",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "conandron_ramondioides",
+                "type": "species",
+                "archival_data": [
+                    "1404148"
+                ]
+            },
+            "volume": null,
+            "page": "p cover; 29",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1998865",
+                "legacy_id": "402641",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Gesneriads: Journal for Gesneriad Growers. vol 59, no. 4. (2009) p 21",
+            "machine_name": "gesneriads_journal_for_gesneriad_growers_vol_59_no_4_2009_p_21",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "sinningia_cultivars_florianopolis",
+                "type": "variety",
+                "archival_data": [
+                    "1645456"
+                ]
+            },
+            "volume": null,
+            "page": "p 21",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1998866",
+                "legacy_id": "402642",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Gesneriads: Journal for Gesneriad Growers. vol 59, no. 4. (2009) p 21",
+            "machine_name": "gesneriads_journal_for_gesneriad_growers_vol_59_no_4_2009_p_21",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "streptocarpus_cultivars_shy_blue",
+                "type": "variety",
+                "archival_data": [
+                    "1568497"
+                ]
+            },
+            "volume": null,
+            "page": "p 21",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1998867",
+                "legacy_id": "402643",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Gesneriads: Journal for Gesneriad Growers. vol 59, no. 4. (2009) p 24",
+            "machine_name": "gesneriads_journal_for_gesneriad_growers_vol_59_no_4_2009_p_24",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "amalophyllon_clarkii",
+                "type": "species",
+                "archival_data": [
+                    "1459061"
+                ]
+            },
+            "volume": null,
+            "page": "p 24",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1998868",
+                "legacy_id": "402644",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Gesneriads: Journal for Gesneriad Growers. vol 59, no. 4. (2009) p 24",
+            "machine_name": "gesneriads_journal_for_gesneriad_growers_vol_59_no_4_2009_p_24",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "columnea_sanguinea",
+                "type": "species",
+                "archival_data": [
+                    "1459062"
+                ]
+            },
+            "volume": null,
+            "page": "p 24",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1998869",
+                "legacy_id": "402645",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Gesneriads: Journal for Gesneriad Growers. vol 59, no. 4. (2009) p 24",
+            "machine_name": "gesneriads_journal_for_gesneriad_growers_vol_59_no_4_2009_p_24",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "henckelia_dielsii",
+                "type": "species",
+                "archival_data": [
+                    "1457822"
+                ]
+            },
+            "volume": null,
+            "page": "p 24",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1998870",
+                "legacy_id": "402646",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Gesneriads: Journal for Gesneriad Growers. vol 59, no. 4. (2009) p 24",
+            "machine_name": "gesneriads_journal_for_gesneriad_growers_vol_59_no_4_2009_p_24",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "columnea_cultivars_goldheart",
+                "type": "variety",
+                "archival_data": [
+                    "1628554"
+                ]
+            },
+            "volume": null,
+            "page": "p 24",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1998871",
+                "legacy_id": "402647",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Gesneriads: Journal for Gesneriad Growers. vol 59, no. 4. (2009) p 24",
+            "machine_name": "gesneriads_journal_for_gesneriad_growers_vol_59_no_4_2009_p_24",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "chirita_cultivars_louisa",
+                "type": "variety",
+                "archival_data": [
+                    "1625076"
+                ]
+            },
+            "volume": null,
+            "page": "p 24",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1998872",
+                "legacy_id": "402648",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Gesneriads: Journal for Gesneriad Growers. vol 59, no. 4. (2009) p 25",
+            "machine_name": "gesneriads_journal_for_gesneriad_growers_vol_59_no_4_2009_p_25",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "columnea_cultivars_broget_stavanger",
+                "type": "variety",
+                "archival_data": [
+                    "1539984"
+                ]
+            },
+            "volume": null,
+            "page": "p 25",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1998873",
+                "legacy_id": "402649",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Gesneriads: Journal for Gesneriad Growers. vol 59, no. 4. (2009) p 25",
+            "machine_name": "gesneriads_journal_for_gesneriad_growers_vol_59_no_4_2009_p_25",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "diastema_cultivars_red_falls",
+                "type": "variety",
+                "archival_data": [
+                    "1625077"
+                ]
+            },
+            "volume": null,
+            "page": "p 25",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1998874",
+                "legacy_id": "402650",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Gesneriads: Journal for Gesneriad Growers. vol 59, no. 4. (2009) p 25",
+            "machine_name": "gesneriads_journal_for_gesneriad_growers_vol_59_no_4_2009_p_25",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pentadenia_orientandina",
+                "type": "species",
+                "archival_data": [
+                    "1427423"
+                ]
+            },
+            "volume": null,
+            "page": "p 25",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1998875",
+                "legacy_id": "402651",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Gesneriads: Journal for Gesneriad Growers. vol 59, no. 4. (2009) p 25",
+            "machine_name": "gesneriads_journal_for_gesneriad_growers_vol_59_no_4_2009_p_25",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "petrocosmea_begoniifolia",
+                "type": "species",
+                "archival_data": [
+                    "1449650"
+                ]
+            },
+            "volume": null,
+            "page": "p 25",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1998876",
+                "legacy_id": "402652",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Gesneriads: Journal for Gesneriad Growers. vol 59, no. 4. (2009) p 28",
+            "machine_name": "gesneriads_journal_for_gesneriad_growers_vol_59_no_4_2009_p_28",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "columnea_tenella",
+                "type": "species",
+                "archival_data": [
+                    "1459064"
+                ]
+            },
+            "volume": null,
+            "page": "p 28",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1998877",
+                "legacy_id": "402653",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Gesneriads: Journal for Gesneriad Growers. vol 59, no. 4. (2009) p 28",
+            "machine_name": "gesneriads_journal_for_gesneriad_growers_vol_59_no_4_2009_p_28",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "sinningia_macropoda",
+                "type": "species",
+                "archival_data": [
+                    "1443243"
+                ]
+            },
+            "volume": null,
+            "page": "p 28",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1998878",
+                "legacy_id": "402654",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Gesneriads: Journal for Gesneriad Growers. vol 59, no. 4. (2009) p 43",
+            "machine_name": "gesneriads_journal_for_gesneriad_growers_vol_59_no_4_2009_p_43",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "codonanthe_serrulata",
+                "type": "species",
+                "archival_data": [
+                    "1443958"
+                ]
+            },
+            "volume": null,
+            "page": "p 43",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1998879",
+                "legacy_id": "402655",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Gesneriads: Journal for Gesneriad Growers. vol 59, no. 4. (2009) p 45",
+            "machine_name": "gesneriads_journal_for_gesneriad_growers_vol_59_no_4_2009_p_45",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rhytidophyllum_tomentosum",
+                "type": "species",
+                "archival_data": [
+                    "1459065"
+                ]
+            },
+            "volume": null,
+            "page": "p 45",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1998880",
+                "legacy_id": "402656",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Gesneriads: Journal for Gesneriad Growers. vol 59, no. 4. (2009) p backcover",
+            "machine_name": "gesneriads_journal_for_gesneriad_growers_vol_59_no_4_2009_p_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "streptocarpus_cultivars_dale_s_scarlet_macaw",
+                "type": "variety",
+                "archival_data": [
+                    "1614676"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1998881",
+                "legacy_id": "402657",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Gesneriads: Journal for Gesneriad Growers. vol 59, no. 4. (2009) p backcover",
+            "machine_name": "gesneriads_journal_for_gesneriad_growers_vol_59_no_4_2009_p_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "aeschynanthus_humilis",
+                "type": "species",
+                "archival_data": [
+                    "1446213"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1998882",
+                "legacy_id": "402658",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        }
+    ]
+}

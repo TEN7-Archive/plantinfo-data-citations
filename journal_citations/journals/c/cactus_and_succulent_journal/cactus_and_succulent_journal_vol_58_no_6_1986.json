@@ -1,0 +1,266 @@
+{
+    "name": "Cactus and Succulent Journal. vol 58, no. 6. (1986)",
+    "machine_name": "cactus_and_succulent_journal_vol_58_no_6_1986",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1986",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113068",
+        "legacy_id": "1832",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Cactus and Succulent Journal. vol 58, no. 6. (1986) p 281 (Adv.)",
+            "machine_name": "cactus_and_succulent_journal_vol_58_no_6_1986_p_281_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "sansevieria_trifasciata_hahnii_streaker",
+                "type": "variety",
+                "archival_data": [
+                    "1491538"
+                ]
+            },
+            "volume": null,
+            "page": "p 281 (Adv.)",
+            "year": "1986",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1756203",
+                "legacy_id": "55586",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483154438"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 58, no. 6. (1986) p 263, Pl. 1.",
+            "machine_name": "cactus_and_succulent_journal_vol_58_no_6_1986_p_263_pl_1",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cephalophyllum_curtophyllum",
+                "type": "species",
+                "archival_data": [
+                    "1404806"
+                ]
+            },
+            "volume": null,
+            "page": "p 263, Pl. 1.",
+            "year": "1986",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1779455",
+                "legacy_id": "80984",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 58, no. 6. (1986) p 263, Pl. 2.",
+            "machine_name": "cactus_and_succulent_journal_vol_58_no_6_1986_p_263_pl_2",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cephalophyllum_pillansii",
+                "type": "species",
+                "archival_data": [
+                    "1404807"
+                ]
+            },
+            "volume": null,
+            "page": "p 263, Pl. 2.",
+            "year": "1986",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1779456",
+                "legacy_id": "80985",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 58, no. 6. (1986) p 259, Pl. 1.",
+            "machine_name": "cactus_and_succulent_journal_vol_58_no_6_1986_p_259_pl_1",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lithops_hallii",
+                "type": "species",
+                "archival_data": [
+                    "1418498"
+                ]
+            },
+            "volume": null,
+            "page": "p 259, Pl. 1.",
+            "year": "1986",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1801772",
+                "legacy_id": "109582",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 58, no. 6. (1986) p 262, Pl. 3.",
+            "machine_name": "cactus_and_succulent_journal_vol_58_no_6_1986_p_262_pl_3",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lithops_helmutii",
+                "type": "species",
+                "archival_data": [
+                    "1418499"
+                ]
+            },
+            "volume": null,
+            "page": "p 262, Pl. 3.",
+            "year": "1986",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1801774",
+                "legacy_id": "109584",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 58, no. 6. (1986) p cover",
+            "machine_name": "cactus_and_succulent_journal_vol_58_no_6_1986_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "trichocaulon_simile",
+                "type": "species",
+                "archival_data": [
+                    "1432734"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1986",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1835170",
+                "legacy_id": "138357",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        }
+    ]
+}

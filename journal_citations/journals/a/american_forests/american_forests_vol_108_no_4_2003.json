@@ -1,0 +1,102 @@
+{
+    "name": "American Forests. vol 108, no. 4. (2003)",
+    "machine_name": "american_forests_vol_108_no_4_2003",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2003",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2117887",
+        "legacy_id": "45513",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "American Forests. vol 108, no. 4. (2003) p 14",
+            "machine_name": "american_forests_vol_108_no_4_2003_p_14",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "arbutus_menziesii",
+                "type": "species",
+                "archival_data": [
+                    "1401054"
+                ]
+            },
+            "volume": null,
+            "page": "p 14",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1899168",
+                "legacy_id": "248658",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "American Forests. vol 108, no. 4. (2003) p 44-47",
+            "machine_name": "american_forests_vol_108_no_4_2003_p_44_47",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "quercus_macrocarpa",
+                "type": "species",
+                "archival_data": [
+                    "1421727"
+                ]
+            },
+            "volume": null,
+            "page": "p 44-47",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1899169",
+                "legacy_id": "248659",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        }
+    ]
+}

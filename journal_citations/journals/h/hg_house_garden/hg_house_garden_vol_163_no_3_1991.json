@@ -1,0 +1,61 @@
+{
+    "name": "HG: House & Garden. vol 163, no. 3. (1991)",
+    "machine_name": "hg_house_garden_vol_163_no_3_1991",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1991",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113819",
+        "legacy_id": "3725",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "HG: House & Garden. vol 163, no. 3. (1991) p 167",
+            "machine_name": "hg_house_garden_vol_163_no_3_1991_p_167",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cedrus_libani",
+                "type": "species",
+                "archival_data": [
+                    "1404019"
+                ]
+            },
+            "volume": null,
+            "page": "p 167",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1777512",
+                "legacy_id": "80516",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        }
+    ]
+}

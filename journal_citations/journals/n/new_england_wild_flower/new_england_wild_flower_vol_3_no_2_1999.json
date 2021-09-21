@@ -1,0 +1,102 @@
+{
+    "name": "New England Wild Flower. vol 3, no. 2. (1999)",
+    "machine_name": "new_england_wild_flower_vol_3_no_2_1999",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1999",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2115815",
+        "legacy_id": "7779",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "New England Wild Flower. vol 3, no. 2. (1999) p cover",
+            "machine_name": "new_england_wild_flower_vol_3_no_2_1999_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "gentianopsis_crinita",
+                "type": "species",
+                "archival_data": [
+                    "1411172"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1857919",
+                "legacy_id": "164810",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "New England Wild Flower. vol 3, no. 2. (1999) p backcover",
+            "machine_name": "new_england_wild_flower_vol_3_no_2_1999_p_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "castilleja_rhexiifolia",
+                "type": "species",
+                "archival_data": [
+                    "1409327"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1857920",
+                "legacy_id": "164811",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        }
+    ]
+}

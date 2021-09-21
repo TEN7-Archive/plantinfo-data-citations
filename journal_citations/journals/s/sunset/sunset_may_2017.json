@@ -1,0 +1,143 @@
+{
+    "name": "Sunset. May 2017.",
+    "machine_name": "sunset_may_2017",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": "7",
+    "description": null,
+    "archival_data": {
+        "id": "2220626",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1517157777"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Sunset. May 2017. p 32-33",
+            "machine_name": "sunset_may_2017_p_32_33",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "clivia_miniata",
+                "type": "species",
+                "archival_data": [
+                    "1409020"
+                ]
+            },
+            "volume": null,
+            "page": "p 32-33",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2220631",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1517158102"
+            }
+        },
+        {
+            "name": "Sunset. May 2017. p 56",
+            "machine_name": "sunset_may_2017_p_56",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "leucanthemum_cultivars_real_series",
+                "type": "variety",
+                "archival_data": [
+                    "1593908"
+                ]
+            },
+            "volume": null,
+            "page": "p 56",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2220636",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1517158102"
+            }
+        },
+        {
+            "name": "Sunset. May 2017. p 56",
+            "machine_name": "sunset_may_2017_p_56",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "festuca_cultivars_beyond_blue",
+                "type": "variety",
+                "archival_data": [
+                    "1608827"
+                ]
+            },
+            "volume": null,
+            "page": "p 56",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2220641",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1517158102"
+            }
+        }
+    ]
+}

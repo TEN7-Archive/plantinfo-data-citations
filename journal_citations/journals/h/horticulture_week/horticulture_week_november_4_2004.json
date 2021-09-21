@@ -1,0 +1,143 @@
+{
+    "name": "Horticulture Week. November 4, 2004.",
+    "machine_name": "horticulture_week_november_4_2004",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1690287",
+        "legacy_id": "61639",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Horticulture Week. November 4, 2004. p 14",
+            "machine_name": "horticulture_week_november_4_2004_p_14",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ananas_comosus",
+                "type": "species",
+                "archival_data": [
+                    "1398674"
+                ]
+            },
+            "volume": null,
+            "page": "p 14",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1949133",
+                "legacy_id": "289177",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "Horticulture Week. November 4, 2004. p 15",
+            "machine_name": "horticulture_week_november_4_2004_p_15",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "guzmania_lingulata",
+                "type": "species",
+                "archival_data": [
+                    "1414579"
+                ]
+            },
+            "volume": null,
+            "page": "p 15",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1949134",
+                "legacy_id": "289178",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "Horticulture Week. November 4, 2004. p 15",
+            "machine_name": "horticulture_week_november_4_2004_p_15",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "vriesea_splendens",
+                "type": "species",
+                "archival_data": [
+                    "1437565"
+                ]
+            },
+            "volume": null,
+            "page": "p 15",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1949135",
+                "legacy_id": "289179",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        }
+    ]
+}

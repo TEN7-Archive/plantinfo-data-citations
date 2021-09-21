@@ -1,0 +1,61 @@
+{
+    "name": "Nature. vol 420, no. 6911. (2002)",
+    "machine_name": "nature_vol_420_no_6911_2002",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2002",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2117881",
+        "legacy_id": "44510",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Nature. vol 420, no. 6911. (2002) p 35",
+            "machine_name": "nature_vol_420_no_6911_2002_p_35",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "neobuxbaumia_tetetzo",
+                "type": "species",
+                "archival_data": [
+                    "1450122"
+                ]
+            },
+            "volume": null,
+            "page": "p 35",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1898996",
+                "legacy_id": "245552",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        }
+    ]
+}

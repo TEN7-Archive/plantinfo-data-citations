@@ -1,0 +1,102 @@
+{
+    "name": "Sunset. vol 193, no. 2. (1994)",
+    "machine_name": "sunset_vol_193_no_2_1994",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1994",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2112014",
+        "legacy_id": "5653",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Sunset. vol 193, no. 2. (1994) p 62",
+            "machine_name": "sunset_vol_193_no_2_1994_p_62",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lilium_cultivars_black_dragon",
+                "type": "variety",
+                "archival_data": [
+                    "1478373"
+                ]
+            },
+            "volume": null,
+            "page": "p 62",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1730337",
+                "legacy_id": "27784",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Sunset. vol 193, no. 2. (1994) p 62",
+            "machine_name": "sunset_vol_193_no_2_1994_p_62",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "digitalis_mertonensis",
+                "type": "species",
+                "archival_data": [
+                    "1408497"
+                ]
+            },
+            "volume": null,
+            "page": "p 62",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1780346",
+                "legacy_id": "89317",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        }
+    ]
+}

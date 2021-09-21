@@ -1,0 +1,184 @@
+{
+    "name": "P.H.M.-Revue Horticole. no. 502. (2008)",
+    "machine_name": "p_h_m_revue_horticole_no_502_2008",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2008",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2119226",
+        "legacy_id": "94970",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "P.H.M.-Revue Horticole. no. 502. (2008) p. 16, Pl. 2",
+            "machine_name": "p_h_m_revue_horticole_no_502_2008_p_16_pl_2",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "acer_saccharum",
+                "type": "species",
+                "archival_data": [
+                    "1403193"
+                ]
+            },
+            "volume": null,
+            "page": "p. 16, Pl. 2",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1926337",
+                "legacy_id": "374920",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "P.H.M.-Revue Horticole. no. 502. (2008) p. 31, Pl. 1",
+            "machine_name": "p_h_m_revue_horticole_no_502_2008_p_31_pl_1",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "phoenix_dactylifera",
+                "type": "species",
+                "archival_data": [
+                    "1423733"
+                ]
+            },
+            "volume": null,
+            "page": "p. 31, Pl. 1",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1926338",
+                "legacy_id": "374932",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "P.H.M.-Revue Horticole. no. 502. (2008) p 26, Pl. 4;29, Pl. 8",
+            "machine_name": "p_h_m_revue_horticole_no_502_2008_p_26_pl_4_29_pl_8",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "kalanchoe_blossfeldiana_calandiva_series",
+                "type": "variety",
+                "archival_data": [
+                    "1576954"
+                ]
+            },
+            "volume": null,
+            "page": "p 26, Pl. 4;29, Pl. 8",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1930154",
+                "legacy_id": "376352",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "P.H.M.-Revue Horticole. no. 502. (2008) p 27-28, Pl. 5-6",
+            "machine_name": "p_h_m_revue_horticole_no_502_2008_p_27_28_pl_5_6",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "kalanchoe_cultivars_queen_series",
+                "type": "variety",
+                "archival_data": [
+                    "1553364"
+                ]
+            },
+            "volume": null,
+            "page": "p 27-28, Pl. 5-6",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1930155",
+                "legacy_id": "376353",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        }
+    ]
+}

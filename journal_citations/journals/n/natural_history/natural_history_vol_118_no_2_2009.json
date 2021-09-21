@@ -1,0 +1,102 @@
+{
+    "name": "Natural History. vol 118, no. 2. (2009)",
+    "machine_name": "natural_history_vol_118_no_2_2009",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2009",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2119918",
+        "legacy_id": "100609",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Natural History. vol 118, no. 2. (2009) p 10-11",
+            "machine_name": "natural_history_vol_118_no_2_2009_p_10_11",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rheum_palaestinum",
+                "type": "species",
+                "archival_data": [
+                    "1455796"
+                ]
+            },
+            "volume": null,
+            "page": "p 10-11",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1943750",
+                "legacy_id": "390592",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "Natural History. vol 118, no. 2. (2009) p 48",
+            "machine_name": "natural_history_vol_118_no_2_2009_p_48",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "staudtia_kamerunensis",
+                "type": "species",
+                "archival_data": [
+                    "1455797"
+                ]
+            },
+            "volume": null,
+            "page": "p 48",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1943751",
+                "legacy_id": "390593",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        }
+    ]
+}

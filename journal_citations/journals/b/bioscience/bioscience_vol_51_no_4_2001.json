@@ -1,0 +1,102 @@
+{
+    "name": "BioScience. vol 51, no. 4. (2001)",
+    "machine_name": "bioscience_vol_51_no_4_2001",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2001",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2116893",
+        "legacy_id": "25069",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "BioScience. vol 51, no. 4. (2001) p 305",
+            "machine_name": "bioscience_vol_51_no_4_2001_p_305",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "victoria_amazonica",
+                "type": "species",
+                "archival_data": [
+                    "1436481"
+                ]
+            },
+            "volume": null,
+            "page": "p 305",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1880055",
+                "legacy_id": "213030",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "BioScience. vol 51, no. 4. (2001) p 305",
+            "machine_name": "bioscience_vol_51_no_4_2001_p_305",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "eichhornia_crassipes",
+                "type": "species",
+                "archival_data": [
+                    "1413149"
+                ]
+            },
+            "volume": null,
+            "page": "p 305",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1880056",
+                "legacy_id": "213031",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        }
+    ]
+}

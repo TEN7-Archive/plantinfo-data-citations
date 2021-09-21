@@ -1,0 +1,61 @@
+{
+    "name": "Desert Plants. vol 11, no. 1. (1994)",
+    "machine_name": "desert_plants_vol_11_no_1_1994",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1994",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114562",
+        "legacy_id": "2172",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Desert Plants. vol 11, no. 1. (1994) p cover|18",
+            "machine_name": "desert_plants_vol_11_no_1_1994_p_cover_18",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "sclerocactus_polyancistrus",
+                "type": "species",
+                "archival_data": [
+                    "1433314"
+                ]
+            },
+            "volume": null,
+            "page": "p cover|18",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1828296",
+                "legacy_id": "132547",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        }
+    ]
+}

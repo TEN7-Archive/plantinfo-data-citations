@@ -1,0 +1,61 @@
+{
+    "name": "Horticulture Week. Suppl.: Plant Suppliers Guide 2003. (2002)",
+    "machine_name": "horticulture_week_suppl_plant_suppliers_guide_2003_2002",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2002",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2117629",
+        "legacy_id": "42351",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Horticulture Week. Suppl.: Plant Suppliers Guide 2003. (2002) p 108 (Adv.)",
+            "machine_name": "horticulture_week_suppl_plant_suppliers_guide_2003_2002_p_108_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "weigela_cultivars_naomi_campbell",
+                "type": "variety",
+                "archival_data": [
+                    "1572511"
+                ]
+            },
+            "volume": null,
+            "page": "p 108 (Adv.)",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1893429",
+                "legacy_id": "240970",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        }
+    ]
+}

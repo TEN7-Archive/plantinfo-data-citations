@@ -1,0 +1,553 @@
+{
+    "name": "LAIFS: Los Angeles International Fern Society, Journal. vol 44, no. 3. (2017)",
+    "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_44_no_3_2017",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2017",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": "7",
+    "description": null,
+    "archival_data": {
+        "id": "2209606",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1516456421"
+    },
+    "citation_reference_items": [
+        {
+            "name": "LAIFS: Los Angeles International Fern Society, Journal. vol 44, no. 3. (2017) p cover; 93-96",
+            "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_44_no_3_2017_p_cover_93_96",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cibotium_schiedei",
+                "type": "species",
+                "archival_data": [
+                    "1463136"
+                ]
+            },
+            "volume": null,
+            "page": "p cover; 93-96",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2209656",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1516457544"
+            }
+        },
+        {
+            "name": "LAIFS: Los Angeles International Fern Society, Journal. vol 44, no. 3. (2017) p 86",
+            "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_44_no_3_2017_p_86",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ophioglossum_pendulum",
+                "type": "species",
+                "archival_data": [
+                    "1457129"
+                ]
+            },
+            "volume": null,
+            "page": "p 86",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2209661",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1516457544"
+            }
+        },
+        {
+            "name": "LAIFS: Los Angeles International Fern Society, Journal. vol 44, no. 3. (2017) p 87",
+            "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_44_no_3_2017_p_87",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "asplenium_nidus_crissie",
+                "type": "variety",
+                "archival_data": [
+                    "2209611"
+                ]
+            },
+            "volume": null,
+            "page": "p 87",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2209666",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1516457544"
+            }
+        },
+        {
+            "name": "LAIFS: Los Angeles International Fern Society, Journal. vol 44, no. 3. (2017) p 87",
+            "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_44_no_3_2017_p_87",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "actiniopteris_australis",
+                "type": "species",
+                "archival_data": [
+                    "2209626"
+                ]
+            },
+            "volume": null,
+            "page": "p 87",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2209671",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1516457544"
+            }
+        },
+        {
+            "name": "LAIFS: Los Angeles International Fern Society, Journal. vol 44, no. 3. (2017) p 88",
+            "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_44_no_3_2017_p_88",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "angiopteris_lygodiifolia",
+                "type": "species",
+                "archival_data": [
+                    "2209631"
+                ]
+            },
+            "volume": null,
+            "page": "p 88",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2209676",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1516457544"
+            }
+        },
+        {
+            "name": "LAIFS: Los Angeles International Fern Society, Journal. vol 44, no. 3. (2017) p 88",
+            "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_44_no_3_2017_p_88",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "aglaomorpha_coronans",
+                "type": "species",
+                "archival_data": [
+                    "1440769"
+                ]
+            },
+            "volume": null,
+            "page": "p 88",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2209681",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1516457544"
+            }
+        },
+        {
+            "name": "LAIFS: Los Angeles International Fern Society, Journal. vol 44, no. 3. (2017) p 89",
+            "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_44_no_3_2017_p_89",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "aglaonema_cultivars_ruby_sunset",
+                "type": "variety",
+                "archival_data": [
+                    "1638414"
+                ]
+            },
+            "volume": null,
+            "page": "p 89",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2209686",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1516457544"
+            }
+        },
+        {
+            "name": "LAIFS: Los Angeles International Fern Society, Journal. vol 44, no. 3. (2017) p 102-03; backcover",
+            "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_44_no_3_2017_p_102_03_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "platycerium_willinckii",
+                "type": "species",
+                "archival_data": [
+                    "1440067"
+                ]
+            },
+            "volume": null,
+            "page": "p 102-03; backcover",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2209691",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1516457544"
+            }
+        },
+        {
+            "name": "LAIFS: Los Angeles International Fern Society, Journal. vol 44, no. 3. (2017) p 103",
+            "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_44_no_3_2017_p_103",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "platycerium_willinckii_java",
+                "type": "variety",
+                "archival_data": [
+                    "2209636"
+                ]
+            },
+            "volume": null,
+            "page": "p 103",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2209696",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1516457544"
+            }
+        },
+        {
+            "name": "LAIFS: Los Angeles International Fern Society, Journal. vol 44, no. 3. (2017) p 104-05",
+            "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_44_no_3_2017_p_104_05",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "platycerium_willinckii_weeks",
+                "type": "variety",
+                "archival_data": [
+                    "2209641"
+                ]
+            },
+            "volume": null,
+            "page": "p 104-05",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2209701",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1516457544"
+            }
+        },
+        {
+            "name": "LAIFS: Los Angeles International Fern Society, Journal. vol 44, no. 3. (2017) p 105",
+            "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_44_no_3_2017_p_105",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "platycerium_willinckii_little_will",
+                "type": "variety",
+                "archival_data": [
+                    "2209646"
+                ]
+            },
+            "volume": null,
+            "page": "p 105",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2209706",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1516457544"
+            }
+        },
+        {
+            "name": "LAIFS: Los Angeles International Fern Society, Journal. vol 44, no. 3. (2017) p 111",
+            "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_44_no_3_2017_p_111",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pyrrosia_lingua_variegata",
+                "type": "variety",
+                "archival_data": [
+                    "1628626"
+                ]
+            },
+            "volume": null,
+            "page": "p 111",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2209711",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1516457544"
+            }
+        },
+        {
+            "name": "LAIFS: Los Angeles International Fern Society, Journal. vol 44, no. 3. (2017) p 113",
+            "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_44_no_3_2017_p_113",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "tectaria_hilocarpa",
+                "type": "species",
+                "archival_data": [
+                    "2209651"
+                ]
+            },
+            "volume": null,
+            "page": "p 113",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2209716",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1516457544"
+            }
+        }
+    ]
+}

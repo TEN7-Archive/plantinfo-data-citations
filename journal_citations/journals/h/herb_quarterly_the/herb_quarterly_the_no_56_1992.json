@@ -1,0 +1,143 @@
+{
+    "name": "Herb Quarterly, The. no. 56. (1992)",
+    "machine_name": "herb_quarterly_the_no_56_1992",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1992",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113937",
+        "legacy_id": "3695",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Herb Quarterly, The. no. 56. (1992) p 24",
+            "machine_name": "herb_quarterly_the_no_56_1992_p_24",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "crocus_sativus",
+                "type": "species",
+                "archival_data": [
+                    "1408013"
+                ]
+            },
+            "volume": null,
+            "page": "p 24",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1782688",
+                "legacy_id": "85880",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Herb Quarterly, The. no. 56. (1992) p 23",
+            "machine_name": "herb_quarterly_the_no_56_1992_p_23",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "foeniculum_vulgare",
+                "type": "species",
+                "archival_data": [
+                    "1413724"
+                ]
+            },
+            "volume": null,
+            "page": "p 23",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1789403",
+                "legacy_id": "97158",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Herb Quarterly, The. no. 56. (1992) p 22",
+            "machine_name": "herb_quarterly_the_no_56_1992_p_22",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "symphytum_grandiflorum",
+                "type": "species",
+                "archival_data": [
+                    "1428201"
+                ]
+            },
+            "volume": null,
+            "page": "p 22",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1825975",
+                "legacy_id": "136029",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        }
+    ]
+}

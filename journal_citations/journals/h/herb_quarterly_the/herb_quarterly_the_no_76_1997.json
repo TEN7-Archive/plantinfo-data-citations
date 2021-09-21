@@ -1,0 +1,143 @@
+{
+    "name": "Herb Quarterly, The. no. 76. (1997)",
+    "machine_name": "herb_quarterly_the_no_76_1997",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1997",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114761",
+        "legacy_id": "6232",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Herb Quarterly, The. no. 76. (1997) p 28",
+            "machine_name": "herb_quarterly_the_no_76_1997_p_28",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "angelica_atropurpurea",
+                "type": "species",
+                "archival_data": [
+                    "1399475"
+                ]
+            },
+            "volume": null,
+            "page": "p 28",
+            "year": "1997",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": true,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1838165",
+                "legacy_id": "145763",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Herb Quarterly, The. no. 76. (1997) p 29",
+            "machine_name": "herb_quarterly_the_no_76_1997_p_29",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "angelica_gigas",
+                "type": "species",
+                "archival_data": [
+                    "1399480"
+                ]
+            },
+            "volume": null,
+            "page": "p 29",
+            "year": "1997",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1838166",
+                "legacy_id": "145764",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Herb Quarterly, The. no. 76. (1997) p 45",
+            "machine_name": "herb_quarterly_the_no_76_1997_p_45",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "momordica_charantia",
+                "type": "species",
+                "archival_data": [
+                    "1420904"
+                ]
+            },
+            "volume": null,
+            "page": "p 45",
+            "year": "1997",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1838167",
+                "legacy_id": "145765",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        }
+    ]
+}

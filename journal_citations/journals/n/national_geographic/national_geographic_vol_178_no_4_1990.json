@@ -1,0 +1,143 @@
+{
+    "name": "National Geographic. vol 178, no. 4. (1990)",
+    "machine_name": "national_geographic_vol_178_no_4_1990",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1990",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113399",
+        "legacy_id": "4569",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "National Geographic. vol 178, no. 4. (1990) p 134",
+            "machine_name": "national_geographic_vol_178_no_4_1990_p_134",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "aechmea_mertensii",
+                "type": "species",
+                "archival_data": [
+                    "1399729"
+                ]
+            },
+            "volume": null,
+            "page": "p 134",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1764534",
+                "legacy_id": "68934",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "National Geographic. vol 178, no. 4. (1990) p 87",
+            "machine_name": "national_geographic_vol_178_no_4_1990_p_87",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "acer_saccharum",
+                "type": "species",
+                "archival_data": [
+                    "1403193"
+                ]
+            },
+            "volume": null,
+            "page": "p 87",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1766841",
+                "legacy_id": "68234",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "National Geographic. vol 178, no. 4. (1990) p 87",
+            "machine_name": "national_geographic_vol_178_no_4_1990_p_87",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "fagus_grandifolia",
+                "type": "species",
+                "archival_data": [
+                    "1412570"
+                ]
+            },
+            "volume": null,
+            "page": "p 87",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1792498",
+                "legacy_id": "96597",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        }
+    ]
+}

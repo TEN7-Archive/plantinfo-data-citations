@@ -1,0 +1,61 @@
+{
+    "name": "American Rock Garden Society, Bulletin. vol 43, no. 1-4 (1985)",
+    "machine_name": "american_rock_garden_society_bulletin_vol_43_no_1_4_1985",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1985",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114010",
+        "legacy_id": "826",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "American Rock Garden Society, Bulletin. vol 43, no. 1-4 (1985) p frontcovers",
+            "machine_name": "american_rock_garden_society_bulletin_vol_43_no_1_4_1985_p_frontcovers",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "dodecatheon_alpinum",
+                "type": "species",
+                "archival_data": [
+                    "1403521"
+                ]
+            },
+            "volume": null,
+            "page": "p frontcovers",
+            "year": "1985",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1787815",
+                "legacy_id": "89899",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        }
+    ]
+}

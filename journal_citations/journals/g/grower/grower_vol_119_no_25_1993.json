@@ -1,0 +1,61 @@
+{
+    "name": "Grower. vol 119, no. 25. (1993)",
+    "machine_name": "grower_vol_119_no_25_1993",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1993",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2111380",
+        "legacy_id": "3521",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grower. vol 119, no. 25. (1993) p 23",
+            "machine_name": "grower_vol_119_no_25_1993_p_23",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "fragaria_ananassa_symphony",
+                "type": "variety",
+                "archival_data": [
+                    "1474017"
+                ]
+            },
+            "volume": null,
+            "page": "p 23",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1717238",
+                "legacy_id": "15412",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        }
+    ]
+}

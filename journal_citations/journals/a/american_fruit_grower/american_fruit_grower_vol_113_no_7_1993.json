@@ -1,0 +1,143 @@
+{
+    "name": "American Fruit Grower. vol 113, no. 7. (1993)",
+    "machine_name": "american_fruit_grower_vol_113_no_7_1993",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1993",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2112089",
+        "legacy_id": "253",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "American Fruit Grower. vol 113, no. 7. (1993) p 33 (Adv.)",
+            "machine_name": "american_fruit_grower_vol_113_no_7_1993_p_33_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "malus_a_cultivars_galaxy_gala",
+                "type": "variety",
+                "archival_data": [
+                    "1478207"
+                ]
+            },
+            "volume": null,
+            "page": "p 33 (Adv.)",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1732564",
+                "legacy_id": "31015",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "American Fruit Grower. vol 113, no. 7. (1993) p 33 (Adv.)",
+            "machine_name": "american_fruit_grower_vol_113_no_7_1993_p_33_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "malus_a_cultivars_ultraearli_fuji",
+                "type": "variety",
+                "archival_data": [
+                    "1484761"
+                ]
+            },
+            "volume": null,
+            "page": "p 33 (Adv.)",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1734898",
+                "legacy_id": "31602",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "American Fruit Grower. vol 113, no. 7. (1993) p 33 (Adv.)",
+            "machine_name": "american_fruit_grower_vol_113_no_7_1993_p_33_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "malus_a_cultivars_ultrared_gala",
+                "type": "variety",
+                "archival_data": [
+                    "1484762"
+                ]
+            },
+            "volume": null,
+            "page": "p 33 (Adv.)",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1734899",
+                "legacy_id": "31603",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        }
+    ]
+}

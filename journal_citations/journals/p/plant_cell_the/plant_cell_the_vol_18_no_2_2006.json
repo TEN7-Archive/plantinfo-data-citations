@@ -1,0 +1,102 @@
+{
+    "name": "Plant Cell, The. vol 18, no. 2. (2006)",
+    "machine_name": "plant_cell_the_vol_18_no_2_2006",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2006",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2119779",
+        "legacy_id": "71309",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Plant Cell, The. vol 18, no. 2. (2006) p 284, Pl. 1a",
+            "machine_name": "plant_cell_the_vol_18_no_2_2006_p_284_pl_1a",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "oryza_sativa_rufipogon",
+                "type": "variety",
+                "archival_data": [
+                    "1564139"
+                ]
+            },
+            "volume": null,
+            "page": "p 284, Pl. 1a",
+            "year": "2006",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": true,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1939917",
+                "legacy_id": "316033",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "Plant Cell, The. vol 18, no. 2. (2006) p 296, Pl. 1n;302, Pl. 6a-c;310, Pl. 1a;312, 4a,c",
+            "machine_name": "plant_cell_the_vol_18_no_2_2006_p_296_pl_1n_302_pl_6a_c_310_pl_1a_312_4a_c",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "arabidopsis_thaliana",
+                "type": "species",
+                "archival_data": [
+                    "1400989"
+                ]
+            },
+            "volume": null,
+            "page": "p 296, Pl. 1n;302, Pl. 6a-c;310, Pl. 1a;312, 4a,c",
+            "year": "2006",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1939918",
+                "legacy_id": "316034",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        }
+    ]
+}

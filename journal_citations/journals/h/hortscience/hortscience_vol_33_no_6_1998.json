@@ -1,0 +1,102 @@
+{
+    "name": "HortScience. vol 33, no. 6. (1998)",
+    "machine_name": "hortscience_vol_33_no_6_1998",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1998",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2115099",
+        "legacy_id": "6681",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "HortScience. vol 33, no. 6. (1998) p cover",
+            "machine_name": "hortscience_vol_33_no_6_1998_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "sarracenia_psittacina",
+                "type": "species",
+                "archival_data": [
+                    "1431045"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1844828",
+                "legacy_id": "151341",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "HortScience. vol 33, no. 6. (1998) p 1085",
+            "machine_name": "hortscience_vol_33_no_6_1998_p_1085",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "capsicum_h_cultivars_numex_primavera",
+                "type": "variety",
+                "archival_data": [
+                    "1539988"
+                ]
+            },
+            "volume": null,
+            "page": "p 1085",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1844829",
+                "legacy_id": "151342",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        }
+    ]
+}

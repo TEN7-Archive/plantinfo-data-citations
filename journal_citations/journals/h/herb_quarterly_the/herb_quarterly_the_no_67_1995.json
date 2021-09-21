@@ -1,0 +1,61 @@
+{
+    "name": "Herb Quarterly, The. no. 67. (1995)",
+    "machine_name": "herb_quarterly_the_no_67_1995",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1995",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114306",
+        "legacy_id": "3682",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Herb Quarterly, The. no. 67. (1995) p cover|44|46",
+            "machine_name": "herb_quarterly_the_no_67_1995_p_cover_44_46",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "maclura_pomifera",
+                "type": "species",
+                "archival_data": [
+                    "1421116"
+                ]
+            },
+            "volume": null,
+            "page": "p cover|44|46",
+            "year": "1995",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1806397",
+                "legacy_id": "110893",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        }
+    ]
+}

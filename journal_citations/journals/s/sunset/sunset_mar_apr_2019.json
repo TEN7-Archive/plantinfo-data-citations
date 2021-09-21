@@ -1,0 +1,102 @@
+{
+    "name": "Sunset. Mar\/Apr. 2019.",
+    "machine_name": "sunset_mar_apr_2019",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": "7",
+    "description": null,
+    "archival_data": {
+        "id": "2506126",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1555675140"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Sunset. April 2019. p 32 (Adv.)",
+            "machine_name": "sunset_april_2019_p_32_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "buddleja_cultivars_lo_behold_series",
+                "type": "variety",
+                "archival_data": [
+                    "1589915"
+                ]
+            },
+            "volume": null,
+            "page": "p 32 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2506131",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1555675454"
+            }
+        },
+        {
+            "name": "Sunset. April 2019. p 41",
+            "machine_name": "sunset_april_2019_p_41",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "loropetalum_chinense_purple_pixie",
+                "type": "variety",
+                "archival_data": [
+                    "1605679"
+                ]
+            },
+            "volume": null,
+            "page": "p 41",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2506136",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1555675454"
+            }
+        }
+    ]
+}

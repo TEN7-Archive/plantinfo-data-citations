@@ -1,0 +1,61 @@
+{
+    "name": "Nature. vol 483, no. 7389. (2012)",
+    "machine_name": "nature_vol_483_no_7389_2012",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2012",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2122736",
+        "legacy_id": "117329",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Nature. vol 483, no. 7389. (2012) p 248",
+            "machine_name": "nature_vol_483_no_7389_2012_p_248",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "livistona_mariae",
+                "type": "species",
+                "archival_data": [
+                    "1418843"
+                ]
+            },
+            "volume": null,
+            "page": "p 248",
+            "year": "2012",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2010886",
+                "legacy_id": "444612",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        }
+    ]
+}

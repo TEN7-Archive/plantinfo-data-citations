@@ -1,0 +1,61 @@
+{
+    "name": "Landscape Architecture. vol 107, no. 6. (2017)",
+    "machine_name": "landscape_architecture_vol_107_no_6_2017",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2017",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": "7",
+    "description": null,
+    "archival_data": {
+        "id": "2345476",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1531152869"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Landscape Architecture. vol 107, no. 6. (2017) p 136 (Adv.)",
+            "machine_name": "landscape_architecture_vol_107_no_6_2017_p_136_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "physocarpus_cultivars_tiny_wine_series",
+                "type": "variety",
+                "archival_data": [
+                    "1647868"
+                ]
+            },
+            "volume": null,
+            "page": "p 136 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2345481",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1531153078"
+            }
+        }
+    ]
+}

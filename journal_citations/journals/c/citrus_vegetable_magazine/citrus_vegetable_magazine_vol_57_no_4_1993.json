@@ -1,0 +1,143 @@
+{
+    "name": "Citrus & Vegetable Magazine. vol 57, no. 4. (1993)",
+    "machine_name": "citrus_vegetable_magazine_vol_57_no_4_1993",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1993",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113253",
+        "legacy_id": "1954",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Citrus & Vegetable Magazine. vol 57, no. 4. (1993) p 16",
+            "machine_name": "citrus_vegetable_magazine_vol_57_no_4_1993_p_16",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "citrus_reticulata_fallglo",
+                "type": "variety",
+                "archival_data": [
+                    "1469195"
+                ]
+            },
+            "volume": null,
+            "page": "p 16",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1762065",
+                "legacy_id": "60990",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Citrus & Vegetable Magazine. vol 57, no. 4. (1993) p 17 (Adv.)",
+            "machine_name": "citrus_vegetable_magazine_vol_57_no_4_1993_p_17_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lycopersicon_cultivars_olympic",
+                "type": "variety",
+                "archival_data": [
+                    "1476635"
+                ]
+            },
+            "volume": null,
+            "page": "p 17 (Adv.)",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1762066",
+                "legacy_id": "60991",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Citrus & Vegetable Magazine. vol 57, no. 4. (1993) p 17 (Adv.)",
+            "machine_name": "citrus_vegetable_magazine_vol_57_no_4_1993_p_17_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lycopersicon_cultivars_colonial",
+                "type": "variety",
+                "archival_data": [
+                    "1481134"
+                ]
+            },
+            "volume": null,
+            "page": "p 17 (Adv.)",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1762067",
+                "legacy_id": "60992",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        }
+    ]
+}

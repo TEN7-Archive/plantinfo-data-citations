@@ -1,0 +1,61 @@
+{
+    "name": "Citrus & Vegetable Magazine. vol 63, no. 5. (1999)",
+    "machine_name": "citrus_vegetable_magazine_vol_63_no_5_1999",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1999",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2115426",
+        "legacy_id": "6959",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Citrus & Vegetable Magazine. vol 63, no. 5. (1999) p 2 (Adv.)",
+            "machine_name": "citrus_vegetable_magazine_vol_63_no_5_1999_p_2_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "citrullus_lanatus_royal_flush",
+                "type": "variety",
+                "archival_data": [
+                    "1468888"
+                ]
+            },
+            "volume": null,
+            "page": "p 2 (Adv.)",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1851016",
+                "legacy_id": "155426",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        }
+    ]
+}

@@ -1,0 +1,922 @@
+{
+    "name": "Organic Gardening. vol 47, no. 6. (2000)",
+    "machine_name": "organic_gardening_vol_47_no_6_2000",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2000",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2116536",
+        "legacy_id": "16971",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Organic Gardening. vol 47, no. 6. (2000) p cover",
+            "machine_name": "organic_gardening_vol_47_no_6_2000_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "paeonia_cultivars_the_fawn",
+                "type": "variety",
+                "archival_data": [
+                    "1548375"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1873267",
+                "legacy_id": "199202",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Organic Gardening. vol 47, no. 6. (2000) p 27",
+            "machine_name": "organic_gardening_vol_47_no_6_2000_p_27",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "beta_vulgaris_c",
+                "type": "species",
+                "archival_data": [
+                    "1401175"
+                ]
+            },
+            "volume": null,
+            "page": "p 27",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1873268",
+                "legacy_id": "199203",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Organic Gardening. vol 47, no. 6. (2000) p 32",
+            "machine_name": "organic_gardening_vol_47_no_6_2000_p_32",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "prunus_virginiana",
+                "type": "species",
+                "archival_data": [
+                    "1425395"
+                ]
+            },
+            "volume": null,
+            "page": "p 32",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": true,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1873269",
+                "legacy_id": "199204",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Organic Gardening. vol 47, no. 6. (2000) p 34-35",
+            "machine_name": "organic_gardening_vol_47_no_6_2000_p_34_35",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "vaccinium_macrocarpon",
+                "type": "species",
+                "archival_data": [
+                    "1428667"
+                ]
+            },
+            "volume": null,
+            "page": "p 34-35",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1873270",
+                "legacy_id": "199205",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Organic Gardening. vol 47, no. 6. (2000) p 46",
+            "machine_name": "organic_gardening_vol_47_no_6_2000_p_46",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "paeonia_cultivars_karen_gray",
+                "type": "variety",
+                "archival_data": [
+                    "1519353"
+                ]
+            },
+            "volume": null,
+            "page": "p 46",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1873271",
+                "legacy_id": "199206",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Organic Gardening. vol 47, no. 6. (2000) p 47",
+            "machine_name": "organic_gardening_vol_47_no_6_2000_p_47",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "paeonia_cultivars_stardust",
+                "type": "variety",
+                "archival_data": [
+                    "1520470"
+                ]
+            },
+            "volume": null,
+            "page": "p 47",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1873272",
+                "legacy_id": "199207",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Organic Gardening. vol 47, no. 6. (2000) p 48",
+            "machine_name": "organic_gardening_vol_47_no_6_2000_p_48",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "paeonia_cultivars_kansas",
+                "type": "variety",
+                "archival_data": [
+                    "1484881"
+                ]
+            },
+            "volume": null,
+            "page": "p 48",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1873273",
+                "legacy_id": "199208",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Organic Gardening. vol 47, no. 6. (2000) p 48",
+            "machine_name": "organic_gardening_vol_47_no_6_2000_p_48",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "paeonia_cultivars_miss_mary",
+                "type": "variety",
+                "archival_data": [
+                    "1519652"
+                ]
+            },
+            "volume": null,
+            "page": "p 48",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1873274",
+                "legacy_id": "199209",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Organic Gardening. vol 47, no. 6. (2000) p 49",
+            "machine_name": "organic_gardening_vol_47_no_6_2000_p_49",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "paeonia_cultivars_festiva_maxima",
+                "type": "variety",
+                "archival_data": [
+                    "1484614"
+                ]
+            },
+            "volume": null,
+            "page": "p 49",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1873275",
+                "legacy_id": "199210",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Organic Gardening. vol 47, no. 6. (2000) p 50",
+            "machine_name": "organic_gardening_vol_47_no_6_2000_p_50",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "paeonia_cultivars_miss_america",
+                "type": "variety",
+                "archival_data": [
+                    "1485146"
+                ]
+            },
+            "volume": null,
+            "page": "p 50",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1873276",
+                "legacy_id": "199211",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Organic Gardening. vol 47, no. 6. (2000) p 51",
+            "machine_name": "organic_gardening_vol_47_no_6_2000_p_51",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "paeonia_cultivars_pink_princess",
+                "type": "variety",
+                "archival_data": [
+                    "1485176"
+                ]
+            },
+            "volume": null,
+            "page": "p 51",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1873277",
+                "legacy_id": "199212",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Organic Gardening. vol 47, no. 6. (2000) p 51",
+            "machine_name": "organic_gardening_vol_47_no_6_2000_p_51",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "paeonia_cultivars_angel_cheeks",
+                "type": "variety",
+                "archival_data": [
+                    "1522688"
+                ]
+            },
+            "volume": null,
+            "page": "p 51",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1873278",
+                "legacy_id": "199213",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Organic Gardening. vol 47, no. 6. (2000) p 52",
+            "machine_name": "organic_gardening_vol_47_no_6_2000_p_52",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "malus_a_cultivars_mcintosh",
+                "type": "variety",
+                "archival_data": [
+                    "1483842"
+                ]
+            },
+            "volume": null,
+            "page": "p 52",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1873279",
+                "legacy_id": "199214",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Organic Gardening. vol 47, no. 6. (2000) p 56;58-59",
+            "machine_name": "organic_gardening_vol_47_no_6_2000_p_56_58_59",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "polygonum_fagopyrum",
+                "type": "species",
+                "archival_data": [
+                    "1422343"
+                ]
+            },
+            "volume": null,
+            "page": "p 56;58-59",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": true,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1873280",
+                "legacy_id": "199215",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Organic Gardening. vol 47, no. 6. (2000) p 57;59",
+            "machine_name": "organic_gardening_vol_47_no_6_2000_p_57_59",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "avena_sativa",
+                "type": "species",
+                "archival_data": [
+                    "1398803"
+                ]
+            },
+            "volume": null,
+            "page": "p 57;59",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": true,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1873281",
+                "legacy_id": "199216",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Organic Gardening. vol 47, no. 6. (2000) p 57;59",
+            "machine_name": "organic_gardening_vol_47_no_6_2000_p_57_59",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "trifolium_incarnatum",
+                "type": "species",
+                "archival_data": [
+                    "1433117"
+                ]
+            },
+            "volume": null,
+            "page": "p 57;59",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": true,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1873526",
+                "legacy_id": "199217",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Organic Gardening. vol 47, no. 6. (2000) p 58-59",
+            "machine_name": "organic_gardening_vol_47_no_6_2000_p_58_59",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "vicia_villosa",
+                "type": "species",
+                "archival_data": [
+                    "1436479"
+                ]
+            },
+            "volume": null,
+            "page": "p 58-59",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": true,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1873527",
+                "legacy_id": "199218",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Organic Gardening. vol 47, no. 6. (2000) p 59",
+            "machine_name": "organic_gardening_vol_47_no_6_2000_p_59",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "vigna_unguiculata",
+                "type": "species",
+                "archival_data": [
+                    "1436493"
+                ]
+            },
+            "volume": null,
+            "page": "p 59",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": true,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1873528",
+                "legacy_id": "199219",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Organic Gardening. vol 47, no. 6. (2000) p 59",
+            "machine_name": "organic_gardening_vol_47_no_6_2000_p_59",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lolium_multiflorum",
+                "type": "species",
+                "archival_data": [
+                    "1419254"
+                ]
+            },
+            "volume": null,
+            "page": "p 59",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": true,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1873529",
+                "legacy_id": "199220",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Organic Gardening. vol 47, no. 6. (2000) p 59",
+            "machine_name": "organic_gardening_vol_47_no_6_2000_p_59",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "secale_cereale",
+                "type": "species",
+                "archival_data": [
+                    "1427707"
+                ]
+            },
+            "volume": null,
+            "page": "p 59",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": true,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1873530",
+                "legacy_id": "199221",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Organic Gardening. vol 47, no. 6. (2000) p 60;62",
+            "machine_name": "organic_gardening_vol_47_no_6_2000_p_60_62",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "allium_porrum",
+                "type": "species",
+                "archival_data": [
+                    "1402123"
+                ]
+            },
+            "volume": null,
+            "page": "p 60;62",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": true,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1873531",
+                "legacy_id": "199222",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Organic Gardening. vol 47, no. 6. (2000) p 58",
+            "machine_name": "organic_gardening_vol_47_no_6_2000_p_58",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "eschscholzia_californica",
+                "type": "species",
+                "archival_data": [
+                    "1412919"
+                ]
+            },
+            "volume": null,
+            "page": "p 58",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1873586",
+                "legacy_id": "199410",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        }
+    ]
+}

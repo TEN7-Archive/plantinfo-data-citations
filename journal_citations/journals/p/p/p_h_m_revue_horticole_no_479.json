@@ -1,0 +1,143 @@
+{
+    "name": "P.H.M.-Revue Horticole. no. 479.",
+    "machine_name": "p_h_m_revue_horticole_no_479",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1687183",
+        "legacy_id": "72432",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "P.H.M.-Revue Horticole. no. 479. p 33-34",
+            "machine_name": "p_h_m_revue_horticole_no_479_p_33_34",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "nolina_recurvata",
+                "type": "species",
+                "archival_data": [
+                    "1424693"
+                ]
+            },
+            "volume": null,
+            "page": "p 33-34",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": true,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1937183",
+                "legacy_id": "318825",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "P.H.M.-Revue Horticole. no. 479. p 36-37",
+            "machine_name": "p_h_m_revue_horticole_no_479_p_36_37",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "celtis_occidentalis",
+                "type": "species",
+                "archival_data": [
+                    "1404087"
+                ]
+            },
+            "volume": null,
+            "page": "p 36-37",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": true,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1937184",
+                "legacy_id": "318826",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "P.H.M.-Revue Horticole. no. 479. p 51",
+            "machine_name": "p_h_m_revue_horticole_no_479_p_51",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "digitaria_sanguinalis",
+                "type": "species",
+                "archival_data": [
+                    "1408511"
+                ]
+            },
+            "volume": null,
+            "page": "p 51",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1937185",
+                "legacy_id": "318827",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        }
+    ]
+}

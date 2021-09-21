@@ -1,0 +1,143 @@
+{
+    "name": "Bromeliad Society, Journal. vol 43, no. 5. (1993)",
+    "machine_name": "bromeliad_society_journal_vol_43_no_5_1993",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1993",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113403",
+        "legacy_id": "1733",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Bromeliad Society, Journal. vol 43, no. 5. (1993) p cover|backcover",
+            "machine_name": "bromeliad_society_journal_vol_43_no_5_1993_p_cover_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "aechmea_tessmannii",
+                "type": "species",
+                "archival_data": [
+                    "1399767"
+                ]
+            },
+            "volume": null,
+            "page": "p cover|backcover",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1764570",
+                "legacy_id": "68973",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Bromeliad Society, Journal. vol 43, no. 5. (1993) p 206, Pl. 7.",
+            "machine_name": "bromeliad_society_journal_vol_43_no_5_1993_p_206_pl_7",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "billbergia_reichardtii",
+                "type": "species",
+                "archival_data": [
+                    "1401573"
+                ]
+            },
+            "volume": null,
+            "page": "p 206, Pl. 7.",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1771613",
+                "legacy_id": "76224",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Bromeliad Society, Journal. vol 43, no. 5. (1993) p 207, Pl. 8.",
+            "machine_name": "bromeliad_society_journal_vol_43_no_5_1993_p_207_pl_8",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "nidularium_ferdinando_coburgii",
+                "type": "species",
+                "archival_data": [
+                    "1417942"
+                ]
+            },
+            "volume": null,
+            "page": "p 207, Pl. 8.",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1813901",
+                "legacy_id": "115573",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        }
+    ]
+}

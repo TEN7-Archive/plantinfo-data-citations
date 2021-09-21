@@ -1,0 +1,184 @@
+{
+    "name": "Flora International. no. 184. (2005)",
+    "machine_name": "flora_international_no_184_2005",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2005",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2121266",
+        "legacy_id": "67642",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Flora International. no. 184. (2005) p 44",
+            "machine_name": "flora_international_no_184_2005_p_44",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_burgundy_ice",
+                "type": "variety",
+                "archival_data": [
+                    "1614639"
+                ]
+            },
+            "volume": null,
+            "page": "p 44",
+            "year": "2005",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1979744",
+                "legacy_id": "305421",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        },
+        {
+            "name": "Flora International. no. 184. (2005) p 47",
+            "machine_name": "flora_international_no_184_2005_p_47",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "spiraea_japonica_goldflame",
+                "type": "variety",
+                "archival_data": [
+                    "1494775"
+                ]
+            },
+            "volume": null,
+            "page": "p 47",
+            "year": "2005",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1979745",
+                "legacy_id": "305422",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        },
+        {
+            "name": "Flora International. no. 184. (2005) p 49",
+            "machine_name": "flora_international_no_184_2005_p_49",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_sonia",
+                "type": "variety",
+                "archival_data": [
+                    "1491152"
+                ]
+            },
+            "volume": null,
+            "page": "p 49",
+            "year": "2005",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1979747",
+                "legacy_id": "305424",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        },
+        {
+            "name": "Flora International. no. 184. (2005) p 49",
+            "machine_name": "flora_international_no_184_2005_p_49",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cornus_alba",
+                "type": "species",
+                "archival_data": [
+                    "1405310"
+                ]
+            },
+            "volume": null,
+            "page": "p 49",
+            "year": "2005",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": true,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1979749",
+                "legacy_id": "305426",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        }
+    ]
+}

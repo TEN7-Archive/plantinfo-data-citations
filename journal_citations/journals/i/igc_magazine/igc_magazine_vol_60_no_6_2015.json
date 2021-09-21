@@ -1,0 +1,143 @@
+{
+    "name": "IGC Magazine. vol 60, no. 6. (2015)",
+    "machine_name": "igc_magazine_vol_60_no_6_2015",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2015",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2124582",
+        "legacy_id": "131390",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "IGC Magazine. vol 60, no. 6. (2015) p 11 (Adv.))",
+            "machine_name": "igc_magazine_vol_60_no_6_2015_p_11_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "viola_wittrockiana_cool_wave_series",
+                "type": "variety",
+                "archival_data": [
+                    "1648729"
+                ]
+            },
+            "volume": null,
+            "page": "p 11 (Adv.))",
+            "year": "2015",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2092648",
+                "legacy_id": "510646",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483209571"
+            }
+        },
+        {
+            "name": "IGC Magazine. vol 60, no. 6. (2015) p 26 (Adv.))",
+            "machine_name": "igc_magazine_vol_60_no_6_2015_p_26_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ligustrum_sinense_sunshine",
+                "type": "variety",
+                "archival_data": [
+                    "1593350"
+                ]
+            },
+            "volume": null,
+            "page": "p 26 (Adv.))",
+            "year": "2015",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2092649",
+                "legacy_id": "510647",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483209571"
+            }
+        },
+        {
+            "name": "IGC Magazine. vol 60, no. 6. (2015) p backcover (Adv.))",
+            "machine_name": "igc_magazine_vol_60_no_6_2015_p_backcover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rhododendron_cultivars_encore_series",
+                "type": "variety",
+                "archival_data": [
+                    "1599263"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover (Adv.))",
+            "year": "2015",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2092650",
+                "legacy_id": "510648",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483209571"
+            }
+        }
+    ]
+}

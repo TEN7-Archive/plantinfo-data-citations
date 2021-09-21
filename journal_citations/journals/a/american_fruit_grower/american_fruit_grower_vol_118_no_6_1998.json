@@ -1,0 +1,102 @@
+{
+    "name": "American Fruit Grower. vol 118, no. 6. (1998)",
+    "machine_name": "american_fruit_grower_vol_118_no_6_1998",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1998",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2115017",
+        "legacy_id": "6364",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "American Fruit Grower. vol 118, no. 6. (1998) p 16",
+            "machine_name": "american_fruit_grower_vol_118_no_6_1998_p_16",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rubus_r_cultivars_encore",
+                "type": "variety",
+                "archival_data": [
+                    "1534646"
+                ]
+            },
+            "volume": null,
+            "page": "p 16",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1843614",
+                "legacy_id": "147240",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "American Fruit Grower. vol 118, no. 6. (1998) p 16",
+            "machine_name": "american_fruit_grower_vol_118_no_6_1998_p_16",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rubus_r_cultivars_prelude",
+                "type": "variety",
+                "archival_data": [
+                    "1534647"
+                ]
+            },
+            "volume": null,
+            "page": "p 16",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1843615",
+                "legacy_id": "147241",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        }
+    ]
+}

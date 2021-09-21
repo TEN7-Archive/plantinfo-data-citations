@@ -1,0 +1,61 @@
+{
+    "name": "Natural History. vol 94, no. 8. (1985)",
+    "machine_name": "natural_history_vol_94_no_8_1985",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1985",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2110225",
+        "legacy_id": "4684",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Natural History. vol 94, no. 8. (1985) p 76",
+            "machine_name": "natural_history_vol_94_no_8_1985_p_76",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "capsicum_chinense_rocotilo",
+                "type": "variety",
+                "archival_data": [
+                    "1470658"
+                ]
+            },
+            "volume": null,
+            "page": "p 76",
+            "year": "1985",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1707331",
+                "legacy_id": "6232",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        }
+    ]
+}

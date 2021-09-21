@@ -1,0 +1,225 @@
+{
+    "name": "Grower. vol 132, no. 4. (1999)",
+    "machine_name": "grower_vol_132_no_4_1999",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1999",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2115763",
+        "legacy_id": "7651",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grower. vol 132, no. 4. (1999) p 6",
+            "machine_name": "grower_vol_132_no_4_1999_p_6",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "clematis_cultivars_pistachio",
+                "type": "variety",
+                "archival_data": [
+                    "1541864"
+                ]
+            },
+            "volume": null,
+            "page": "p 6",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1857266",
+                "legacy_id": "163438",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Grower. vol 132, no. 4. (1999) p 7",
+            "machine_name": "grower_vol_132_no_4_1999_p_7",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "prunus_c_cultivars_sunburst",
+                "type": "variety",
+                "archival_data": [
+                    "1489267"
+                ]
+            },
+            "volume": null,
+            "page": "p 7",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1857267",
+                "legacy_id": "163439",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Grower. vol 132, no. 4. (1999) p 23",
+            "machine_name": "grower_vol_132_no_4_1999_p_23",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "eustoma_cultivars_mariachi_series",
+                "type": "variety",
+                "archival_data": [
+                    "1472844"
+                ]
+            },
+            "volume": null,
+            "page": "p 23",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1857268",
+                "legacy_id": "163440",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Grower. vol 132, no. 4. (1999) p 22-23",
+            "machine_name": "grower_vol_132_no_4_1999_p_22_23",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "eustoma_cultivars_piccolo_series",
+                "type": "variety",
+                "archival_data": [
+                    "1550505"
+                ]
+            },
+            "volume": null,
+            "page": "p 22-23",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1857269",
+                "legacy_id": "163441",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Grower. vol 132, no. 4. (1999) p 22",
+            "machine_name": "grower_vol_132_no_4_1999_p_22",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "eustoma_cultivars_catalina_series",
+                "type": "variety",
+                "archival_data": [
+                    "1550506"
+                ]
+            },
+            "volume": null,
+            "page": "p 22",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1857270",
+                "legacy_id": "163442",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        }
+    ]
+}

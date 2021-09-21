@@ -1,0 +1,61 @@
+{
+    "name": "National Geographic. vol 218, no. 2, (2010)",
+    "machine_name": "national_geographic_vol_218_no_2_2010",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2010",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2123803",
+        "legacy_id": "110092",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "National Geographic. vol 218, no. 2, (2010) p 90",
+            "machine_name": "national_geographic_vol_218_no_2_2010_p_90",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "serenoa_repens",
+                "type": "species",
+                "archival_data": [
+                    "1429168"
+                ]
+            },
+            "volume": null,
+            "page": "p 90",
+            "year": "2010",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2045468",
+                "legacy_id": "418231",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        }
+    ]
+}

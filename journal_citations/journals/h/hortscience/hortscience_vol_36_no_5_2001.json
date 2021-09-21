@@ -1,0 +1,143 @@
+{
+    "name": "HortScience. vol 36, no. 5. (2001)",
+    "machine_name": "hortscience_vol_36_no_5_2001",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2001",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2117355",
+        "legacy_id": "31629",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "HortScience. vol 36, no. 5. (2001) p 944",
+            "machine_name": "hortscience_vol_36_no_5_2001_p_944",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "vitis_cultivars_fry",
+                "type": "variety",
+                "archival_data": [
+                    "1531726"
+                ]
+            },
+            "volume": null,
+            "page": "p 944",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1888005",
+                "legacy_id": "225729",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "HortScience. vol 36, no. 5. (2001) p cover;965",
+            "machine_name": "hortscience_vol_36_no_5_2001_p_cover_965",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "malus_hupehensis_yichang",
+                "type": "variety",
+                "archival_data": [
+                    "1568337"
+                ]
+            },
+            "volume": null,
+            "page": "p cover;965",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1889574",
+                "legacy_id": "224366",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "HortScience. vol 36, no. 5. (2001) p 965",
+            "machine_name": "hortscience_vol_36_no_5_2001_p_965",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "malus_hupehensis_long_ashton",
+                "type": "variety",
+                "archival_data": [
+                    "1568338"
+                ]
+            },
+            "volume": null,
+            "page": "p 965",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1889575",
+                "legacy_id": "224367",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "name": "Smithsonian. vol 33, no. 4. (2002)",
+    "machine_name": "smithsonian_vol_33_no_4_2002",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2002",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2117675",
+        "legacy_id": "41229",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Smithsonian. vol 33, no. 4. (2002) p 98;100-01",
+            "machine_name": "smithsonian_vol_33_no_4_2002_p_98_100_01",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "panax_quinquefolius",
+                "type": "species",
+                "archival_data": [
+                    "1424081"
+                ]
+            },
+            "volume": null,
+            "page": "p 98;100-01",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": true,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1894982",
+                "legacy_id": "239047",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        }
+    ]
+}

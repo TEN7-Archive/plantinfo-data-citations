@@ -1,0 +1,266 @@
+{
+    "name": "American Forests. vol 120, no. 1. (2014)",
+    "machine_name": "american_forests_vol_120_no_1_2014",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2014",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2122271",
+        "legacy_id": "124033",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "American Forests. vol 120, no. 1. (2014) p 4",
+            "machine_name": "american_forests_vol_120_no_1_2014_p_4",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "juglans_nigra",
+                "type": "species",
+                "archival_data": [
+                    "1418754"
+                ]
+            },
+            "volume": null,
+            "page": "p 4",
+            "year": "2014",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2003301",
+                "legacy_id": "474276",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "American Forests. vol 120, no. 1. (2014) p 13",
+            "machine_name": "american_forests_vol_120_no_1_2014_p_13",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "liriodendron_tulipifera",
+                "type": "species",
+                "archival_data": [
+                    "1418461"
+                ]
+            },
+            "volume": null,
+            "page": "p 13",
+            "year": "2014",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2009340",
+                "legacy_id": "474280",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "American Forests. vol 120, no. 1. (2014) p 4",
+            "machine_name": "american_forests_vol_120_no_1_2014_p_4",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "acer_saccharinum",
+                "type": "species",
+                "archival_data": [
+                    "1403191"
+                ]
+            },
+            "volume": null,
+            "page": "p 4",
+            "year": "2014",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2030358",
+                "legacy_id": "474277",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        },
+        {
+            "name": "American Forests. vol 120, no. 1. (2014) p 5",
+            "machine_name": "american_forests_vol_120_no_1_2014_p_5",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "prunus_serrulata_kwanzan",
+                "type": "variety",
+                "archival_data": [
+                    "1488735"
+                ]
+            },
+            "volume": null,
+            "page": "p 5",
+            "year": "2014",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2030359",
+                "legacy_id": "474278",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        },
+        {
+            "name": "American Forests. vol 120, no. 1. (2014) p 8",
+            "machine_name": "american_forests_vol_120_no_1_2014_p_8",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pinus_ponderosa_ponderosa",
+                "type": "variety",
+                "archival_data": [
+                    "1582721"
+                ]
+            },
+            "volume": null,
+            "page": "p 8",
+            "year": "2014",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": true,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2030360",
+                "legacy_id": "474279",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        },
+        {
+            "name": "American Forests. vol 120, no. 1. (2014) p 16-18; 21",
+            "machine_name": "american_forests_vol_120_no_1_2014_p_16_18_21",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pinus_albicaulis",
+                "type": "species",
+                "archival_data": [
+                    "1425263"
+                ]
+            },
+            "volume": null,
+            "page": "p 16-18; 21",
+            "year": "2014",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2030361",
+                "legacy_id": "474281",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        }
+    ]
+}

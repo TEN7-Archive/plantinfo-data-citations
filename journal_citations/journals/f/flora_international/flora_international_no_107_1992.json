@@ -1,0 +1,143 @@
+{
+    "name": "Flora International. no. 107. (1992)",
+    "machine_name": "flora_international_no_107_1992",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1992",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113977",
+        "legacy_id": "2593",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Flora International. no. 107. (1992) p 41",
+            "machine_name": "flora_international_no_107_1992_p_41",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "delonix_regia",
+                "type": "species",
+                "archival_data": [
+                    "1405760"
+                ]
+            },
+            "volume": null,
+            "page": "p 41",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1785085",
+                "legacy_id": "87828",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Flora International. no. 107. (1992) p 58",
+            "machine_name": "flora_international_no_107_1992_p_58",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "geranium_sanguineum",
+                "type": "species",
+                "archival_data": [
+                    "1411561"
+                ]
+            },
+            "volume": null,
+            "page": "p 58",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1797211",
+                "legacy_id": "99211",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Flora International. no. 107. (1992) p 58",
+            "machine_name": "flora_international_no_107_1992_p_58",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "salvia_patens",
+                "type": "species",
+                "archival_data": [
+                    "1430273"
+                ]
+            },
+            "volume": null,
+            "page": "p 58",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1821714",
+                "legacy_id": "130893",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        }
+    ]
+}

@@ -1,0 +1,184 @@
+{
+    "name": "Natural History. vol 108, no. 9. (1999)",
+    "machine_name": "natural_history_vol_108_no_9_1999",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1999",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2115870",
+        "legacy_id": "7919",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Natural History. vol 108, no. 9. (1999) p 16",
+            "machine_name": "natural_history_vol_108_no_9_1999_p_16",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "taxodium_distichum",
+                "type": "species",
+                "archival_data": [
+                    "1429331"
+                ]
+            },
+            "volume": null,
+            "page": "p 16",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1858940",
+                "legacy_id": "166333",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Natural History. vol 108, no. 9. (1999) p 18",
+            "machine_name": "natural_history_vol_108_no_9_1999_p_18",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pinus_palustris",
+                "type": "species",
+                "archival_data": [
+                    "1425317"
+                ]
+            },
+            "volume": null,
+            "page": "p 18",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": true,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1858941",
+                "legacy_id": "166334",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Natural History. vol 108, no. 9. (1999) p 28;30-31",
+            "machine_name": "natural_history_vol_108_no_9_1999_p_28_30_31",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "acacia_drepanolobium",
+                "type": "species",
+                "archival_data": [
+                    "1401588"
+                ]
+            },
+            "volume": null,
+            "page": "p 28;30-31",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": true,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1858942",
+                "legacy_id": "166335",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Natural History. vol 108, no. 9. (1999) p 84",
+            "machine_name": "natural_history_vol_108_no_9_1999_p_84",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ceiba_pentandra",
+                "type": "species",
+                "archival_data": [
+                    "1404022"
+                ]
+            },
+            "volume": null,
+            "page": "p 84",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1858943",
+                "legacy_id": "166336",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        }
+    ]
+}

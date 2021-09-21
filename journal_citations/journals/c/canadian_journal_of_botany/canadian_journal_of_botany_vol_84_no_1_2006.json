@@ -1,0 +1,61 @@
+{
+    "name": "Canadian Journal of Botany. vol 84, no. 1. (2006)",
+    "machine_name": "canadian_journal_of_botany_vol_84_no_1_2006",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2006",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2119770",
+        "legacy_id": "72789",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Canadian Journal of Botany. vol 84, no. 1. (2006) p cover",
+            "machine_name": "canadian_journal_of_botany_vol_84_no_1_2006_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "papaver_somniferum",
+                "type": "species",
+                "archival_data": [
+                    "1424451"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "2006",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1939758",
+                "legacy_id": "319896",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        }
+    ]
+}

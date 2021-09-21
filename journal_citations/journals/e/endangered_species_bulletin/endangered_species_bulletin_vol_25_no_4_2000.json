@@ -1,0 +1,61 @@
+{
+    "name": "Endangered Species Bulletin. vol 25, no. 4. (2000)",
+    "machine_name": "endangered_species_bulletin_vol_25_no_4_2000",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2000",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2116506",
+        "legacy_id": "20529",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Endangered Species Bulletin. vol 25, no. 4. (2000) p 13",
+            "machine_name": "endangered_species_bulletin_vol_25_no_4_2000_p_13",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lupinus_perennis",
+                "type": "species",
+                "archival_data": [
+                    "1420061"
+                ]
+            },
+            "volume": null,
+            "page": "p 13",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1872498",
+                "legacy_id": "205107",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        }
+    ]
+}

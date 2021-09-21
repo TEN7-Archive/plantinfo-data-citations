@@ -1,0 +1,61 @@
+{
+    "name": "American Iris Society, Bulletin. vol 47, no. 1. (no. 180) (1966)",
+    "machine_name": "american_iris_society_bulletin_vol_47_no_1_no_180_1966",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1966",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": "7",
+    "description": null,
+    "archival_data": {
+        "id": "2593106",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1578509460"
+    },
+    "citation_reference_items": [
+        {
+            "name": "American Iris Society, Bulletin. vol 46, no. 1. (no. 180) (1966)  p cover",
+            "machine_name": "american_iris_society_bulletin_vol_46_no_1_no_180_1966_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "iris_cultivars_numazu",
+                "type": "variety",
+                "archival_data": [
+                    "2593111"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2593116",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1578509616"
+            }
+        }
+    ]
+}

@@ -1,0 +1,184 @@
+{
+    "name": "Agricultural Research. vol 57, no. 4. (2009)",
+    "machine_name": "agricultural_research_vol_57_no_4_2009",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2009",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2119948",
+        "legacy_id": "101469",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Agricultural Research. vol 57, no. 4. (2009) p 5",
+            "machine_name": "agricultural_research_vol_57_no_4_2009_p_5",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "euphorbia_esula",
+                "type": "species",
+                "archival_data": [
+                    "1410332"
+                ]
+            },
+            "volume": null,
+            "page": "p 5",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1944838",
+                "legacy_id": "392685",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "Agricultural Research. vol 57, no. 4. (2009) p 18",
+            "machine_name": "agricultural_research_vol_57_no_4_2009_p_18",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "malus_baccata",
+                "type": "species",
+                "archival_data": [
+                    "1415910"
+                ]
+            },
+            "volume": null,
+            "page": "p 18",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1944839",
+                "legacy_id": "392686",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "Agricultural Research. vol 57, no. 4. (2009) p 18",
+            "machine_name": "agricultural_research_vol_57_no_4_2009_p_18",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "malus_sylvestris",
+                "type": "species",
+                "archival_data": [
+                    "1415930"
+                ]
+            },
+            "volume": null,
+            "page": "p 18",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1944840",
+                "legacy_id": "392687",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "Agricultural Research. vol 57, no. 4. (2009) p 19",
+            "machine_name": "agricultural_research_vol_57_no_4_2009_p_19",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "malus_sikkimensis",
+                "type": "species",
+                "archival_data": [
+                    "1415928"
+                ]
+            },
+            "volume": null,
+            "page": "p 19",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1944841",
+                "legacy_id": "392688",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "name": "Annals of the Missouri Botanical Garden. vol 94, no. 2. (2007)",
+    "machine_name": "annals_of_the_missouri_botanical_garden_vol_94_no_2_2007",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2007",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2123970",
+        "legacy_id": "115294",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Annals of the Missouri Botanical Garden. vol 94, no. 2. (2007) p 506, Pl. 1B",
+            "machine_name": "annals_of_the_missouri_botanical_garden_vol_94_no_2_2007_p_506_pl_1b",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "asclepias_incarnata",
+                "type": "species",
+                "archival_data": [
+                    "1402982"
+                ]
+            },
+            "volume": null,
+            "page": "p 506, Pl. 1B",
+            "year": "2007",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2057069",
+                "legacy_id": "437352",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Annals of the Missouri Botanical Garden. vol 94, no. 2. (2007) p 506, Pl. 1D",
+            "machine_name": "annals_of_the_missouri_botanical_garden_vol_94_no_2_2007_p_506_pl_1d",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "asclepias_syriaca",
+                "type": "species",
+                "archival_data": [
+                    "1402999"
+                ]
+            },
+            "volume": null,
+            "page": "p 506, Pl. 1D",
+            "year": "2007",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2057070",
+                "legacy_id": "437353",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        }
+    ]
+}

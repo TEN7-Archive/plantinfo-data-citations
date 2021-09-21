@@ -1,0 +1,143 @@
+{
+    "name": "Nature Conservancy. vol 54, no. 2. (2004)",
+    "machine_name": "nature_conservancy_vol_54_no_2_2004",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2004",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2121753",
+        "legacy_id": "69451",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Nature Conservancy. vol 54, no. 2. (2004) p 31",
+            "machine_name": "nature_conservancy_vol_54_no_2_2004_p_31",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "taxodium_distichum",
+                "type": "species",
+                "archival_data": [
+                    "1429331"
+                ]
+            },
+            "volume": null,
+            "page": "p 31",
+            "year": "2004",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1994466",
+                "legacy_id": "310615",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Nature Conservancy. vol 54, no. 2. (2004) p 51;61",
+            "machine_name": "nature_conservancy_vol_54_no_2_2004_p_51_61",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lobelia_kauaensis",
+                "type": "species",
+                "archival_data": [
+                    "1418887"
+                ]
+            },
+            "volume": null,
+            "page": "p 51;61",
+            "year": "2004",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1994467",
+                "legacy_id": "310616",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Nature Conservancy. vol 54, no. 2. (2004) p 67",
+            "machine_name": "nature_conservancy_vol_54_no_2_2004_p_67",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pinus_palustris",
+                "type": "species",
+                "archival_data": [
+                    "1425317"
+                ]
+            },
+            "volume": null,
+            "page": "p 67",
+            "year": "2004",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1994468",
+                "legacy_id": "310617",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        }
+    ]
+}

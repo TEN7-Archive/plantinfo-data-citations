@@ -1,0 +1,61 @@
+{
+    "name": "HortScience. vol 37, no. 3. (2002)",
+    "machine_name": "hortscience_vol_37_no_3_2002",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2002",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2117546",
+        "legacy_id": "40631",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "HortScience. vol 37, no. 3. (2002) p cover",
+            "machine_name": "hortscience_vol_37_no_3_2002_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cercidiphyllum_japonicum_morioka_weeping",
+                "type": "variety",
+                "archival_data": [
+                    "1557275"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1891755",
+                "legacy_id": "236930",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        }
+    ]
+}

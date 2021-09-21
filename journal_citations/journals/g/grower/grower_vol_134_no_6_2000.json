@@ -1,0 +1,143 @@
+{
+    "name": "Grower. vol 134, no. 6. (2000)",
+    "machine_name": "grower_vol_134_no_6_2000",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2000",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2116339",
+        "legacy_id": "14890",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grower. vol 134, no. 6. (2000) p 6",
+            "machine_name": "grower_vol_134_no_6_2000_p_6",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "beta_vulgaris_b_boltardy",
+                "type": "variety",
+                "archival_data": [
+                    "1551013"
+                ]
+            },
+            "volume": null,
+            "page": "p 6",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": true,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1869134",
+                "legacy_id": "195058",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Grower. vol 134, no. 6. (2000) p 8",
+            "machine_name": "grower_vol_134_no_6_2000_p_8",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "fragaria_ananassa_pavana",
+                "type": "variety",
+                "archival_data": [
+                    "1548499"
+                ]
+            },
+            "volume": null,
+            "page": "p 8",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1869136",
+                "legacy_id": "195060",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Grower. vol 134, no. 6. (2000) p 11 (Adv.)",
+            "machine_name": "grower_vol_134_no_6_2000_p_11_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "viola_wittrockiana_banner_series",
+                "type": "variety",
+                "archival_data": [
+                    "1499730"
+                ]
+            },
+            "volume": null,
+            "page": "p 11 (Adv.)",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1869139",
+                "legacy_id": "195063",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        }
+    ]
+}

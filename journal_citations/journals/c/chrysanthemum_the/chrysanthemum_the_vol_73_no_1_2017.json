@@ -1,0 +1,61 @@
+{
+    "name": "Chrysanthemum, The. vol 73, no. 1. (2017)",
+    "machine_name": "chrysanthemum_the_vol_73_no_1_2017",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2017",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": "7",
+    "description": null,
+    "archival_data": {
+        "id": "2242101",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1518552159"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Chrysanthemum, The. vol 73, no. 1. (2017) p cover",
+            "machine_name": "chrysanthemum_the_vol_73_no_1_2017_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "chrysanthemum_cultivars_diana_stoakes",
+                "type": "variety",
+                "archival_data": [
+                    "1566287"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2242106",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1518552242"
+            }
+        }
+    ]
+}

@@ -1,0 +1,184 @@
+{
+    "name": "Opera Botanica. no. 99. (1989)",
+    "machine_name": "opera_botanica_no_99_1989",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1989",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114289",
+        "legacy_id": "4897",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Opera Botanica. no. 99. (1989) p 4(b)",
+            "machine_name": "opera_botanica_no_99_1989_p_4_b",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "metalasia_brevifolia",
+                "type": "species",
+                "archival_data": [
+                    "1419774"
+                ]
+            },
+            "volume": null,
+            "page": "p 4(b)",
+            "year": "1989",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1805313",
+                "legacy_id": "113295",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Opera Botanica. no. 99. (1989) p 4(c)",
+            "machine_name": "opera_botanica_no_99_1989_p_4_c",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "metalasia_erubescens",
+                "type": "species",
+                "archival_data": [
+                    "1419775"
+                ]
+            },
+            "volume": null,
+            "page": "p 4(c)",
+            "year": "1989",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1805314",
+                "legacy_id": "113296",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Opera Botanica. no. 99. (1989) p 4(d)",
+            "machine_name": "opera_botanica_no_99_1989_p_4_d",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "metalasia_fastigiata",
+                "type": "species",
+                "archival_data": [
+                    "1419776"
+                ]
+            },
+            "volume": null,
+            "page": "p 4(d)",
+            "year": "1989",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1805315",
+                "legacy_id": "113297",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Opera Botanica. no. 99. (1989) p 4(e)",
+            "machine_name": "opera_botanica_no_99_1989_p_4_e",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "metalasia_muraltiifolia",
+                "type": "species",
+                "archival_data": [
+                    "1419777"
+                ]
+            },
+            "volume": null,
+            "page": "p 4(e)",
+            "year": "1989",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1805316",
+                "legacy_id": "113298",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        }
+    ]
+}

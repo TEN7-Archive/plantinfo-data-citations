@@ -1,0 +1,184 @@
+{
+    "name": "Fraterna. vol 10, no. 3. (1997)",
+    "machine_name": "fraterna_vol_10_no_3_1997",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1997",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2115032",
+        "legacy_id": "6533",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Fraterna. vol 10, no. 3. (1997) p cover",
+            "machine_name": "fraterna_vol_10_no_3_1997_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hoya_bordenii",
+                "type": "species",
+                "archival_data": [
+                    "1435782"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1997",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1843786",
+                "legacy_id": "149808",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Fraterna. vol 10, no. 3. (1997) p 3",
+            "machine_name": "fraterna_vol_10_no_3_1997_p_3",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hoya_carnosa_picta",
+                "type": "variety",
+                "archival_data": [
+                    "1535345"
+                ]
+            },
+            "volume": null,
+            "page": "p 3",
+            "year": "1997",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1843787",
+                "legacy_id": "149809",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Fraterna. vol 10, no. 3. (1997) p 5",
+            "machine_name": "fraterna_vol_10_no_3_1997_p_5",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hoya_australis",
+                "type": "species",
+                "archival_data": [
+                    "1420223"
+                ]
+            },
+            "volume": null,
+            "page": "p 5",
+            "year": "1997",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1843788",
+                "legacy_id": "149810",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Fraterna. vol 10, no. 3. (1997) p 6",
+            "machine_name": "fraterna_vol_10_no_3_1997_p_6",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hoya_macrophylla",
+                "type": "species",
+                "archival_data": [
+                    "1420569"
+                ]
+            },
+            "volume": null,
+            "page": "p 6",
+            "year": "1997",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1843789",
+                "legacy_id": "149811",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        }
+    ]
+}

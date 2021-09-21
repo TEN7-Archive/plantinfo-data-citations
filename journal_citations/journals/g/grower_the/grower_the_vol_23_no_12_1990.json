@@ -1,0 +1,143 @@
+{
+    "name": "Grower, The. vol 23, no. 12. (1990)",
+    "machine_name": "grower_the_vol_23_no_12_1990",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1990",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2110586",
+        "legacy_id": "3349",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grower, The. vol 23, no. 12. (1990) p inside cover (Adv.)",
+            "machine_name": "grower_the_vol_23_no_12_1990_p_inside_cover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "brassica_oleracea_f_white_rock",
+                "type": "variety",
+                "archival_data": [
+                    "1614706"
+                ]
+            },
+            "volume": null,
+            "page": "p inside cover (Adv.)",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1709878",
+                "legacy_id": "4216",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Grower, The. vol 23, no. 12. (1990) p inside backcover (Adv.)",
+            "machine_name": "grower_the_vol_23_no_12_1990_p_inside_backcover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lycopersicon_cultivars_olympic",
+                "type": "variety",
+                "archival_data": [
+                    "1476635"
+                ]
+            },
+            "volume": null,
+            "page": "p inside backcover (Adv.)",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1727583",
+                "legacy_id": "29756",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Grower, The. vol 23, no. 12. (1990) p inside backcover (Adv.)",
+            "machine_name": "grower_the_vol_23_no_12_1990_p_inside_backcover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lycopersicon_cultivars_colonial",
+                "type": "variety",
+                "archival_data": [
+                    "1481134"
+                ]
+            },
+            "volume": null,
+            "page": "p inside backcover (Adv.)",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1730753",
+                "legacy_id": "29196",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        }
+    ]
+}

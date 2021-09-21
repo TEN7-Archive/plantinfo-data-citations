@@ -1,0 +1,143 @@
+{
+    "name": "Dahlia Annual. Nat'l. Dahlia Society. (1992)",
+    "machine_name": "dahlia_annual_nat_l_dahlia_society_1992",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1992",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2111158",
+        "legacy_id": "2099",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Dahlia Annual. Nat'l. Dahlia Society. (1992) p cover",
+            "machine_name": "dahlia_annual_nat_l_dahlia_society_1992_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "dahlia_cultivars_bishop_of_llandaff",
+                "type": "variety",
+                "archival_data": [
+                    "1471707"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1714987",
+                "legacy_id": "10918",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Dahlia Annual. Nat'l. Dahlia Society. (1992) p 37",
+            "machine_name": "dahlia_annual_nat_l_dahlia_society_1992_p_37",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "dahlia_cultivars_kidd_s_climax",
+                "type": "variety",
+                "archival_data": [
+                    "1467802"
+                ]
+            },
+            "volume": null,
+            "page": "p 37",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1716273",
+                "legacy_id": "11198",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Dahlia Annual. Nat'l. Dahlia Society. (1992) p 33",
+            "machine_name": "dahlia_annual_nat_l_dahlia_society_1992_p_33",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "dahlia_cultivars_nicola_higgo",
+                "type": "variety",
+                "archival_data": [
+                    "1468099"
+                ]
+            },
+            "volume": null,
+            "page": "p 33",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1716610",
+                "legacy_id": "11286",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        }
+    ]
+}

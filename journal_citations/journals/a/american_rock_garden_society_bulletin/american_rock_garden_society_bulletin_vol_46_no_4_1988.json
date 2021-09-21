@@ -1,0 +1,61 @@
+{
+    "name": "American Rock Garden Society, Bulletin. vol 46, no. 4. (1988)",
+    "machine_name": "american_rock_garden_society_bulletin_vol_46_no_4_1988",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1988",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113666",
+        "legacy_id": "834",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "American Rock Garden Society, Bulletin. vol 46, no. 4. (1988) p cover",
+            "machine_name": "american_rock_garden_society_bulletin_vol_46_no_4_1988_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "campanula_piperi",
+                "type": "species",
+                "archival_data": [
+                    "1406678"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1988",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1771077",
+                "legacy_id": "78918",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        }
+    ]
+}

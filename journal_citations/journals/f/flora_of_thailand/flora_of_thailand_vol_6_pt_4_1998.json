@@ -1,0 +1,881 @@
+{
+    "name": "Flora of Thailand. vol 6, pt. 4. (1998)",
+    "machine_name": "flora_of_thailand_vol_6_pt_4_1998",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1998",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2117535",
+        "legacy_id": "40529",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Flora of Thailand. vol 6, pt. 4. (1998) p 485, Pl. XXIV(2)",
+            "machine_name": "flora_of_thailand_vol_6_pt_4_1998_p_485_pl_xxiv_2",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "mapania_meditensis",
+                "type": "species",
+                "archival_data": [
+                    "1448731"
+                ]
+            },
+            "volume": null,
+            "page": "p 485, Pl. XXIV(2)",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1891423",
+                "legacy_id": "236636",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Flora of Thailand. vol 6, pt. 4. (1998) p 485, Pl. XXV(1-2).",
+            "machine_name": "flora_of_thailand_vol_6_pt_4_1998_p_485_pl_xxv_1_2",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hypolytrum_nemorum",
+                "type": "species",
+                "archival_data": [
+                    "1448732"
+                ]
+            },
+            "volume": null,
+            "page": "p 485, Pl. XXV(1-2).",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1891458",
+                "legacy_id": "236690",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Flora of Thailand. vol 6, pt. 4. (1998) p 485, Pl. XXV(3).",
+            "machine_name": "flora_of_thailand_vol_6_pt_4_1998_p_485_pl_xxv_3",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "fimbristylis_dura",
+                "type": "species",
+                "archival_data": [
+                    "1448733"
+                ]
+            },
+            "volume": null,
+            "page": "p 485, Pl. XXV(3).",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1891459",
+                "legacy_id": "236710",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Flora of Thailand. vol 6, pt. 4. (1998) p 485, Pl. XXVI(1).",
+            "machine_name": "flora_of_thailand_vol_6_pt_4_1998_p_485_pl_xxvi_1",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "fimbristylis_dichotoma",
+                "type": "species",
+                "archival_data": [
+                    "1413391"
+                ]
+            },
+            "volume": null,
+            "page": "p 485, Pl. XXVI(1).",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1891460",
+                "legacy_id": "236711",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Flora of Thailand. vol 6, pt. 4. (1998) p 485, Pl. XXVI(2-3).",
+            "machine_name": "flora_of_thailand_vol_6_pt_4_1998_p_485_pl_xxvi_2_3",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "fimbristylis_hookeriana",
+                "type": "species",
+                "archival_data": [
+                    "1448734"
+                ]
+            },
+            "volume": null,
+            "page": "p 485, Pl. XXVI(2-3).",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1891461",
+                "legacy_id": "236712",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Flora of Thailand. vol 6, pt. 4. (1998) p 485, Pl. XXVII(1).",
+            "machine_name": "flora_of_thailand_vol_6_pt_4_1998_p_485_pl_xxvii_1",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "fimbristylis_yunnanensis",
+                "type": "species",
+                "archival_data": [
+                    "1448735"
+                ]
+            },
+            "volume": null,
+            "page": "p 485, Pl. XXVII(1).",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1891462",
+                "legacy_id": "236713",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Flora of Thailand. vol 6, pt. 4. (1998) p 485, Pl. XXVII(3).",
+            "machine_name": "flora_of_thailand_vol_6_pt_4_1998_p_485_pl_xxvii_3",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cyperus_laxus_laxus",
+                "type": "variety",
+                "archival_data": [
+                    "1570042"
+                ]
+            },
+            "volume": null,
+            "page": "p 485, Pl. XXVII(3).",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1891463",
+                "legacy_id": "236730",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Flora of Thailand. vol 6, pt. 4. (1998) p 485, Pl. XXVII(2).",
+            "machine_name": "flora_of_thailand_vol_6_pt_4_1998_p_485_pl_xxvii_2",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cyperus_trialatus",
+                "type": "species",
+                "archival_data": [
+                    "1448736"
+                ]
+            },
+            "volume": null,
+            "page": "p 485, Pl. XXVII(2).",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1891464",
+                "legacy_id": "236731",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Flora of Thailand. vol 6, pt. 4. (1998) p 485, Pl. XXVIII(3).",
+            "machine_name": "flora_of_thailand_vol_6_pt_4_1998_p_485_pl_xxviii_3",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cyperus_cyperoides",
+                "type": "species",
+                "archival_data": [
+                    "1448739"
+                ]
+            },
+            "volume": null,
+            "page": "p 485, Pl. XXVIII(3).",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1891465",
+                "legacy_id": "236750",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Flora of Thailand. vol 6, pt. 4. (1998) p 485, Pl. XXVIII(1-2).",
+            "machine_name": "flora_of_thailand_vol_6_pt_4_1998_p_485_pl_xxviii_1_2",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cyperus_compactus",
+                "type": "species",
+                "archival_data": [
+                    "1448738"
+                ]
+            },
+            "volume": null,
+            "page": "p 485, Pl. XXVIII(1-2).",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1891466",
+                "legacy_id": "236751",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Flora of Thailand. vol 6, pt. 4. (1998) p 485, Pl. XXVIII(4).",
+            "machine_name": "flora_of_thailand_vol_6_pt_4_1998_p_485_pl_xxviii_4",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pycreus_pumilus",
+                "type": "species",
+                "archival_data": [
+                    "1448740"
+                ]
+            },
+            "volume": null,
+            "page": "p 485, Pl. XXVIII(4).",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1891467",
+                "legacy_id": "236752",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Flora of Thailand. vol 6, pt. 4. (1998) p 485, Pl. XXIX(3).",
+            "machine_name": "flora_of_thailand_vol_6_pt_4_1998_p_485_pl_xxix_3",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cyperus_nemoralis",
+                "type": "species",
+                "archival_data": [
+                    "1403870"
+                ]
+            },
+            "volume": null,
+            "page": "p 485, Pl. XXIX(3).",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1891468",
+                "legacy_id": "236753",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Flora of Thailand. vol 6, pt. 4. (1998) p 485, Pl. XXIX(1-2).",
+            "machine_name": "flora_of_thailand_vol_6_pt_4_1998_p_485_pl_xxix_1_2",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cyperus_brevifolius",
+                "type": "species",
+                "archival_data": [
+                    "1444551"
+                ]
+            },
+            "volume": null,
+            "page": "p 485, Pl. XXIX(1-2).",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1891469",
+                "legacy_id": "236754",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Flora of Thailand. vol 6, pt. 4. (1998) p 485, Pl. XXIX(4).",
+            "machine_name": "flora_of_thailand_vol_6_pt_4_1998_p_485_pl_xxix_4",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lipocarpha_chinensis",
+                "type": "species",
+                "archival_data": [
+                    "1448741"
+                ]
+            },
+            "volume": null,
+            "page": "p 485, Pl. XXIX(4).",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1891470",
+                "legacy_id": "236770",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Flora of Thailand. vol 6, pt. 4. (1998) p 485, Pl. XXX(1).",
+            "machine_name": "flora_of_thailand_vol_6_pt_4_1998_p_485_pl_xxx_1",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rhynchospora_corymbosa",
+                "type": "species",
+                "archival_data": [
+                    "1432824"
+                ]
+            },
+            "volume": null,
+            "page": "p 485, Pl. XXX(1).",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1891471",
+                "legacy_id": "236771",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Flora of Thailand. vol 6, pt. 4. (1998) p 485, Pl. XXX(3).",
+            "machine_name": "flora_of_thailand_vol_6_pt_4_1998_p_485_pl_xxx_3",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "scleria_sumatrensis",
+                "type": "species",
+                "archival_data": [
+                    "1448743"
+                ]
+            },
+            "volume": null,
+            "page": "p 485, Pl. XXX(3).",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1891472",
+                "legacy_id": "236772",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Flora of Thailand. vol 6, pt. 4. (1998) p 485, Pl. XXX(2).",
+            "machine_name": "flora_of_thailand_vol_6_pt_4_1998_p_485_pl_xxx_2",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "scleria_levis",
+                "type": "species",
+                "archival_data": [
+                    "1448742"
+                ]
+            },
+            "volume": null,
+            "page": "p 485, Pl. XXX(2).",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1891473",
+                "legacy_id": "236773",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Flora of Thailand. vol 6, pt. 4. (1998) p 485, Pl. XXXI(1-2).",
+            "machine_name": "flora_of_thailand_vol_6_pt_4_1998_p_485_pl_xxxi_1_2",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "carex_baccans",
+                "type": "species",
+                "archival_data": [
+                    "1444030"
+                ]
+            },
+            "volume": null,
+            "page": "p 485, Pl. XXXI(1-2).",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1891474",
+                "legacy_id": "236774",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Flora of Thailand. vol 6, pt. 4. (1998) p 485, Pl. XXXI(4).",
+            "machine_name": "flora_of_thailand_vol_6_pt_4_1998_p_485_pl_xxxi_4",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "carex_helferi",
+                "type": "species",
+                "archival_data": [
+                    "1448745"
+                ]
+            },
+            "volume": null,
+            "page": "p 485, Pl. XXXI(4).",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1891475",
+                "legacy_id": "236775",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Flora of Thailand. vol 6, pt. 4. (1998) p 485, Pl. XXXI(3).",
+            "machine_name": "flora_of_thailand_vol_6_pt_4_1998_p_485_pl_xxxi_3",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "carex_cruciata",
+                "type": "species",
+                "archival_data": [
+                    "1448744"
+                ]
+            },
+            "volume": null,
+            "page": "p 485, Pl. XXXI(3).",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1891476",
+                "legacy_id": "236776",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Flora of Thailand. vol 6, pt. 4. (1998) p 485, Pl. XXIV(1)",
+            "machine_name": "flora_of_thailand_vol_6_pt_4_1998_p_485_pl_xxiv_1",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "mapania_palustris_andamanica",
+                "type": "variety",
+                "archival_data": [
+                    "1570030"
+                ]
+            },
+            "volume": null,
+            "page": "p 485, Pl. XXIV(1)",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1896160",
+                "legacy_id": "236631",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        }
+    ]
+}

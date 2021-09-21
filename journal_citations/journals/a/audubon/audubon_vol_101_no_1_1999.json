@@ -1,0 +1,102 @@
+{
+    "name": "Audubon. vol 101, no. 1. (1999)",
+    "machine_name": "audubon_vol_101_no_1_1999",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1999",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2115409",
+        "legacy_id": "6946",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Audubon. vol 101, no. 1. (1999) p 88",
+            "machine_name": "audubon_vol_101_no_1_1999_p_88",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "tsuga_canadensis",
+                "type": "species",
+                "archival_data": [
+                    "1427535"
+                ]
+            },
+            "volume": null,
+            "page": "p 88",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1850707",
+                "legacy_id": "155346",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Audubon. vol 101, no. 1. (1999) p 126",
+            "machine_name": "audubon_vol_101_no_1_1999_p_126",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "liquidambar_styraciflua",
+                "type": "species",
+                "archival_data": [
+                    "1418459"
+                ]
+            },
+            "volume": null,
+            "page": "p 126",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1850708",
+                "legacy_id": "155347",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        }
+    ]
+}

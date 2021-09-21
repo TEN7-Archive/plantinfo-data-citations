@@ -1,0 +1,307 @@
+{
+    "name": "Cactus and Succulent Journal. vol 55, no. 5. (1983)",
+    "machine_name": "cactus_and_succulent_journal_vol_55_no_5_1983",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1983",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2111075",
+        "legacy_id": "1814",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Cactus and Succulent Journal. vol 55, no. 5. (1983) p 237 (Adv.)",
+            "machine_name": "cactus_and_succulent_journal_vol_55_no_5_1983_p_237_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "euphorbia_ammak_variegata",
+                "type": "variety",
+                "archival_data": [
+                    "1472178"
+                ]
+            },
+            "volume": null,
+            "page": "p 237 (Adv.)",
+            "year": "1983",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1713861",
+                "legacy_id": "14442",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 55, no. 5. (1983) p 193 (cover)",
+            "machine_name": "cactus_and_succulent_journal_vol_55_no_5_1983_p_193_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "haworthia_cymbiformis_cymbiformis",
+                "type": "variety",
+                "archival_data": [
+                    "1473502"
+                ]
+            },
+            "volume": null,
+            "page": "p 193 (cover)",
+            "year": "1983",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1719639",
+                "legacy_id": "17324",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 55, no. 5. (1983) p 217, Pl. 3",
+            "machine_name": "cactus_and_succulent_journal_vol_55_no_5_1983_p_217_pl_3",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "aloe_arborescens",
+                "type": "species",
+                "archival_data": [
+                    "1402528"
+                ]
+            },
+            "volume": null,
+            "page": "p 217, Pl. 3",
+            "year": "1983",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1765015",
+                "legacy_id": "70459",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 55, no. 5. (1983) p 217, Pl. 4",
+            "machine_name": "cactus_and_succulent_journal_vol_55_no_5_1983_p_217_pl_4",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "aloe_cryptopoda",
+                "type": "species",
+                "archival_data": [
+                    "1402843"
+                ]
+            },
+            "volume": null,
+            "page": "p 217, Pl. 4",
+            "year": "1983",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1765303",
+                "legacy_id": "70498",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 55, no. 5. (1983) p 216, Pl. 1-2",
+            "machine_name": "cactus_and_succulent_journal_vol_55_no_5_1983_p_216_pl_1_2",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "aloe_spectabilis",
+                "type": "species",
+                "archival_data": [
+                    "1403249"
+                ]
+            },
+            "volume": null,
+            "page": "p 216, Pl. 1-2",
+            "year": "1983",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1765648",
+                "legacy_id": "70599",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 55, no. 5. (1983) p 237 (Adv.)",
+            "machine_name": "cactus_and_succulent_journal_vol_55_no_5_1983_p_237_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ceropegia_rendallii",
+                "type": "species",
+                "archival_data": [
+                    "1405241"
+                ]
+            },
+            "volume": null,
+            "page": "p 237 (Adv.)",
+            "year": "1983",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1775519",
+                "legacy_id": "81281",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 55, no. 5. (1983) p 196, Pl. 1-2",
+            "machine_name": "cactus_and_succulent_journal_vol_55_no_5_1983_p_196_pl_1_2",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "dudleya_verityi",
+                "type": "species",
+                "archival_data": [
+                    "1406266"
+                ]
+            },
+            "volume": null,
+            "page": "p 196, Pl. 1-2",
+            "year": "1983",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1788646",
+                "legacy_id": "90827",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        }
+    ]
+}

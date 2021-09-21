@@ -1,0 +1,143 @@
+{
+    "name": "Sunset. May 2013.",
+    "machine_name": "sunset_may_2013",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1695079",
+        "legacy_id": "122432",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Sunset. May 2013. p 46",
+            "machine_name": "sunset_may_2013_p_46",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "clematis_cultivars_madame_julia_correvon",
+                "type": "variety",
+                "archival_data": [
+                    "1469526"
+                ]
+            },
+            "volume": null,
+            "page": "p 46",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2029739",
+                "legacy_id": "463305",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        },
+        {
+            "name": "Sunset. May 2013. p 54",
+            "machine_name": "sunset_may_2013_p_54",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "erysimum_cultivars_jenny_brook",
+                "type": "variety",
+                "archival_data": [
+                    "1629824"
+                ]
+            },
+            "volume": null,
+            "page": "p 54",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2036765",
+                "legacy_id": "463306",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        },
+        {
+            "name": "Sunset. May 2013. p 57 (Adv.)",
+            "machine_name": "sunset_may_2013_p_57_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hydrangea_macrophylla_endless_summer_series",
+                "type": "variety",
+                "archival_data": [
+                    "1630031"
+                ]
+            },
+            "volume": null,
+            "page": "p 57 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2036766",
+                "legacy_id": "463307",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        }
+    ]
+}

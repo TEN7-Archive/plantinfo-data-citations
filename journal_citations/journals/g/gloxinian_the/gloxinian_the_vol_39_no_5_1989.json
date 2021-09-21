@@ -1,0 +1,143 @@
+{
+    "name": "Gloxinian, The. vol 39, no. 5. (1989)",
+    "machine_name": "gloxinian_the_vol_39_no_5_1989",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1989",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114583",
+        "legacy_id": "3054",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Gloxinian, The. vol 39, no. 5. (1989) p 16",
+            "machine_name": "gloxinian_the_vol_39_no_5_1989_p_16",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "streptocarpus_baudertii",
+                "type": "species",
+                "archival_data": [
+                    "1433414"
+                ]
+            },
+            "volume": null,
+            "page": "p 16",
+            "year": "1989",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1830121",
+                "legacy_id": "135682",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Gloxinian, The. vol 39, no. 5. (1989) p cover",
+            "machine_name": "gloxinian_the_vol_39_no_5_1989_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "streptocarpus_dunnii",
+                "type": "species",
+                "archival_data": [
+                    "1433421"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1989",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1830132",
+                "legacy_id": "135693",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Gloxinian, The. vol 39, no. 5. (1989)  p 23",
+            "machine_name": "gloxinian_the_vol_39_no_5_1989_p_23",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "corytoplectus_capitatus",
+                "type": "species",
+                "archival_data": [
+                    "1406464"
+                ]
+            },
+            "volume": null,
+            "page": "p 23",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2571756",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1571402490"
+            }
+        }
+    ]
+}

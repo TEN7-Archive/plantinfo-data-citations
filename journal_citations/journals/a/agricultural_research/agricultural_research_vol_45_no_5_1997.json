@@ -1,0 +1,102 @@
+{
+    "name": "Agricultural Research. vol 45, no. 5. (1997)",
+    "machine_name": "agricultural_research_vol_45_no_5_1997",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1997",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2116293",
+        "legacy_id": "12133",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Agricultural Research. vol 45, no. 5. (1997) p 4-5;7",
+            "machine_name": "agricultural_research_vol_45_no_5_1997_p_4_5_7",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "malus_a_cultivars_golden_delicious",
+                "type": "variety",
+                "archival_data": [
+                    "1478457"
+                ]
+            },
+            "volume": null,
+            "page": "p 4-5;7",
+            "year": "1997",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1868298",
+                "legacy_id": "185410",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Agricultural Research. vol 45, no. 5. (1997) p 23",
+            "machine_name": "agricultural_research_vol_45_no_5_1997_p_23",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "parthenium_argentatum",
+                "type": "species",
+                "archival_data": [
+                    "1425575"
+                ]
+            },
+            "volume": null,
+            "page": "p 23",
+            "year": "1997",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1868299",
+                "legacy_id": "185411",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        }
+    ]
+}

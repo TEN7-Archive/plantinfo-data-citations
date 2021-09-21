@@ -1,0 +1,143 @@
+{
+    "name": "Native Plants. vol 19, no. 2. (2002)",
+    "machine_name": "native_plants_vol_19_no_2_2002",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2002",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2117942",
+        "legacy_id": "44651",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Native Plants. vol 19, no. 2. (2002) p 9-10",
+            "machine_name": "native_plants_vol_19_no_2_2002_p_9_10",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "justicia_californica",
+                "type": "species",
+                "archival_data": [
+                    "1419154"
+                ]
+            },
+            "volume": null,
+            "page": "p 9-10",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1900292",
+                "legacy_id": "246023",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Native Plants. vol 19, no. 2. (2002) p 32",
+            "machine_name": "native_plants_vol_19_no_2_2002_p_32",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "euphorbia_cyathophora",
+                "type": "species",
+                "archival_data": [
+                    "1410291"
+                ]
+            },
+            "volume": null,
+            "page": "p 32",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1900293",
+                "legacy_id": "246024",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Native Plants. vol 19, no. 2. (2002) p 30",
+            "machine_name": "native_plants_vol_19_no_2_2002_p_30",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "helianthus_maximilianii",
+                "type": "species",
+                "archival_data": [
+                    "1411207"
+                ]
+            },
+            "volume": null,
+            "page": "p 30",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1900294",
+                "legacy_id": "246025",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        }
+    ]
+}

@@ -1,0 +1,676 @@
+{
+    "name": "Begonian, The. vol 84. Jan\/Feb. (2017)",
+    "machine_name": "begonian_the_vol_84_jan_feb_2017",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2017",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": "7",
+    "description": null,
+    "archival_data": {
+        "id": "2199051",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1515677186"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Begonian, The. vol 84. Jan\/Feb. (2017) p cover; 23",
+            "machine_name": "begonian_the_vol_84_jan_feb_2017_p_cover_23",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "begonia_speculum",
+                "type": "species",
+                "archival_data": [
+                    "2199056"
+                ]
+            },
+            "volume": null,
+            "page": "p cover; 23",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2199091",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1515678375"
+            }
+        },
+        {
+            "name": "Begonian, The. vol 84. Jan\/Feb. (2017) p inside cover",
+            "machine_name": "begonian_the_vol_84_jan_feb_2017_p_inside_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "begonia_sutherlandii",
+                "type": "species",
+                "archival_data": [
+                    "1400742"
+                ]
+            },
+            "volume": null,
+            "page": "p inside cover",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2199096",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1515678375"
+            }
+        },
+        {
+            "name": "Begonian, The. vol 84. Jan\/Feb. (2017) p 6",
+            "machine_name": "begonian_the_vol_84_jan_feb_2017_p_6",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "begonia_tuberhybrida_nell_gwynne",
+                "type": "variety",
+                "archival_data": [
+                    "1562933"
+                ]
+            },
+            "volume": null,
+            "page": "p 6",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2199101",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1515678375"
+            }
+        },
+        {
+            "name": "Begonian, The. vol 84. Jan\/Feb. (2017) p 6",
+            "machine_name": "begonian_the_vol_84_jan_feb_2017_p_6",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "begonia_cultivars_bill_byron",
+                "type": "variety",
+                "archival_data": [
+                    "1626593"
+                ]
+            },
+            "volume": null,
+            "page": "p 6",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2199106",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1515678375"
+            }
+        },
+        {
+            "name": "Begonian, The. vol 84. Jan\/Feb. (2017) p 11",
+            "machine_name": "begonian_the_vol_84_jan_feb_2017_p_11",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "begonia_cultivars_bobbie_price",
+                "type": "variety",
+                "archival_data": [
+                    "1667322"
+                ]
+            },
+            "volume": null,
+            "page": "p 11",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2199111",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1515678375"
+            }
+        },
+        {
+            "name": "Begonian, The. vol 84. Jan\/Feb. (2017) p 14",
+            "machine_name": "begonian_the_vol_84_jan_feb_2017_p_14",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "begonia_staudtii",
+                "type": "species",
+                "archival_data": [
+                    "1455913"
+                ]
+            },
+            "volume": null,
+            "page": "p 14",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2199116",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1515678375"
+            }
+        },
+        {
+            "name": "Begonian, The. vol 84. Jan\/Feb. (2017) p 16-17",
+            "machine_name": "begonian_the_vol_84_jan_feb_2017_p_16_17",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "begonia_versicolor",
+                "type": "species",
+                "archival_data": [
+                    "1400756"
+                ]
+            },
+            "volume": null,
+            "page": "p 16-17",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2199121",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1515678375"
+            }
+        },
+        {
+            "name": "Begonian, The. vol 84. Jan\/Feb. (2017) p 17",
+            "machine_name": "begonian_the_vol_84_jan_feb_2017_p_17",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "begonia_montis_elephantis",
+                "type": "species",
+                "archival_data": [
+                    "2199066"
+                ]
+            },
+            "volume": null,
+            "page": "p 17",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2199126",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1515678375"
+            }
+        },
+        {
+            "name": "Begonian, The. vol 84. Jan\/Feb. (2017) p 20",
+            "machine_name": "begonian_the_vol_84_jan_feb_2017_p_20",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "begonia_urticae",
+                "type": "species",
+                "archival_data": [
+                    "1456788"
+                ]
+            },
+            "volume": null,
+            "page": "p 20",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2199131",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1515678375"
+            }
+        },
+        {
+            "name": "Begonian, The. vol 84. Jan\/Feb. (2017) p 22",
+            "machine_name": "begonian_the_vol_84_jan_feb_2017_p_22",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "phragmipedium_peruvianum",
+                "type": "species",
+                "archival_data": [
+                    "1445106"
+                ]
+            },
+            "volume": null,
+            "page": "p 22",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2199136",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1515678375"
+            }
+        },
+        {
+            "name": "Begonian, The. vol 84. Jan\/Feb. (2017) p 24",
+            "machine_name": "begonian_the_vol_84_jan_feb_2017_p_24",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "begonia_cultivars_tall_paul",
+                "type": "variety",
+                "archival_data": [
+                    "2199071"
+                ]
+            },
+            "volume": null,
+            "page": "p 24",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2199141",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1515678375"
+            }
+        },
+        {
+            "name": "Begonian, The. vol 84. Jan\/Feb. (2017) p 25",
+            "machine_name": "begonian_the_vol_84_jan_feb_2017_p_25",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "begonia_hongkongensis",
+                "type": "species",
+                "archival_data": [
+                    "1457860"
+                ]
+            },
+            "volume": null,
+            "page": "p 25",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2199146",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1515678375"
+            }
+        },
+        {
+            "name": "Begonian, The. vol 84. Jan\/Feb. (2017) p 31",
+            "machine_name": "begonian_the_vol_84_jan_feb_2017_p_31",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "begonia_hederacea",
+                "type": "species",
+                "archival_data": [
+                    "2199076"
+                ]
+            },
+            "volume": null,
+            "page": "p 31",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2199151",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1515678375"
+            }
+        },
+        {
+            "name": "Begonian, The. vol 84. Jan\/Feb. (2017) p 32",
+            "machine_name": "begonian_the_vol_84_jan_feb_2017_p_32",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "begonia_segregata",
+                "type": "species",
+                "archival_data": [
+                    "2199081"
+                ]
+            },
+            "volume": null,
+            "page": "p 32",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2199156",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1515678375"
+            }
+        },
+        {
+            "name": "Begonian, The. vol 84. Jan\/Feb. (2017) p 33",
+            "machine_name": "begonian_the_vol_84_jan_feb_2017_p_33",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "begonia_glabra",
+                "type": "species",
+                "archival_data": [
+                    "1400376"
+                ]
+            },
+            "volume": null,
+            "page": "p 33",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2199161",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1515678375"
+            }
+        },
+        {
+            "name": "Begonian, The. vol 84. Jan\/Feb. (2017) p 34",
+            "machine_name": "begonian_the_vol_84_jan_feb_2017_p_34",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "begonia_cultivars_veins_on_fire",
+                "type": "variety",
+                "archival_data": [
+                    "2199086"
+                ]
+            },
+            "volume": null,
+            "page": "p 34",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2199166",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1515678375"
+            }
+        }
+    ]
+}

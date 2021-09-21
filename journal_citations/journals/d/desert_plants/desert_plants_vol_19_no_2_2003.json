@@ -1,0 +1,143 @@
+{
+    "name": "Desert Plants. vol 19, no. 2. (2003)",
+    "machine_name": "desert_plants_vol_19_no_2_2003",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2003",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2118477",
+        "legacy_id": "53429",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Desert Plants. vol 19, no. 2. (2003) p backcover",
+            "machine_name": "desert_plants_vol_19_no_2_2003_p_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "agave_parryi_parryi",
+                "type": "variety",
+                "archival_data": [
+                    "1499522"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1912062",
+                "legacy_id": "268351",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Desert Plants. vol 19, no. 2. (2003) p backcover",
+            "machine_name": "desert_plants_vol_19_no_2_2003_p_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "agave_palmeri",
+                "type": "species",
+                "archival_data": [
+                    "1400940"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1912063",
+                "legacy_id": "268350",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Desert Plants. vol 19, no. 2. (2003) p backcover",
+            "machine_name": "desert_plants_vol_19_no_2_2003_p_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "agave_parryi_couesii",
+                "type": "variety",
+                "archival_data": [
+                    "1499521"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1912064",
+                "legacy_id": "268352",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        }
+    ]
+}

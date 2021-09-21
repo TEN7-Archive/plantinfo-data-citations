@@ -1,0 +1,143 @@
+{
+    "name": "Natural History. vol 108, no. 10. (1999)",
+    "machine_name": "natural_history_vol_108_no_10_1999",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1999",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2116376",
+        "legacy_id": "12569",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Natural History. vol 108, no. 10. (1999) p 30",
+            "machine_name": "natural_history_vol_108_no_10_1999_p_30",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "viburnum_nudum_winterthur",
+                "type": "variety",
+                "archival_data": [
+                    "1498893"
+                ]
+            },
+            "volume": null,
+            "page": "p 30",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": true,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1869921",
+                "legacy_id": "186790",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Natural History. vol 108, no. 10. (1999) p 56",
+            "machine_name": "natural_history_vol_108_no_10_1999_p_56",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "theobroma_cacao",
+                "type": "species",
+                "archival_data": [
+                    "1430447"
+                ]
+            },
+            "volume": null,
+            "page": "p 56",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1869922",
+                "legacy_id": "186791",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Natural History. vol 108, no. 10. (1999) p 76-77",
+            "machine_name": "natural_history_vol_108_no_10_1999_p_76_77",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pericallis_hadrosoma",
+                "type": "species",
+                "archival_data": [
+                    "1443739"
+                ]
+            },
+            "volume": null,
+            "page": "p 76-77",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1869923",
+                "legacy_id": "186810",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        }
+    ]
+}

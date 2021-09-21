@@ -1,0 +1,143 @@
+{
+    "name": "Magnolia, Journal of the Magnolia Soc. vol 27, no. 1. (1991)",
+    "machine_name": "magnolia_journal_of_the_magnolia_soc_vol_27_no_1_1991",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1991",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2112314",
+        "legacy_id": "4367",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Magnolia, Journal of the Magnolia Soc. vol 27, no. 1. (1991) p cover",
+            "machine_name": "magnolia_journal_of_the_magnolia_soc_vol_27_no_1_1991_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "magnolia_campbellii_mollicomata",
+                "type": "variety",
+                "archival_data": [
+                    "1477558"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1736122",
+                "legacy_id": "30575",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Magnolia, Journal of the Magnolia Soc. vol 27, no. 1. (1991) p 15",
+            "machine_name": "magnolia_journal_of_the_magnolia_soc_vol_27_no_1_1991_p_15",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "magnolia_soulangeana_lennei",
+                "type": "variety",
+                "archival_data": [
+                    "1477595"
+                ]
+            },
+            "volume": null,
+            "page": "p 15",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1736431",
+                "legacy_id": "30637",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Magnolia, Journal of the Magnolia Soc. vol 27, no. 1. (1991) p 14",
+            "machine_name": "magnolia_journal_of_the_magnolia_soc_vol_27_no_1_1991_p_14",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "magnolia_kobus",
+                "type": "species",
+                "archival_data": [
+                    "1421186"
+                ]
+            },
+            "volume": null,
+            "page": "p 14",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1807063",
+                "legacy_id": "111071",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        }
+    ]
+}

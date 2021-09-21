@@ -1,0 +1,143 @@
+{
+    "name": "Plant Systematics and Evolution. vol 146, no. 1-2. (1984)",
+    "machine_name": "plant_systematics_and_evolution_vol_146_no_1_2_1984",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1984",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113668",
+        "legacy_id": "5201",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Plant Systematics and Evolution. vol 146, no. 1-2. (1984) p 271, Pl. 1a|e",
+            "machine_name": "plant_systematics_and_evolution_vol_146_no_1_2_1984_p_271_pl_1a_e",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "austrobaileya_scandens",
+                "type": "species",
+                "archival_data": [
+                    "1398790"
+                ]
+            },
+            "volume": null,
+            "page": "p 271, Pl. 1a|e",
+            "year": "1984",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1771176",
+                "legacy_id": "74753",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Plant Systematics and Evolution. vol 146, no. 1-2. (1984) p 271, Pl. 1c-d|f",
+            "machine_name": "plant_systematics_and_evolution_vol_146_no_1_2_1984_p_271_pl_1c_d_f",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "eupomatia_bennettii",
+                "type": "species",
+                "archival_data": [
+                    "1412199"
+                ]
+            },
+            "volume": null,
+            "page": "p 271, Pl. 1c-d|f",
+            "year": "1984",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1791860",
+                "legacy_id": "96449",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Plant Systematics and Evolution. vol 146, no. 1-2. (1984) p 271, Pl. 1b",
+            "machine_name": "plant_systematics_and_evolution_vol_146_no_1_2_1984_p_271_pl_1b",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "galbulimima_baccata",
+                "type": "species",
+                "archival_data": [
+                    "1415223"
+                ]
+            },
+            "volume": null,
+            "page": "p 271, Pl. 1b",
+            "year": "1984",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1792918",
+                "legacy_id": "98038",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        }
+    ]
+}

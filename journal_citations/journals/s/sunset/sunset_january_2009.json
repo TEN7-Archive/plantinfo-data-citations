@@ -1,0 +1,102 @@
+{
+    "name": "Sunset. January 2009.",
+    "machine_name": "sunset_january_2009",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1693727",
+        "legacy_id": "99291",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Sunset. January 2009. p 38",
+            "machine_name": "sunset_january_2009_p_38",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_california_dreamin",
+                "type": "variety",
+                "archival_data": [
+                    "1638236"
+                ]
+            },
+            "volume": null,
+            "page": "p 38",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1988355",
+                "legacy_id": "386808",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Sunset. January 2009. p 69",
+            "machine_name": "sunset_january_2009_p_69",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cibotium_glaucum",
+                "type": "species",
+                "archival_data": [
+                    "1437500"
+                ]
+            },
+            "volume": null,
+            "page": "p 69",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1988356",
+                "legacy_id": "386809",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        }
+    ]
+}

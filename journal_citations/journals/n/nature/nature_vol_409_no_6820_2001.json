@@ -1,0 +1,102 @@
+{
+    "name": "Nature. vol 409, no. 6820. (2001)",
+    "machine_name": "nature_vol_409_no_6820_2001",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2001",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2116486",
+        "legacy_id": "20490",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Nature. vol 409, no. 6820. (2001) p 579",
+            "machine_name": "nature_vol_409_no_6820_2001_p_579",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pteris_vittata",
+                "type": "species",
+                "archival_data": [
+                    "1440985"
+                ]
+            },
+            "volume": null,
+            "page": "p 579",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1872220",
+                "legacy_id": "205030",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Nature. vol 409, no. 6820. (2001) p cover;ix",
+            "machine_name": "nature_vol_409_no_6820_2001_p_cover_ix",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cyathea_mutica",
+                "type": "species",
+                "archival_data": [
+                    "1440986"
+                ]
+            },
+            "volume": null,
+            "page": "p cover;ix",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1872221",
+                "legacy_id": "205050",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "name": "Gardening Life. vol 9, no. 6. (2005)",
+    "machine_name": "gardening_life_vol_9_no_6_2005",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2005",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2121685",
+        "legacy_id": "69113",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Gardening Life. vol 9, no. 6. (2005) p 39 (Adv.)",
+            "machine_name": "gardening_life_vol_9_no_6_2005_p_39_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hemerocallis_cultivars_peach_stella",
+                "type": "variety",
+                "archival_data": [
+                    "1627510"
+                ]
+            },
+            "volume": null,
+            "page": "p 39 (Adv.)",
+            "year": "2005",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1992860",
+                "legacy_id": "309909",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Gardening Life. vol 9, no. 6. (2005) p 51",
+            "machine_name": "gardening_life_vol_9_no_6_2005_p_51",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "acer_palmatum_bloodgood",
+                "type": "variety",
+                "archival_data": [
+                    "1466562"
+                ]
+            },
+            "volume": null,
+            "page": "p 51",
+            "year": "2005",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1992861",
+                "legacy_id": "309910",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "name": "Grounds Maintenance. vol 34, no. 10. (1999)",
+    "machine_name": "grounds_maintenance_vol_34_no_10_1999",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1999",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2115800",
+        "legacy_id": "7889",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grounds Maintenance. vol 34, no. 10. (1999) p 21 (Adv.)",
+            "machine_name": "grounds_maintenance_vol_34_no_10_1999_p_21_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lolium_perenne_pennant_ii",
+                "type": "variety",
+                "archival_data": [
+                    "1533890"
+                ]
+            },
+            "volume": null,
+            "page": "p 21 (Adv.)",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1857726",
+                "legacy_id": "166047",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Grounds Maintenance. vol 34, no. 10. (1999) p 39 (Adv.)",
+            "machine_name": "grounds_maintenance_vol_34_no_10_1999_p_39_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "tulipa_cultivars_the_crusaders",
+                "type": "variety",
+                "archival_data": [
+                    "1532243"
+                ]
+            },
+            "volume": null,
+            "page": "p 39 (Adv.)",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1857727",
+                "legacy_id": "166048",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        }
+    ]
+}

@@ -1,0 +1,184 @@
+{
+    "name": "British Cactus & Succulent Journal. vol 10, no. 1. (1992)",
+    "machine_name": "british_cactus_succulent_journal_vol_10_no_1_1992",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1992",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114310",
+        "legacy_id": "1621",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "British Cactus & Succulent Journal. vol 10, no. 1. (1992) p cover",
+            "machine_name": "british_cactus_succulent_journal_vol_10_no_1_1992_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "neolloydia_conoidea",
+                "type": "species",
+                "archival_data": [
+                    "1417181"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1806677",
+                "legacy_id": "115117",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "British Cactus & Succulent Journal. vol 10, no. 1. (1992) p 23",
+            "machine_name": "british_cactus_succulent_journal_vol_10_no_1_1992_p_23",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "melocactus_macracanthus",
+                "type": "species",
+                "archival_data": [
+                    "1419375"
+                ]
+            },
+            "volume": null,
+            "page": "p 23",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1809435",
+                "legacy_id": "112998",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "British Cactus & Succulent Journal. vol 10, no. 1. (1992) p 19",
+            "machine_name": "british_cactus_succulent_journal_vol_10_no_1_1992_p_19",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "mammillaria_longiflora",
+                "type": "species",
+                "archival_data": [
+                    "1416688"
+                ]
+            },
+            "volume": null,
+            "page": "p 19",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1809691",
+                "legacy_id": "111763",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "British Cactus & Succulent Journal. vol 10, no. 1. (1992) p 14",
+            "machine_name": "british_cactus_succulent_journal_vol_10_no_1_1992_p_14",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "bijlia_cana",
+                "type": "species",
+                "archival_data": [
+                    "1401540"
+                ]
+            },
+            "volume": null,
+            "page": "p 14",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1908347",
+                "legacy_id": "258152",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        }
+    ]
+}

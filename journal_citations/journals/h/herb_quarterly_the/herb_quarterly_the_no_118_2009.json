@@ -1,0 +1,184 @@
+{
+    "name": "Herb Quarterly, The. no. 118. (2009)",
+    "machine_name": "herb_quarterly_the_no_118_2009",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2009",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2119894",
+        "legacy_id": "100009",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Herb Quarterly, The. no. 118. (2009) p 12",
+            "machine_name": "herb_quarterly_the_no_118_2009_p_12",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "anethum_graveolens",
+                "type": "species",
+                "archival_data": [
+                    "1399471"
+                ]
+            },
+            "volume": null,
+            "page": "p 12",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": true,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1943100",
+                "legacy_id": "388835",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "Herb Quarterly, The. no. 118. (2009) p 22",
+            "machine_name": "herb_quarterly_the_no_118_2009_p_22",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "valeriana_officinalis",
+                "type": "species",
+                "archival_data": [
+                    "1428988"
+                ]
+            },
+            "volume": null,
+            "page": "p 22",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": true,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1943101",
+                "legacy_id": "388836",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "Herb Quarterly, The. no. 118. (2009) p 33",
+            "machine_name": "herb_quarterly_the_no_118_2009_p_33",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "achillea_millefolium",
+                "type": "species",
+                "archival_data": [
+                    "1397790"
+                ]
+            },
+            "volume": null,
+            "page": "p 33",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1943338",
+                "legacy_id": "388837",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "Herb Quarterly, The. no. 118. (2009) p 55",
+            "machine_name": "herb_quarterly_the_no_118_2009_p_55",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "glycyrrhiza_glabra",
+                "type": "species",
+                "archival_data": [
+                    "1412670"
+                ]
+            },
+            "volume": null,
+            "page": "p 55",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1943339",
+                "legacy_id": "388838",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        }
+    ]
+}

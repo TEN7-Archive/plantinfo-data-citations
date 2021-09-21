@@ -1,0 +1,143 @@
+{
+    "name": "Natural History. vol 117, no. 1. (2008)",
+    "machine_name": "natural_history_vol_117_no_1_2008",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2008",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2120389",
+        "legacy_id": "90769",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Natural History. vol 117, no. 1. (2008) p 2-4",
+            "machine_name": "natural_history_vol_117_no_1_2008_p_2_4",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "stapelia_gigantea",
+                "type": "species",
+                "archival_data": [
+                    "1432630"
+                ]
+            },
+            "volume": null,
+            "page": "p 2-4",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1957006",
+                "legacy_id": "365652",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "Natural History. vol 117, no. 1. (2008) p 18-19",
+            "machine_name": "natural_history_vol_117_no_1_2008_p_18_19",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "digitalis_purpurea",
+                "type": "species",
+                "archival_data": [
+                    "1408501"
+                ]
+            },
+            "volume": null,
+            "page": "p 18-19",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1957007",
+                "legacy_id": "365653",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "Natural History. vol 117, no. 1. (2008) p 64",
+            "machine_name": "natural_history_vol_117_no_1_2008_p_64",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "babiana_ringens",
+                "type": "species",
+                "archival_data": [
+                    "1399143"
+                ]
+            },
+            "volume": null,
+            "page": "p 64",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1957008",
+                "legacy_id": "365654",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        }
+    ]
+}

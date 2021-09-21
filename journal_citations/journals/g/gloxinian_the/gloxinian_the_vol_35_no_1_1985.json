@@ -1,0 +1,143 @@
+{
+    "name": "Gloxinian, The. vol 35, no. 1. (1985)",
+    "machine_name": "gloxinian_the_vol_35_no_1_1985",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1985",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113838",
+        "legacy_id": "3113",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Gloxinian, The. vol 35, no. 1. (1985) p 19",
+            "machine_name": "gloxinian_the_vol_35_no_1_1985_p_19",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "chrysothemis_friedrichsthaliana",
+                "type": "species",
+                "archival_data": [
+                    "1407086"
+                ]
+            },
+            "volume": null,
+            "page": "p 19",
+            "year": "1985",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1778515",
+                "legacy_id": "82053",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Gloxinian, The. vol 35, no. 1. (1985) p cover",
+            "machine_name": "gloxinian_the_vol_35_no_1_1985_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "chrysothemis_pulchella",
+                "type": "species",
+                "archival_data": [
+                    "1407087"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1985",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1778518",
+                "legacy_id": "82056",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Gloxinian, The. vol 35, no. 1. (1985)  p 18",
+            "machine_name": "gloxinian_the_vol_35_no_1_1985_p_18",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "chrysothemis_villosa",
+                "type": "species",
+                "archival_data": [
+                    "1407088"
+                ]
+            },
+            "volume": null,
+            "page": "p 18",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2573121",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1571660378"
+            }
+        }
+    ]
+}

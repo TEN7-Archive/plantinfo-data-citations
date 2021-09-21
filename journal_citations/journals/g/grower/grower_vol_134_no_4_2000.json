@@ -1,0 +1,307 @@
+{
+    "name": "Grower. vol 134, no. 4. (2000)",
+    "machine_name": "grower_vol_134_no_4_2000",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2000",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2116268",
+        "legacy_id": "14609",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grower. vol 134, no. 4. (2000) p 10",
+            "machine_name": "grower_vol_134_no_4_2000_p_10",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "impatiens_cultivars_accent_series",
+                "type": "variety",
+                "archival_data": [
+                    "1477318"
+                ]
+            },
+            "volume": null,
+            "page": "p 10",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1867817",
+                "legacy_id": "194510",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Grower. vol 134, no. 4. (2000) p 10",
+            "machine_name": "grower_vol_134_no_4_2000_p_10",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pelargonium_hortorum_fireworks_series",
+                "type": "variety",
+                "archival_data": [
+                    "1484674"
+                ]
+            },
+            "volume": null,
+            "page": "p 10",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1867818",
+                "legacy_id": "194511",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Grower. vol 134, no. 4. (2000) p 12",
+            "machine_name": "grower_vol_134_no_4_2000_p_12",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cucumis_sativus_sunsweet",
+                "type": "variety",
+                "archival_data": [
+                    "1552791"
+                ]
+            },
+            "volume": null,
+            "page": "p 12",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1867819",
+                "legacy_id": "194512",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Grower. vol 134, no. 4. (2000) p 13",
+            "machine_name": "grower_vol_134_no_4_2000_p_13",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "fragaria_ananassa_elan",
+                "type": "variety",
+                "archival_data": [
+                    "1552792"
+                ]
+            },
+            "volume": null,
+            "page": "p 13",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1867820",
+                "legacy_id": "194513",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Grower. vol 134, no. 4. (2000) p 19",
+            "machine_name": "grower_vol_134_no_4_2000_p_19",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "alocasia_zebrina",
+                "type": "species",
+                "archival_data": [
+                    "1444836"
+                ]
+            },
+            "volume": null,
+            "page": "p 19",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1867821",
+                "legacy_id": "194514",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Grower. vol 134, no. 4. (2000) p 19",
+            "machine_name": "grower_vol_134_no_4_2000_p_19",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "alocasia_cuprea",
+                "type": "species",
+                "archival_data": [
+                    "1402512"
+                ]
+            },
+            "volume": null,
+            "page": "p 19",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1867822",
+                "legacy_id": "194515",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Grower. vol 134, no. 4. (2000) p 22",
+            "machine_name": "grower_vol_134_no_4_2000_p_22",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "brassica_oleracea_c_poet",
+                "type": "variety",
+                "archival_data": [
+                    "1552793"
+                ]
+            },
+            "volume": null,
+            "page": "p 22",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1867823",
+                "legacy_id": "194530",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        }
+    ]
+}

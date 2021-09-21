@@ -1,0 +1,184 @@
+{
+    "name": "Magnolia, Journal of the Magnolia Soc. Issue 46. (1989)",
+    "machine_name": "magnolia_journal_of_the_magnolia_soc_issue_46_1989",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1989",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2112281",
+        "legacy_id": "4352",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Magnolia, Journal of the Magnolia Soc. Issue 46. (1989) p 7",
+            "machine_name": "magnolia_journal_of_the_magnolia_soc_issue_46_1989_p_7",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "magnolia_acuminata_butterflies",
+                "type": "variety",
+                "archival_data": [
+                    "1477274"
+                ]
+            },
+            "volume": null,
+            "page": "p 7",
+            "year": "1989",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1735511",
+                "legacy_id": "30464",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Magnolia, Journal of the Magnolia Soc. Issue 46. (1989) p 3| backcover",
+            "machine_name": "magnolia_journal_of_the_magnolia_soc_issue_46_1989_p_3_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "magnolia_doltsopa",
+                "type": "species",
+                "archival_data": [
+                    "1454616"
+                ]
+            },
+            "volume": null,
+            "page": "p 3| backcover",
+            "year": "1989",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1805912",
+                "legacy_id": "113400",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Magnolia, Journal of the Magnolia Soc. Issue 46. (1989) p cover",
+            "machine_name": "magnolia_journal_of_the_magnolia_soc_issue_46_1989_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "magnolia_campbellii",
+                "type": "species",
+                "archival_data": [
+                    "1421166"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1989",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1806730",
+                "legacy_id": "110981",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Magnolia, Journal of the Magnolia Soc. Issue 46. (1989) p backcover",
+            "machine_name": "magnolia_journal_of_the_magnolia_soc_issue_46_1989_p_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "magnolia_denudata",
+                "type": "species",
+                "archival_data": [
+                    "1421175"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover",
+            "year": "1989",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1806760",
+                "legacy_id": "111011",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        }
+    ]
+}

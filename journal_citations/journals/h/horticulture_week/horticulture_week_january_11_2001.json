@@ -1,0 +1,266 @@
+{
+    "name": "Horticulture Week. January 11, 2001.",
+    "machine_name": "horticulture_week_january_11_2001",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1686625",
+        "legacy_id": "19409",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Horticulture Week. January 11, 2001. p 6",
+            "machine_name": "horticulture_week_january_11_2001_p_6",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "abies_nordmanniana",
+                "type": "species",
+                "archival_data": [
+                    "1400844"
+                ]
+            },
+            "volume": null,
+            "page": "p 6",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1874389",
+                "legacy_id": "203612",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Horticulture Week. January 11, 2001. p 7 (Adv.)",
+            "machine_name": "horticulture_week_january_11_2001_p_7_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "viola_wittrockiana_banner_series",
+                "type": "variety",
+                "archival_data": [
+                    "1499730"
+                ]
+            },
+            "volume": null,
+            "page": "p 7 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1874390",
+                "legacy_id": "203613",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Horticulture Week. January 11, 2001. p 9 (Adv.)",
+            "machine_name": "horticulture_week_january_11_2001_p_9_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "verbena_cultivars_tapien_series",
+                "type": "variety",
+                "archival_data": [
+                    "1530030"
+                ]
+            },
+            "volume": null,
+            "page": "p 9 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1874391",
+                "legacy_id": "203614",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Horticulture Week. January 11, 2001. p 16",
+            "machine_name": "horticulture_week_january_11_2001_p_16",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "sophora_tetraptera",
+                "type": "species",
+                "archival_data": [
+                    "1431121"
+                ]
+            },
+            "volume": null,
+            "page": "p 16",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": true,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1874392",
+                "legacy_id": "203615",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Horticulture Week. January 11, 2001. p 17",
+            "machine_name": "horticulture_week_january_11_2001_p_17",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "sophora_microphylla_sun_king",
+                "type": "variety",
+                "archival_data": [
+                    "1563319"
+                ]
+            },
+            "volume": null,
+            "page": "p 17",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1874393",
+                "legacy_id": "203616",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Horticulture Week. January 11, 2001. p 17",
+            "machine_name": "horticulture_week_january_11_2001_p_17",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "styphnolobium_japonicum",
+                "type": "species",
+                "archival_data": [
+                    "1446577"
+                ]
+            },
+            "volume": null,
+            "page": "p 17",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1874394",
+                "legacy_id": "203617",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        }
+    ]
+}

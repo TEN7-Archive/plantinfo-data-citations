@@ -1,0 +1,143 @@
+{
+    "name": "Natural History. vol 113, no. 3. (2004)",
+    "machine_name": "natural_history_vol_113_no_3_2004",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2004",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2118910",
+        "legacy_id": "58391",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Natural History. vol 113, no. 3. (2004) p cover;40-41",
+            "machine_name": "natural_history_vol_113_no_3_2004_p_cover_40_41",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pachyrhizus_erosus",
+                "type": "species",
+                "archival_data": [
+                    "1423728"
+                ]
+            },
+            "volume": null,
+            "page": "p cover;40-41",
+            "year": "2004",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": true,
+                "Fruit": true,
+                "Bark": false,
+                "Root": true,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1918624",
+                "legacy_id": "278517",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "Natural History. vol 113, no. 3. (2004) p 39;42",
+            "machine_name": "natural_history_vol_113_no_3_2004_p_39_42",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pachyrhizus_tuberosus",
+                "type": "species",
+                "archival_data": [
+                    "1423729"
+                ]
+            },
+            "volume": null,
+            "page": "p 39;42",
+            "year": "2004",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": true,
+                "Fruit": true,
+                "Bark": false,
+                "Root": true,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1918625",
+                "legacy_id": "278518",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "Natural History. vol 113, no. 3. (2004) p 57",
+            "machine_name": "natural_history_vol_113_no_3_2004_p_57",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hanguana_malayana",
+                "type": "species",
+                "archival_data": [
+                    "1448569"
+                ]
+            },
+            "volume": null,
+            "page": "p 57",
+            "year": "2004",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1933162",
+                "legacy_id": "279030",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        }
+    ]
+}

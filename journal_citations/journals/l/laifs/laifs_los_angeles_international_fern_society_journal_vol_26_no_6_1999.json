@@ -1,0 +1,61 @@
+{
+    "name": "LAIFS. Los Angeles International Fern Society, Journal. vol 26, no. 6. (1999)",
+    "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_26_no_6_1999",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1999",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2116413",
+        "legacy_id": "14029",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "LAIFS. Los Angeles International Fern Society, Journal. vol 26, no. 6. (1999) p cover",
+            "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_26_no_6_1999_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "sphenomeris_biflora",
+                "type": "species",
+                "archival_data": [
+                    "1444490"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1870632",
+                "legacy_id": "192810",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        }
+    ]
+}

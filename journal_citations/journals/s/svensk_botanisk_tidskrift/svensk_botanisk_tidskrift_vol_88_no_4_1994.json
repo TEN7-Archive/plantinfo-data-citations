@@ -1,0 +1,266 @@
+{
+    "name": "Svensk Botanisk Tidskrift. vol 88, no. 4. (1994)",
+    "machine_name": "svensk_botanisk_tidskrift_vol_88_no_4_1994",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1994",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2112388",
+        "legacy_id": "5748",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Svensk Botanisk Tidskrift. vol 88, no. 4. (1994) p 202-03",
+            "machine_name": "svensk_botanisk_tidskrift_vol_88_no_4_1994_p_202_03",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "oxytropis_deflexa_deflexa",
+                "type": "variety",
+                "archival_data": [
+                    "1483958"
+                ]
+            },
+            "volume": null,
+            "page": "p 202-03",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": true,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1737714",
+                "legacy_id": "34928",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Svensk Botanisk Tidskrift. vol 88, no. 4. (1994) p 202",
+            "machine_name": "svensk_botanisk_tidskrift_vol_88_no_4_1994_p_202",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "oxytropis_deflexa_norvegica",
+                "type": "variety",
+                "archival_data": [
+                    "1483959"
+                ]
+            },
+            "volume": null,
+            "page": "p 202",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1737715",
+                "legacy_id": "34929",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Svensk Botanisk Tidskrift. vol 88, no. 4. (1994) p 223",
+            "machine_name": "svensk_botanisk_tidskrift_vol_88_no_4_1994_p_223",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "aralia_elata",
+                "type": "species",
+                "archival_data": [
+                    "1398787"
+                ]
+            },
+            "volume": null,
+            "page": "p 223",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1768389",
+                "legacy_id": "72667",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Svensk Botanisk Tidskrift. vol 88, no. 4. (1994) p 223",
+            "machine_name": "svensk_botanisk_tidskrift_vol_88_no_4_1994_p_223",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "filipendula_camtschatica",
+                "type": "species",
+                "archival_data": [
+                    "1413380"
+                ]
+            },
+            "volume": null,
+            "page": "p 223",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1794145",
+                "legacy_id": "97051",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Svensk Botanisk Tidskrift. vol 88, no. 4. (1994) p 194-95",
+            "machine_name": "svensk_botanisk_tidskrift_vol_88_no_4_1994_p_194_95",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "oenothera_biennis",
+                "type": "species",
+                "archival_data": [
+                    "1426165"
+                ]
+            },
+            "volume": null,
+            "page": "p 194-95",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1811336",
+                "legacy_id": "116213",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Svensk Botanisk Tidskrift. vol 88, no. 4. (1994) p 194-95",
+            "machine_name": "svensk_botanisk_tidskrift_vol_88_no_4_1994_p_194_95",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "oenothera_rubricaulis",
+                "type": "species",
+                "archival_data": [
+                    "1426189"
+                ]
+            },
+            "volume": null,
+            "page": "p 194-95",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1811635",
+                "legacy_id": "116265",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        }
+    ]
+}

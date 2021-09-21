@@ -1,0 +1,61 @@
+{
+    "name": "Nature. vol 345, no. 6272. (1990)",
+    "machine_name": "nature_vol_345_no_6272_1990",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1990",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113847",
+        "legacy_id": "4753",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Nature. vol 345, no. 6272. (1990) p 205",
+            "machine_name": "nature_vol_345_no_6272_1990_p_205",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cinchona_officinalis",
+                "type": "species",
+                "archival_data": [
+                    "1407125"
+                ]
+            },
+            "volume": null,
+            "page": "p 205",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1778888",
+                "legacy_id": "82181",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "name": "Grower. vol 138, no. 25. (2002)",
+    "machine_name": "grower_vol_138_no_25_2002",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2002",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2117758",
+        "legacy_id": "45194",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grower. vol 138, no. 25. (2002) p 22",
+            "machine_name": "grower_vol_138_no_25_2002_p_22",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "alstroemeria_cultivars_mayfair",
+                "type": "variety",
+                "archival_data": [
+                    "1571766"
+                ]
+            },
+            "volume": null,
+            "page": "p 22",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1896618",
+                "legacy_id": "247837",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Grower. vol 138, no. 25. (2002) p 23",
+            "machine_name": "grower_vol_138_no_25_2002_p_23",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "scabiosa_columbaria_misty_butterflies",
+                "type": "variety",
+                "archival_data": [
+                    "1571767"
+                ]
+            },
+            "volume": null,
+            "page": "p 23",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1896619",
+                "legacy_id": "247838",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        }
+    ]
+}

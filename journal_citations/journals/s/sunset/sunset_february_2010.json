@@ -1,0 +1,184 @@
+{
+    "name": "Sunset. February 2010.",
+    "machine_name": "sunset_february_2010",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1693030",
+        "legacy_id": "107433",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Sunset. February 2010. p 42",
+            "machine_name": "sunset_february_2010_p_42",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "anemone_coronaria",
+                "type": "species",
+                "archival_data": [
+                    "1399099"
+                ]
+            },
+            "volume": null,
+            "page": "p 42",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2003761",
+                "legacy_id": "408129",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "Sunset. February 2010. p 43",
+            "machine_name": "sunset_february_2010_p_43",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "helianthus_annuus",
+                "type": "species",
+                "archival_data": [
+                    "1410907"
+                ]
+            },
+            "volume": null,
+            "page": "p 43",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2003762",
+                "legacy_id": "408131",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "Sunset. February 2010. p 42",
+            "machine_name": "sunset_february_2010_p_42",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ranunculus_asiaticus",
+                "type": "species",
+                "archival_data": [
+                    "1422120"
+                ]
+            },
+            "volume": null,
+            "page": "p 42",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2067741",
+                "legacy_id": "408130",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Sunset. February 2010. p 51",
+            "machine_name": "sunset_february_2010_p_51",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cordyline_fruticosa",
+                "type": "species",
+                "archival_data": [
+                    "1405266"
+                ]
+            },
+            "volume": null,
+            "page": "p 51",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2072885",
+                "legacy_id": "408132",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483209571"
+            }
+        }
+    ]
+}

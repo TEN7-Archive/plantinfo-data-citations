@@ -1,0 +1,61 @@
+{
+    "name": "Annals of the Missouri Botanical Garden. vol 93, no. 2. (2006)",
+    "machine_name": "annals_of_the_missouri_botanical_garden_vol_93_no_2_2006",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2006",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2120788",
+        "legacy_id": "74669",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Annals of the Missouri Botanical Garden. vol 93, no. 2. (2006) p 284, Pl. 7",
+            "machine_name": "annals_of_the_missouri_botanical_garden_vol_93_no_2_2006_p_284_pl_7",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "zea_mays_parviglumis",
+                "type": "variety",
+                "archival_data": [
+                    "1563677"
+                ]
+            },
+            "volume": null,
+            "page": "p 284, Pl. 7",
+            "year": "2006",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1967522",
+                "legacy_id": "324712",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        }
+    ]
+}

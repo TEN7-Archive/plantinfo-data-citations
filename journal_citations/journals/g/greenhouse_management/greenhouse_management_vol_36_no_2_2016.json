@@ -1,0 +1,61 @@
+{
+    "name": "Greenhouse Management. vol 36 no. 2. (2016)",
+    "machine_name": "greenhouse_management_vol_36_no_2_2016",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2016",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": "7",
+    "description": null,
+    "archival_data": {
+        "id": "2411441",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1542717511"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Greenhouse Management. vol 36 no. 2. (2016) p 31 (Adv.)",
+            "machine_name": "greenhouse_management_vol_36_no_2_2016_p_31_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "begonia_cultivars_funky_series",
+                "type": "variety",
+                "archival_data": [
+                    "1671379"
+                ]
+            },
+            "volume": null,
+            "page": "p 31 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2411446",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1542717681"
+            }
+        }
+    ]
+}

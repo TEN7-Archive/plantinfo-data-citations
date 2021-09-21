@@ -1,0 +1,61 @@
+{
+    "name": "Trends in Plant Science. vol 7, no. 3. (2002)",
+    "machine_name": "trends_in_plant_science_vol_7_no_3_2002",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2002",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2117425",
+        "legacy_id": "36153",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Trends in Plant Science. vol 7, no. 3. (2002) p 101",
+            "machine_name": "trends_in_plant_science_vol_7_no_3_2002_p_101",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "medicago_truncatula",
+                "type": "species",
+                "archival_data": [
+                    "1418934"
+                ]
+            },
+            "volume": null,
+            "page": "p 101",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1889131",
+                "legacy_id": "230550",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        }
+    ]
+}

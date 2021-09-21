@@ -1,0 +1,143 @@
+{
+    "name": "American Vegetable Grower. vol 43, no. 10. (1995)",
+    "machine_name": "american_vegetable_grower_vol_43_no_10_1995",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1995",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2110109",
+        "legacy_id": "1123",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "American Vegetable Grower. vol 43, no. 10. (1995) p 9 (Adv.)",
+            "machine_name": "american_vegetable_grower_vol_43_no_10_1995_p_9_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "citrullus_lanatus_tri_x_shadow",
+                "type": "variety",
+                "archival_data": [
+                    "1468907"
+                ]
+            },
+            "volume": null,
+            "page": "p 9 (Adv.)",
+            "year": "1995",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1706727",
+                "legacy_id": "7405",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "American Vegetable Grower. vol 43, no. 10. (1995) p 5 (Adv.)",
+            "machine_name": "american_vegetable_grower_vol_43_no_10_1995_p_5_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cucumis_melo_athena",
+                "type": "variety",
+                "archival_data": [
+                    "1467695"
+                ]
+            },
+            "volume": null,
+            "page": "p 5 (Adv.)",
+            "year": "1995",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1708164",
+                "legacy_id": "9275",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "American Vegetable Grower. vol 43, no. 10. (1995) p 21",
+            "machine_name": "american_vegetable_grower_vol_43_no_10_1995_p_21",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "abelmoschus_esculentus_blondy",
+                "type": "variety",
+                "archival_data": [
+                    "1465851"
+                ]
+            },
+            "volume": null,
+            "page": "p 21",
+            "year": "1995",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2102492",
+                "legacy_id": "11",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        }
+    ]
+}

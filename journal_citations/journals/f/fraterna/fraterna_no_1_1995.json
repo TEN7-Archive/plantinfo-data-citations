@@ -1,0 +1,61 @@
+{
+    "name": "Fraterna. no. 1. (1995)",
+    "machine_name": "fraterna_no_1_1995",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1995",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114132",
+        "legacy_id": "2675",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Fraterna. no. 1. (1995) p 8",
+            "machine_name": "fraterna_no_1_1995_p_8",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hoya_heuschkeliana",
+                "type": "species",
+                "archival_data": [
+                    "1420551"
+                ]
+            },
+            "volume": null,
+            "page": "p 8",
+            "year": "1995",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1798091",
+                "legacy_id": "103367",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        }
+    ]
+}

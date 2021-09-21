@@ -1,0 +1,102 @@
+{
+    "name": "Better Homes & Gardens. vol 86, no. 3. (2008)",
+    "machine_name": "better_homes_gardens_vol_86_no_3_2008",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2008",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2120397",
+        "legacy_id": "92169",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Better Homes & Gardens. vol 86, no. 3. (2008) p 88",
+            "machine_name": "better_homes_gardens_vol_86_no_3_2008_p_88",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "brunnera_macrophylla_hadspen_cream",
+                "type": "variety",
+                "archival_data": [
+                    "1464778"
+                ]
+            },
+            "volume": null,
+            "page": "p 88",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1957110",
+                "legacy_id": "369152",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "Better Homes & Gardens. vol 86, no. 3. (2008) p 88",
+            "machine_name": "better_homes_gardens_vol_86_no_3_2008_p_88",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "iris_cultivars_hottentot",
+                "type": "variety",
+                "archival_data": [
+                    "1554663"
+                ]
+            },
+            "volume": null,
+            "page": "p 88",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1957111",
+                "legacy_id": "369153",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "name": "Agricultural Research. vol 60, no. 1. (2012)",
+    "machine_name": "agricultural_research_vol_60_no_1_2012",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2012",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2124004",
+        "legacy_id": "116369",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Agricultural Research. vol 60, no. 1. (2012) p cover; 12-13",
+            "machine_name": "agricultural_research_vol_60_no_1_2012_p_cover_12_13",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "opuntia_ficus_indica",
+                "type": "species",
+                "archival_data": [
+                    "1421798"
+                ]
+            },
+            "volume": null,
+            "page": "p cover; 12-13",
+            "year": "2012",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2059678",
+                "legacy_id": "440572",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        }
+    ]
+}

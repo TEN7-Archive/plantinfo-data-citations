@@ -1,0 +1,102 @@
+{
+    "name": "Grower. June 29, 2006.",
+    "machine_name": "grower_june_29_2006",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1687749",
+        "legacy_id": "73670",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grower. June 29, 2006. p 21",
+            "machine_name": "grower_june_29_2006_p_21",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "nemesia_cultivars_berries_cream",
+                "type": "variety",
+                "archival_data": [
+                    "1643559"
+                ]
+            },
+            "volume": null,
+            "page": "p 21",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1966841",
+                "legacy_id": "322293",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        },
+        {
+            "name": "Grower. June 29, 2006. p 21",
+            "machine_name": "grower_june_29_2006_p_21",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "gaillardia_cultivars_fanfare_series",
+                "type": "variety",
+                "archival_data": [
+                    "1571395"
+                ]
+            },
+            "volume": null,
+            "page": "p 21",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1967076",
+                "legacy_id": "322294",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        }
+    ]
+}

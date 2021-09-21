@@ -1,0 +1,102 @@
+{
+    "name": "HortScience. vol 43, no. 3. (2008)",
+    "machine_name": "hortscience_vol_43_no_3_2008",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2008",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2119343",
+        "legacy_id": "94589",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "HortScience. vol 43, no. 3. (2008) p 933",
+            "machine_name": "hortscience_vol_43_no_3_2008_p_933",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "callicarpa_dichotoma_duet",
+                "type": "variety",
+                "archival_data": [
+                    "1591929"
+                ]
+            },
+            "volume": null,
+            "page": "p 933",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1929696",
+                "legacy_id": "374224",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "HortScience. vol 43, no. 3. (2008) p 945",
+            "machine_name": "hortscience_vol_43_no_3_2008_p_945",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "vitis_cultivars_thomcord",
+                "type": "variety",
+                "archival_data": [
+                    "1628076"
+                ]
+            },
+            "volume": null,
+            "page": "p 945",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1929697",
+                "legacy_id": "374225",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        }
+    ]
+}

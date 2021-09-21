@@ -1,0 +1,635 @@
+{
+    "name": "Organic Gardening. vol 46, no. 5. (1999)",
+    "machine_name": "organic_gardening_vol_46_no_5_1999",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1999",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2115880",
+        "legacy_id": "7679",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Organic Gardening. vol 46, no. 5. (1999) p 8",
+            "machine_name": "organic_gardening_vol_46_no_5_1999_p_8",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "beta_vulgaris_c_fordhook_giant",
+                "type": "variety",
+                "archival_data": [
+                    "1496795"
+                ]
+            },
+            "volume": null,
+            "page": "p 8",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1859132",
+                "legacy_id": "163896",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Organic Gardening. vol 46, no. 5. (1999) p 11",
+            "machine_name": "organic_gardening_vol_46_no_5_1999_p_11",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rubus_r_cultivars_polana",
+                "type": "variety",
+                "archival_data": [
+                    "1540033"
+                ]
+            },
+            "volume": null,
+            "page": "p 11",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1859133",
+                "legacy_id": "163897",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Organic Gardening. vol 46, no. 5. (1999) p 20",
+            "machine_name": "organic_gardening_vol_46_no_5_1999_p_20",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "foeniculum_vulgare",
+                "type": "species",
+                "archival_data": [
+                    "1413724"
+                ]
+            },
+            "volume": null,
+            "page": "p 20",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1859134",
+                "legacy_id": "163898",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Organic Gardening. vol 46, no. 5. (1999) p 42",
+            "machine_name": "organic_gardening_vol_46_no_5_1999_p_42",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "papaver_rhoeas",
+                "type": "species",
+                "archival_data": [
+                    "1424450"
+                ]
+            },
+            "volume": null,
+            "page": "p 42",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1859135",
+                "legacy_id": "163899",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Organic Gardening. vol 46, no. 5. (1999) p 44",
+            "machine_name": "organic_gardening_vol_46_no_5_1999_p_44",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "allium_sativum",
+                "type": "species",
+                "archival_data": [
+                    "1402132"
+                ]
+            },
+            "volume": null,
+            "page": "p 44",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": true,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1859136",
+                "legacy_id": "163900",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Organic Gardening. vol 46, no. 5. (1999) p 44",
+            "machine_name": "organic_gardening_vol_46_no_5_1999_p_44",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "allium_sativum_ophioscorodon",
+                "type": "variety",
+                "archival_data": [
+                    "1463766"
+                ]
+            },
+            "volume": null,
+            "page": "p 44",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": true,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1859137",
+                "legacy_id": "163901",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Organic Gardening. vol 46, no. 5. (1999) p 44",
+            "machine_name": "organic_gardening_vol_46_no_5_1999_p_44",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "allium_sativum_sativum",
+                "type": "variety",
+                "archival_data": [
+                    "1546353"
+                ]
+            },
+            "volume": null,
+            "page": "p 44",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": true,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1859138",
+                "legacy_id": "163902",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Organic Gardening. vol 46, no. 5. (1999) p 51",
+            "machine_name": "organic_gardening_vol_46_no_5_1999_p_51",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "gaillardia_pulchella",
+                "type": "species",
+                "archival_data": [
+                    "1414906"
+                ]
+            },
+            "volume": null,
+            "page": "p 51",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1859139",
+                "legacy_id": "163903",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Organic Gardening. vol 46, no. 5. (1999) p 51",
+            "machine_name": "organic_gardening_vol_46_no_5_1999_p_51",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "coreopsis_lanceolata",
+                "type": "species",
+                "archival_data": [
+                    "1405285"
+                ]
+            },
+            "volume": null,
+            "page": "p 51",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1859140",
+                "legacy_id": "163904",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Organic Gardening. vol 46, no. 5. (1999) p 51",
+            "machine_name": "organic_gardening_vol_46_no_5_1999_p_51",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cerastium_tomentosum",
+                "type": "species",
+                "archival_data": [
+                    "1404836"
+                ]
+            },
+            "volume": null,
+            "page": "p 51",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1859141",
+                "legacy_id": "163905",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Organic Gardening. vol 46, no. 5. (1999) p 51",
+            "machine_name": "organic_gardening_vol_46_no_5_1999_p_51",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "schizachyrium_scoparium",
+                "type": "species",
+                "archival_data": [
+                    "1432591"
+                ]
+            },
+            "volume": null,
+            "page": "p 51",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1859142",
+                "legacy_id": "163906",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Organic Gardening. vol 46, no. 5. (1999) p 51",
+            "machine_name": "organic_gardening_vol_46_no_5_1999_p_51",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "antennaria_dioica",
+                "type": "species",
+                "archival_data": [
+                    "1399901"
+                ]
+            },
+            "volume": null,
+            "page": "p 51",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1859143",
+                "legacy_id": "163907",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Organic Gardening. vol 46, no. 5. (1999) p 51",
+            "machine_name": "organic_gardening_vol_46_no_5_1999_p_51",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "fragaria_chiloensis",
+                "type": "species",
+                "archival_data": [
+                    "1413769"
+                ]
+            },
+            "volume": null,
+            "page": "p 51",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1859144",
+                "legacy_id": "163908",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Organic Gardening. vol 46, no. 5. (1999) p 70 (Adv.)",
+            "machine_name": "organic_gardening_vol_46_no_5_1999_p_70_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "petunia_cultivars_wave_series",
+                "type": "variety",
+                "archival_data": [
+                    "1481801"
+                ]
+            },
+            "volume": null,
+            "page": "p 70 (Adv.)",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1859145",
+                "legacy_id": "163909",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Organic Gardening. vol 46, no. 5. (1999) p 70 (Adv.)",
+            "machine_name": "organic_gardening_vol_46_no_5_1999_p_70_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lycopersicon_cultivars_basket_vee",
+                "type": "variety",
+                "archival_data": [
+                    "1516304"
+                ]
+            },
+            "volume": null,
+            "page": "p 70 (Adv.)",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1859146",
+                "legacy_id": "163910",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        }
+    ]
+}

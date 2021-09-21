@@ -1,0 +1,61 @@
+{
+    "name": "Nature Conservancy. vol 50, no. 2. (2000)",
+    "machine_name": "nature_conservancy_vol_50_no_2_2000",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2000",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2116329",
+        "legacy_id": "10909",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Nature Conservancy. vol 50, no. 2. (2000) p 42",
+            "machine_name": "nature_conservancy_vol_50_no_2_2000_p_42",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "franklinia_alatamaha",
+                "type": "species",
+                "archival_data": [
+                    "1414081"
+                ]
+            },
+            "volume": null,
+            "page": "p 42",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1868834",
+                "legacy_id": "181304",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        }
+    ]
+}

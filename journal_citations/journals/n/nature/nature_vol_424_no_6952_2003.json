@@ -1,0 +1,102 @@
+{
+    "name": "Nature. vol 424, no. 6952. (2003)",
+    "machine_name": "nature_vol_424_no_6952_2003",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2003",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2118674",
+        "legacy_id": "52371",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Nature. vol 424, no. 6952. (2003) p 1011",
+            "machine_name": "nature_vol_424_no_6952_2003_p_1011",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lactuca_canadensis",
+                "type": "species",
+                "archival_data": [
+                    "1420266"
+                ]
+            },
+            "volume": null,
+            "page": "p 1011",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1915451",
+                "legacy_id": "267430",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Nature. vol 424, no. 6952. (2003) p 1011",
+            "machine_name": "nature_vol_424_no_6952_2003_p_1011",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lactuca_serriola",
+                "type": "species",
+                "archival_data": [
+                    "1420276"
+                ]
+            },
+            "volume": null,
+            "page": "p 1011",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1915452",
+                "legacy_id": "267431",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        }
+    ]
+}

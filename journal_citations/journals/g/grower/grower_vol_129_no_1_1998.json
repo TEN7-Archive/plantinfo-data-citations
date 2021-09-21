@@ -1,0 +1,143 @@
+{
+    "name": "Grower. vol 129, no. 1. (1998)",
+    "machine_name": "grower_vol_129_no_1_1998",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1998",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2118265",
+        "legacy_id": "50289",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grower. vol 129, no. 1. (1998) p 9 (Adv.)",
+            "machine_name": "grower_vol_129_no_1_1998_p_9_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lamium_cultivars_golden_anniversary",
+                "type": "variety",
+                "archival_data": [
+                    "1534482"
+                ]
+            },
+            "volume": null,
+            "page": "p 9 (Adv.)",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1907967",
+                "legacy_id": "263590",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Grower. vol 129, no. 1. (1998) p 76 (Adv.)",
+            "machine_name": "grower_vol_129_no_1_1998_p_76_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "impatiens_cultivars_carnival_series",
+                "type": "variety",
+                "archival_data": [
+                    "1477350"
+                ]
+            },
+            "volume": null,
+            "page": "p 76 (Adv.)",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1907968",
+                "legacy_id": "263591",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Grower. vol 129, no. 1. (1998) p 69 (Adv.)",
+            "machine_name": "grower_vol_129_no_1_1998_p_69_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "antirrhinum_cultivars_floral_showers_series",
+                "type": "variety",
+                "archival_data": [
+                    "1463607"
+                ]
+            },
+            "volume": null,
+            "page": "p 69 (Adv.)",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1908234",
+                "legacy_id": "263750",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        }
+    ]
+}

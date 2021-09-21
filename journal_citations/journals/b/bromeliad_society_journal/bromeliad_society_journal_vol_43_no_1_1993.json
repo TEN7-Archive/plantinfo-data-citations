@@ -1,0 +1,184 @@
+{
+    "name": "Bromeliad Society, Journal. vol 43, no. 1. (1993)",
+    "machine_name": "bromeliad_society_journal_vol_43_no_1_1993",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1993",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113165",
+        "legacy_id": "1729",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Bromeliad Society, Journal. vol 43, no. 1. (1993) p 8, Pl. 4-5.",
+            "machine_name": "bromeliad_society_journal_vol_43_no_1_1993_p_8_pl_4_5",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "tillandsia_paleacea_apurimacensis",
+                "type": "variety",
+                "archival_data": [
+                    "1491877"
+                ]
+            },
+            "volume": null,
+            "page": "p 8, Pl. 4-5.",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1760248",
+                "legacy_id": "57931",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Bromeliad Society, Journal. vol 43, no. 1. (1993) p 30, Pl. 13-14.",
+            "machine_name": "bromeliad_society_journal_vol_43_no_1_1993_p_30_pl_13_14",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "bromelia_goeldiana",
+                "type": "species",
+                "archival_data": [
+                    "1403490"
+                ]
+            },
+            "volume": null,
+            "page": "p 30, Pl. 13-14.",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1774580",
+                "legacy_id": "77010",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Bromeliad Society, Journal. vol 43, no. 1. (1993) p 22, Pl. 10.",
+            "machine_name": "bromeliad_society_journal_vol_43_no_1_1993_p_22_pl_10",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "guzmania_cabrerae",
+                "type": "species",
+                "archival_data": [
+                    "1414564"
+                ]
+            },
+            "volume": null,
+            "page": "p 22, Pl. 10.",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1797329",
+                "legacy_id": "100586",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Bromeliad Society, Journal. vol 43, no. 1. (1993) p 26, Pl. 12.",
+            "machine_name": "bromeliad_society_journal_vol_43_no_1_1993_p_26_pl_12",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "tillandsia_xerographica",
+                "type": "species",
+                "archival_data": [
+                    "1431984"
+                ]
+            },
+            "volume": null,
+            "page": "p 26, Pl. 12.",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1833851",
+                "legacy_id": "138006",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        }
+    ]
+}

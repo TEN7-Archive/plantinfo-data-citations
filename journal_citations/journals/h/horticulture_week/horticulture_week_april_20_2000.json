@@ -1,0 +1,512 @@
+{
+    "name": "Horticulture Week. April 20, 2000.",
+    "machine_name": "horticulture_week_april_20_2000",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1684005",
+        "legacy_id": "51229",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Horticulture Week. April 20, 2000. p cover;4",
+            "machine_name": "horticulture_week_april_20_2000_p_cover_4",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "impatiens_cultivars_fanfare_series",
+                "type": "variety",
+                "archival_data": [
+                    "1557757"
+                ]
+            },
+            "volume": null,
+            "page": "p cover;4",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1911364",
+                "legacy_id": "265350",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Horticulture Week. April 20, 2000. p 4",
+            "machine_name": "horticulture_week_april_20_2000_p_4",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "diascia_cultivars_sunchimes_series",
+                "type": "variety",
+                "archival_data": [
+                    "1551615"
+                ]
+            },
+            "volume": null,
+            "page": "p 4",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1911365",
+                "legacy_id": "265352",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Horticulture Week. April 20, 2000. p 9 (Adv.)",
+            "machine_name": "horticulture_week_april_20_2000_p_9_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "primula_auricula_rumba_series",
+                "type": "variety",
+                "archival_data": [
+                    "1534615"
+                ]
+            },
+            "volume": null,
+            "page": "p 9 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1911366",
+                "legacy_id": "265353",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Horticulture Week. April 20, 2000. p 15",
+            "machine_name": "horticulture_week_april_20_2000_p_15",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "alstroemeria_cultivars_ligtu_series",
+                "type": "variety",
+                "archival_data": [
+                    "1466017"
+                ]
+            },
+            "volume": null,
+            "page": "p 15",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1911367",
+                "legacy_id": "265354",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Horticulture Week. April 20, 2000. p 16",
+            "machine_name": "horticulture_week_april_20_2000_p_16",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "alstroemeria_cultivars_apollo",
+                "type": "variety",
+                "archival_data": [
+                    "1465998"
+                ]
+            },
+            "volume": null,
+            "page": "p 16",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1911368",
+                "legacy_id": "265355",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Horticulture Week. April 20, 2000. p 16",
+            "machine_name": "horticulture_week_april_20_2000_p_16",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "alstroemeria_aurea",
+                "type": "species",
+                "archival_data": [
+                    "1397876"
+                ]
+            },
+            "volume": null,
+            "page": "p 16",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1911369",
+                "legacy_id": "265356",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Horticulture Week. April 20, 2000. p 16",
+            "machine_name": "horticulture_week_april_20_2000_p_16",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "alstroemeria_cultivars_yellow_friendship",
+                "type": "variety",
+                "archival_data": [
+                    "1539524"
+                ]
+            },
+            "volume": null,
+            "page": "p 16",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1911370",
+                "legacy_id": "265357",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Horticulture Week. April 20, 2000. p 17",
+            "machine_name": "horticulture_week_april_20_2000_p_17",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "alstroemeria_cultivars_princess_series",
+                "type": "variety",
+                "archival_data": [
+                    "1536111"
+                ]
+            },
+            "volume": null,
+            "page": "p 17",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1911371",
+                "legacy_id": "265358",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Horticulture Week. April 20, 2000. p inside cover (Adv.)",
+            "machine_name": "horticulture_week_april_20_2000_p_inside_cover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "chrysanthemum_cultivars_ernst",
+                "type": "variety",
+                "archival_data": [
+                    "1583833"
+                ]
+            },
+            "volume": null,
+            "page": "p inside cover (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1913267",
+                "legacy_id": "266393",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Horticulture Week. April 20, 2000. p inside cover (Adv.)",
+            "machine_name": "horticulture_week_april_20_2000_p_inside_cover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "chrysanthemum_cultivars_picasso",
+                "type": "variety",
+                "archival_data": [
+                    "1583832"
+                ]
+            },
+            "volume": null,
+            "page": "p inside cover (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1913268",
+                "legacy_id": "266394",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Horticulture Week. April 20, 2000. p inside cover (Adv.)",
+            "machine_name": "horticulture_week_april_20_2000_p_inside_cover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "chrysanthemum_cultivars_matisse",
+                "type": "variety",
+                "archival_data": [
+                    "1583831"
+                ]
+            },
+            "volume": null,
+            "page": "p inside cover (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1913269",
+                "legacy_id": "266395",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Horticulture Week. April 20, 2000. p 17",
+            "machine_name": "horticulture_week_april_20_2000_p_17",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "alstroemeria_cultivars_marina",
+                "type": "variety",
+                "archival_data": [
+                    "1583834"
+                ]
+            },
+            "volume": null,
+            "page": "p 17",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1913270",
+                "legacy_id": "266396",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "name": "Nature Conservancy. vol 57, no. 4. (2007)",
+    "machine_name": "nature_conservancy_vol_57_no_4_2007",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2007",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2120437",
+        "legacy_id": "89990",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Nature Conservancy. vol 57, no. 4. (2007) p 14",
+            "machine_name": "nature_conservancy_vol_57_no_4_2007_p_14",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ranunculus_aestivalis",
+                "type": "species",
+                "archival_data": [
+                    "1456434"
+                ]
+            },
+            "volume": null,
+            "page": "p 14",
+            "year": "2007",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1958171",
+                "legacy_id": "363834",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        },
+        {
+            "name": "Nature Conservancy. vol 57, no. 4. (2007) p 14",
+            "machine_name": "nature_conservancy_vol_57_no_4_2007_p_14",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "arctomecon_humilis",
+                "type": "species",
+                "archival_data": [
+                    "1456435"
+                ]
+            },
+            "volume": null,
+            "page": "p 14",
+            "year": "2007",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1958172",
+                "legacy_id": "363835",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        },
+        {
+            "name": "Nature Conservancy. vol 57, no. 4. (2007) p 14",
+            "machine_name": "nature_conservancy_vol_57_no_4_2007_p_14",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pediocactus_sileri",
+                "type": "species",
+                "archival_data": [
+                    "1426631"
+                ]
+            },
+            "volume": null,
+            "page": "p 14",
+            "year": "2007",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1958173",
+                "legacy_id": "363836",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        }
+    ]
+}

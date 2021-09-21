@@ -1,0 +1,61 @@
+{
+    "name": "Nature. vol 397, no. 6721. (1999)",
+    "machine_name": "nature_vol_397_no_6721_1999",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1999",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2115605",
+        "legacy_id": "7209",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Nature. vol 397, no. 6721. (1999) p 666",
+            "machine_name": "nature_vol_397_no_6721_1999_p_666",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "eichhornia_crassipes",
+                "type": "species",
+                "archival_data": [
+                    "1413149"
+                ]
+            },
+            "volume": null,
+            "page": "p 666",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1854011",
+                "legacy_id": "157534",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        }
+    ]
+}

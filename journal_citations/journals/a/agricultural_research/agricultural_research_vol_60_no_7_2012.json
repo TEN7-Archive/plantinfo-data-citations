@@ -1,0 +1,102 @@
+{
+    "name": "Agricultural Research. vol 60, no. 7. (2012)",
+    "machine_name": "agricultural_research_vol_60_no_7_2012",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2012",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2122014",
+        "legacy_id": "119012",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Agricultural Research. vol 60, no. 7. (2012) p 9",
+            "machine_name": "agricultural_research_vol_60_no_7_2012_p_9",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "vaccinium_cultivars_prince",
+                "type": "variety",
+                "archival_data": [
+                    "1637470"
+                ]
+            },
+            "volume": null,
+            "page": "p 9",
+            "year": "2012",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2000128",
+                "legacy_id": "451367",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Agricultural Research. vol 60, no. 7. (2012) p 9",
+            "machine_name": "agricultural_research_vol_60_no_7_2012_p_9",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "vaccinium_cultivars_rabbiteye",
+                "type": "variety",
+                "archival_data": [
+                    "1498066"
+                ]
+            },
+            "volume": null,
+            "page": "p 9",
+            "year": "2012",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2000129",
+                "legacy_id": "451368",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        }
+    ]
+}

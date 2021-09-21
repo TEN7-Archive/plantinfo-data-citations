@@ -1,0 +1,61 @@
+{
+    "name": "Horticulture Week. April 8, 2004.",
+    "machine_name": "horticulture_week_april_8_2004",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1687886",
+        "legacy_id": "58169",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Horticulture Week. April 8, 2004. p 17",
+            "machine_name": "horticulture_week_april_8_2004_p_17",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "anemone_coronaria",
+                "type": "species",
+                "archival_data": [
+                    "1399099"
+                ]
+            },
+            "volume": null,
+            "page": "p 17",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1934118",
+                "legacy_id": "279410",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        }
+    ]
+}

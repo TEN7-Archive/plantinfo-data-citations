@@ -1,0 +1,143 @@
+{
+    "name": "American Iris Society, Bulletin. vol 63, no. 4. (1982)",
+    "machine_name": "american_iris_society_bulletin_vol_63_no_4_1982",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1982",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2111819",
+        "legacy_id": "373",
+        "author": "oitadmin",
+        "created": "1473951060"
+    },
+    "citation_reference_items": [
+        {
+            "name": "American Iris Society, Bulletin. vol 63, no. 4. (no. 247). (1982) p backcover (Adv.)",
+            "machine_name": "american_iris_society_bulletin_vol_63_no_4_no_247_1982_p_backcover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "iris_cultivars_clara_goula",
+                "type": "variety",
+                "archival_data": [
+                    "1479147"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover (Adv.)",
+            "year": "1982",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1724655",
+                "legacy_id": "23831",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "American Iris Society, Bulletin. vol 63, no. 4. (no. 247). (1982) p cover",
+            "machine_name": "american_iris_society_bulletin_vol_63_no_4_no_247_1982_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "iris_cultivars_vanity",
+                "type": "variety",
+                "archival_data": [
+                    "1478325"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1982",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1727677",
+                "legacy_id": "25842",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "American Iris Society, Bulletin. vol 63, no. 4. (no. 247). (1982) p inside cover (Adv.)",
+            "machine_name": "american_iris_society_bulletin_vol_63_no_4_no_247_1982_p_inside_cover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "iris_cultivars_point_breeze",
+                "type": "variety",
+                "archival_data": [
+                    "1476850"
+                ]
+            },
+            "volume": null,
+            "page": "p inside cover (Adv.)",
+            "year": "1982",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1729864",
+                "legacy_id": "25129",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        }
+    ]
+}

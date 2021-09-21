@@ -1,0 +1,184 @@
+{
+    "name": "Cornell Plantations. vol 56, no. 2. (2001)",
+    "machine_name": "cornell_plantations_vol_56_no_2_2001",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2001",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2117161",
+        "legacy_id": "27609",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Cornell Plantations. vol 56, no. 2. (2001) p 6-7;12",
+            "machine_name": "cornell_plantations_vol_56_no_2_2001_p_6_7_12",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cornus_florida",
+                "type": "species",
+                "archival_data": [
+                    "1405321"
+                ]
+            },
+            "volume": null,
+            "page": "p 6-7;12",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1884839",
+                "legacy_id": "217930",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Cornell Plantations. vol 56, no. 2. (2001) p 8-9",
+            "machine_name": "cornell_plantations_vol_56_no_2_2001_p_8_9",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cornus_canadensis",
+                "type": "species",
+                "archival_data": [
+                    "1405316"
+                ]
+            },
+            "volume": null,
+            "page": "p 8-9",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1884840",
+                "legacy_id": "217931",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Cornell Plantations. vol 56, no. 2. (2001) p 10",
+            "machine_name": "cornell_plantations_vol_56_no_2_2001_p_10",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cornus_racemosa",
+                "type": "species",
+                "archival_data": [
+                    "1405331"
+                ]
+            },
+            "volume": null,
+            "page": "p 10",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1884841",
+                "legacy_id": "217932",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Cornell Plantations. vol 56, no. 2. (2001) p 11;backcover",
+            "machine_name": "cornell_plantations_vol_56_no_2_2001_p_11_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cornus_mas",
+                "type": "species",
+                "archival_data": [
+                    "1405325"
+                ]
+            },
+            "volume": null,
+            "page": "p 11;backcover",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1884842",
+                "legacy_id": "217933",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        }
+    ]
+}

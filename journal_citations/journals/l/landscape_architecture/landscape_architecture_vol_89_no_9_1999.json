@@ -1,0 +1,102 @@
+{
+    "name": "Landscape Architecture. vol 89, no. 9. (1999)",
+    "machine_name": "landscape_architecture_vol_89_no_9_1999",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1999",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2115768",
+        "legacy_id": "7750",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Landscape Architecture. vol 89, no. 9. (1999) p 98-101",
+            "machine_name": "landscape_architecture_vol_89_no_9_1999_p_98_101",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "populus_tremuloides",
+                "type": "species",
+                "archival_data": [
+                    "1422779"
+                ]
+            },
+            "volume": null,
+            "page": "p 98-101",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1857335",
+                "legacy_id": "164698",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Landscape Architecture. vol 89, no. 9. (1999) p 203 (Adv.)",
+            "machine_name": "landscape_architecture_vol_89_no_9_1999_p_203_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "acer_cultivars_norwegian_sunset",
+                "type": "variety",
+                "archival_data": [
+                    "1466354"
+                ]
+            },
+            "volume": null,
+            "page": "p 203 (Adv.)",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1857336",
+                "legacy_id": "164699",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        }
+    ]
+}

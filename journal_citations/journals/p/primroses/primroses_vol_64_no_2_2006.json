@@ -1,0 +1,225 @@
+{
+    "name": "Primroses. vol 64, no. 2. (2006)",
+    "machine_name": "primroses_vol_64_no_2_2006",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2006",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2119104",
+        "legacy_id": "77889",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Primroses. vol 64, no. 2. (2006) p 19",
+            "machine_name": "primroses_vol_64_no_2_2006_p_19",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "primula_denticulata",
+                "type": "species",
+                "archival_data": [
+                    "1423876"
+                ]
+            },
+            "volume": null,
+            "page": "p 19",
+            "year": "2006",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1923004",
+                "legacy_id": "333273",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "Primroses. vol 64, no. 2. (2006) p 20",
+            "machine_name": "primroses_vol_64_no_2_2006_p_20",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "primula_capitata",
+                "type": "species",
+                "archival_data": [
+                    "1423857"
+                ]
+            },
+            "volume": null,
+            "page": "p 20",
+            "year": "2006",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1923005",
+                "legacy_id": "333274",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "Primroses. vol 64, no. 2. (2006) p 21",
+            "machine_name": "primroses_vol_64_no_2_2006_p_21",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "primula_denticulata_alba",
+                "type": "variety",
+                "archival_data": [
+                    "1488092"
+                ]
+            },
+            "volume": null,
+            "page": "p 21",
+            "year": "2006",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1923006",
+                "legacy_id": "333275",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "Primroses. vol 64, no. 2. (2006) p 22-23",
+            "machine_name": "primroses_vol_64_no_2_2006_p_22_23",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "primula_vialii",
+                "type": "species",
+                "archival_data": [
+                    "1424586"
+                ]
+            },
+            "volume": null,
+            "page": "p 22-23",
+            "year": "2006",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1923007",
+                "legacy_id": "333276",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "Primroses. vol 64, no. 2. (2006) p 24",
+            "machine_name": "primroses_vol_64_no_2_2006_p_24",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "primula_veris",
+                "type": "species",
+                "archival_data": [
+                    "1424584"
+                ]
+            },
+            "volume": null,
+            "page": "p 24",
+            "year": "2006",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1923008",
+                "legacy_id": "333277",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        }
+    ]
+}

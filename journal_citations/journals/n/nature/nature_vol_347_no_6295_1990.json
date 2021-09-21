@@ -1,0 +1,102 @@
+{
+    "name": "Nature. vol 347, no. 6295. (1990)",
+    "machine_name": "nature_vol_347_no_6295_1990",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1990",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2110624",
+        "legacy_id": "4757",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Nature. vol 347, no. 6295. (1990) p 739",
+            "machine_name": "nature_vol_347_no_6295_1990_p_739",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "brassica_rapa_c_drakkar",
+                "type": "variety",
+                "archival_data": [
+                    "1465479"
+                ]
+            },
+            "volume": null,
+            "page": "p 739",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1710215",
+                "legacy_id": "4298",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Nature. vol 347, no. 6295. (1990) p cover| 739",
+            "machine_name": "nature_vol_347_no_6295_1990_p_cover_739",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "nicotiana_tabacum",
+                "type": "species",
+                "archival_data": [
+                    "1417936"
+                ]
+            },
+            "volume": null,
+            "page": "p cover| 739",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1813888",
+                "legacy_id": "115560",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        }
+    ]
+}

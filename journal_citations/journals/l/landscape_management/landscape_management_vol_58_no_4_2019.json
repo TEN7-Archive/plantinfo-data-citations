@@ -1,0 +1,61 @@
+{
+    "name": "Landscape Management. vol 58, no. 4. (2019)",
+    "machine_name": "landscape_management_vol_58_no_4_2019",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2019",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": "7",
+    "description": null,
+    "archival_data": {
+        "id": "2514321",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1557232263"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Landscape Management. vol 58, no. 4. (2019) p 32",
+            "machine_name": "landscape_management_vol_58_no_4_2019_p_32",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "trifolium_repens",
+                "type": "species",
+                "archival_data": [
+                    "1433139"
+                ]
+            },
+            "volume": null,
+            "page": "p 32",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2514326",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1557232481"
+            }
+        }
+    ]
+}

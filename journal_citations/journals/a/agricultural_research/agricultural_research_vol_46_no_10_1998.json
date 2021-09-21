@@ -1,0 +1,61 @@
+{
+    "name": "Agricultural Research. vol 46, no. 10. (1998)",
+    "machine_name": "agricultural_research_vol_46_no_10_1998",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1998",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2115122",
+        "legacy_id": "6589",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Agricultural Research. vol 46, no. 10. (1998) p 21",
+            "machine_name": "agricultural_research_vol_46_no_10_1998_p_21",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "camellia_oleifera_lu_shan_snow",
+                "type": "variety",
+                "archival_data": [
+                    "1465679"
+                ]
+            },
+            "volume": null,
+            "page": "p 21",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1845072",
+                "legacy_id": "150161",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        }
+    ]
+}

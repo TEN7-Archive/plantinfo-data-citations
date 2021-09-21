@@ -1,0 +1,61 @@
+{
+    "name": "Landscape Architecture. vol 90, no. 8. (2000)",
+    "machine_name": "landscape_architecture_vol_90_no_8_2000",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2000",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2116356",
+        "legacy_id": "14990",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Landscape Architecture. vol 90, no. 8. (2000) p 105 (Adv.)",
+            "machine_name": "landscape_architecture_vol_90_no_8_2000_p_105_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "acer_cultivars_norwegian_sunset",
+                "type": "variety",
+                "archival_data": [
+                    "1466354"
+                ]
+            },
+            "volume": null,
+            "page": "p 105 (Adv.)",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1869441",
+                "legacy_id": "195150",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        }
+    ]
+}

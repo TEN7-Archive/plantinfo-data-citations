@@ -1,0 +1,102 @@
+{
+    "name": "Sunset. August 1997.",
+    "machine_name": "sunset_august_1997",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1679635",
+        "legacy_id": "7118",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Sunset. August 1997. p 80-81",
+            "machine_name": "sunset_august_1997_p_80_81",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "dahlia_cultivars_orange_julius",
+                "type": "variety",
+                "archival_data": [
+                    "1658690"
+                ]
+            },
+            "volume": null,
+            "page": "p 80-81",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1851103",
+                "legacy_id": "156723",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Sunset. August 1997. p 81",
+            "machine_name": "sunset_august_1997_p_81",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "dahlia_cultivars_purple_gem",
+                "type": "variety",
+                "archival_data": [
+                    "1468142"
+                ]
+            },
+            "volume": null,
+            "page": "p 81",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1851104",
+                "legacy_id": "156724",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "name": "American Fruit Grower. vol 134, no. 8. (2014)",
+    "machine_name": "american_fruit_grower_vol_134_no_8_2014",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2014",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": "7",
+    "description": null,
+    "archival_data": {
+        "id": "2217221",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1516909506"
+    },
+    "citation_reference_items": [
+        {
+            "name": "American Fruit Grower. vol 134, no. 8. (2014) p 7 (Adv.)",
+            "machine_name": "american_fruit_grower_vol_134_no_8_2014_p_7_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "malus_a_cultivars_honeycrisp",
+                "type": "variety",
+                "archival_data": [
+                    "1478493"
+                ]
+            },
+            "volume": null,
+            "page": "p 7 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2217226",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1516909648"
+            }
+        },
+        {
+            "name": "American Fruit Grower. vol 134, no. 8. (2014) p 30",
+            "machine_name": "american_fruit_grower_vol_134_no_8_2014_p_30",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "malus_a_cultivars_cosmic_crisp",
+                "type": "variety",
+                "archival_data": [
+                    "2207451"
+                ]
+            },
+            "volume": null,
+            "page": "p 30",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2217231",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1516909648"
+            }
+        }
+    ]
+}

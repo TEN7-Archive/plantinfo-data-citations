@@ -1,0 +1,61 @@
+{
+    "name": "Nature. vol 411, no. 6838. (2001)",
+    "machine_name": "nature_vol_411_no_6838_2001",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2001",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2116896",
+        "legacy_id": "25129",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Nature. vol 411, no. 6838. (2001) p 653",
+            "machine_name": "nature_vol_411_no_6838_2001_p_653",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "impatiens_glandulifera",
+                "type": "species",
+                "archival_data": [
+                    "1416473"
+                ]
+            },
+            "volume": null,
+            "page": "p 653",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1880065",
+                "legacy_id": "213090",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        }
+    ]
+}

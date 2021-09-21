@@ -1,0 +1,184 @@
+{
+    "name": "Flower & Garden. vol 42, no. 6. (1998)",
+    "machine_name": "flower_garden_vol_42_no_6_1998",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1998",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114922",
+        "legacy_id": "6622",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Flower & Garden. vol 42, no. 6. (1998) p 9 (Adv.)",
+            "machine_name": "flower_garden_vol_42_no_6_1998_p_9_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_frederic_mistral",
+                "type": "variety",
+                "archival_data": [
+                    "1536340"
+                ]
+            },
+            "volume": null,
+            "page": "p 9 (Adv.)",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1842013",
+                "legacy_id": "150635",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Flower & Garden. vol 42, no. 6. (1998) p 26-27",
+            "machine_name": "flower_garden_vol_42_no_6_1998_p_26_27",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pinus_thunbergii",
+                "type": "species",
+                "archival_data": [
+                    "1425625"
+                ]
+            },
+            "volume": null,
+            "page": "p 26-27",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1842014",
+                "legacy_id": "150636",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Flower & Garden. vol 42, no. 6. (1998) p 39",
+            "machine_name": "flower_garden_vol_42_no_6_1998_p_39",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "sanguinaria_canadensis_flore_pleno_multiplex",
+                "type": "variety",
+                "archival_data": [
+                    "1491276"
+                ]
+            },
+            "volume": null,
+            "page": "p 39",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1842015",
+                "legacy_id": "150637",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Flower & Garden. vol 42, no. 6. (1998) p 40",
+            "machine_name": "flower_garden_vol_42_no_6_1998_p_40",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pediocactus_simpsonii",
+                "type": "species",
+                "archival_data": [
+                    "1426632"
+                ]
+            },
+            "volume": null,
+            "page": "p 40",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1842016",
+                "legacy_id": "150638",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        }
+    ]
+}

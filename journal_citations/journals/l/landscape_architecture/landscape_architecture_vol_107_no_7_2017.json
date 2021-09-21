@@ -1,0 +1,102 @@
+{
+    "name": "Landscape Architecture. vol 107, no. 7. (2017)",
+    "machine_name": "landscape_architecture_vol_107_no_7_2017",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2017",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": "7",
+    "description": null,
+    "archival_data": {
+        "id": "2270191",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1520694564"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Landscape Architecture. vol 107, no. 7. (2017) p 63 (Adv.)",
+            "machine_name": "landscape_architecture_vol_107_no_7_2017_p_63_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "spiraea_cultivars_double_play_series",
+                "type": "variety",
+                "archival_data": [
+                    "1619077"
+                ]
+            },
+            "volume": null,
+            "page": "p 63 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2270196",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1520694989"
+            }
+        },
+        {
+            "name": "Landscape Architecture. vol 107, no. 7. (2017) p 144",
+            "machine_name": "landscape_architecture_vol_107_no_7_2017_p_144",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pinus_palustris",
+                "type": "species",
+                "archival_data": [
+                    "1425317"
+                ]
+            },
+            "volume": null,
+            "page": "p 144",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2270201",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1520694989"
+            }
+        }
+    ]
+}

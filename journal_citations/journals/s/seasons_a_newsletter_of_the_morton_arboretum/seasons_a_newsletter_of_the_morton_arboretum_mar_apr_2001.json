@@ -1,0 +1,184 @@
+{
+    "name": "Seasons: A Newsletter of The Morton Arboretum. Mar\/Apr. 2001.",
+    "machine_name": "seasons_a_newsletter_of_the_morton_arboretum_mar_apr_2001",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1682762",
+        "legacy_id": "20893",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Seasons: A Newsletter of The Morton Arboretum. Mar\/Apr. 2001. p cover",
+            "machine_name": "seasons_a_newsletter_of_the_morton_arboretum_mar_apr_2001_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "malus_floribunda",
+                "type": "species",
+                "archival_data": [
+                    "1415916"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1879183",
+                "legacy_id": "205834",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Seasons: A Newsletter of The Morton Arboretum. Mar\/Apr. 2001. p 8-9",
+            "machine_name": "seasons_a_newsletter_of_the_morton_arboretum_mar_apr_2001_p_8_9",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cornus_mas",
+                "type": "species",
+                "archival_data": [
+                    "1405325"
+                ]
+            },
+            "volume": null,
+            "page": "p 8-9",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1879184",
+                "legacy_id": "205835",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Seasons: A Newsletter of The Morton Arboretum. Mar\/Apr. 2001. p 10",
+            "machine_name": "seasons_a_newsletter_of_the_morton_arboretum_mar_apr_2001_p_10",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "malus_ioensis",
+                "type": "species",
+                "archival_data": [
+                    "1415920"
+                ]
+            },
+            "volume": null,
+            "page": "p 10",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1879185",
+                "legacy_id": "205836",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Seasons: A Newsletter of The Morton Arboretum. Mar\/Apr. 2001. p backcover",
+            "machine_name": "seasons_a_newsletter_of_the_morton_arboretum_mar_apr_2001_p_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "mertensia_virginica",
+                "type": "species",
+                "archival_data": [
+                    "1419758"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1879186",
+                "legacy_id": "205837",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        }
+    ]
+}

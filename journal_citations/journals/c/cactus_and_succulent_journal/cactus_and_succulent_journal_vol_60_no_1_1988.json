@@ -1,0 +1,143 @@
+{
+    "name": "Cactus and Succulent Journal. vol 60, no. 1. (1988)",
+    "machine_name": "cactus_and_succulent_journal_vol_60_no_1_1988",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1988",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113598",
+        "legacy_id": "1839",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Cactus and Succulent Journal. vol 60, no. 1. (1988) p 4, Pl. 2.",
+            "machine_name": "cactus_and_succulent_journal_vol_60_no_1_1988_p_4_pl_2",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "adenia_ballyi",
+                "type": "species",
+                "archival_data": [
+                    "1398959"
+                ]
+            },
+            "volume": null,
+            "page": "p 4, Pl. 2.",
+            "year": "1988",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1768807",
+                "legacy_id": "68740",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 60, no. 1. (1988) p 11, Pl. 4.",
+            "machine_name": "cactus_and_succulent_journal_vol_60_no_1_1988_p_11_pl_4",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "opuntia_macrocentra",
+                "type": "species",
+                "archival_data": [
+                    "1421811"
+                ]
+            },
+            "volume": null,
+            "page": "p 11, Pl. 4.",
+            "year": "1988",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1814312",
+                "legacy_id": "116992",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 60, no. 1. (1988) p cover| p 4, Pl. 1.",
+            "machine_name": "cactus_and_succulent_journal_vol_60_no_1_1988_p_cover_p_4_pl_1",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "white_sloanea_crassa",
+                "type": "species",
+                "archival_data": [
+                    "1437952"
+                ]
+            },
+            "volume": null,
+            "page": "p cover| p 4, Pl. 1.",
+            "year": "1988",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": true,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1833152",
+                "legacy_id": "141745",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        }
+    ]
+}

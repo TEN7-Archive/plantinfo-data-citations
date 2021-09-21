@@ -1,0 +1,61 @@
+{
+    "name": "Horticulture Week. Suppl.: Plant Suppliers Guide 2001.",
+    "machine_name": "horticulture_week_suppl_plant_suppliers_guide_2001",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1687011",
+        "legacy_id": "85989",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Horticulture Week. Suppl.: Plant Suppliers Guide 2001. p 8 (Adv.)",
+            "machine_name": "horticulture_week_suppl_plant_suppliers_guide_2001_p_8_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "verbena_cultivars_freefall",
+                "type": "variety",
+                "archival_data": [
+                    "1533599"
+                ]
+            },
+            "volume": null,
+            "page": "p 8 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1952834",
+                "legacy_id": "351712",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        }
+    ]
+}

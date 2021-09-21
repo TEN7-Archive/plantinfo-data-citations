@@ -1,0 +1,61 @@
+{
+    "name": "Discover. vol 26, no. 8. (2005)",
+    "machine_name": "discover_vol_26_no_8_2005",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2005",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2121725",
+        "legacy_id": "69290",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Discover. vol 26, no. 8. (2005) p 52",
+            "machine_name": "discover_vol_26_no_8_2005_p_52",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "artemisia_annua",
+                "type": "species",
+                "archival_data": [
+                    "1402555"
+                ]
+            },
+            "volume": null,
+            "page": "p 52",
+            "year": "2005",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1993787",
+                "legacy_id": "310270",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        }
+    ]
+}

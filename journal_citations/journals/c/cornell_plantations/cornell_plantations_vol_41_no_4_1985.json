@@ -1,0 +1,61 @@
+{
+    "name": "Cornell Plantations. vol 41, no. 4. (1985)",
+    "machine_name": "cornell_plantations_vol_41_no_4_1985",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1985",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114326",
+        "legacy_id": "1993",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Cornell Plantations. vol 41, no. 4. (1985) p cover",
+            "machine_name": "cornell_plantations_vol_41_no_4_1985_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "gladiolus_juncifolius",
+                "type": "species",
+                "archival_data": [
+                    "1435499"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1985",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1808091",
+                "legacy_id": "111368",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        }
+    ]
+}

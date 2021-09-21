@@ -1,0 +1,184 @@
+{
+    "name": "Lien Horticole. no. 791. (2012)",
+    "machine_name": "lien_horticole_no_791_2012",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2012",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2122038",
+        "legacy_id": "120529",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Lien Horticole. no. 791. (2012) p 4 (Adv.)",
+            "machine_name": "lien_horticole_no_791_2012_p_4_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "viola_wittrockiana_matrix_series",
+                "type": "variety",
+                "archival_data": [
+                    "1615385"
+                ]
+            },
+            "volume": null,
+            "page": "p 4 (Adv.)",
+            "year": "2012",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2000226",
+                "legacy_id": "455912",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Lien Horticole. no. 791. (2012) p 12",
+            "machine_name": "lien_horticole_no_791_2012_p_12",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lavandula_angustifolia_momparler",
+                "type": "variety",
+                "archival_data": [
+                    "1648110"
+                ]
+            },
+            "volume": null,
+            "page": "p 12",
+            "year": "2012",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2000227",
+                "legacy_id": "455913",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Lien Horticole. no. 791. (2012) p 12",
+            "machine_name": "lien_horticole_no_791_2012_p_12",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "iris_cultivars_piste_noire",
+                "type": "variety",
+                "archival_data": [
+                    "1655816"
+                ]
+            },
+            "volume": null,
+            "page": "p 12",
+            "year": "2012",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2000228",
+                "legacy_id": "455914",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Lien Horticole. no. 791. (2012) p 14",
+            "machine_name": "lien_horticole_no_791_2012_p_14",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "osmanthus_delavayi",
+                "type": "species",
+                "archival_data": [
+                    "1422929"
+                ]
+            },
+            "volume": null,
+            "page": "p 14",
+            "year": "2012",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2000488",
+                "legacy_id": "455915",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        }
+    ]
+}

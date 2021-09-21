@@ -1,0 +1,61 @@
+{
+    "name": "Nature. vol 413, no. 6853. (2001)",
+    "machine_name": "nature_vol_413_no_6853_2001",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2001",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2117016",
+        "legacy_id": "28269",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Nature. vol 413, no. 6853. (2001) p 265",
+            "machine_name": "nature_vol_413_no_6853_2001_p_265",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "utricularia_vulgaris",
+                "type": "species",
+                "archival_data": [
+                    "1428639"
+                ]
+            },
+            "volume": null,
+            "page": "p 265",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1882394",
+                "legacy_id": "219175",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        }
+    ]
+}

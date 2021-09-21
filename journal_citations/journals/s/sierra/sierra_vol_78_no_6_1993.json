@@ -1,0 +1,102 @@
+{
+    "name": "Sierra. vol 78, no. 6. (1993)",
+    "machine_name": "sierra_vol_78_no_6_1993",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1993",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113600",
+        "legacy_id": "5510",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Sierra. vol 78, no. 6. (1993) p 107",
+            "machine_name": "sierra_vol_78_no_6_1993_p_107",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "arbutus_menziesii",
+                "type": "species",
+                "archival_data": [
+                    "1401054"
+                ]
+            },
+            "volume": null,
+            "page": "p 107",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": true,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1769007",
+                "legacy_id": "72790",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Sierra. vol 78, no. 6. (1993) p 3",
+            "machine_name": "sierra_vol_78_no_6_1993_p_3",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "carnegiea_gigantea",
+                "type": "species",
+                "archival_data": [
+                    "1408533"
+                ]
+            },
+            "volume": null,
+            "page": "p 3",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1779080",
+                "legacy_id": "79578",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        }
+    ]
+}

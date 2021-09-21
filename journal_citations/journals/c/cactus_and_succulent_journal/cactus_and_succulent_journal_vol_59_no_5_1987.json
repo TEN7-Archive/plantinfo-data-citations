@@ -1,0 +1,184 @@
+{
+    "name": "Cactus and Succulent Journal. vol 59, no. 5. (1987)",
+    "machine_name": "cactus_and_succulent_journal_vol_59_no_5_1987",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1987",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114022",
+        "legacy_id": "1837",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Cactus and Succulent Journal. vol 59, no. 5. (1987) p 188, Pl. 2-4.",
+            "machine_name": "cactus_and_succulent_journal_vol_59_no_5_1987_p_188_pl_2_4",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "dudleya_rigida",
+                "type": "species",
+                "archival_data": [
+                    "1406264"
+                ]
+            },
+            "volume": null,
+            "page": "p 188, Pl. 2-4.",
+            "year": "1987",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1788645",
+                "legacy_id": "90826",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 59, no. 5. (1987) p 211, Pl. 5.",
+            "machine_name": "cactus_and_succulent_journal_vol_59_no_5_1987_p_211_pl_5",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "euphorbia_millotii",
+                "type": "species",
+                "archival_data": [
+                    "1411063"
+                ]
+            },
+            "volume": null,
+            "page": "p 211, Pl. 5.",
+            "year": "1987",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1789906",
+                "legacy_id": "95932",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 59, no. 5. (1987) p 211, Pl. 4.",
+            "machine_name": "cactus_and_succulent_journal_vol_59_no_5_1987_p_211_pl_4",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "euphorbia_ankarensis",
+                "type": "species",
+                "archival_data": [
+                    "1409908"
+                ]
+            },
+            "volume": null,
+            "page": "p 211, Pl. 4.",
+            "year": "1987",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1792745",
+                "legacy_id": "95352",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 59, no. 5. (1987) p 206-07, Pl. 2-3.",
+            "machine_name": "cactus_and_succulent_journal_vol_59_no_5_1987_p_206_07_pl_2_3",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "monadenium_schaijesii",
+                "type": "species",
+                "archival_data": [
+                    "1421214"
+                ]
+            },
+            "volume": null,
+            "page": "p 206-07, Pl. 2-3.",
+            "year": "1987",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1807583",
+                "legacy_id": "113852",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "name": "New England Wild Flower. vol 4, no. 1. (2000)",
+    "machine_name": "new_england_wild_flower_vol_4_no_1_2000",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2000",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2116024",
+        "legacy_id": "9509",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "New England Wild Flower. vol 4, no. 1. (2000) p cover",
+            "machine_name": "new_england_wild_flower_vol_4_no_1_2000_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cypripedium_parviflorum",
+                "type": "species",
+                "archival_data": [
+                    "1404234"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1861794",
+                "legacy_id": "174831",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "New England Wild Flower. vol 4, no. 1. (2000) p backcover",
+            "machine_name": "new_england_wild_flower_vol_4_no_1_2000_p_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "viola_pedata",
+                "type": "species",
+                "archival_data": [
+                    "1436878"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1861796",
+                "legacy_id": "174830",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        }
+    ]
+}

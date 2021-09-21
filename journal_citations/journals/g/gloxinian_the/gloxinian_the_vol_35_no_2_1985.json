@@ -1,0 +1,143 @@
+{
+    "name": "Gloxinian, The. vol 35, no. 2. (1985)",
+    "machine_name": "gloxinian_the_vol_35_no_2_1985",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1985",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2110638",
+        "legacy_id": "3114",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Gloxinian, The. vol 35, no. 2. (1985) p 18",
+            "machine_name": "gloxinian_the_vol_35_no_2_1985_p_18",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "codonanthe_digna_frances_batcheller",
+                "type": "variety",
+                "archival_data": [
+                    "1470415"
+                ]
+            },
+            "volume": null,
+            "page": "p 18",
+            "year": "1985",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1710406",
+                "legacy_id": "8314",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Gloxinian, The. vol 35, no. 2. (1985) p 19",
+            "machine_name": "gloxinian_the_vol_35_no_2_1985_p_19",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "codonanthe_gracilis",
+                "type": "species",
+                "archival_data": [
+                    "1409383"
+                ]
+            },
+            "volume": null,
+            "page": "p 19",
+            "year": "1985",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1778300",
+                "legacy_id": "83366",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Gloxinian, The. vol 35, no. 2. (1985)  p cover",
+            "machine_name": "gloxinian_the_vol_35_no_2_1985_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "codonanthe_picta",
+                "type": "species",
+                "archival_data": [
+                    "1409384"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2573126",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1571660472"
+            }
+        }
+    ]
+}

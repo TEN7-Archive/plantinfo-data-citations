@@ -1,0 +1,61 @@
+{
+    "name": "Natural History. vol 102, no. 2. (1993)",
+    "machine_name": "natural_history_vol_102_no_2_1993",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1993",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114030",
+        "legacy_id": "4633",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Natural History. vol 102, no. 2. (1993) p 4",
+            "machine_name": "natural_history_vol_102_no_2_1993_p_4",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "elaeagnus_umbellata",
+                "type": "species",
+                "archival_data": [
+                    "1413164"
+                ]
+            },
+            "volume": null,
+            "page": "p 4",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1788989",
+                "legacy_id": "91525",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        }
+    ]
+}

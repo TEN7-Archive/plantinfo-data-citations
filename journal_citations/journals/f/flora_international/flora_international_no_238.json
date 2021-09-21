@@ -1,0 +1,61 @@
+{
+    "name": "Flora International. no. 238.",
+    "machine_name": "flora_international_no_238",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1691454",
+        "legacy_id": "125336",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Flora International. no. 238. p 29-31",
+            "machine_name": "flora_international_no_238_p_29_31",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "garrya_elliptica",
+                "type": "species",
+                "archival_data": [
+                    "1409971"
+                ]
+            },
+            "volume": null,
+            "page": "p 29-31",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2020710",
+                "legacy_id": "485983",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        }
+    ]
+}

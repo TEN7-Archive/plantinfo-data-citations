@@ -1,0 +1,61 @@
+{
+    "name": "Agricultural Research. vol 53, no. 11. (2005)",
+    "machine_name": "agricultural_research_vol_53_no_11_2005",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2005",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2121788",
+        "legacy_id": "68269",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Agricultural Research. vol 53, no. 11. (2005) p 14",
+            "machine_name": "agricultural_research_vol_53_no_11_2005_p_14",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hydrilla_verticillata",
+                "type": "species",
+                "archival_data": [
+                    "1420985"
+                ]
+            },
+            "volume": null,
+            "page": "p 14",
+            "year": "2005",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1995894",
+                "legacy_id": "307420",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "name": "Plantsman, The. vol 4, no. 2. (1982)",
+    "machine_name": "plantsman_the_vol_4_no_2_1982",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1982",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2112523",
+        "legacy_id": "5271",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Plantsman, The. vol 4, no. 2. (1982) p facing 65",
+            "machine_name": "plantsman_the_vol_4_no_2_1982_p_facing_65",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pieris_japonica_blush",
+                "type": "variety",
+                "archival_data": [
+                    "1490432"
+                ]
+            },
+            "volume": null,
+            "page": "p facing 65",
+            "year": "1982",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1739667",
+                "legacy_id": "39356",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483154438"
+            }
+        }
+    ]
+}

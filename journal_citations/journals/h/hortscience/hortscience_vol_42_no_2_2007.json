@@ -1,0 +1,143 @@
+{
+    "name": "HortScience. vol 42, no. 2. (2007)",
+    "machine_name": "hortscience_vol_42_no_2_2007",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2007",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2121062",
+        "legacy_id": "80890",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "HortScience. vol 42, no. 2. (2007) p cover",
+            "machine_name": "hortscience_vol_42_no_2_2007_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pyrus_cultivars_hanhong",
+                "type": "variety",
+                "archival_data": [
+                    "1605342"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "2007",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1974750",
+                "legacy_id": "339689",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        },
+        {
+            "name": "HortScience. vol 42, no. 2. (2007) p 223",
+            "machine_name": "hortscience_vol_42_no_2_2007_p_223",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "capsicum_h_cultivars_bhut_jolokia",
+                "type": "variety",
+                "archival_data": [
+                    "1605343"
+                ]
+            },
+            "volume": null,
+            "page": "p 223",
+            "year": "2007",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1974751",
+                "legacy_id": "339690",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        },
+        {
+            "name": "HortScience. vol 42, no. 2. (2007) p 395",
+            "machine_name": "hortscience_vol_42_no_2_2007_p_395",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rubus_r_cultivars_cascade_bounty",
+                "type": "variety",
+                "archival_data": [
+                    "1605346"
+                ]
+            },
+            "volume": null,
+            "page": "p 395",
+            "year": "2007",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1975009",
+                "legacy_id": "339712",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        }
+    ]
+}

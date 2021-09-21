@@ -1,0 +1,717 @@
+{
+    "name": "Curtis's Botanical Magazine. vol 25, no. 1. (2008)",
+    "machine_name": "curtis_s_botanical_magazine_vol_25_no_1_2008",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2008",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2119183",
+        "legacy_id": "94689",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Curtis's Botanical Magazine. vol 25, no. 1. (2008) p 5",
+            "machine_name": "curtis_s_botanical_magazine_vol_25_no_1_2008_p_5",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "biarum_carduchorum",
+                "type": "species",
+                "archival_data": [
+                    "1452770"
+                ]
+            },
+            "volume": null,
+            "page": "p 5",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1925314",
+                "legacy_id": "374432",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "Curtis's Botanical Magazine. vol 25, no. 1. (2008) p 23",
+            "machine_name": "curtis_s_botanical_magazine_vol_25_no_1_2008_p_23",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "biarum_tenuifolium_abbreviatum",
+                "type": "variety",
+                "archival_data": [
+                    "1464682"
+                ]
+            },
+            "volume": null,
+            "page": "p 23",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1925316",
+                "legacy_id": "374434",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "Curtis's Botanical Magazine. vol 25, no. 1. (2008) p 27",
+            "machine_name": "curtis_s_botanical_magazine_vol_25_no_1_2008_p_27",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "biarum_tenuifolium_arundanum",
+                "type": "variety",
+                "archival_data": [
+                    "1592615"
+                ]
+            },
+            "volume": null,
+            "page": "p 27",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1925317",
+                "legacy_id": "374435",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "Curtis's Botanical Magazine. vol 25, no. 1. (2008) p 29",
+            "machine_name": "curtis_s_botanical_magazine_vol_25_no_1_2008_p_29",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "biarum_tenuifolium_tenuifolium",
+                "type": "variety",
+                "archival_data": [
+                    "1592616"
+                ]
+            },
+            "volume": null,
+            "page": "p 29",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1925318",
+                "legacy_id": "374436",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "Curtis's Botanical Magazine. vol 25, no. 1. (2008) p 31",
+            "machine_name": "curtis_s_botanical_magazine_vol_25_no_1_2008_p_31",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "biarum_tenuifolium_idomenaeum",
+                "type": "variety",
+                "archival_data": [
+                    "1592617"
+                ]
+            },
+            "volume": null,
+            "page": "p 31",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1925319",
+                "legacy_id": "374437",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "Curtis's Botanical Magazine. vol 25, no. 1. (2008) p 39",
+            "machine_name": "curtis_s_botanical_magazine_vol_25_no_1_2008_p_39",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "biarum_rhopalospadix",
+                "type": "species",
+                "archival_data": [
+                    "1452771"
+                ]
+            },
+            "volume": null,
+            "page": "p 39",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1925320",
+                "legacy_id": "374438",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "Curtis's Botanical Magazine. vol 25, no. 1. (2008) p 57; 59; 61",
+            "machine_name": "curtis_s_botanical_magazine_vol_25_no_1_2008_p_57_59_61",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "biarum_crispulum",
+                "type": "species",
+                "archival_data": [
+                    "1452772"
+                ]
+            },
+            "volume": null,
+            "page": "p 57; 59; 61",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1925321",
+                "legacy_id": "374439",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "Curtis's Botanical Magazine. vol 25, no. 1. (2008) p 63",
+            "machine_name": "curtis_s_botanical_magazine_vol_25_no_1_2008_p_63",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "biarum_dispar",
+                "type": "species",
+                "archival_data": [
+                    "1452773"
+                ]
+            },
+            "volume": null,
+            "page": "p 63",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1925322",
+                "legacy_id": "374440",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "Curtis's Botanical Magazine. vol 25, no. 1. (2008) p 69",
+            "machine_name": "curtis_s_botanical_magazine_vol_25_no_1_2008_p_69",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "biarum_olivieri",
+                "type": "species",
+                "archival_data": [
+                    "1452774"
+                ]
+            },
+            "volume": null,
+            "page": "p 69",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1925323",
+                "legacy_id": "374441",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "Curtis's Botanical Magazine. vol 25, no. 1. (2008) p 79",
+            "machine_name": "curtis_s_botanical_magazine_vol_25_no_1_2008_p_79",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "biarum_carratracense",
+                "type": "species",
+                "archival_data": [
+                    "1448113"
+                ]
+            },
+            "volume": null,
+            "page": "p 79",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1925324",
+                "legacy_id": "374442",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "Curtis's Botanical Magazine. vol 25, no. 1. (2008) p 83; 87",
+            "machine_name": "curtis_s_botanical_magazine_vol_25_no_1_2008_p_83_87",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "biarum_kotschyi",
+                "type": "species",
+                "archival_data": [
+                    "1452775"
+                ]
+            },
+            "volume": null,
+            "page": "p 83; 87",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1925325",
+                "legacy_id": "374443",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "Curtis's Botanical Magazine. vol 25, no. 1. (2008) p 89",
+            "machine_name": "curtis_s_botanical_magazine_vol_25_no_1_2008_p_89",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "biarum_fraasianum",
+                "type": "species",
+                "archival_data": [
+                    "1452776"
+                ]
+            },
+            "volume": null,
+            "page": "p 89",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1925326",
+                "legacy_id": "374444",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "Curtis's Botanical Magazine. vol 25, no. 1. (2008) p cover; 95",
+            "machine_name": "curtis_s_botanical_magazine_vol_25_no_1_2008_p_cover_95",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "biarum_pyrami_pyrami",
+                "type": "variety",
+                "archival_data": [
+                    "1592618"
+                ]
+            },
+            "volume": null,
+            "page": "p cover; 95",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1925327",
+                "legacy_id": "374445",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "Curtis's Botanical Magazine. vol 25, no. 1. (2008) p 103; 105",
+            "machine_name": "curtis_s_botanical_magazine_vol_25_no_1_2008_p_103_105",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "biarum_ditschianum",
+                "type": "species",
+                "archival_data": [
+                    "1401508"
+                ]
+            },
+            "volume": null,
+            "page": "p 103; 105",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": true,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "1925328",
+                "legacy_id": "374446",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "Curtis's Botanical Magazine. vol 25, no. 1. (2008) p 11; 109; 115",
+            "machine_name": "curtis_s_botanical_magazine_vol_25_no_1_2008_p_11_109_115",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "biarum_marmarisense",
+                "type": "species",
+                "archival_data": [
+                    "1449102"
+                ]
+            },
+            "volume": null,
+            "page": "p 11; 109; 115",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1925329",
+                "legacy_id": "374447",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "Curtis's Botanical Magazine. vol 25, no. 1. (2008) p 109; 111",
+            "machine_name": "curtis_s_botanical_magazine_vol_25_no_1_2008_p_109_111",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "biarum_davisii",
+                "type": "species",
+                "archival_data": [
+                    "1401507"
+                ]
+            },
+            "volume": null,
+            "page": "p 109; 111",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1925330",
+                "legacy_id": "374448",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "Curtis's Botanical Magazine. vol 25, no. 1. (2008) p 31",
+            "machine_name": "curtis_s_botanical_magazine_vol_25_no_1_2008_p_31",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "biarum_tenuifolium_zelebori",
+                "type": "variety",
+                "archival_data": [
+                    "1617564"
+                ]
+            },
+            "volume": null,
+            "page": "p 31",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2278861",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1522074744"
+            }
+        }
+    ]
+}

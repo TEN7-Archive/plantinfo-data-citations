@@ -1,0 +1,102 @@
+{
+    "name": "Lilacs. vol 22, no. 3. (1993)",
+    "machine_name": "lilacs_vol_22_no_3_1993",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1993",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113241",
+        "legacy_id": "4316",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Lilacs. vol 22, no. 3. (1993) p backcover",
+            "machine_name": "lilacs_vol_22_no_3_1993_p_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "syringa_hyacinthiflora_schneeweibschen_mount_baker",
+                "type": "variety",
+                "archival_data": [
+                    "1528821"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1761880",
+                "legacy_id": "57098",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Lilacs. vol 22, no. 3. (1993) p backcover",
+            "machine_name": "lilacs_vol_22_no_3_1993_p_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "syringa_oblata_birchwood",
+                "type": "variety",
+                "archival_data": [
+                    "1495385"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1762176",
+                "legacy_id": "57146",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        }
+    ]
+}

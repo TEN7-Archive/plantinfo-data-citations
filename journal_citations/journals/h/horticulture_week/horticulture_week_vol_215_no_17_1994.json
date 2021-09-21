@@ -1,0 +1,61 @@
+{
+    "name": "Horticulture Week. vol 215, no. 17. (1994)",
+    "machine_name": "horticulture_week_vol_215_no_17_1994",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1994",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2110844",
+        "legacy_id": "3867",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Horticulture Week. vol 215, no. 17. (1994) p 31",
+            "machine_name": "horticulture_week_vol_215_no_17_1994_p_31",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cupressus_sempervirens_stricta",
+                "type": "variety",
+                "archival_data": [
+                    "1469548"
+                ]
+            },
+            "volume": null,
+            "page": "p 31",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1711961",
+                "legacy_id": "10132",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        }
+    ]
+}

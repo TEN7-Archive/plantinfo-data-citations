@@ -1,0 +1,348 @@
+{
+    "name": "Curtis's Botanical Magazine. vol 36, no. 2. (2019)",
+    "machine_name": "curtis_s_botanical_magazine_vol_36_no_2_2019",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2019",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": "7",
+    "description": null,
+    "archival_data": {
+        "id": "2579531",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1573067196"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Curtis's Botanical Magazine. vol 36, no. 2. (2019)  p 105",
+            "machine_name": "curtis_s_botanical_magazine_vol_36_no_2_2019_p_105",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "fritillaria_mughlae",
+                "type": "species",
+                "archival_data": [
+                    "1461253"
+                ]
+            },
+            "volume": null,
+            "page": "p 105",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2579556",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1573068202"
+            }
+        },
+        {
+            "name": "Curtis's Botanical Magazine. vol 36, no. 2. (2019)  p 107",
+            "machine_name": "curtis_s_botanical_magazine_vol_36_no_2_2019_p_107",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pterostylis_repanda",
+                "type": "species",
+                "archival_data": [
+                    "2579536"
+                ]
+            },
+            "volume": null,
+            "page": "p 107",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2579561",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1573068202"
+            }
+        },
+        {
+            "name": "Curtis's Botanical Magazine. vol 36, no. 2. (2019)  p 97; 102",
+            "machine_name": "curtis_s_botanical_magazine_vol_36_no_2_2019_p_97_102",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "fritillaria_forbesii",
+                "type": "species",
+                "archival_data": [
+                    "1414166"
+                ]
+            },
+            "volume": null,
+            "page": "p 97; 102",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2579566",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1573068202"
+            }
+        },
+        {
+            "name": "Curtis's Botanical Magazine. vol 36, no. 2. (2019)  p 115",
+            "machine_name": "curtis_s_botanical_magazine_vol_36_no_2_2019_p_115",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cymbidium_sichuanicum",
+                "type": "species",
+                "archival_data": [
+                    "2355506"
+                ]
+            },
+            "volume": null,
+            "page": "p 115",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2579571",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1573068202"
+            }
+        },
+        {
+            "name": "Curtis's Botanical Magazine. vol 36, no. 2. (2019)  p 121",
+            "machine_name": "curtis_s_botanical_magazine_vol_36_no_2_2019_p_121",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "coelogyne_susanae",
+                "type": "species",
+                "archival_data": [
+                    "2579541"
+                ]
+            },
+            "volume": null,
+            "page": "p 121",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2579576",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1573068202"
+            }
+        },
+        {
+            "name": "Curtis's Botanical Magazine. vol 36, no. 2. (2019)  p 135",
+            "machine_name": "curtis_s_botanical_magazine_vol_36_no_2_2019_p_135",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "petrocosmea_thermopuncta",
+                "type": "species",
+                "archival_data": [
+                    "2579546"
+                ]
+            },
+            "volume": null,
+            "page": "p 135",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2579581",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1573068202"
+            }
+        },
+        {
+            "name": "Curtis's Botanical Magazine. vol 36, no. 2. (2019)  p 145",
+            "machine_name": "curtis_s_botanical_magazine_vol_36_no_2_2019_p_145",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "meehania_fargesii_pedunculata",
+                "type": "variety",
+                "archival_data": [
+                    "2579551"
+                ]
+            },
+            "volume": null,
+            "page": "p 145",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2579586",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1573068202"
+            }
+        },
+        {
+            "name": "Curtis's Botanical Magazine. vol 36, no. 2. (2019)  p 129",
+            "machine_name": "curtis_s_botanical_magazine_vol_36_no_2_2019_p_129",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "coelogyne_kaliana",
+                "type": "species",
+                "archival_data": [
+                    "2563281"
+                ]
+            },
+            "volume": null,
+            "page": "p 129",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2579591",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1573068365"
+            }
+        }
+    ]
+}

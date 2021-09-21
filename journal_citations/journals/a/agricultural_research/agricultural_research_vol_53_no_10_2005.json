@@ -1,0 +1,143 @@
+{
+    "name": "Agricultural Research. vol 53, no. 10. (2005)",
+    "machine_name": "agricultural_research_vol_53_no_10_2005",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2005",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2121247",
+        "legacy_id": "67629",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Agricultural Research. vol 53, no. 10. (2005) p 13",
+            "machine_name": "agricultural_research_vol_53_no_10_2005_p_13",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ananas_comosus",
+                "type": "species",
+                "archival_data": [
+                    "1398674"
+                ]
+            },
+            "volume": null,
+            "page": "p 13",
+            "year": "2005",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1979458",
+                "legacy_id": "305370",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        },
+        {
+            "name": "Agricultural Research. vol 53, no. 10. (2005) p 13",
+            "machine_name": "agricultural_research_vol_53_no_10_2005_p_13",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pseudananas_sagenarius",
+                "type": "species",
+                "archival_data": [
+                    "1454384"
+                ]
+            },
+            "volume": null,
+            "page": "p 13",
+            "year": "2005",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1979694",
+                "legacy_id": "305371",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        },
+        {
+            "name": "Agricultural Research. vol 53, no. 10. (2005) p 17",
+            "machine_name": "agricultural_research_vol_53_no_10_2005_p_17",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "theobroma_cacao",
+                "type": "species",
+                "archival_data": [
+                    "1430447"
+                ]
+            },
+            "volume": null,
+            "page": "p 17",
+            "year": "2005",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": true,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1979695",
+                "legacy_id": "305372",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        }
+    ]
+}

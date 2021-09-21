@@ -1,0 +1,102 @@
+{
+    "name": "Lilacs. vol 35, no. 1. (2006)",
+    "machine_name": "lilacs_vol_35_no_1_2006",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2006",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2119676",
+        "legacy_id": "71014",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Lilacs. vol 35, no. 1. (2006) p inside cover",
+            "machine_name": "lilacs_vol_35_no_1_2006_p_inside_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "syringa_hyacinthiflora_chiffon",
+                "type": "variety",
+                "archival_data": [
+                    "1571557"
+                ]
+            },
+            "volume": null,
+            "page": "p inside cover",
+            "year": "2006",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1937038",
+                "legacy_id": "314987",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "Lilacs. vol 35, no. 1. (2006) p backcover",
+            "machine_name": "lilacs_vol_35_no_1_2006_p_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "syringa_vulgaris_sensation",
+                "type": "variety",
+                "archival_data": [
+                    "1495645"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover",
+            "year": "2006",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1937039",
+                "legacy_id": "314988",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        }
+    ]
+}

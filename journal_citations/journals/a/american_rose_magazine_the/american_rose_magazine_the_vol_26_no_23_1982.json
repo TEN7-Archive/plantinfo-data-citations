@@ -1,0 +1,61 @@
+{
+    "name": "American Rose Magazine, The. vol 26, no. 23 (1982)",
+    "machine_name": "american_rose_magazine_the_vol_26_no_23_1982",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1982",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2112967",
+        "legacy_id": "872",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "American Rose Magazine, The. vol 26, no. 23 (1982) p 1",
+            "machine_name": "american_rose_magazine_the_vol_26_no_23_1982_p_1",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_madras",
+                "type": "variety",
+                "archival_data": [
+                    "1491386"
+                ]
+            },
+            "volume": null,
+            "page": "p 1",
+            "year": "1982",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1749276",
+                "legacy_id": "49816",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483154438"
+            }
+        }
+    ]
+}

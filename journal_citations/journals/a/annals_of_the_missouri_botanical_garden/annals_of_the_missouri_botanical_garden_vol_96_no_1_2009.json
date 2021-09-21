@@ -1,0 +1,102 @@
+{
+    "name": "Annals of the Missouri Botanical Garden. vol 96, no. 1. (2009)",
+    "machine_name": "annals_of_the_missouri_botanical_garden_vol_96_no_1_2009",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2009",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2121974",
+        "legacy_id": "105669",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Annals of the Missouri Botanical Garden. vol 96, no. 1. (2009) p 115, Pl. 1E",
+            "machine_name": "annals_of_the_missouri_botanical_garden_vol_96_no_1_2009_p_115_pl_1e",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "oldenlandia_herbacea",
+                "type": "species",
+                "archival_data": [
+                    "1426208"
+                ]
+            },
+            "volume": null,
+            "page": "p 115, Pl. 1E",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1999517",
+                "legacy_id": "402232",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Annals of the Missouri Botanical Garden. vol 96, no. 1. (2009) p 115, Pl. 1J",
+            "machine_name": "annals_of_the_missouri_botanical_garden_vol_96_no_1_2009_p_115_pl_1j",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "manettia_luteorubra",
+                "type": "species",
+                "archival_data": [
+                    "1417430"
+                ]
+            },
+            "volume": null,
+            "page": "p 115, Pl. 1J",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1999522",
+                "legacy_id": "402233",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        }
+    ]
+}

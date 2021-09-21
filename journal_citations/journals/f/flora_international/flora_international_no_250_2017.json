@@ -1,0 +1,143 @@
+{
+    "name": "Flora International. no. 250. (2017)",
+    "machine_name": "flora_international_no_250_2017",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2017",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": "7",
+    "description": null,
+    "archival_data": {
+        "id": "2175896",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1513519469"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Flora International. no. 250. (2017) p 45",
+            "machine_name": "flora_international_no_250_2017_p_45",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "paeonia_cultivars_dinner_plate",
+                "type": "variety",
+                "archival_data": [
+                    "1518784"
+                ]
+            },
+            "volume": null,
+            "page": "p 45",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2175901",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1513519805"
+            }
+        },
+        {
+            "name": "Flora International. no. 250. (2017) p 45",
+            "machine_name": "flora_international_no_250_2017_p_45",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "paeonia_t_cultivars_chun_xiao",
+                "type": "variety",
+                "archival_data": [
+                    "1562613"
+                ]
+            },
+            "volume": null,
+            "page": "p 45",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2175906",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1513519805"
+            }
+        },
+        {
+            "name": "Flora International. no. 250. (2017) p 46",
+            "machine_name": "flora_international_no_250_2017_p_46",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "gillenia_trifoliata",
+                "type": "species",
+                "archival_data": [
+                    "1411930"
+                ]
+            },
+            "volume": null,
+            "page": "p 46",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2175911",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1513519805"
+            }
+        }
+    ]
+}

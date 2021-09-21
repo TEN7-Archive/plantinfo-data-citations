@@ -1,0 +1,61 @@
+{
+    "name": "American Peony Society, Bulletin. no. 336. (2005)",
+    "machine_name": "american_peony_society_bulletin_no_336_2005",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2005",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2121621",
+        "legacy_id": "68970",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "American Peony Society, Bulletin. no. 336. (2005) p cover",
+            "machine_name": "american_peony_society_bulletin_no_336_2005_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "paeonia_t_cultivars_shimane_cho_juraka_long_life",
+                "type": "variety",
+                "archival_data": [
+                    "1553265"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "2005",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1991289",
+                "legacy_id": "309463",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        }
+    ]
+}

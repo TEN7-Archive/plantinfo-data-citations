@@ -1,0 +1,143 @@
+{
+    "name": "Svensk Botanisk Tidskrift. vol 76, no. 3. (1982)",
+    "machine_name": "svensk_botanisk_tidskrift_vol_76_no_3_1982",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1982",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113877",
+        "legacy_id": "5685",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Svensk Botanisk Tidskrift. vol 76, no. 3. (1982) p 156",
+            "machine_name": "svensk_botanisk_tidskrift_vol_76_no_3_1982_p_156",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "carthamus_tinctorius",
+                "type": "species",
+                "archival_data": [
+                    "1408565"
+                ]
+            },
+            "volume": null,
+            "page": "p 156",
+            "year": "1982",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1779677",
+                "legacy_id": "79684",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Svensk Botanisk Tidskrift. vol 76, no. 3. (1982) p 161",
+            "machine_name": "svensk_botanisk_tidskrift_vol_76_no_3_1982_p_161",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "monstera_deliciosa",
+                "type": "species",
+                "archival_data": [
+                    "1421274"
+                ]
+            },
+            "volume": null,
+            "page": "p 161",
+            "year": "1982",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1808235",
+                "legacy_id": "114025",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Svensk Botanisk Tidskrift. vol 76, no. 3. (1982) p 160",
+            "machine_name": "svensk_botanisk_tidskrift_vol_76_no_3_1982_p_160",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "opuntia_ficus_indica",
+                "type": "species",
+                "archival_data": [
+                    "1421798"
+                ]
+            },
+            "volume": null,
+            "page": "p 160",
+            "year": "1982",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1814288",
+                "legacy_id": "116967",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        }
+    ]
+}

@@ -1,0 +1,881 @@
+{
+    "name": "Horticulture. vol 116, no. 3. (2019)",
+    "machine_name": "horticulture_vol_116_no_3_2019",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2019",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": "7",
+    "description": null,
+    "archival_data": {
+        "id": "2560706",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1569067791"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Horticulture. vol 116, no. 3. (2019)  p cover; 23",
+            "machine_name": "horticulture_vol_116_no_3_2019_p_cover_23",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "gladiolus_murielae",
+                "type": "species",
+                "archival_data": [
+                    "1453793"
+                ]
+            },
+            "volume": null,
+            "page": "p cover; 23",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2560721",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1569070278"
+            }
+        },
+        {
+            "name": "Horticulture. vol 116, no. 3. (2019)  p 7",
+            "machine_name": "horticulture_vol_116_no_3_2019_p_7",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "claytonia_virginica",
+                "type": "species",
+                "archival_data": [
+                    "1407905"
+                ]
+            },
+            "volume": null,
+            "page": "p 7",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2560726",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1569070278"
+            }
+        },
+        {
+            "name": "Horticulture. vol 116, no. 3. (2019)  p 8",
+            "machine_name": "horticulture_vol_116_no_3_2019_p_8",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "mertensia_virginica",
+                "type": "species",
+                "archival_data": [
+                    "1419758"
+                ]
+            },
+            "volume": null,
+            "page": "p 8",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2560731",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1569070278"
+            }
+        },
+        {
+            "name": "Horticulture. vol 116, no. 3. (2019)  p 12",
+            "machine_name": "horticulture_vol_116_no_3_2019_p_12",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "aristolochia_macrophylla",
+                "type": "species",
+                "archival_data": [
+                    "1455811"
+                ]
+            },
+            "volume": null,
+            "page": "p 12",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2560736",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1569070278"
+            }
+        },
+        {
+            "name": "Horticulture. vol 116, no. 3. (2019)  p 22",
+            "machine_name": "horticulture_vol_116_no_3_2019_p_22",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "gladiolus_cultivars_atom",
+                "type": "variety",
+                "archival_data": [
+                    "1507449"
+                ]
+            },
+            "volume": null,
+            "page": "p 22",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2560741",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1569070278"
+            }
+        },
+        {
+            "name": "Horticulture. vol 116, no. 3. (2019)  p 26",
+            "machine_name": "horticulture_vol_116_no_3_2019_p_26",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "gladiolus_cultivars_spyro",
+                "type": "variety",
+                "archival_data": [
+                    "1621368"
+                ]
+            },
+            "volume": null,
+            "page": "p 26",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2560746",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1569070278"
+            }
+        },
+        {
+            "name": "Horticulture. vol 116, no. 3. (2019)  p 25-27",
+            "machine_name": "horticulture_vol_116_no_3_2019_p_25_27",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "gladiolus_byzantinus",
+                "type": "species",
+                "archival_data": [
+                    "1411949"
+                ]
+            },
+            "volume": null,
+            "page": "p 25-27",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2560751",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1569070278"
+            }
+        },
+        {
+            "name": "Horticulture. vol 116, no. 3. (2019)  p 26-27",
+            "machine_name": "horticulture_vol_116_no_3_2019_p_26_27",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "gladiolus_cultivars_land_o_lakes",
+                "type": "variety",
+                "archival_data": [
+                    "1507762"
+                ]
+            },
+            "volume": null,
+            "page": "p 26-27",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2560756",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1569070278"
+            }
+        },
+        {
+            "name": "Horticulture. vol 116, no. 3. (2019)  p 27",
+            "machine_name": "horticulture_vol_116_no_3_2019_p_27",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "gladiolus_cultivars_old_spice",
+                "type": "variety",
+                "archival_data": [
+                    "1569900"
+                ]
+            },
+            "volume": null,
+            "page": "p 27",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2560761",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1569070278"
+            }
+        },
+        {
+            "name": "Horticulture. vol 116, no. 3. (2019)  p 39",
+            "machine_name": "horticulture_vol_116_no_3_2019_p_39",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "phlox_paniculata_norah_leigh",
+                "type": "variety",
+                "archival_data": [
+                    "1489506"
+                ]
+            },
+            "volume": null,
+            "page": "p 39",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2560766",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1569070278"
+            }
+        },
+        {
+            "name": "Horticulture. vol 116, no. 3. (2019)  p 55",
+            "machine_name": "horticulture_vol_116_no_3_2019_p_55",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "antirrhinum_cultivars_candy_tops_series",
+                "type": "variety",
+                "archival_data": [
+                    "2230406"
+                ]
+            },
+            "volume": null,
+            "page": "p 55",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2560771",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1569070278"
+            }
+        },
+        {
+            "name": "Horticulture. vol 116, no. 3. (2019)  p 55",
+            "machine_name": "horticulture_vol_116_no_3_2019_p_55",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "antirrhinum_cultivars_snaptastic_series",
+                "type": "variety",
+                "archival_data": [
+                    "1670983"
+                ]
+            },
+            "volume": null,
+            "page": "p 55",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2560776",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1569070278"
+            }
+        },
+        {
+            "name": "Horticulture. vol 116, no. 3. (2019)  p 56",
+            "machine_name": "horticulture_vol_116_no_3_2019_p_56",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "antirrhinum_cultivars_crackle_n_pop_series",
+                "type": "variety",
+                "archival_data": [
+                    "2272906"
+                ]
+            },
+            "volume": null,
+            "page": "p 56",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2560781",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1569070278"
+            }
+        },
+        {
+            "name": "Horticulture. vol 116, no. 3. (2019)  p 56-57",
+            "machine_name": "horticulture_vol_116_no_3_2019_p_56_57",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "antirrhinum_cultivars_candy_showers_series",
+                "type": "variety",
+                "archival_data": [
+                    "1646141"
+                ]
+            },
+            "volume": null,
+            "page": "p 56-57",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2560786",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1569070278"
+            }
+        },
+        {
+            "name": "Horticulture. vol 116, no. 3. (2019)  p 56-57",
+            "machine_name": "horticulture_vol_116_no_3_2019_p_56_57",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "antirrhinum_cultivars_snaptini_series",
+                "type": "variety",
+                "archival_data": [
+                    "2299961"
+                ]
+            },
+            "volume": null,
+            "page": "p 56-57",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2560791",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1569070278"
+            }
+        },
+        {
+            "name": "Horticulture. vol 116, no. 3. (2019)  p 58",
+            "machine_name": "horticulture_vol_116_no_3_2019_p_58",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "heucherella_cultivars_honey_rose",
+                "type": "variety",
+                "archival_data": [
+                    "1647312"
+                ]
+            },
+            "volume": null,
+            "page": "p 58",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2560796",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1569070278"
+            }
+        },
+        {
+            "name": "Horticulture. vol 116, no. 3. (2019)  p 58",
+            "machine_name": "horticulture_vol_116_no_3_2019_p_58",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "festuca_glauca_blue_whiskers",
+                "type": "variety",
+                "archival_data": [
+                    "2560711"
+                ]
+            },
+            "volume": null,
+            "page": "p 58",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2560801",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1569070278"
+            }
+        },
+        {
+            "name": "Horticulture. vol 116, no. 3. (2019)  p 59",
+            "machine_name": "horticulture_vol_116_no_3_2019_p_59",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "geranium_pratense_dark_reiter",
+                "type": "variety",
+                "archival_data": [
+                    "1629643"
+                ]
+            },
+            "volume": null,
+            "page": "p 59",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2560806",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1569070278"
+            }
+        },
+        {
+            "name": "Horticulture. vol 116, no. 3. (2019)  p 59",
+            "machine_name": "horticulture_vol_116_no_3_2019_p_59",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hosta_cultivars_island_breeze",
+                "type": "variety",
+                "archival_data": [
+                    "1593343"
+                ]
+            },
+            "volume": null,
+            "page": "p 59",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2560811",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1569070278"
+            }
+        },
+        {
+            "name": "Horticulture. vol 116, no. 3. (2019)  p 60",
+            "machine_name": "horticulture_vol_116_no_3_2019_p_60",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "penstemon_cultivars_blackbeard",
+                "type": "variety",
+                "archival_data": [
+                    "2560716"
+                ]
+            },
+            "volume": null,
+            "page": "p 60",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2560816",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1569070278"
+            }
+        },
+        {
+            "name": "Horticulture. vol 116, no. 3. (2019)  p 60",
+            "machine_name": "horticulture_vol_116_no_3_2019_p_60",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "polygonatum_odoratum_variegatum",
+                "type": "variety",
+                "archival_data": [
+                    "1486869"
+                ]
+            },
+            "volume": null,
+            "page": "p 60",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2560821",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1569070278"
+            }
+        }
+    ]
+}

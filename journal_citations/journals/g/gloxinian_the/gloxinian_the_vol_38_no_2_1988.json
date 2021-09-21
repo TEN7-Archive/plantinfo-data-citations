@@ -1,0 +1,102 @@
+{
+    "name": "Gloxinian, The. vol 38, no. 2. (1988)",
+    "machine_name": "gloxinian_the_vol_38_no_2_1988",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1988",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2112030",
+        "legacy_id": "3132",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Gloxinian, The. vol 38, no. 2. (1988) p 21",
+            "machine_name": "gloxinian_the_vol_38_no_2_1988_p_21",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "kohleria_cultivars_connecticut_belle",
+                "type": "variety",
+                "archival_data": [
+                    "1480439"
+                ]
+            },
+            "volume": null,
+            "page": "p 21",
+            "year": "1988",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1731215",
+                "legacy_id": "26705",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Gloxinian, The. vol 38, no. 2. (1988)  p cover",
+            "machine_name": "gloxinian_the_vol_38_no_2_1988_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "nematanthus_striatus",
+                "type": "species",
+                "archival_data": [
+                    "1417136"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2572146",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1571485734"
+            }
+        }
+    ]
+}

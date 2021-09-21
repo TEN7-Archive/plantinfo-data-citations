@@ -1,0 +1,143 @@
+{
+    "name": "Grower. vol 133, no. 25. (2000)",
+    "machine_name": "grower_vol_133_no_25_2000",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2000",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2118594",
+        "legacy_id": "50549",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grower. vol 133, no. 25. (2000) p 5",
+            "machine_name": "grower_vol_133_no_25_2000_p_5",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "fragaria_ananassa_rosie",
+                "type": "variety",
+                "archival_data": [
+                    "1548981"
+                ]
+            },
+            "volume": null,
+            "page": "p 5",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1914083",
+                "legacy_id": "264095",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Grower. vol 133, no. 25. (2000) p 17",
+            "machine_name": "grower_vol_133_no_25_2000_p_17",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "consolida_cultivars_sydney_series",
+                "type": "variety",
+                "archival_data": [
+                    "1549398"
+                ]
+            },
+            "volume": null,
+            "page": "p 17",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1914084",
+                "legacy_id": "264096",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Grower. vol 133, no. 25. (2000) p 18",
+            "machine_name": "grower_vol_133_no_25_2000_p_18",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "tanacetum_parthenium_spring_spirit",
+                "type": "variety",
+                "archival_data": [
+                    "1568954"
+                ]
+            },
+            "volume": null,
+            "page": "p 18",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1914085",
+                "legacy_id": "264097",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        }
+    ]
+}

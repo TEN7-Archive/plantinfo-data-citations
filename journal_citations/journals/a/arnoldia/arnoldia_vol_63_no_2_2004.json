@@ -1,0 +1,184 @@
+{
+    "name": "Arnoldia. vol 63, no. 2. (2004)",
+    "machine_name": "arnoldia_vol_63_no_2_2004",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2004",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2120664",
+        "legacy_id": "62629",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Arnoldia. vol 63, no. 2. (2004) p 18-19;21-22",
+            "machine_name": "arnoldia_vol_63_no_2_2004_p_18_19_21_22",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "vaccinium_vitis_idaea",
+                "type": "species",
+                "archival_data": [
+                    "1428972"
+                ]
+            },
+            "volume": null,
+            "page": "p 18-19;21-22",
+            "year": "2004",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1964498",
+                "legacy_id": "292553",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 63, no. 2. (2004) p 28",
+            "machine_name": "arnoldia_vol_63_no_2_2004_p_28",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rhododendron_vaseyi",
+                "type": "species",
+                "archival_data": [
+                    "1432435"
+                ]
+            },
+            "volume": null,
+            "page": "p 28",
+            "year": "2004",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1964499",
+                "legacy_id": "292554",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 63, no. 2. (2004) p 33;38",
+            "machine_name": "arnoldia_vol_63_no_2_2004_p_33_38",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "tsuga_chinensis",
+                "type": "species",
+                "archival_data": [
+                    "1427537"
+                ]
+            },
+            "volume": null,
+            "page": "p 33;38",
+            "year": "2004",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1964500",
+                "legacy_id": "292555",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 63, no. 2. (2004) p backcover",
+            "machine_name": "arnoldia_vol_63_no_2_2004_p_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "vitis_cultivars_concord",
+                "type": "variety",
+                "archival_data": [
+                    "1500039"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover",
+            "year": "2004",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1964501",
+                "legacy_id": "292556",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        }
+    ]
+}

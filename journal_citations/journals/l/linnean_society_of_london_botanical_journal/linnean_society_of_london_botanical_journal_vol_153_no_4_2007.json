@@ -1,0 +1,102 @@
+{
+    "name": "Linnean Society of London, Botanical Journal. vol 153, no. 4. (2007)",
+    "machine_name": "linnean_society_of_london_botanical_journal_vol_153_no_4_2007",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2007",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2120928",
+        "legacy_id": "81489",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Linnean Society of London, Botanical Journal. vol 153, no. 4. (2007) p 397-99, Pl. 3a,4a,5a,6b",
+            "machine_name": "linnean_society_of_london_botanical_journal_vol_153_no_4_2007_p_397_99_pl_3a_4a_5a_6b",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ceratozamia_vovidesii",
+                "type": "species",
+                "archival_data": [
+                    "1450779"
+                ]
+            },
+            "volume": null,
+            "page": "p 397-99, Pl. 3a,4a,5a,6b",
+            "year": "2007",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1971142",
+                "legacy_id": "344872",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        },
+        {
+            "name": "Linnean Society of London, Botanical Journal. vol 153, no. 4. (2007) p 397-99, Pl. 3b,4b,5b,6a",
+            "machine_name": "linnean_society_of_london_botanical_journal_vol_153_no_4_2007_p_397_99_pl_3b_4b_5b_6a",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ceratozamia_matudae",
+                "type": "species",
+                "archival_data": [
+                    "1450780"
+                ]
+            },
+            "volume": null,
+            "page": "p 397-99, Pl. 3b,4b,5b,6a",
+            "year": "2007",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1971143",
+                "legacy_id": "344873",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        }
+    ]
+}

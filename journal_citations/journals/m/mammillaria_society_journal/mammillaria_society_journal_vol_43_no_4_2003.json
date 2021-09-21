@@ -1,0 +1,102 @@
+{
+    "name": "Mammillaria Society, Journal. vol 43, no. 4. (2003)",
+    "machine_name": "mammillaria_society_journal_vol_43_no_4_2003",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2003",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2118664",
+        "legacy_id": "54670",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Mammillaria Society, Journal. vol 43, no. 4. (2003) p 40",
+            "machine_name": "mammillaria_society_journal_vol_43_no_4_2003_p_40",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "mammillaria_saetigera_woodsii",
+                "type": "variety",
+                "archival_data": [
+                    "1658175"
+                ]
+            },
+            "volume": null,
+            "page": "p 40",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1915217",
+                "legacy_id": "269879",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Mammillaria Society, Journal. vol 43, no. 4. (2003) p 40",
+            "machine_name": "mammillaria_society_journal_vol_43_no_4_2003_p_40",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "mammillaria_mendeliana",
+                "type": "species",
+                "archival_data": [
+                    "1447765"
+                ]
+            },
+            "volume": null,
+            "page": "p 40",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1915218",
+                "legacy_id": "269880",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        }
+    ]
+}

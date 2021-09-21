@@ -1,0 +1,102 @@
+{
+    "name": "Landscape Management. vol 33, no. 5. (1994)",
+    "machine_name": "landscape_management_vol_33_no_5_1994",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1994",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2111486",
+        "legacy_id": "4292",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Landscape Management. vol 33, no. 5. (1994) p 16",
+            "machine_name": "landscape_management_vol_33_no_5_1994_p_16",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hamamelis_intermedia_arnold_promise",
+                "type": "variety",
+                "archival_data": [
+                    "1473222"
+                ]
+            },
+            "volume": null,
+            "page": "p 16",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1719302",
+                "legacy_id": "17232",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Landscape Management. vol 33, no. 5. (1994) p 16",
+            "machine_name": "landscape_management_vol_33_no_5_1994_p_16",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "prunus_cultivars_okame",
+                "type": "variety",
+                "archival_data": [
+                    "1488676"
+                ]
+            },
+            "volume": null,
+            "page": "p 16",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1740101",
+                "legacy_id": "40868",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483154438"
+            }
+        }
+    ]
+}

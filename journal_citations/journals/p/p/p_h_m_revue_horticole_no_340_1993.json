@@ -1,0 +1,102 @@
+{
+    "name": "P.H.M.-Revue Horticole. no. 340. (1993)",
+    "machine_name": "p_h_m_revue_horticole_no_340_1993",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1993",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2118793",
+        "legacy_id": "57430",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "P.H.M.-Revue Horticole. no. 340. (1993) p 10",
+            "machine_name": "p_h_m_revue_horticole_no_340_1993_p_10",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "sternbergia_lutea",
+                "type": "species",
+                "archival_data": [
+                    "1433049"
+                ]
+            },
+            "volume": null,
+            "page": "p 10",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1916904",
+                "legacy_id": "275979",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "P.H.M.-Revue Horticole. no. 340. (1993) p 31-32",
+            "machine_name": "p_h_m_revue_horticole_no_340_1993_p_31_32",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "crocus_sativus",
+                "type": "species",
+                "archival_data": [
+                    "1408013"
+                ]
+            },
+            "volume": null,
+            "page": "p 31-32",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": true,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1916906",
+                "legacy_id": "275980",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        }
+    ]
+}

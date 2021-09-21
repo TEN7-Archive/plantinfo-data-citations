@@ -1,0 +1,594 @@
+{
+    "name": "Grower. vol 129, no. 23. (1998)",
+    "machine_name": "grower_vol_129_no_23_1998",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1998",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114663",
+        "legacy_id": "6228",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grower. vol 129, no. 23. (1998) p 19-20",
+            "machine_name": "grower_vol_129_no_23_1998_p_19_20",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rheum_hybridum",
+                "type": "species",
+                "archival_data": [
+                    "1446237"
+                ]
+            },
+            "volume": null,
+            "page": "p 19-20",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1836388",
+                "legacy_id": "146677",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Grower. vol 129, no. 23. (1998) p cover",
+            "machine_name": "grower_vol_129_no_23_1998_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pelargonium_hortorum_ringo_series",
+                "type": "variety",
+                "archival_data": [
+                    "1485228"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1838172",
+                "legacy_id": "145771",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Grower. vol 129, no. 23. (1998) p 4",
+            "machine_name": "grower_vol_129_no_23_1998_p_4",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "nicotiana_cultivars_hearts_delight",
+                "type": "variety",
+                "archival_data": [
+                    "1535452"
+                ]
+            },
+            "volume": null,
+            "page": "p 4",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1838173",
+                "legacy_id": "145772",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Grower. vol 129, no. 23. (1998) p 12",
+            "machine_name": "grower_vol_129_no_23_1998_p_12",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pelargonium_peltatum_summer_showers_series",
+                "type": "variety",
+                "archival_data": [
+                    "1485578"
+                ]
+            },
+            "volume": null,
+            "page": "p 12",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1838174",
+                "legacy_id": "145773",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Grower. vol 129, no. 23. (1998) p 12",
+            "machine_name": "grower_vol_129_no_23_1998_p_12",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "tagetes_patula_durango_series",
+                "type": "variety",
+                "archival_data": [
+                    "1535448"
+                ]
+            },
+            "volume": null,
+            "page": "p 12",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1838175",
+                "legacy_id": "145774",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Grower. vol 129, no. 23. (1998) p 12-13",
+            "machine_name": "grower_vol_129_no_23_1998_p_12_13",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pelargonium_hortorum_moulin_rouge",
+                "type": "variety",
+                "archival_data": [
+                    "1535449"
+                ]
+            },
+            "volume": null,
+            "page": "p 12-13",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1838176",
+                "legacy_id": "145775",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Grower. vol 129, no. 23. (1998) p 13",
+            "machine_name": "grower_vol_129_no_23_1998_p_13",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "tagetes_cultivars_discovery_series",
+                "type": "variety",
+                "archival_data": [
+                    "1495673"
+                ]
+            },
+            "volume": null,
+            "page": "p 13",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1838177",
+                "legacy_id": "145776",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Grower. vol 129, no. 23. (1998) p 13",
+            "machine_name": "grower_vol_129_no_23_1998_p_13",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "tagetes_cultivars_atlantis_series",
+                "type": "variety",
+                "archival_data": [
+                    "1535450"
+                ]
+            },
+            "volume": null,
+            "page": "p 13",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1838178",
+                "legacy_id": "145777",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Grower. vol 129, no. 23. (1998) p 13",
+            "machine_name": "grower_vol_129_no_23_1998_p_13",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "tagetes_cultivars_inca_series",
+                "type": "variety",
+                "archival_data": [
+                    "1495693"
+                ]
+            },
+            "volume": null,
+            "page": "p 13",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1838179",
+                "legacy_id": "145778",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Grower. vol 129, no. 23. (1998) p 13 (Adv.)",
+            "machine_name": "grower_vol_129_no_23_1998_p_13_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "viola_wittrockiana_banner_series",
+                "type": "variety",
+                "archival_data": [
+                    "1499730"
+                ]
+            },
+            "volume": null,
+            "page": "p 13 (Adv.)",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1838180",
+                "legacy_id": "145779",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Grower. vol 129, no. 23. (1998) p 14",
+            "machine_name": "grower_vol_129_no_23_1998_p_14",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "impatiens_cultivars_tempo_series",
+                "type": "variety",
+                "archival_data": [
+                    "1477933"
+                ]
+            },
+            "volume": null,
+            "page": "p 14",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1838181",
+                "legacy_id": "145780",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Grower. vol 129, no. 23. (1998) p 14",
+            "machine_name": "grower_vol_129_no_23_1998_p_14",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "impatiens_cultivars_cajun_series",
+                "type": "variety",
+                "archival_data": [
+                    "1477346"
+                ]
+            },
+            "volume": null,
+            "page": "p 14",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1838182",
+                "legacy_id": "145781",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Grower. vol 129, no. 23. (1998) p 14",
+            "machine_name": "grower_vol_129_no_23_1998_p_14",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pelargonium_cultivars_capri",
+                "type": "variety",
+                "archival_data": [
+                    "1521337"
+                ]
+            },
+            "volume": null,
+            "page": "p 14",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1838183",
+                "legacy_id": "145782",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Grower. vol 129, no. 23. (1998) p 15 (Adv.)",
+            "machine_name": "grower_vol_129_no_23_1998_p_15_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "petunia_cultivars_cascadias_series",
+                "type": "variety",
+                "archival_data": [
+                    "1481493"
+                ]
+            },
+            "volume": null,
+            "page": "p 15 (Adv.)",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1838184",
+                "legacy_id": "145783",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        }
+    ]
+}

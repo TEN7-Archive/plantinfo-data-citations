@@ -1,0 +1,143 @@
+{
+    "name": "Gloxinian, The. vol 41, no. 5. (1991)",
+    "machine_name": "gloxinian_the_vol_41_no_5_1991",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1991",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113971",
+        "legacy_id": "3066",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Gloxinian, The. vol 41, no. 5. (1991) p cover",
+            "machine_name": "gloxinian_the_vol_41_no_5_1991_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "diastema_comiferum",
+                "type": "species",
+                "archival_data": [
+                    "1408094"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1784836",
+                "legacy_id": "89065",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Gloxinian, The. vol 41, no. 5. (1991) p 21",
+            "machine_name": "gloxinian_the_vol_41_no_5_1991_p_21",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "nautilocalyx_picturatus",
+                "type": "species",
+                "archival_data": [
+                    "1416812"
+                ]
+            },
+            "volume": null,
+            "page": "p 21",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1807045",
+                "legacy_id": "114988",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Gloxinian, The. vol 41, no. 5. (1991)  p 21",
+            "machine_name": "gloxinian_the_vol_41_no_5_1991_p_21",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "nautilocalyx_porphyrotrichus",
+                "type": "species",
+                "archival_data": [
+                    "1416813"
+                ]
+            },
+            "volume": null,
+            "page": "p 21",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2571781",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1571419809"
+            }
+        }
+    ]
+}

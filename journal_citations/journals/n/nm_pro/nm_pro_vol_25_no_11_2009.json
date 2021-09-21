@@ -1,0 +1,225 @@
+{
+    "name": "NM Pro. vol 25, no. 11. (2009)",
+    "machine_name": "nm_pro_vol_25_no_11_2009",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2009",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2123038",
+        "legacy_id": "106992",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "NM Pro. vol 25, no. 11. (2009) p 10",
+            "machine_name": "nm_pro_vol_25_no_11_2009_p_10",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "platanus_acerifolia_exclamation",
+                "type": "variety",
+                "archival_data": [
+                    "1595339"
+                ]
+            },
+            "volume": null,
+            "page": "p 10",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2017785",
+                "legacy_id": "406233",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "NM Pro. vol 25, no. 11. (2009) p 11 (Adv.)",
+            "machine_name": "nm_pro_vol_25_no_11_2009_p_11_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "leucanthemum_cultivars_sante",
+                "type": "variety",
+                "archival_data": [
+                    "1640246"
+                ]
+            },
+            "volume": null,
+            "page": "p 11 (Adv.)",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2017786",
+                "legacy_id": "406234",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "NM Pro. vol 25, no. 11. (2009) p 6",
+            "machine_name": "nm_pro_vol_25_no_11_2009_p_6",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "acer_rubrum_redpointe",
+                "type": "variety",
+                "archival_data": [
+                    "1613293"
+                ]
+            },
+            "volume": null,
+            "page": "p 6",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2071343",
+                "legacy_id": "406230",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "NM Pro. vol 25, no. 11. (2009) p 6",
+            "machine_name": "nm_pro_vol_25_no_11_2009_p_6",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_munstead_wood",
+                "type": "variety",
+                "archival_data": [
+                    "1607385"
+                ]
+            },
+            "volume": null,
+            "page": "p 6",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2071586",
+                "legacy_id": "406231",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "NM Pro. vol 25, no. 11. (2009) p 8",
+            "machine_name": "nm_pro_vol_25_no_11_2009_p_8",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ilex_cultivars_red_beauty",
+                "type": "variety",
+                "archival_data": [
+                    "1574108"
+                ]
+            },
+            "volume": null,
+            "page": "p 8",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2071587",
+                "legacy_id": "406232",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        }
+    ]
+}

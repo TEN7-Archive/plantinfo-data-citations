@@ -1,0 +1,102 @@
+{
+    "name": "Greenhouse Management. vol 34, no. 9. (2014)",
+    "machine_name": "greenhouse_management_vol_34_no_9_2014",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2014",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2123778",
+        "legacy_id": "125153",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Greenhouse Management. vol 34, no. 9. (2014) p 23 (Adv.)",
+            "machine_name": "greenhouse_management_vol_34_no_9_2014_p_23_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "petunia_cultivars_success_series",
+                "type": "variety",
+                "archival_data": [
+                    "1647669"
+                ]
+            },
+            "volume": null,
+            "page": "p 23 (Adv.)",
+            "year": "2014",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2044088",
+                "legacy_id": "481625",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        },
+        {
+            "name": "Greenhouse Management. vol 34, no. 9. (2014) p 65 (Adv.)",
+            "machine_name": "greenhouse_management_vol_34_no_9_2014_p_65_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "petunia_cultivars_good_and_plenty_series",
+                "type": "variety",
+                "archival_data": [
+                    "1626771"
+                ]
+            },
+            "volume": null,
+            "page": "p 65 (Adv.)",
+            "year": "2014",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2050557",
+                "legacy_id": "481626",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        }
+    ]
+}

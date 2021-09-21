@@ -1,0 +1,143 @@
+{
+    "name": "Svensk Botanisk Tidskrift. vol 85, no. 6. (1991)",
+    "machine_name": "svensk_botanisk_tidskrift_vol_85_no_6_1991",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1991",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114384",
+        "legacy_id": "5732",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Svensk Botanisk Tidskrift. vol 85, no. 6. (1991) p 390, Pl. 3.",
+            "machine_name": "svensk_botanisk_tidskrift_vol_85_no_6_1991_p_390_pl_3",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "onobrychis_viciifolia",
+                "type": "species",
+                "archival_data": [
+                    "1426956"
+                ]
+            },
+            "volume": null,
+            "page": "p 390, Pl. 3.",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1812999",
+                "legacy_id": "116647",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Svensk Botanisk Tidskrift. vol 85, no. 6. (1991) p 415, Pl. 2a",
+            "machine_name": "svensk_botanisk_tidskrift_vol_85_no_6_1991_p_415_pl_2a",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "physalis_peruviana",
+                "type": "species",
+                "archival_data": [
+                    "1424177"
+                ]
+            },
+            "volume": null,
+            "page": "p 415, Pl. 2a",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1820089",
+                "legacy_id": "121196",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Svensk Botanisk Tidskrift. vol 85, no. 6. (1991) p 415, Pl. 2c",
+            "machine_name": "svensk_botanisk_tidskrift_vol_85_no_6_1991_p_415_pl_2c",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "physalis_pruinosa",
+                "type": "species",
+                "archival_data": [
+                    "1424178"
+                ]
+            },
+            "volume": null,
+            "page": "p 415, Pl. 2c",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1820091",
+                "legacy_id": "121198",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        }
+    ]
+}

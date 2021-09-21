@@ -1,0 +1,143 @@
+{
+    "name": "American Rose Magazine, The. vol 28, no. 18 (1986)",
+    "machine_name": "american_rose_magazine_the_vol_28_no_18_1986",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1986",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2112799",
+        "legacy_id": "904",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "American Rose Magazine, The. vol 28, no. 18 (1986) p 8",
+            "machine_name": "american_rose_magazine_the_vol_28_no_18_1986_p_8",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_cinderella",
+                "type": "variety",
+                "archival_data": [
+                    "1486227"
+                ]
+            },
+            "volume": null,
+            "page": "p 8",
+            "year": "1986",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1744705",
+                "legacy_id": "46108",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483154438"
+            }
+        },
+        {
+            "name": "American Rose Magazine, The. vol 28, no. 18 (1986) p 5",
+            "machine_name": "american_rose_magazine_the_vol_28_no_18_1986_p_5",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_baby_masquerade",
+                "type": "variety",
+                "archival_data": [
+                    "1489752"
+                ]
+            },
+            "volume": null,
+            "page": "p 5",
+            "year": "1986",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1745975",
+                "legacy_id": "44965",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483154438"
+            }
+        },
+        {
+            "name": "American Rose Magazine, The. vol 28, no. 18 (1986) p 8",
+            "machine_name": "american_rose_magazine_the_vol_28_no_18_1986_p_8",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_starina",
+                "type": "variety",
+                "archival_data": [
+                    "1491440"
+                ]
+            },
+            "volume": null,
+            "page": "p 8",
+            "year": "1986",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1757689",
+                "legacy_id": "53327",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483154438"
+            }
+        }
+    ]
+}

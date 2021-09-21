@@ -1,0 +1,2480 @@
+{
+    "name": "Smith, Beatrice Scheer. A Painted Herbarium. (1992)",
+    "machine_name": "smith_beatrice_scheer_a_painted_herbarium_1992",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1992",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2109515",
+        "legacy_id": "5517",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Smith, Beatrice Scheer. A Painted Herbarium. (1992) p 171, Pl. 45.",
+            "machine_name": "smith_beatrice_scheer_a_painted_herbarium_1992_p_171_pl_45",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "boltonia_asteroides_latisquama",
+                "type": "variety",
+                "archival_data": [
+                    "1464706"
+                ]
+            },
+            "volume": null,
+            "page": "p 171, Pl. 45.",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1704221",
+                "legacy_id": "3538",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Smith, Beatrice Scheer. A Painted Herbarium. (1992) p 107, Pl. 13.",
+            "machine_name": "smith_beatrice_scheer_a_painted_herbarium_1992_p_107_pl_13",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cypripedium_parviflorum_pubescens",
+                "type": "variety",
+                "archival_data": [
+                    "1471382"
+                ]
+            },
+            "volume": null,
+            "page": "p 107, Pl. 13.",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1714607",
+                "legacy_id": "10787",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Smith, Beatrice Scheer. A Painted Herbarium. (1992) p 130, Pl. 25.",
+            "machine_name": "smith_beatrice_scheer_a_painted_herbarium_1992_p_130_pl_25",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "parnassia_palustris_neogaea",
+                "type": "variety",
+                "archival_data": [
+                    "1483434"
+                ]
+            },
+            "volume": null,
+            "page": "p 130, Pl. 25.",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1742415",
+                "legacy_id": "36192",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483154438"
+            }
+        },
+        {
+            "name": "Smith, Beatrice Scheer. A Painted Herbarium. (1992) p 97, Pl. 8.",
+            "machine_name": "smith_beatrice_scheer_a_painted_herbarium_1992_p_97_pl_8",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "allium_stellatum",
+                "type": "species",
+                "archival_data": [
+                    "1402144"
+                ]
+            },
+            "volume": null,
+            "page": "p 97, Pl. 8.",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": true,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1764338",
+                "legacy_id": "70274",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Smith, Beatrice Scheer. A Painted Herbarium. (1992) p 121, Pl. 20.",
+            "machine_name": "smith_beatrice_scheer_a_painted_herbarium_1992_p_121_pl_20",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "arethusa_bulbosa",
+                "type": "species",
+                "archival_data": [
+                    "1401468"
+                ]
+            },
+            "volume": null,
+            "page": "p 121, Pl. 20.",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": true,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1764516",
+                "legacy_id": "73108",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Smith, Beatrice Scheer. A Painted Herbarium. (1992) p 7",
+            "machine_name": "smith_beatrice_scheer_a_painted_herbarium_1992_p_7",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "aplectrum_hyemale",
+                "type": "species",
+                "archival_data": [
+                    "1400623"
+                ]
+            },
+            "volume": null,
+            "page": "p 7",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": true,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1767389",
+                "legacy_id": "72391",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Smith, Beatrice Scheer. A Painted Herbarium. (1992) p 119, Pl. 19.",
+            "machine_name": "smith_beatrice_scheer_a_painted_herbarium_1992_p_119_pl_19",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "calopogon_pulchellus",
+                "type": "species",
+                "archival_data": [
+                    "1400491"
+                ]
+            },
+            "volume": null,
+            "page": "p 119, Pl. 19.",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1769427",
+                "legacy_id": "78411",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Smith, Beatrice Scheer. A Painted Herbarium. (1992) p 89, Pl. 4.",
+            "machine_name": "smith_beatrice_scheer_a_painted_herbarium_1992_p_89_pl_4",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "bromus_secalinus",
+                "type": "species",
+                "archival_data": [
+                    "1397669"
+                ]
+            },
+            "volume": null,
+            "page": "p 89, Pl. 4.",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1769664",
+                "legacy_id": "77039",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Smith, Beatrice Scheer. A Painted Herbarium. (1992) p 16",
+            "machine_name": "smith_beatrice_scheer_a_painted_herbarium_1992_p_16",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "camellia_japonica",
+                "type": "species",
+                "archival_data": [
+                    "1406599"
+                ]
+            },
+            "volume": null,
+            "page": "p 16",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1770466",
+                "legacy_id": "78717",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Smith, Beatrice Scheer. A Painted Herbarium. (1992) p 123, Pl. 21.",
+            "machine_name": "smith_beatrice_scheer_a_painted_herbarium_1992_p_123_pl_21",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "betula_lenta",
+                "type": "species",
+                "archival_data": [
+                    "1401488"
+                ]
+            },
+            "volume": null,
+            "page": "p 123, Pl. 21.",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": true,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1770922",
+                "legacy_id": "76019",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Smith, Beatrice Scheer. A Painted Herbarium. (1992) p 125, Pl. 22.",
+            "machine_name": "smith_beatrice_scheer_a_painted_herbarium_1992_p_125_pl_22",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "saruma_henryi",
+                "type": "species",
+                "archival_data": [
+                    "1440426"
+                ]
+            },
+            "volume": null,
+            "page": "p 125, Pl. 22.",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1772781",
+                "legacy_id": "73870",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Smith, Beatrice Scheer. A Painted Herbarium. (1992) p 85, Pl. 2.",
+            "machine_name": "smith_beatrice_scheer_a_painted_herbarium_1992_p_85_pl_2",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "bouteloua_curtipendula",
+                "type": "species",
+                "archival_data": [
+                    "1402665"
+                ]
+            },
+            "volume": null,
+            "page": "p 85, Pl. 2.",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1773229",
+                "legacy_id": "76626",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Smith, Beatrice Scheer. A Painted Herbarium. (1992) p 153, Pl. 36.",
+            "machine_name": "smith_beatrice_scheer_a_painted_herbarium_1992_p_153_pl_36",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "bouteloua_gracilis",
+                "type": "species",
+                "archival_data": [
+                    "1402667"
+                ]
+            },
+            "volume": null,
+            "page": "p 153, Pl. 36.",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1773235",
+                "legacy_id": "76632",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Smith, Beatrice Scheer. A Painted Herbarium. (1992) p 85, Pl. 2.",
+            "machine_name": "smith_beatrice_scheer_a_painted_herbarium_1992_p_85_pl_2",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "bouteloua_hirsuta",
+                "type": "species",
+                "archival_data": [
+                    "1402668"
+                ]
+            },
+            "volume": null,
+            "page": "p 85, Pl. 2.",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1773237",
+                "legacy_id": "76634",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Smith, Beatrice Scheer. A Painted Herbarium. (1992) p 159, Pl. 39.",
+            "machine_name": "smith_beatrice_scheer_a_painted_herbarium_1992_p_159_pl_39",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "asperula_orientalis",
+                "type": "species",
+                "archival_data": [
+                    "1403343"
+                ]
+            },
+            "volume": null,
+            "page": "p 159, Pl. 39.",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1774056",
+                "legacy_id": "74166",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Smith, Beatrice Scheer. A Painted Herbarium. (1992) p 89, Pl. 4.",
+            "machine_name": "smith_beatrice_scheer_a_painted_herbarium_1992_p_89_pl_4",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "coreopsis_palmata",
+                "type": "species",
+                "archival_data": [
+                    "1405287"
+                ]
+            },
+            "volume": null,
+            "page": "p 89, Pl. 4.",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1777045",
+                "legacy_id": "84283",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Smith, Beatrice Scheer. A Painted Herbarium. (1992) p 15",
+            "machine_name": "smith_beatrice_scheer_a_painted_herbarium_1992_p_15",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "chrysanthemum_indicum",
+                "type": "species",
+                "archival_data": [
+                    "1406111"
+                ]
+            },
+            "volume": null,
+            "page": "p 15",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1780565",
+                "legacy_id": "87972",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Smith, Beatrice Scheer. A Painted Herbarium. (1992) p 95, Pl. 7.",
+            "machine_name": "smith_beatrice_scheer_a_painted_herbarium_1992_p_95_pl_7",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cynodon_dactylon",
+                "type": "species",
+                "archival_data": [
+                    "1403811"
+                ]
+            },
+            "volume": null,
+            "page": "p 95, Pl. 7.",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1781129",
+                "legacy_id": "86785",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Smith, Beatrice Scheer. A Painted Herbarium. (1992) p 95, Pl. 7.",
+            "machine_name": "smith_beatrice_scheer_a_painted_herbarium_1992_p_95_pl_7",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cyperus_esculentus",
+                "type": "species",
+                "archival_data": [
+                    "1403852"
+                ]
+            },
+            "volume": null,
+            "page": "p 95, Pl. 7.",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1781453",
+                "legacy_id": "86866",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Smith, Beatrice Scheer. A Painted Herbarium. (1992) p 141, Pl. 30.",
+            "machine_name": "smith_beatrice_scheer_a_painted_herbarium_1992_p_141_pl_30",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cyperus_rivularis",
+                "type": "species",
+                "archival_data": [
+                    "1403878"
+                ]
+            },
+            "volume": null,
+            "page": "p 141, Pl. 30.",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": true,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1781498",
+                "legacy_id": "86911",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Smith, Beatrice Scheer. A Painted Herbarium. (1992) p 91, Pl. 5.",
+            "machine_name": "smith_beatrice_scheer_a_painted_herbarium_1992_p_91_pl_5",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cyperus_rivularis",
+                "type": "species",
+                "archival_data": [
+                    "1403878"
+                ]
+            },
+            "volume": null,
+            "page": "p 91, Pl. 5.",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1781499",
+                "legacy_id": "86912",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Smith, Beatrice Scheer. A Painted Herbarium. (1992) p 105, Pl. 12.",
+            "machine_name": "smith_beatrice_scheer_a_painted_herbarium_1992_p_105_pl_12",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cypripedium_arietinum",
+                "type": "species",
+                "archival_data": [
+                    "1404211"
+                ]
+            },
+            "volume": null,
+            "page": "p 105, Pl. 12.",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1781833",
+                "legacy_id": "87009",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Smith, Beatrice Scheer. A Painted Herbarium. (1992) p 109, Pl. 14.",
+            "machine_name": "smith_beatrice_scheer_a_painted_herbarium_1992_p_109_pl_14",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cypripedium_candidum",
+                "type": "species",
+                "archival_data": [
+                    "1404214"
+                ]
+            },
+            "volume": null,
+            "page": "p 109, Pl. 14.",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1782132",
+                "legacy_id": "87065",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Smith, Beatrice Scheer. A Painted Herbarium. (1992) p i|111|113, Pl. 15-16.",
+            "machine_name": "smith_beatrice_scheer_a_painted_herbarium_1992_p_i_111_113_pl_15_16",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cypripedium_reginae",
+                "type": "species",
+                "archival_data": [
+                    "1404238"
+                ]
+            },
+            "volume": null,
+            "page": "p i|111|113, Pl. 15-16.",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1782477",
+                "legacy_id": "87168",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Smith, Beatrice Scheer. A Painted Herbarium. (1992) p 137, Pl. 28.",
+            "machine_name": "smith_beatrice_scheer_a_painted_herbarium_1992_p_137_pl_28",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "dalea_purpurea",
+                "type": "species",
+                "archival_data": [
+                    "1404992"
+                ]
+            },
+            "volume": null,
+            "page": "p 137, Pl. 28.",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1783799",
+                "legacy_id": "87526",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Smith, Beatrice Scheer. A Painted Herbarium. (1992) p 149|151, Pl. 34-35.",
+            "machine_name": "smith_beatrice_scheer_a_painted_herbarium_1992_p_149_151_pl_34_35",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "gentiana_andrewsii",
+                "type": "species",
+                "archival_data": [
+                    "1410751"
+                ]
+            },
+            "volume": null,
+            "page": "p 149|151, Pl. 34-35.",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1789755",
+                "legacy_id": "98623",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Smith, Beatrice Scheer. A Painted Herbarium. (1992) p 127, Pl. 23.",
+            "machine_name": "smith_beatrice_scheer_a_painted_herbarium_1992_p_127_pl_23",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "fragaria_virginiana",
+                "type": "species",
+                "archival_data": [
+                    "1413777"
+                ]
+            },
+            "volume": null,
+            "page": "p 127, Pl. 23.",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1790027",
+                "legacy_id": "97311",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Smith, Beatrice Scheer. A Painted Herbarium. (1992) p 147, Pl. 33.",
+            "machine_name": "smith_beatrice_scheer_a_painted_herbarium_1992_p_147_pl_33",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "gentiana_puberulenta",
+                "type": "species",
+                "archival_data": [
+                    "1410816"
+                ]
+            },
+            "volume": null,
+            "page": "p 147, Pl. 33.",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1790132",
+                "legacy_id": "98760",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Smith, Beatrice Scheer. A Painted Herbarium. (1992) p 145, Pl. 32.",
+            "machine_name": "smith_beatrice_scheer_a_painted_herbarium_1992_p_145_pl_32",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "gentianella_quinquefolia",
+                "type": "species",
+                "archival_data": [
+                    "1411165"
+                ]
+            },
+            "volume": null,
+            "page": "p 145, Pl. 32.",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1791390",
+                "legacy_id": "98896",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Smith, Beatrice Scheer. A Painted Herbarium. (1992) p 145, Pl. 32.",
+            "machine_name": "smith_beatrice_scheer_a_painted_herbarium_1992_p_145_pl_32",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "gentianopsis_crinita",
+                "type": "species",
+                "archival_data": [
+                    "1411172"
+                ]
+            },
+            "volume": null,
+            "page": "p 145, Pl. 32.",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1791399",
+                "legacy_id": "98905",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Smith, Beatrice Scheer. A Painted Herbarium. (1992) p 9",
+            "machine_name": "smith_beatrice_scheer_a_painted_herbarium_1992_p_9",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "gentianopsis_crinita",
+                "type": "species",
+                "archival_data": [
+                    "1411172"
+                ]
+            },
+            "volume": null,
+            "page": "p 9",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1791400",
+                "legacy_id": "98906",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Smith, Beatrice Scheer. A Painted Herbarium. (1992) p 99, Pl. 9.",
+            "machine_name": "smith_beatrice_scheer_a_painted_herbarium_1992_p_99_pl_9",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "erythronium_albidum",
+                "type": "species",
+                "archival_data": [
+                    "1412879"
+                ]
+            },
+            "volume": null,
+            "page": "p 99, Pl. 9.",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": true,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1791713",
+                "legacy_id": "93876",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Smith, Beatrice Scheer. A Painted Herbarium. (1992) p 87, Pl. 3.",
+            "machine_name": "smith_beatrice_scheer_a_painted_herbarium_1992_p_87_pl_3",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "festuca_elatior",
+                "type": "species",
+                "archival_data": [
+                    "1412953"
+                ]
+            },
+            "volume": null,
+            "page": "p 87, Pl. 3.",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1793174",
+                "legacy_id": "96794",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Smith, Beatrice Scheer. A Painted Herbarium. (1992) p 139, Pl. 29.",
+            "machine_name": "smith_beatrice_scheer_a_painted_herbarium_1992_p_139_pl_29",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hibiscus_militaris",
+                "type": "species",
+                "archival_data": [
+                    "1419087"
+                ]
+            },
+            "volume": null,
+            "page": "p 139, Pl. 29.",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1795487",
+                "legacy_id": "102699",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Smith, Beatrice Scheer. A Painted Herbarium. (1992) p 103, Pl. 11.",
+            "machine_name": "smith_beatrice_scheer_a_painted_herbarium_1992_p_103_pl_11",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hypoxis_hirsuta",
+                "type": "species",
+                "archival_data": [
+                    "1415785"
+                ]
+            },
+            "volume": null,
+            "page": "p 103, Pl. 11.",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1795585",
+                "legacy_id": "104136",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Smith, Beatrice Scheer. A Painted Herbarium. (1992) p 89, Pl. 4.",
+            "machine_name": "smith_beatrice_scheer_a_painted_herbarium_1992_p_89_pl_4",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hordeum_jubatum",
+                "type": "species",
+                "archival_data": [
+                    "1419849"
+                ]
+            },
+            "volume": null,
+            "page": "p 89, Pl. 4.",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1797106",
+                "legacy_id": "103116",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Smith, Beatrice Scheer. A Painted Herbarium. (1992) p 115, Pl. 17.",
+            "machine_name": "smith_beatrice_scheer_a_painted_herbarium_1992_p_115_pl_17",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "platanthera_praeclara",
+                "type": "species",
+                "archival_data": [
+                    "1426359"
+                ]
+            },
+            "volume": null,
+            "page": "p 115, Pl. 17.",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1798583",
+                "legacy_id": "100865",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Smith, Beatrice Scheer. A Painted Herbarium. (1992) p 169, Pl. 44.",
+            "machine_name": "smith_beatrice_scheer_a_painted_herbarium_1992_p_169_pl_44",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "leucanthemum_vulgare",
+                "type": "species",
+                "archival_data": [
+                    "1416621"
+                ]
+            },
+            "volume": null,
+            "page": "p 169, Pl. 44.",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1801388",
+                "legacy_id": "108267",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Smith, Beatrice Scheer. A Painted Herbarium. (1992) p 9|161",
+            "machine_name": "smith_beatrice_scheer_a_painted_herbarium_1992_p_9_161",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lobelia_cardinalis",
+                "type": "species",
+                "archival_data": [
+                    "1418867"
+                ]
+            },
+            "volume": null,
+            "page": "p 9|161",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1801465",
+                "legacy_id": "109770",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Smith, Beatrice Scheer. A Painted Herbarium. (1992) p 153, Pl. 36.",
+            "machine_name": "smith_beatrice_scheer_a_painted_herbarium_1992_p_153_pl_36",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lycium_barbarum",
+                "type": "species",
+                "archival_data": [
+                    "1420439"
+                ]
+            },
+            "volume": null,
+            "page": "p 153, Pl. 36.",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1805140",
+                "legacy_id": "110605",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Smith, Beatrice Scheer. A Painted Herbarium. (1992) p 163, Pl. 41.",
+            "machine_name": "smith_beatrice_scheer_a_painted_herbarium_1992_p_163_pl_41",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lobelia_siphilitica",
+                "type": "species",
+                "archival_data": [
+                    "1418900"
+                ]
+            },
+            "volume": null,
+            "page": "p 163, Pl. 41.",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1807340",
+                "legacy_id": "109838",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Smith, Beatrice Scheer. A Painted Herbarium. (1992) p 33",
+            "machine_name": "smith_beatrice_scheer_a_painted_herbarium_1992_p_33",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "gladiolus_inconspicuus",
+                "type": "species",
+                "archival_data": [
+                    "1435497"
+                ]
+            },
+            "volume": null,
+            "page": "p 33",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1808089",
+                "legacy_id": "111366",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Smith, Beatrice Scheer. A Painted Herbarium. (1992) p 133, Pl. 26.",
+            "machine_name": "smith_beatrice_scheer_a_painted_herbarium_1992_p_133_pl_26",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "malus_ioensis",
+                "type": "species",
+                "archival_data": [
+                    "1415920"
+                ]
+            },
+            "volume": null,
+            "page": "p 133, Pl. 26.",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1808377",
+                "legacy_id": "111412",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Smith, Beatrice Scheer. A Painted Herbarium. (1992) p 151, Pl. 35.",
+            "machine_name": "smith_beatrice_scheer_a_painted_herbarium_1992_p_151_pl_35",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "parnassia_palustris",
+                "type": "species",
+                "archival_data": [
+                    "1425196"
+                ]
+            },
+            "volume": null,
+            "page": "p 151, Pl. 35.",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1811140",
+                "legacy_id": "118787",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Smith, Beatrice Scheer. A Painted Herbarium. (1992) p 155, Pl. 37.",
+            "machine_name": "smith_beatrice_scheer_a_painted_herbarium_1992_p_155_pl_37",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "penstemon_grandiflorus",
+                "type": "species",
+                "archival_data": [
+                    "1427370"
+                ]
+            },
+            "volume": null,
+            "page": "p 155, Pl. 37.",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1815126",
+                "legacy_id": "119856",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Smith, Beatrice Scheer. A Painted Herbarium. (1992) p 129, Pl. 24.",
+            "machine_name": "smith_beatrice_scheer_a_painted_herbarium_1992_p_129_pl_24",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "anemone_pulsatilla",
+                "type": "species",
+                "archival_data": [
+                    "1399444"
+                ]
+            },
+            "volume": null,
+            "page": "p 129, Pl. 24.",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1816131",
+                "legacy_id": "125478",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Smith, Beatrice Scheer. A Painted Herbarium. (1992) p 157, Pl. 38.",
+            "machine_name": "smith_beatrice_scheer_a_painted_herbarium_1992_p_157_pl_38",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pinguicula_vulgaris",
+                "type": "species",
+                "archival_data": [
+                    "1425261"
+                ]
+            },
+            "volume": null,
+            "page": "p 157, Pl. 38.",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1816871",
+                "legacy_id": "121665",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Smith, Beatrice Scheer. A Painted Herbarium. (1992) p 117, Pl. 18.",
+            "machine_name": "smith_beatrice_scheer_a_painted_herbarium_1992_p_117_pl_18",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pogonia_ophioglossoides",
+                "type": "species",
+                "archival_data": [
+                    "1427158"
+                ]
+            },
+            "volume": null,
+            "page": "p 117, Pl. 18.",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1816981",
+                "legacy_id": "123016",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Smith, Beatrice Scheer. A Painted Herbarium. (1992) p 123, Pl. 21.",
+            "machine_name": "smith_beatrice_scheer_a_painted_herbarium_1992_p_123_pl_21",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "populus_deltoides",
+                "type": "species",
+                "archival_data": [
+                    "1422760"
+                ]
+            },
+            "volume": null,
+            "page": "p 123, Pl. 21.",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": true,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1818586",
+                "legacy_id": "123400",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Smith, Beatrice Scheer. A Painted Herbarium. (1992) p 119, Pl. 19.",
+            "machine_name": "smith_beatrice_scheer_a_painted_herbarium_1992_p_119_pl_19",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "comarum_palustre",
+                "type": "species",
+                "archival_data": [
+                    "1403790"
+                ]
+            },
+            "volume": null,
+            "page": "p 119, Pl. 19.",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1819902",
+                "legacy_id": "123744",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Smith, Beatrice Scheer. A Painted Herbarium. (1992) p 135, Pl. 27.",
+            "machine_name": "smith_beatrice_scheer_a_painted_herbarium_1992_p_135_pl_27",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rubus_idaeus",
+                "type": "species",
+                "archival_data": [
+                    "1428355"
+                ]
+            },
+            "volume": null,
+            "page": "p 135, Pl. 27.",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1823254",
+                "legacy_id": "129871",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Smith, Beatrice Scheer. A Painted Herbarium. (1992) p 145, Pl. 32.",
+            "machine_name": "smith_beatrice_scheer_a_painted_herbarium_1992_p_145_pl_32",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rhus_glabra",
+                "type": "species",
+                "archival_data": [
+                    "1432500"
+                ]
+            },
+            "volume": null,
+            "page": "p 145, Pl. 32.",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1823858",
+                "legacy_id": "128722",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Smith, Beatrice Scheer. A Painted Herbarium. (1992) p 83, Pl. 1.",
+            "machine_name": "smith_beatrice_scheer_a_painted_herbarium_1992_p_83_pl_1",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "sagittaria_graminea",
+                "type": "species",
+                "archival_data": [
+                    "1429121"
+                ]
+            },
+            "volume": null,
+            "page": "p 83, Pl. 1.",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1824919",
+                "legacy_id": "130326",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Smith, Beatrice Scheer. A Painted Herbarium. (1992) p 83, Pl. 1.",
+            "machine_name": "smith_beatrice_scheer_a_painted_herbarium_1992_p_83_pl_1",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "sagittaria_latifolia",
+                "type": "species",
+                "archival_data": [
+                    "1429124"
+                ]
+            },
+            "volume": null,
+            "page": "p 83, Pl. 1.",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1824932",
+                "legacy_id": "130339",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Smith, Beatrice Scheer. A Painted Herbarium. (1992) p 103, Pl. 11.",
+            "machine_name": "smith_beatrice_scheer_a_painted_herbarium_1992_p_103_pl_11",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "sisyrinchium_campestre",
+                "type": "species",
+                "archival_data": [
+                    "1430026"
+                ]
+            },
+            "volume": null,
+            "page": "p 103, Pl. 11.",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1828377",
+                "legacy_id": "133874",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Smith, Beatrice Scheer. A Painted Herbarium. (1992) p 89, Pl. 4.",
+            "machine_name": "smith_beatrice_scheer_a_painted_herbarium_1992_p_89_pl_4",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "maianthemum_racemosum",
+                "type": "species",
+                "archival_data": [
+                    "1450701"
+                ]
+            },
+            "volume": null,
+            "page": "p 89, Pl. 4.",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1828706",
+                "legacy_id": "133959",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Smith, Beatrice Scheer. A Painted Herbarium. (1992) p 143, Pl. 31.",
+            "machine_name": "smith_beatrice_scheer_a_painted_herbarium_1992_p_143_pl_31",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "viola_pedatifida",
+                "type": "species",
+                "archival_data": [
+                    "1436879"
+                ]
+            },
+            "volume": null,
+            "page": "p 143, Pl. 31.",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": true,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1830828",
+                "legacy_id": "141270",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Smith, Beatrice Scheer. A Painted Herbarium. (1992) p 141, Pl. 30.",
+            "machine_name": "smith_beatrice_scheer_a_painted_herbarium_1992_p_141_pl_30",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "viola_cucullata",
+                "type": "species",
+                "archival_data": [
+                    "1436551"
+                ]
+            },
+            "volume": null,
+            "page": "p 141, Pl. 30.",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1835658",
+                "legacy_id": "141130",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Smith, Beatrice Scheer. A Painted Herbarium. (1992) p 101, Pl. 10.",
+            "machine_name": "smith_beatrice_scheer_a_painted_herbarium_1992_p_101_pl_10",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "zephyranthes_rosea",
+                "type": "species",
+                "archival_data": [
+                    "1439024"
+                ]
+            },
+            "volume": null,
+            "page": "p 101, Pl. 10.",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1839828",
+                "legacy_id": "142290",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Smith, Beatrice Scheer. A Painted Herbarium. (1992) p 171",
+            "machine_name": "smith_beatrice_scheer_a_painted_herbarium_1992_p_171",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cacalia_coccinea",
+                "type": "species",
+                "archival_data": [
+                    "1398859"
+                ]
+            },
+            "volume": null,
+            "page": "p 171",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1948484",
+                "legacy_id": "288892",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        }
+    ]
+}

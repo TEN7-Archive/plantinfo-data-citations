@@ -1,0 +1,102 @@
+{
+    "name": "Landscape Management. vol 52, no. 1. (2013)",
+    "machine_name": "landscape_management_vol_52_no_1_2013",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2013",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2124027",
+        "legacy_id": "121474",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Landscape Management. vol 52, no. 1. (2013) p 18 (Adv.)",
+            "machine_name": "landscape_management_vol_52_no_1_2013_p_18_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "taraxacum_officinale",
+                "type": "species",
+                "archival_data": [
+                    "1429314"
+                ]
+            },
+            "volume": null,
+            "page": "p 18 (Adv.)",
+            "year": "2013",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2061938",
+                "legacy_id": "459286",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Landscape Management. vol 52, no. 1. (2013) p 18 (Adv.)",
+            "machine_name": "landscape_management_vol_52_no_1_2013_p_18_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "trifolium_pratense",
+                "type": "species",
+                "archival_data": [
+                    "1433136"
+                ]
+            },
+            "volume": null,
+            "page": "p 18 (Adv.)",
+            "year": "2013",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2061939",
+                "legacy_id": "459287",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        }
+    ]
+}

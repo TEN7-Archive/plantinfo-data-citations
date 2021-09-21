@@ -1,0 +1,102 @@
+{
+    "name": "Cactaceas y Suculentas Mexicanas. vol 40, no. 4. (1995)",
+    "machine_name": "cactaceas_y_suculentas_mexicanas_vol_40_no_4_1995",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1995",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113998",
+        "legacy_id": "1799",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Cactaceas y Suculentas Mexicanas. vol 40, no. 4. (1995) p cover",
+            "machine_name": "cactaceas_y_suculentas_mexicanas_vol_40_no_4_1995_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "epiphyllum_phyllanthus",
+                "type": "species",
+                "archival_data": [
+                    "1415079"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1995",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1786401",
+                "legacy_id": "92435",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Cactaceas y Suculentas Mexicanas. vol 40, no. 4. (1995) p backcover",
+            "machine_name": "cactaceas_y_suculentas_mexicanas_vol_40_no_4_1995_p_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "opuntia_decumbens",
+                "type": "species",
+                "archival_data": [
+                    "1421786"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover",
+            "year": "1995",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1814276",
+                "legacy_id": "116955",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "name": "Sierra. vol 75, no. 2. (1990)",
+    "machine_name": "sierra_vol_75_no_2_1990",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1990",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114029",
+        "legacy_id": "5498",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Sierra. vol 75, no. 2. (1990) p 46-47",
+            "machine_name": "sierra_vol_75_no_2_1990_p_46_47",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "eichhornia_crassipes",
+                "type": "species",
+                "archival_data": [
+                    "1413149"
+                ]
+            },
+            "volume": null,
+            "page": "p 46-47",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1788937",
+                "legacy_id": "91473",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Sierra. vol 75, no. 2. (1990) p cover| 42-43| 46-47",
+            "machine_name": "sierra_vol_75_no_2_1990_p_cover_42_43_46_47",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "taxodium_distichum",
+                "type": "species",
+                "archival_data": [
+                    "1429331"
+                ]
+            },
+            "volume": null,
+            "page": "p cover| 42-43| 46-47",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": true,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1833469",
+                "legacy_id": "136628",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        }
+    ]
+}

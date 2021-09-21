@@ -1,0 +1,61 @@
+{
+    "name": "Grounds Maintenance. vol 34, no. 3. (1999)",
+    "machine_name": "grounds_maintenance_vol_34_no_3_1999",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1999",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2115450",
+        "legacy_id": "7256",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grounds Maintenance. vol 34, no. 3. (1999) p c11",
+            "machine_name": "grounds_maintenance_vol_34_no_3_1999_p_c11",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "carex_morrowii_variegata",
+                "type": "variety",
+                "archival_data": [
+                    "1470675"
+                ]
+            },
+            "volume": null,
+            "page": "p c11",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1851277",
+                "legacy_id": "158085",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "name": "Grower, The. vol 26, no. 3. (1993)",
+    "machine_name": "grower_the_vol_26_no_3_1993",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1993",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2110104",
+        "legacy_id": "3379",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grower, The. vol 26, no. 3. (1993) p 17 (Adv.)",
+            "machine_name": "grower_the_vol_26_no_3_1993_p_17_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "capsicum_s_cultivars_merlin",
+                "type": "variety",
+                "archival_data": [
+                    "1470375"
+                ]
+            },
+            "volume": null,
+            "page": "p 17 (Adv.)",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1706687",
+                "legacy_id": "6092",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Grower, The. vol 26, no. 3. (1993) p 31 (Adv.)",
+            "machine_name": "grower_the_vol_26_no_3_1993_p_31_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lycopersicon_cultivars_sun_6084",
+                "type": "variety",
+                "archival_data": [
+                    "1476936"
+                ]
+            },
+            "volume": null,
+            "page": "p 31 (Adv.)",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1728543",
+                "legacy_id": "29987",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Grower, The. vol 26, no. 3. (1993) p backcover (Adv.)",
+            "machine_name": "grower_the_vol_26_no_3_1993_p_backcover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "zea_c_cultivars_frontier",
+                "type": "variety",
+                "archival_data": [
+                    "1496381"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover (Adv.)",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1759807",
+                "legacy_id": "60455",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        }
+    ]
+}

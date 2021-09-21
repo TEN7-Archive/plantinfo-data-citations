@@ -1,0 +1,61 @@
+{
+    "name": "National Wildlife. vol 57, no. 1. (2018\/19)",
+    "machine_name": "national_wildlife_vol_57_no_1_2018_19",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2018\/19",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": "7",
+    "description": null,
+    "archival_data": {
+        "id": "2413596",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1543500091"
+    },
+    "citation_reference_items": [
+        {
+            "name": "National Wildlife. vol 57, no. 1. (2018\/19) p 14",
+            "machine_name": "national_wildlife_vol_57_no_1_2018_19_p_14",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "eichhornia_crassipes",
+                "type": "species",
+                "archival_data": [
+                    "1413149"
+                ]
+            },
+            "volume": null,
+            "page": "p 14",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2413601",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1543500287"
+            }
+        }
+    ]
+}

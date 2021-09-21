@@ -1,0 +1,61 @@
+{
+    "name": "Grower. vol 120, no. 25. (1993)",
+    "machine_name": "grower_vol_120_no_25_1993",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1993",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2111668",
+        "legacy_id": "3543",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grower. vol 120, no. 25. (1993) p cover (Adv.)",
+            "machine_name": "grower_vol_120_no_25_1993_p_cover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "impatiens_cultivars_tempo_series",
+                "type": "variety",
+                "archival_data": [
+                    "1477933"
+                ]
+            },
+            "volume": null,
+            "page": "p cover (Adv.)",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1722361",
+                "legacy_id": "23226",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        }
+    ]
+}

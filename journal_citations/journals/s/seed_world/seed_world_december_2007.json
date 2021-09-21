@@ -1,0 +1,102 @@
+{
+    "name": "Seed World. December 2007.",
+    "machine_name": "seed_world_december_2007",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1687804",
+        "legacy_id": "89149",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Seed World. December 2007. p 19 (Adv.)",
+            "machine_name": "seed_world_december_2007_p_19_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "glycine_max",
+                "type": "species",
+                "archival_data": [
+                    "1440052"
+                ]
+            },
+            "volume": null,
+            "page": "p 19 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": true,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1954276",
+                "legacy_id": "360872",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "Seed World. December 2007. p 22",
+            "machine_name": "seed_world_december_2007_p_22",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "petunia_cultivars_ultra_series",
+                "type": "variety",
+                "archival_data": [
+                    "1481799"
+                ]
+            },
+            "volume": null,
+            "page": "p 22",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1954277",
+                "legacy_id": "360874",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        }
+    ]
+}

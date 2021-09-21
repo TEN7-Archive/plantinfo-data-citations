@@ -1,0 +1,102 @@
+{
+    "name": "Smithsonian. vol 19, no. 5. (1988)",
+    "machine_name": "smithsonian_vol_19_no_5_1988",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1988",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113939",
+        "legacy_id": "5555",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Smithsonian. vol 19, no. 5. (1988) p 104-06",
+            "machine_name": "smithsonian_vol_19_no_5_1988_p_104_06",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "crocus_sativus",
+                "type": "species",
+                "archival_data": [
+                    "1408013"
+                ]
+            },
+            "volume": null,
+            "page": "p 104-06",
+            "year": "1988",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1782697",
+                "legacy_id": "85889",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Smithsonian. vol 19, no. 5. (1988) p 89",
+            "machine_name": "smithsonian_vol_19_no_5_1988_p_89",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "vigna_unguiculata",
+                "type": "species",
+                "archival_data": [
+                    "1436493"
+                ]
+            },
+            "volume": null,
+            "page": "p 89",
+            "year": "1988",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1835014",
+                "legacy_id": "140971",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        }
+    ]
+}

@@ -1,0 +1,717 @@
+{
+    "name": "Flora of Australia. vol. 22 (1984)",
+    "machine_name": "flora_of_australia_vol_22_1984",
+    "type": "journal_book",
+    "volume": "22",
+    "number": null,
+    "year": "1984",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2108760",
+        "legacy_id": "2575",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Flora of Australia. vol. 22 (1984) 22 p frontispiece.",
+            "machine_name": "flora_of_australia_vol_22_1984_22_p_frontispiece",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "amyema_miraculosum_boormanii",
+                "type": "variety",
+                "archival_data": [
+                    "1466238"
+                ]
+            },
+            "volume": "22",
+            "page": "p frontispiece.",
+            "year": "1984",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1702465",
+                "legacy_id": "1598",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483346299"
+            }
+        },
+        {
+            "name": "Flora of Australia. vol. 22 (1984) 22 p 31, Pl. 8.",
+            "machine_name": "flora_of_australia_vol_22_1984_22_p_31_pl_8",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "bruguiera_exaristata",
+                "type": "species",
+                "archival_data": [
+                    "1397703"
+                ]
+            },
+            "volume": "22",
+            "page": "p 31, Pl. 8.",
+            "year": "1984",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1770006",
+                "legacy_id": "77139",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483346299"
+            }
+        },
+        {
+            "name": "Flora of Australia. vol. 22 (1984) 22 p 151, Pl. 37.",
+            "machine_name": "flora_of_australia_vol_22_1984_22_p_151_pl_37",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "balanophora_fungosa",
+                "type": "species",
+                "archival_data": [
+                    "1399200"
+                ]
+            },
+            "volume": "22",
+            "page": "p 151, Pl. 37.",
+            "year": "1984",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1771861",
+                "legacy_id": "74953",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483346299"
+            }
+        },
+        {
+            "name": "Flora of Australia. vol. 22 (1984) 22 p 130, Pl. 30.",
+            "machine_name": "flora_of_australia_vol_22_1984_22_p_130_pl_30",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "choretrum_pauciflorum",
+                "type": "species",
+                "archival_data": [
+                    "1406685"
+                ]
+            },
+            "volume": "22",
+            "page": "p 130, Pl. 30.",
+            "year": "1984",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1777879",
+                "legacy_id": "81910",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483346299"
+            }
+        },
+        {
+            "name": "Flora of Australia. vol. 22 (1984) 22 p 130, Pl. 31.",
+            "machine_name": "flora_of_australia_vol_22_1984_22_p_130_pl_31",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "dendrophthoe_falcata",
+                "type": "species",
+                "archival_data": [
+                    "1407314"
+                ]
+            },
+            "volume": "22",
+            "page": "p 130, Pl. 31.",
+            "year": "1984",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1783226",
+                "legacy_id": "88684",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483346299"
+            }
+        },
+        {
+            "name": "Flora of Australia. vol. 22 (1984) 22 p 185, Pl. 49.",
+            "machine_name": "flora_of_australia_vol_22_1984_22_p_185_pl_49",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "denhamia_parvifolia",
+                "type": "species",
+                "archival_data": [
+                    "1407318"
+                ]
+            },
+            "volume": "22",
+            "page": "p 185, Pl. 49.",
+            "year": "1984",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1783231",
+                "legacy_id": "88690",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483346299"
+            }
+        },
+        {
+            "name": "Flora of Australia. vol. 22 (1984) 22 p 130, Pl. 29.",
+            "machine_name": "flora_of_australia_vol_22_1984_22_p_130_pl_29",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "exocarpos_latifolius",
+                "type": "species",
+                "archival_data": [
+                    "1412253"
+                ]
+            },
+            "volume": "22",
+            "page": "p 130, Pl. 29.",
+            "year": "1984",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1792204",
+                "legacy_id": "96550",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483346299"
+            }
+        },
+        {
+            "name": "Flora of Australia. vol. 22 (1984) 22 p 185, Pl. 48.",
+            "machine_name": "flora_of_australia_vol_22_1984_22_p_185_pl_48",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "macgregoria_racemigera",
+                "type": "species",
+                "archival_data": [
+                    "1420820"
+                ]
+            },
+            "volume": "22",
+            "page": "p 185, Pl. 48.",
+            "year": "1984",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1806117",
+                "legacy_id": "110860",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483346299"
+            }
+        },
+        {
+            "name": "Flora of Australia. vol. 22 (1984) 22 p 31, Pl. 11.",
+            "machine_name": "flora_of_australia_vol_22_1984_22_p_31_pl_11",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "olax_stricta",
+                "type": "species",
+                "archival_data": [
+                    "1426206"
+                ]
+            },
+            "volume": "22",
+            "page": "p 31, Pl. 11.",
+            "year": "1984",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1811681",
+                "legacy_id": "116315",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483346299"
+            }
+        },
+        {
+            "name": "Flora of Australia. vol. 22 (1984) 22 p 31, Pl. 9.",
+            "machine_name": "flora_of_australia_vol_22_1984_22_p_31_pl_9",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "opilia_amentacea",
+                "type": "species",
+                "archival_data": [
+                    "1427352"
+                ]
+            },
+            "volume": "22",
+            "page": "p 31, Pl. 9.",
+            "year": "1984",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1813955",
+                "legacy_id": "116880",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483346299"
+            }
+        },
+        {
+            "name": "Flora of Australia. vol. 22 (1984) 22 p 151, Pl. 39.",
+            "machine_name": "flora_of_australia_vol_22_1984_22_p_151_pl_39",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "notothixos_subaureus",
+                "type": "species",
+                "archival_data": [
+                    "1425083"
+                ]
+            },
+            "volume": "22",
+            "page": "p 151, Pl. 39.",
+            "year": "1984",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1814825",
+                "legacy_id": "115770",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483346299"
+            }
+        },
+        {
+            "name": "Flora of Australia. vol. 22 (1984) 22 p 130, Pl. 32.",
+            "machine_name": "flora_of_australia_vol_22_1984_22_p_130_pl_32",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "nuytsia_floribunda",
+                "type": "species",
+                "archival_data": [
+                    "1425111"
+                ]
+            },
+            "volume": "22",
+            "page": "p 130, Pl. 32.",
+            "year": "1984",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1814875",
+                "legacy_id": "115822",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483346299"
+            }
+        },
+        {
+            "name": "Flora of Australia. vol. 22 (1984) 22 p 151, Pl. 38.",
+            "machine_name": "flora_of_australia_vol_22_1984_22_p_151_pl_38",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pilostyles_hamiltonii",
+                "type": "species",
+                "archival_data": [
+                    "1424875"
+                ]
+            },
+            "volume": "22",
+            "page": "p 151, Pl. 38.",
+            "year": "1984",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1816262",
+                "legacy_id": "121542",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483346299"
+            }
+        },
+        {
+            "name": "Flora of Australia. vol. 22 (1984) 22 p 185, Pl. 47.",
+            "machine_name": "flora_of_australia_vol_22_1984_22_p_185_pl_47",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "psammomoya_choretroides",
+                "type": "species",
+                "archival_data": [
+                    "1425405"
+                ]
+            },
+            "volume": "22",
+            "page": "p 185, Pl. 47.",
+            "year": "1984",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1819388",
+                "legacy_id": "124966",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483346299"
+            }
+        },
+        {
+            "name": "Flora of Australia. vol. 22 (1984) 22 p 31, Pl. 10.",
+            "machine_name": "flora_of_australia_vol_22_1984_22_p_31_pl_10",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "santalum_acuminatum",
+                "type": "species",
+                "archival_data": [
+                    "1430654"
+                ]
+            },
+            "volume": "22",
+            "page": "p 31, Pl. 10.",
+            "year": "1984",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1822421",
+                "legacy_id": "131203",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483346299"
+            }
+        },
+        {
+            "name": "Flora of Australia. vol. 22 (1984) 22 p 185, Pl. 50.",
+            "machine_name": "flora_of_australia_vol_22_1984_22_p_185_pl_50",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "stackhousia_monogyna",
+                "type": "species",
+                "archival_data": [
+                    "1432304"
+                ]
+            },
+            "volume": "22",
+            "page": "p 185, Pl. 50.",
+            "year": "1984",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1828158",
+                "legacy_id": "135169",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483346299"
+            }
+        },
+        {
+            "name": "Flora of Australia. vol. 22 (1984) 22 p 151, Pl. 36.",
+            "machine_name": "flora_of_australia_vol_22_1984_22_p_151_pl_36",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "amyema_preissii",
+                "type": "species",
+                "archival_data": [
+                    "1398643"
+                ]
+            },
+            "volume": "22",
+            "page": "p 151, Pl. 36.",
+            "year": "1984",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1895047",
+                "legacy_id": "241923",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483346299"
+            }
+        }
+    ]
+}

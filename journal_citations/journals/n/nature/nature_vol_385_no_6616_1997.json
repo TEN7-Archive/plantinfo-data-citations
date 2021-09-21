@@ -1,0 +1,61 @@
+{
+    "name": "Nature. vol 385, no. 6616. (1997)",
+    "machine_name": "nature_vol_385_no_6616_1997",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1997",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2118511",
+        "legacy_id": "53851",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Nature. vol 385, no. 6616. (1997) p 500",
+            "machine_name": "nature_vol_385_no_6616_1997_p_500",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "saxifraga_oppositifolia",
+                "type": "species",
+                "archival_data": [
+                    "1431838"
+                ]
+            },
+            "volume": null,
+            "page": "p 500",
+            "year": "1997",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1912381",
+                "legacy_id": "268690",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        }
+    ]
+}

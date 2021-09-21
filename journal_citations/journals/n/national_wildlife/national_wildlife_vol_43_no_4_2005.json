@@ -1,0 +1,102 @@
+{
+    "name": "National Wildlife. vol 43, no. 4. (2005)",
+    "machine_name": "national_wildlife_vol_43_no_4_2005",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2005",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2121150",
+        "legacy_id": "65769",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "National Wildlife. vol 43, no. 4. (2005) p cover",
+            "machine_name": "national_wildlife_vol_43_no_4_2005_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "iris_douglasiana",
+                "type": "species",
+                "archival_data": [
+                    "1417255"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "2005",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1977314",
+                "legacy_id": "300500",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        },
+        {
+            "name": "National Wildlife. vol 43, no. 4. (2005) p 12",
+            "machine_name": "national_wildlife_vol_43_no_4_2005_p_12",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "callicarpa_americana",
+                "type": "species",
+                "archival_data": [
+                    "1399288"
+                ]
+            },
+            "volume": null,
+            "page": "p 12",
+            "year": "2005",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1977315",
+                "legacy_id": "300501",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        }
+    ]
+}

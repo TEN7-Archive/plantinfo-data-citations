@@ -1,0 +1,184 @@
+{
+    "name": "National Dahlia Society. Dahlia Annual. 2005.",
+    "machine_name": "national_dahlia_society_dahlia_annual_2005",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1688729",
+        "legacy_id": "66809",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "National Dahlia Society. Dahlia Annual. 2005. p 33;backcover",
+            "machine_name": "national_dahlia_society_dahlia_annual_2005_p_33_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "dahlia_tenuicaulis",
+                "type": "species",
+                "archival_data": [
+                    "1404966"
+                ]
+            },
+            "volume": null,
+            "page": "p 33;backcover",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1976888",
+                "legacy_id": "303910",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        },
+        {
+            "name": "National Dahlia Society. Dahlia Annual. 2005. p 33",
+            "machine_name": "national_dahlia_society_dahlia_annual_2005_p_33",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "dahlia_imperialis",
+                "type": "species",
+                "archival_data": [
+                    "1404961"
+                ]
+            },
+            "volume": null,
+            "page": "p 33",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1976889",
+                "legacy_id": "303911",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        },
+        {
+            "name": "National Dahlia Society. Dahlia Annual. 2005. p 34",
+            "machine_name": "national_dahlia_society_dahlia_annual_2005_p_34",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "dahlia_cultivars_weston_flamingo",
+                "type": "variety",
+                "archival_data": [
+                    "1616411"
+                ]
+            },
+            "volume": null,
+            "page": "p 34",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1976890",
+                "legacy_id": "303912",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        },
+        {
+            "name": "National Dahlia Society. Dahlia Annual. 2005. p 35",
+            "machine_name": "national_dahlia_society_dahlia_annual_2005_p_35",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "dahlia_cultivars_jomanda",
+                "type": "variety",
+                "archival_data": [
+                    "1543397"
+                ]
+            },
+            "volume": null,
+            "page": "p 35",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1976891",
+                "legacy_id": "303913",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        }
+    ]
+}

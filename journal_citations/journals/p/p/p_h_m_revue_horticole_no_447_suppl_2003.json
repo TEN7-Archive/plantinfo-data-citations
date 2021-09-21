@@ -1,0 +1,143 @@
+{
+    "name": "P.H.M.-Revue Horticole. no. 447, Suppl. (2003)",
+    "machine_name": "p_h_m_revue_horticole_no_447_suppl_2003",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2003",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2118357",
+        "legacy_id": "49190",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "P.H.M.-Revue Horticole. no. 447, Suppl. (2003) p xvi, Pl. 2,4.",
+            "machine_name": "p_h_m_revue_horticole_no_447_suppl_2003_p_xvi_pl_2_4",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cucumis_melo_pancha",
+                "type": "variety",
+                "archival_data": [
+                    "1504660"
+                ]
+            },
+            "volume": null,
+            "page": "p xvi, Pl. 2,4.",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1910027",
+                "legacy_id": "260713",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "P.H.M.-Revue Horticole. no. 447, Suppl. (2003) p xvi, Pl. 3-4.",
+            "machine_name": "p_h_m_revue_horticole_no_447_suppl_2003_p_xvi_pl_3_4",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cucumis_melo_dikti",
+                "type": "variety",
+                "archival_data": [
+                    "1580336"
+                ]
+            },
+            "volume": null,
+            "page": "p xvi, Pl. 3-4.",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1910028",
+                "legacy_id": "260714",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "P.H.M.-Revue Horticole. no. 447, Suppl. (2003) p xvi, Pl. 1,4.",
+            "machine_name": "p_h_m_revue_horticole_no_447_suppl_2003_p_xvi_pl_1_4",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cucumis_melo_calipso",
+                "type": "variety",
+                "archival_data": [
+                    "1580337"
+                ]
+            },
+            "volume": null,
+            "page": "p xvi, Pl. 1,4.",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1910029",
+                "legacy_id": "260715",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        }
+    ]
+}

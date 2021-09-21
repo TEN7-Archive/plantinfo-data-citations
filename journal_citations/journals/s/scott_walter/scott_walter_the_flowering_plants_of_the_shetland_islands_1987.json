@@ -1,0 +1,758 @@
+{
+    "name": "Scott, Walter. The Flowering Plants...of the Shetland Islands. (1987)",
+    "machine_name": "scott_walter_the_flowering_plants_of_the_shetland_islands_1987",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1987",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2109170",
+        "legacy_id": "5421",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Scott, Walter. The Flowering Plants...of the Shetland Islands. (1987) p 102, Pl. 6(b)",
+            "machine_name": "scott_walter_the_flowering_plants_of_the_shetland_islands_1987_p_102_pl_6_b",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "arenaria_norvegica_norvegica",
+                "type": "variety",
+                "archival_data": [
+                    "1463880"
+                ]
+            },
+            "volume": null,
+            "page": "p 102, Pl. 6(b)",
+            "year": "1987",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1703208",
+                "legacy_id": "2176",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Scott, Walter. The Flowering Plants...of the Shetland Islands. (1987) p frontispiece",
+            "machine_name": "scott_walter_the_flowering_plants_of_the_shetland_islands_1987_p_frontispiece",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "aster_tripolium_tripolium",
+                "type": "variety",
+                "archival_data": [
+                    "1464142"
+                ]
+            },
+            "volume": null,
+            "page": "p frontispiece",
+            "year": "1987",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1703768",
+                "legacy_id": "2652",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Scott, Walter. The Flowering Plants...of the Shetland Islands. (1987) p 102, Pl. 8",
+            "machine_name": "scott_walter_the_flowering_plants_of_the_shetland_islands_1987_p_102_pl_8",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "gentianella_amarella_septentrionalis",
+                "type": "variety",
+                "archival_data": [
+                    "1476108"
+                ]
+            },
+            "volume": null,
+            "page": "p 102, Pl. 8",
+            "year": "1987",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1720860",
+                "legacy_id": "16315",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Scott, Walter. The Flowering Plants...of the Shetland Islands. (1987) p 374, Pl. 15(b)",
+            "machine_name": "scott_walter_the_flowering_plants_of_the_shetland_islands_1987_p_374_pl_15_b",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "primula_vulgaris_vulgaris",
+                "type": "variety",
+                "archival_data": [
+                    "1488392"
+                ]
+            },
+            "volume": null,
+            "page": "p 374, Pl. 15(b)",
+            "year": "1987",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1738142",
+                "legacy_id": "40388",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Scott, Walter. The Flowering Plants...of the Shetland Islands. (1987) p 102, Pl. 7(a)",
+            "machine_name": "scott_walter_the_flowering_plants_of_the_shetland_islands_1987_p_102_pl_7_a",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "atriplex_praecox",
+                "type": "species",
+                "archival_data": [
+                    "1398759"
+                ]
+            },
+            "volume": null,
+            "page": "p 102, Pl. 7(a)",
+            "year": "1987",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1770868",
+                "legacy_id": "74690",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Scott, Walter. The Flowering Plants...of the Shetland Islands. (1987) p 374, Pl. 14(a)",
+            "machine_name": "scott_walter_the_flowering_plants_of_the_shetland_islands_1987_p_374_pl_14_a",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "dactylorhiza_incarnata",
+                "type": "species",
+                "archival_data": [
+                    "1404654"
+                ]
+            },
+            "volume": null,
+            "page": "p 374, Pl. 14(a)",
+            "year": "1987",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1783438",
+                "legacy_id": "87405",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Scott, Walter. The Flowering Plants...of the Shetland Islands. (1987) p 374, Pl. 16",
+            "machine_name": "scott_walter_the_flowering_plants_of_the_shetland_islands_1987_p_374_pl_16",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "listera_cordata",
+                "type": "species",
+                "archival_data": [
+                    "1418472"
+                ]
+            },
+            "volume": null,
+            "page": "p 374, Pl. 16",
+            "year": "1987",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1800818",
+                "legacy_id": "109516",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Scott, Walter. The Flowering Plants...of the Shetland Islands. (1987) p 358, Pl. 9",
+            "machine_name": "scott_walter_the_flowering_plants_of_the_shetland_islands_1987_p_358_pl_9",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lobelia_dortmanna",
+                "type": "species",
+                "archival_data": [
+                    "1418875"
+                ]
+            },
+            "volume": null,
+            "page": "p 358, Pl. 9",
+            "year": "1987",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1801479",
+                "legacy_id": "109784",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Scott, Walter. The Flowering Plants...of the Shetland Islands. (1987) p 374, Pl. 13",
+            "machine_name": "scott_walter_the_flowering_plants_of_the_shetland_islands_1987_p_374_pl_13",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "jasione_montana",
+                "type": "species",
+                "archival_data": [
+                    "1418380"
+                ]
+            },
+            "volume": null,
+            "page": "p 374, Pl. 13",
+            "year": "1987",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1801556",
+                "legacy_id": "105692",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Scott, Walter. The Flowering Plants...of the Shetland Islands. (1987) p 358, Pl. 10(a)",
+            "machine_name": "scott_walter_the_flowering_plants_of_the_shetland_islands_1987_p_358_pl_10_a",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ligusticum_scoticum",
+                "type": "species",
+                "archival_data": [
+                    "1417350"
+                ]
+            },
+            "volume": null,
+            "page": "p 358, Pl. 10(a)",
+            "year": "1987",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1802973",
+                "legacy_id": "108650",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Scott, Walter. The Flowering Plants...of the Shetland Islands. (1987) p 102, Pl. 7(b)",
+            "machine_name": "scott_walter_the_flowering_plants_of_the_shetland_islands_1987_p_102_pl_7_b",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "mertensia_maritima",
+                "type": "species",
+                "archival_data": [
+                    "1419751"
+                ]
+            },
+            "volume": null,
+            "page": "p 102, Pl. 7(b)",
+            "year": "1987",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1804996",
+                "legacy_id": "113221",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Scott, Walter. The Flowering Plants...of the Shetland Islands. (1987) p 358, Pl. 12",
+            "machine_name": "scott_walter_the_flowering_plants_of_the_shetland_islands_1987_p_358_pl_12",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "mimulus_burnetii",
+                "type": "species",
+                "archival_data": [
+                    "1420508"
+                ]
+            },
+            "volume": null,
+            "page": "p 358, Pl. 12",
+            "year": "1987",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1806591",
+                "legacy_id": "113590",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Scott, Walter. The Flowering Plants...of the Shetland Islands. (1987) p 86, Pl. 4",
+            "machine_name": "scott_walter_the_flowering_plants_of_the_shetland_islands_1987_p_86_pl_4",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "nymphaea_alba",
+                "type": "species",
+                "archival_data": [
+                    "1425119"
+                ]
+            },
+            "volume": null,
+            "page": "p 86, Pl. 4",
+            "year": "1987",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1809992",
+                "legacy_id": "115840",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Scott, Walter. The Flowering Plants...of the Shetland Islands. (1987) p 86, Pl. 1.",
+            "machine_name": "scott_walter_the_flowering_plants_of_the_shetland_islands_1987_p_86_pl_1",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "populus_tremula",
+                "type": "species",
+                "archival_data": [
+                    "1422778"
+                ]
+            },
+            "volume": null,
+            "page": "p 86, Pl. 1.",
+            "year": "1987",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1818628",
+                "legacy_id": "123445",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Scott, Walter. The Flowering Plants...of the Shetland Islands. (1987) p 86, Pl. 3(a)",
+            "machine_name": "scott_walter_the_flowering_plants_of_the_shetland_islands_1987_p_86_pl_3_a",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "salix_herbacea",
+                "type": "species",
+                "archival_data": [
+                    "1429524"
+                ]
+            },
+            "volume": null,
+            "page": "p 86, Pl. 3(a)",
+            "year": "1987",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1825582",
+                "legacy_id": "130506",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Scott, Walter. The Flowering Plants...of the Shetland Islands. (1987) p 86, Pl. 3(b)",
+            "machine_name": "scott_walter_the_flowering_plants_of_the_shetland_islands_1987_p_86_pl_3_b",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "saxifraga_oppositifolia",
+                "type": "species",
+                "archival_data": [
+                    "1431838"
+                ]
+            },
+            "volume": null,
+            "page": "p 86, Pl. 3(b)",
+            "year": "1987",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1825718",
+                "legacy_id": "131910",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Scott, Walter. The Flowering Plants...of the Shetland Islands. (1987) p 358, Pl. 10(b)",
+            "machine_name": "scott_walter_the_flowering_plants_of_the_shetland_islands_1987_p_358_pl_10_b",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "silene_acaulis",
+                "type": "species",
+                "archival_data": [
+                    "1429591"
+                ]
+            },
+            "volume": null,
+            "page": "p 358, Pl. 10(b)",
+            "year": "1987",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1827083",
+                "legacy_id": "133555",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Scott, Walter. The Flowering Plants...of the Shetland Islands. (1987) p 374, Pl. 15(a)",
+            "machine_name": "scott_walter_the_flowering_plants_of_the_shetland_islands_1987_p_374_pl_15_a",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "scilla_verna",
+                "type": "species",
+                "archival_data": [
+                    "1433270"
+                ]
+            },
+            "volume": null,
+            "page": "p 374, Pl. 15(a)",
+            "year": "1987",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1827987",
+                "legacy_id": "132482",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        }
+    ]
+}

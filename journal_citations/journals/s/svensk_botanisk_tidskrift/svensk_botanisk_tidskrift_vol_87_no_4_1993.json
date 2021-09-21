@@ -1,0 +1,102 @@
+{
+    "name": "Svensk Botanisk Tidskrift. vol 87, no. 4. (1993)",
+    "machine_name": "svensk_botanisk_tidskrift_vol_87_no_4_1993",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1993",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114478",
+        "legacy_id": "5742",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Svensk Botanisk Tidskrift. vol 87, no. 4. (1993) p 224",
+            "machine_name": "svensk_botanisk_tidskrift_vol_87_no_4_1993_p_224",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "platanthera_bifolia",
+                "type": "species",
+                "archival_data": [
+                    "1426064"
+                ]
+            },
+            "volume": null,
+            "page": "p 224",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1819841",
+                "legacy_id": "122438",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Svensk Botanisk Tidskrift. vol 87, no. 4. (1993) p cover",
+            "machine_name": "svensk_botanisk_tidskrift_vol_87_no_4_1993_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rubus_caesius",
+                "type": "species",
+                "archival_data": [
+                    "1428335"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1822964",
+                "legacy_id": "129824",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        }
+    ]
+}

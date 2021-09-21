@@ -1,0 +1,61 @@
+{
+    "name": "Better Homes & Gardens. vol 84, no. 2. (2006)",
+    "machine_name": "better_homes_gardens_vol_84_no_2_2006",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2006",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2121674",
+        "legacy_id": "70290",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Better Homes & Gardens. vol 84, no. 2. (2006) p 116-17",
+            "machine_name": "better_homes_gardens_vol_84_no_2_2006_p_116_17",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "yucca_filamentosa_golden_sword",
+                "type": "variety",
+                "archival_data": [
+                    "1546804"
+                ]
+            },
+            "volume": null,
+            "page": "p 116-17",
+            "year": "2006",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1992706",
+                "legacy_id": "313389",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        }
+    ]
+}

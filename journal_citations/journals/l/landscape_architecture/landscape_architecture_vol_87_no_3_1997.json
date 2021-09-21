@@ -1,0 +1,102 @@
+{
+    "name": "Landscape Architecture. vol 87, no. 3. (1997)",
+    "machine_name": "landscape_architecture_vol_87_no_3_1997",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1997",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2115672",
+        "legacy_id": "7228",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Landscape Architecture. vol 87, no. 3. (1997) p 20 (Adv.)",
+            "machine_name": "landscape_architecture_vol_87_no_3_1997_p_20_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pyrus_calleryana_aristocrat",
+                "type": "variety",
+                "archival_data": [
+                    "1490806"
+                ]
+            },
+            "volume": null,
+            "page": "p 20 (Adv.)",
+            "year": "1997",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1855602",
+                "legacy_id": "157945",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Landscape Architecture. vol 87, no. 3. (1997) p 104 (Adv.)",
+            "machine_name": "landscape_architecture_vol_87_no_3_1997_p_104_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "aspidistra_elatior",
+                "type": "species",
+                "archival_data": [
+                    "1403360"
+                ]
+            },
+            "volume": null,
+            "page": "p 104 (Adv.)",
+            "year": "1997",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1855603",
+                "legacy_id": "157946",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        }
+    ]
+}

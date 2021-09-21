@@ -1,0 +1,676 @@
+{
+    "name": "Northern Gardener. vol 139, no. 6. (2011)",
+    "machine_name": "northern_gardener_vol_139_no_6_2011",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2011",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2122669",
+        "legacy_id": "115689",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Northern Gardener. vol 139, no. 6. (2011) p 12",
+            "machine_name": "northern_gardener_vol_139_no_6_2011_p_12",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "onoclea_sensibilis",
+                "type": "species",
+                "archival_data": [
+                    "1438617"
+                ]
+            },
+            "volume": null,
+            "page": "p 12",
+            "year": "2011",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2009529",
+                "legacy_id": "438432",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "Northern Gardener. vol 139, no. 6. (2011) p 17",
+            "machine_name": "northern_gardener_vol_139_no_6_2011_p_17",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "amsonia_hubrichtii",
+                "type": "species",
+                "archival_data": [
+                    "1398630"
+                ]
+            },
+            "volume": null,
+            "page": "p 17",
+            "year": "2011",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2014436",
+                "legacy_id": "438434",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "Northern Gardener. vol 139, no. 6. (2011) p 18",
+            "machine_name": "northern_gardener_vol_139_no_6_2011_p_18",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "juglans_nigra",
+                "type": "species",
+                "archival_data": [
+                    "1418754"
+                ]
+            },
+            "volume": null,
+            "page": "p 18",
+            "year": "2011",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2014437",
+                "legacy_id": "438435",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "Northern Gardener. vol 139, no. 6. (2011) p 20",
+            "machine_name": "northern_gardener_vol_139_no_6_2011_p_20",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "echinacea_cultivars_tiki_torch",
+                "type": "variety",
+                "archival_data": [
+                    "1605709"
+                ]
+            },
+            "volume": null,
+            "page": "p 20",
+            "year": "2011",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2014438",
+                "legacy_id": "438436",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "Northern Gardener. vol 139, no. 6. (2011) p 20",
+            "machine_name": "northern_gardener_vol_139_no_6_2011_p_20",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "trollius_cultivars_orange_princess",
+                "type": "variety",
+                "archival_data": [
+                    "1531663"
+                ]
+            },
+            "volume": null,
+            "page": "p 20",
+            "year": "2011",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2014439",
+                "legacy_id": "438437",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "Northern Gardener. vol 139, no. 6. (2011) p 21",
+            "machine_name": "northern_gardener_vol_139_no_6_2011_p_21",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "canna_cultivars_tropicanna_series",
+                "type": "variety",
+                "archival_data": [
+                    "1469476"
+                ]
+            },
+            "volume": null,
+            "page": "p 21",
+            "year": "2011",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2014440",
+                "legacy_id": "438438",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "Northern Gardener. vol 139, no. 6. (2011) p 21",
+            "machine_name": "northern_gardener_vol_139_no_6_2011_p_21",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "papaver_orientale_prince_of_orange",
+                "type": "variety",
+                "archival_data": [
+                    "1485785"
+                ]
+            },
+            "volume": null,
+            "page": "p 21",
+            "year": "2011",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2014441",
+                "legacy_id": "438439",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "Northern Gardener. vol 139, no. 6. (2011) p 22-23",
+            "machine_name": "northern_gardener_vol_139_no_6_2011_p_22_23",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lilium_cultivars_pixie_series",
+                "type": "variety",
+                "archival_data": [
+                    "1478992"
+                ]
+            },
+            "volume": null,
+            "page": "p 22-23",
+            "year": "2011",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2014442",
+                "legacy_id": "438440",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "Northern Gardener. vol 139, no. 6. (2011) p 22",
+            "machine_name": "northern_gardener_vol_139_no_6_2011_p_22",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "tropaeolum_majus_alaska_series",
+                "type": "variety",
+                "archival_data": [
+                    "1531668"
+                ]
+            },
+            "volume": null,
+            "page": "p 22",
+            "year": "2011",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2014443",
+                "legacy_id": "438441",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "Northern Gardener. vol 139, no. 6. (2011) p 22",
+            "machine_name": "northern_gardener_vol_139_no_6_2011_p_22",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lychnis_arkwrightii_vesuvius",
+                "type": "variety",
+                "archival_data": [
+                    "1480830"
+                ]
+            },
+            "volume": null,
+            "page": "p 22",
+            "year": "2011",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2014444",
+                "legacy_id": "438442",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "Northern Gardener. vol 139, no. 6. (2011) p 22-23",
+            "machine_name": "northern_gardener_vol_139_no_6_2011_p_22_23",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "heucherella_cultivars_sweet_tea",
+                "type": "variety",
+                "archival_data": [
+                    "1625547"
+                ]
+            },
+            "volume": null,
+            "page": "p 22-23",
+            "year": "2011",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2014445",
+                "legacy_id": "438443",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "Northern Gardener. vol 139, no. 6. (2011) p 23",
+            "machine_name": "northern_gardener_vol_139_no_6_2011_p_23",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "thunbergia_alata_canary_eyes",
+                "type": "variety",
+                "archival_data": [
+                    "1625191"
+                ]
+            },
+            "volume": null,
+            "page": "p 23",
+            "year": "2011",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2014446",
+                "legacy_id": "438445",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "Northern Gardener. vol 139, no. 6. (2011) p 33",
+            "machine_name": "northern_gardener_vol_139_no_6_2011_p_33",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lamprocapnos_spectabilis",
+                "type": "species",
+                "archival_data": [
+                    "1450428"
+                ]
+            },
+            "volume": null,
+            "page": "p 33",
+            "year": "2011",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2014447",
+                "legacy_id": "438447",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "Northern Gardener. vol 139, no. 6. (2011) p 14",
+            "machine_name": "northern_gardener_vol_139_no_6_2011_p_14",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "geum_cultivars_tequila_sunrise",
+                "type": "variety",
+                "archival_data": [
+                    "1619455"
+                ]
+            },
+            "volume": null,
+            "page": "p 14",
+            "year": "2011",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2062098",
+                "legacy_id": "438433",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Northern Gardener. vol 139, no. 6. (2011) p 23",
+            "machine_name": "northern_gardener_vol_139_no_6_2011_p_23",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "thunbergia_alata_orange_wonder",
+                "type": "variety",
+                "archival_data": [
+                    "1622032"
+                ]
+            },
+            "volume": null,
+            "page": "p 23",
+            "year": "2011",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2062099",
+                "legacy_id": "438444",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Northern Gardener. vol 139, no. 6. (2011) p 24",
+            "machine_name": "northern_gardener_vol_139_no_6_2011_p_24",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "tulipa_cultivars_orange_breeze",
+                "type": "variety",
+                "archival_data": [
+                    "1622033"
+                ]
+            },
+            "volume": null,
+            "page": "p 24",
+            "year": "2011",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2062100",
+                "legacy_id": "438446",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "name": "Audubon. vol 111, no. 1. (2009)",
+    "machine_name": "audubon_vol_111_no_1_2009",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2009",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2121513",
+        "legacy_id": "99270",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Audubon. vol 111, no. 1. (2009) p 36",
+            "machine_name": "audubon_vol_111_no_1_2009_p_36",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "claytonia_caroliniana",
+                "type": "species",
+                "archival_data": [
+                    "1407895"
+                ]
+            },
+            "volume": null,
+            "page": "p 36",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1987403",
+                "legacy_id": "386711",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "name": "National Wildlife. vol 45, no. 6. (2007)",
+    "machine_name": "national_wildlife_vol_45_no_6_2007",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2007",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2120329",
+        "legacy_id": "86829",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "National Wildlife. vol 45, no. 6. (2007) p 41",
+            "machine_name": "national_wildlife_vol_45_no_6_2007_p_41",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rhododendron_vaseyi",
+                "type": "species",
+                "archival_data": [
+                    "1432435"
+                ]
+            },
+            "volume": null,
+            "page": "p 41",
+            "year": "2007",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1955396",
+                "legacy_id": "353772",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        }
+    ]
+}

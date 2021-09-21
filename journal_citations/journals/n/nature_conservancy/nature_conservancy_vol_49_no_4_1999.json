@@ -1,0 +1,102 @@
+{
+    "name": "Nature Conservancy. vol 49, no. 4. (1999)",
+    "machine_name": "nature_conservancy_vol_49_no_4_1999",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1999",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2115933",
+        "legacy_id": "7691",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Nature Conservancy. vol 49, no. 4. (1999) p 20;24",
+            "machine_name": "nature_conservancy_vol_49_no_4_1999_p_20_24",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "euphorbia_esula",
+                "type": "species",
+                "archival_data": [
+                    "1410332"
+                ]
+            },
+            "volume": null,
+            "page": "p 20;24",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1860024",
+                "legacy_id": "164084",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Nature Conservancy. vol 49, no. 4. (1999) p 22",
+            "machine_name": "nature_conservancy_vol_49_no_4_1999_p_22",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "opuntia_spinosissima",
+                "type": "species",
+                "archival_data": [
+                    "1443690"
+                ]
+            },
+            "volume": null,
+            "page": "p 22",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1860025",
+                "legacy_id": "164085",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "name": "Flora International. no. 212. (2010)",
+    "machine_name": "flora_international_no_212_2010",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2010",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2124081",
+        "legacy_id": "111931",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Flora International. no. 212. (2010) p 45",
+            "machine_name": "flora_international_no_212_2010_p_45",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "archontophoenix_cunninghamiana",
+                "type": "species",
+                "archival_data": [
+                    "1401070"
+                ]
+            },
+            "volume": null,
+            "page": "p 45",
+            "year": "2010",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2067860",
+                "legacy_id": "424468",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        }
+    ]
+}

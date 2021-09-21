@@ -1,0 +1,61 @@
+{
+    "name": "Deutscher Gartenbau. vol 44, no. 49. (1990)",
+    "machine_name": "deutscher_gartenbau_vol_44_no_49_1990",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1990",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113679",
+        "legacy_id": "2225",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Deutscher Gartenbau. vol 44, no. 49. (1990) p cover| 3124",
+            "machine_name": "deutscher_gartenbau_vol_44_no_49_1990_p_cover_3124",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "buxus_sempervirens",
+                "type": "species",
+                "archival_data": [
+                    "1398849"
+                ]
+            },
+            "volume": null,
+            "page": "p cover| 3124",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1771696",
+                "legacy_id": "77594",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        }
+    ]
+}

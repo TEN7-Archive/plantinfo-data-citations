@@ -1,0 +1,143 @@
+{
+    "name": "P.H.M.-Revue Horticole. no. 498. (2008)",
+    "machine_name": "p_h_m_revue_horticole_no_498_2008",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2008",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2120340",
+        "legacy_id": "90329",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "P.H.M.-Revue Horticole. no. 498. (2008) p 14",
+            "machine_name": "p_h_m_revue_horticole_no_498_2008_p_14",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "brassica_rapa_t_plessis",
+                "type": "variety",
+                "archival_data": [
+                    "1590980"
+                ]
+            },
+            "volume": null,
+            "page": "p 14",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": true,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1955788",
+                "legacy_id": "366992",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "P.H.M.-Revue Horticole. no. 498. (2008) p 14",
+            "machine_name": "p_h_m_revue_horticole_no_498_2008_p_14",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "fragaria_ananassa_donna",
+                "type": "variety",
+                "archival_data": [
+                    "1590982"
+                ]
+            },
+            "volume": null,
+            "page": "p 14",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1955789",
+                "legacy_id": "366993",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "P.H.M.-Revue Horticole. no. 498. (2008) p 14",
+            "machine_name": "p_h_m_revue_horticole_no_498_2008_p_14",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "fragaria_ananassa_diana",
+                "type": "variety",
+                "archival_data": [
+                    "1590981"
+                ]
+            },
+            "volume": null,
+            "page": "p 14",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1955790",
+                "legacy_id": "366994",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        }
+    ]
+}

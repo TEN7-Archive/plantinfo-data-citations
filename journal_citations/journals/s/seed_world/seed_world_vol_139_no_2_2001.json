@@ -1,0 +1,102 @@
+{
+    "name": "Seed World. vol 139, no. 2. (2001)",
+    "machine_name": "seed_world_vol_139_no_2_2001",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2001",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2116485",
+        "legacy_id": "20450",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Seed World. vol 139, no. 2. (2001) p 24",
+            "machine_name": "seed_world_vol_139_no_2_2001_p_24",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "brassica_oleracea_b_patron",
+                "type": "variety",
+                "archival_data": [
+                    "1564546"
+                ]
+            },
+            "volume": null,
+            "page": "p 24",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1872218",
+                "legacy_id": "205010",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Seed World. vol 139, no. 2. (2001) p 24",
+            "machine_name": "seed_world_vol_139_no_2_2001_p_24",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lycopersicon_cultivars_victoria_supreme",
+                "type": "variety",
+                "archival_data": [
+                    "1547009"
+                ]
+            },
+            "volume": null,
+            "page": "p 24",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1872219",
+                "legacy_id": "205011",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        }
+    ]
+}

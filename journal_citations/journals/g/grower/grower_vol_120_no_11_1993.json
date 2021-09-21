@@ -1,0 +1,61 @@
+{
+    "name": "Grower. vol 120, no. 11. (1993)",
+    "machine_name": "grower_vol_120_no_11_1993",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1993",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2112509",
+        "legacy_id": "3528",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grower. vol 120, no. 11. (1993) p cover (Adv.)",
+            "machine_name": "grower_vol_120_no_11_1993_p_cover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pelargonium_hortorum_horizon_series",
+                "type": "variety",
+                "archival_data": [
+                    "1484932"
+                ]
+            },
+            "volume": null,
+            "page": "p cover (Adv.)",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1739536",
+                "legacy_id": "36755",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483154438"
+            }
+        }
+    ]
+}

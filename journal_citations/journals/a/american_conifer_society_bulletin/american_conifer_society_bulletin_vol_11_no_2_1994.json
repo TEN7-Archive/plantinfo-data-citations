@@ -1,0 +1,61 @@
+{
+    "name": "American Conifer Society, Bulletin. vol 11, no. 2. (1994)",
+    "machine_name": "american_conifer_society_bulletin_vol_11_no_2_1994",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1994",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114454",
+        "legacy_id": "153",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "American Conifer Society, Bulletin. vol 11, no. 2. (1994) p cover",
+            "machine_name": "american_conifer_society_bulletin_vol_11_no_2_1994_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pinus_strobus",
+                "type": "species",
+                "archival_data": [
+                    "1425619"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": true,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1818231",
+                "legacy_id": "122053",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        }
+    ]
+}

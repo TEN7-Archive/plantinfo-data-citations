@@ -1,0 +1,102 @@
+{
+    "name": "Begonian, The. vol 59. Jan\/Feb. (1992)",
+    "machine_name": "begonian_the_vol_59_jan_feb_1992",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1992",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2118135",
+        "legacy_id": "1482",
+        "author": "oitadmin",
+        "created": "1473951060"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Begonian, The. vol 59. Jan-Feb. (1992) p backcover",
+            "machine_name": "begonian_the_vol_59_jan_feb_1992_p_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "begonia_cultivars_laurie_mac",
+                "type": "variety",
+                "archival_data": [
+                    "1536585"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1906203",
+                "legacy_id": "254148",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Begonian, The. vol 59. Jan\/Feb. (1992) p cover",
+            "machine_name": "begonian_the_vol_59_jan_feb_1992_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "begonia_convolvulacea",
+                "type": "species",
+                "archival_data": [
+                    "1444269"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2558066",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1565351557"
+            }
+        }
+    ]
+}

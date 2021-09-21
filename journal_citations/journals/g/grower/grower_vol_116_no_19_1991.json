@@ -1,0 +1,143 @@
+{
+    "name": "Grower. vol 116, no. 19. (1991)",
+    "machine_name": "grower_vol_116_no_19_1991",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1991",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2111240",
+        "legacy_id": "3461",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grower. vol 116, no. 19. (1991) p 18",
+            "machine_name": "grower_vol_116_no_19_1991_p_18",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "dahlia_cultivars_harlequin_series",
+                "type": "variety",
+                "archival_data": [
+                    "1467517"
+                ]
+            },
+            "volume": null,
+            "page": "p 18",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1715949",
+                "legacy_id": "11126",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Grower. vol 116, no. 19. (1991) p 20 (Adv.)",
+            "machine_name": "grower_vol_116_no_19_1991_p_20_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pelargonium_hortorum_century_series",
+                "type": "variety",
+                "archival_data": [
+                    "1484645"
+                ]
+            },
+            "volume": null,
+            "page": "p 20 (Adv.)",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1738874",
+                "legacy_id": "36588",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Grower. vol 116, no. 19. (1991) p 19",
+            "machine_name": "grower_vol_116_no_19_1991_p_19",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pelargonium_hortorum_elite_series",
+                "type": "variety",
+                "archival_data": [
+                    "1484666"
+                ]
+            },
+            "volume": null,
+            "page": "p 19",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1739207",
+                "legacy_id": "36673",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        }
+    ]
+}

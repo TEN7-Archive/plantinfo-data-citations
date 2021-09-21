@@ -1,0 +1,61 @@
+{
+    "name": "American Peony Society, Bulletin. no. 319 (2001)",
+    "machine_name": "american_peony_society_bulletin_no_319_2001",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2001",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2117116",
+        "legacy_id": "27449",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "American Peony Society, Bulletin. no. 319 (2001) p cover",
+            "machine_name": "american_peony_society_bulletin_no_319_2001_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "paeonia_cultivars_garden_treasure",
+                "type": "variety",
+                "archival_data": [
+                    "1519070"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1884255",
+                "legacy_id": "217645",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        }
+    ]
+}

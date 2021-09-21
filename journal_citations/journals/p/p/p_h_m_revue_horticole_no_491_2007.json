@@ -1,0 +1,389 @@
+{
+    "name": "P.H.M.-Revue Horticole. no. 491. (2007)",
+    "machine_name": "p_h_m_revue_horticole_no_491_2007",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2007",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2120930",
+        "legacy_id": "81770",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "P.H.M.-Revue Horticole. no. 491. (2007) p 13-15, Pl. 1-5",
+            "machine_name": "p_h_m_revue_horticole_no_491_2007_p_13_15_pl_1_5",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "phoenix_dactylifera",
+                "type": "species",
+                "archival_data": [
+                    "1423733"
+                ]
+            },
+            "volume": null,
+            "page": "p 13-15, Pl. 1-5",
+            "year": "2007",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1971145",
+                "legacy_id": "344912",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        },
+        {
+            "name": "P.H.M.-Revue Horticole. no. 491. (2007) p 20",
+            "machine_name": "p_h_m_revue_horticole_no_491_2007_p_20",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "chrysanthemum_cultivars_yellow_spider",
+                "type": "variety",
+                "archival_data": [
+                    "1635363"
+                ]
+            },
+            "volume": null,
+            "page": "p 20",
+            "year": "2007",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1971146",
+                "legacy_id": "344932",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        },
+        {
+            "name": "P.H.M.-Revue Horticole. no. 491. (2007) p 22, Pl. 5",
+            "machine_name": "p_h_m_revue_horticole_no_491_2007_p_22_pl_5",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "chrysanthemum_cultivars_time_series",
+                "type": "variety",
+                "archival_data": [
+                    "1537621"
+                ]
+            },
+            "volume": null,
+            "page": "p 22, Pl. 5",
+            "year": "2007",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1971147",
+                "legacy_id": "344952",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        },
+        {
+            "name": "P.H.M.-Revue Horticole. no. 491. (2007) p 21-22, Pl. 2-3",
+            "machine_name": "p_h_m_revue_horticole_no_491_2007_p_21_22_pl_2_3",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "chrysanthemum_cultivars_liszt",
+                "type": "variety",
+                "archival_data": [
+                    "1635362"
+                ]
+            },
+            "volume": null,
+            "page": "p 21-22, Pl. 2-3",
+            "year": "2007",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1971148",
+                "legacy_id": "344953",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        },
+        {
+            "name": "P.H.M.-Revue Horticole. no. 491. (2007) p 21, Pl. 2",
+            "machine_name": "p_h_m_revue_horticole_no_491_2007_p_21_pl_2",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "chrysanthemum_cultivars_fusz",
+                "type": "variety",
+                "archival_data": [
+                    "1635364"
+                ]
+            },
+            "volume": null,
+            "page": "p 21, Pl. 2",
+            "year": "2007",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1971390",
+                "legacy_id": "344954",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        },
+        {
+            "name": "P.H.M.-Revue Horticole. no. 491. (2007) p 25",
+            "machine_name": "p_h_m_revue_horticole_no_491_2007_p_25",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "chrysanthemum_cultivars_manet",
+                "type": "variety",
+                "archival_data": [
+                    "1635366"
+                ]
+            },
+            "volume": null,
+            "page": "p 25",
+            "year": "2007",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1971391",
+                "legacy_id": "344972",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        },
+        {
+            "name": "P.H.M.-Revue Horticole. no. 491. (2007) p 24",
+            "machine_name": "p_h_m_revue_horticole_no_491_2007_p_24",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "chrysanthemum_cultivars_marcille",
+                "type": "variety",
+                "archival_data": [
+                    "1635365"
+                ]
+            },
+            "volume": null,
+            "page": "p 24",
+            "year": "2007",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1971392",
+                "legacy_id": "344973",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        },
+        {
+            "name": "P.H.M.-Revue Horticole. no. 491. (2007) p 27",
+            "machine_name": "p_h_m_revue_horticole_no_491_2007_p_27",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "chrysanthemum_cultivars_gelinek",
+                "type": "variety",
+                "archival_data": [
+                    "1635367"
+                ]
+            },
+            "volume": null,
+            "page": "p 27",
+            "year": "2007",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1971393",
+                "legacy_id": "344974",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        },
+        {
+            "name": "P.H.M.-Revue Horticole. no. 491. (2007) p 32-33",
+            "machine_name": "p_h_m_revue_horticole_no_491_2007_p_32_33",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "campsis_grandiflora",
+                "type": "species",
+                "archival_data": [
+                    "1407006"
+                ]
+            },
+            "volume": null,
+            "page": "p 32-33",
+            "year": "2007",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": true,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1973206",
+                "legacy_id": "341292",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        }
+    ]
+}

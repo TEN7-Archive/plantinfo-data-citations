@@ -1,0 +1,922 @@
+{
+    "name": "Horticulture. vol 60, no. 1. (1982)",
+    "machine_name": "horticulture_vol_60_no_1_1982",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1982",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": "7",
+    "description": null,
+    "archival_data": {
+        "id": "1676242",
+        "legacy_id": "3890",
+        "author": "oitadmin",
+        "created": "1473951060"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Horticulture. vol 60, no. 1. (1982) p 16",
+            "machine_name": "horticulture_vol_60_no_1_1982_p_16",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "borassus_flabellifer",
+                "type": "species",
+                "archival_data": [
+                    "1402286"
+                ]
+            },
+            "volume": null,
+            "page": "p 16",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2520416",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1559237174"
+            }
+        },
+        {
+            "name": "Horticulture. vol 60, no. 1. (1982) p 17",
+            "machine_name": "horticulture_vol_60_no_1_1982_p_17",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "kigelia_pinnata",
+                "type": "species",
+                "archival_data": [
+                    "1419548"
+                ]
+            },
+            "volume": null,
+            "page": "p 17",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2520421",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1559237174"
+            }
+        },
+        {
+            "name": "Horticulture. vol 60, no. 1. (1982) p 17",
+            "machine_name": "horticulture_vol_60_no_1_1982_p_17",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "couroupita_guianensis",
+                "type": "species",
+                "archival_data": [
+                    "1407152"
+                ]
+            },
+            "volume": null,
+            "page": "p 17",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2520426",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1559237174"
+            }
+        },
+        {
+            "name": "Horticulture. vol 60, no. 1. (1982) p 35 (Adv.)",
+            "machine_name": "horticulture_vol_60_no_1_1982_p_35_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "gladiolus_cultivars_trinket",
+                "type": "variety",
+                "archival_data": [
+                    "1472272"
+                ]
+            },
+            "volume": null,
+            "page": "p 35 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2520431",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1559237174"
+            }
+        },
+        {
+            "name": "Horticulture. vol 60, no. 1. (1982) p 35 (Adv.)",
+            "machine_name": "horticulture_vol_60_no_1_1982_p_35_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "gladiolus_cultivars_bugs",
+                "type": "variety",
+                "archival_data": [
+                    "1471966"
+                ]
+            },
+            "volume": null,
+            "page": "p 35 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2520436",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1559237174"
+            }
+        },
+        {
+            "name": "Horticulture. vol 60, no. 1. (1982) p 35 (Adv.)",
+            "machine_name": "horticulture_vol_60_no_1_1982_p_35_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "gladiolus_cultivars_cupcake",
+                "type": "variety",
+                "archival_data": [
+                    "1471974"
+                ]
+            },
+            "volume": null,
+            "page": "p 35 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2520441",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1559237174"
+            }
+        },
+        {
+            "name": "Horticulture. vol 60, no. 1. (1982) p 35 (Adv.)",
+            "machine_name": "horticulture_vol_60_no_1_1982_p_35_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "gladiolus_cultivars_break_o_dawn",
+                "type": "variety",
+                "archival_data": [
+                    "1471963"
+                ]
+            },
+            "volume": null,
+            "page": "p 35 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2520446",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1559237174"
+            }
+        },
+        {
+            "name": "Horticulture. vol 60, no. 1. (1982) p 35 (Adv.)",
+            "machine_name": "horticulture_vol_60_no_1_1982_p_35_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "gladiolus_cultivars_cheer_leader",
+                "type": "variety",
+                "archival_data": [
+                    "1471972"
+                ]
+            },
+            "volume": null,
+            "page": "p 35 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2520451",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1559237174"
+            }
+        },
+        {
+            "name": "Horticulture. vol 60, no. 1. (1982) p 35 (Adv.)",
+            "machine_name": "horticulture_vol_60_no_1_1982_p_35_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "gladiolus_cultivars_pinkie",
+                "type": "variety",
+                "archival_data": [
+                    "1472252"
+                ]
+            },
+            "volume": null,
+            "page": "p 35 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2520456",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1559237174"
+            }
+        },
+        {
+            "name": "Horticulture. vol 60, no. 1. (1982) p 35 (Adv.)",
+            "machine_name": "horticulture_vol_60_no_1_1982_p_35_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "gladiolus_cultivars_jade",
+                "type": "variety",
+                "archival_data": [
+                    "1472002"
+                ]
+            },
+            "volume": null,
+            "page": "p 35 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2520461",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1559237174"
+            }
+        },
+        {
+            "name": "Horticulture. vol 60, no. 1. (1982) p 37",
+            "machine_name": "horticulture_vol_60_no_1_1982_p_37",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "dendrobium_pierardii",
+                "type": "species",
+                "archival_data": [
+                    "1406908"
+                ]
+            },
+            "volume": null,
+            "page": "p 37",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2520466",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1559237174"
+            }
+        },
+        {
+            "name": "Horticulture. vol 60, no. 1. (1982) p 39",
+            "machine_name": "horticulture_vol_60_no_1_1982_p_39",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cymbidium_dayanum",
+                "type": "species",
+                "archival_data": [
+                    "1409515"
+                ]
+            },
+            "volume": null,
+            "page": "p 39",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2520471",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1559237174"
+            }
+        },
+        {
+            "name": "Horticulture. vol 60, no. 1. (1982) p 41",
+            "machine_name": "horticulture_vol_60_no_1_1982_p_41",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "laelia_flava",
+                "type": "species",
+                "archival_data": [
+                    "1420309"
+                ]
+            },
+            "volume": null,
+            "page": "p 41",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2520476",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1559237174"
+            }
+        },
+        {
+            "name": "Horticulture. vol 60, no. 1. (1982) p 42",
+            "machine_name": "horticulture_vol_60_no_1_1982_p_42",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "masdevallia_coccinea",
+                "type": "species",
+                "archival_data": [
+                    "1417787"
+                ]
+            },
+            "volume": null,
+            "page": "p 42",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2520481",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1559237174"
+            }
+        },
+        {
+            "name": "Horticulture. vol 60, no. 1. (1982) p 47",
+            "machine_name": "horticulture_vol_60_no_1_1982_p_47",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "zinnia_cultivars_fantastic_pink",
+                "type": "variety",
+                "archival_data": [
+                    "1496934"
+                ]
+            },
+            "volume": null,
+            "page": "p 47",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2520486",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1559237174"
+            }
+        },
+        {
+            "name": "Horticulture. vol 60, no. 1. (1982) p 48",
+            "machine_name": "horticulture_vol_60_no_1_1982_p_48",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "tagetes_cultivars_janie_series",
+                "type": "variety",
+                "archival_data": [
+                    "1495695"
+                ]
+            },
+            "volume": null,
+            "page": "p 48",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2520491",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1559237174"
+            }
+        },
+        {
+            "name": "Horticulture. vol 60, no. 1. (1982) p backciver (Adv.)",
+            "machine_name": "horticulture_vol_60_no_1_1982_p_backciver_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "capsicum_h_cultivars_zippy",
+                "type": "variety",
+                "archival_data": [
+                    "1470053"
+                ]
+            },
+            "volume": null,
+            "page": "p backciver (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2520496",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1559237174"
+            }
+        },
+        {
+            "name": "Horticulture. vol 60, no. 1. (1982) p backciver (Adv.)",
+            "machine_name": "horticulture_vol_60_no_1_1982_p_backciver_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cucurbita_s_cultivars_early_acorn",
+                "type": "variety",
+                "archival_data": [
+                    "1468686"
+                ]
+            },
+            "volume": null,
+            "page": "p backciver (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2520501",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1559237174"
+            }
+        },
+        {
+            "name": "Horticulture. vol 60, no. 1. (1982) p backciver (Adv.)",
+            "machine_name": "horticulture_vol_60_no_1_1982_p_backciver_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cucurbita_s_cultivars_richgreen_zucchini",
+                "type": "variety",
+                "archival_data": [
+                    "1468989"
+                ]
+            },
+            "volume": null,
+            "page": "p backciver (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2520506",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1559237174"
+            }
+        },
+        {
+            "name": "Horticulture. vol 60, no. 1. (1982) p backciver (Adv.)",
+            "machine_name": "horticulture_vol_60_no_1_1982_p_backciver_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "tagetes_cultivars_orange_fireworks",
+                "type": "variety",
+                "archival_data": [
+                    "1490992"
+                ]
+            },
+            "volume": null,
+            "page": "p backciver (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2520511",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1559237174"
+            }
+        },
+        {
+            "name": "Horticulture. vol 60, no. 1. (1982) p backciver (Adv.)",
+            "machine_name": "horticulture_vol_60_no_1_1982_p_backciver_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lycopersicon_cultivars_basket_king",
+                "type": "variety",
+                "archival_data": [
+                    "1480859"
+                ]
+            },
+            "volume": null,
+            "page": "p backciver (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2520516",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1559237174"
+            }
+        },
+        {
+            "name": "Horticulture. vol 60, no. 1. (1982) p backciver (Adv.)",
+            "machine_name": "horticulture_vol_60_no_1_1982_p_backciver_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "petunia_cultivars_white_flair",
+                "type": "variety",
+                "archival_data": [
+                    "1481802"
+                ]
+            },
+            "volume": null,
+            "page": "p backciver (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2520521",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1559237174"
+            }
+        }
+    ]
+}

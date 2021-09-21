@@ -1,0 +1,61 @@
+{
+    "name": "Landscape Architecture. vol 87, no. 1. (1997)",
+    "machine_name": "landscape_architecture_vol_87_no_1_1997",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1997",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113728",
+        "legacy_id": "4279",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Landscape Architecture. vol 87, no. 1. (1997) p 85 (Adv.)",
+            "machine_name": "landscape_architecture_vol_87_no_1_1997_p_85_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "aspidistra_elatior",
+                "type": "species",
+                "archival_data": [
+                    "1403360"
+                ]
+            },
+            "volume": null,
+            "page": "p 85 (Adv.)",
+            "year": "1997",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1774095",
+                "legacy_id": "74206",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        }
+    ]
+}

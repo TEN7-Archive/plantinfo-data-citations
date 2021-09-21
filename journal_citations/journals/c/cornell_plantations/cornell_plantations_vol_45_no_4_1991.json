@@ -1,0 +1,102 @@
+{
+    "name": "Cornell Plantations. vol 45, no. 4. (1991)",
+    "machine_name": "cornell_plantations_vol_45_no_4_1991",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1991",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113678",
+        "legacy_id": "1999",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Cornell Plantations. vol 45, no. 4. (1991) p 16-17",
+            "machine_name": "cornell_plantations_vol_45_no_4_1991_p_16_17",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "bursera_simaruba",
+                "type": "species",
+                "archival_data": [
+                    "1398831"
+                ]
+            },
+            "volume": null,
+            "page": "p 16-17",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1771644",
+                "legacy_id": "77541",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Cornell Plantations. vol 45, no. 4. (1991) p 20",
+            "machine_name": "cornell_plantations_vol_45_no_4_1991_p_20",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "piper_nigrum",
+                "type": "species",
+                "archival_data": [
+                    "1425640"
+                ]
+            },
+            "volume": null,
+            "page": "p 20",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1818572",
+                "legacy_id": "122147",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        }
+    ]
+}

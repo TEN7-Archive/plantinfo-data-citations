@@ -1,0 +1,102 @@
+{
+    "name": "Horticulture Week. vol 208, no. 18. (1990)",
+    "machine_name": "horticulture_week_vol_208_no_18_1990",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1990",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113809",
+        "legacy_id": "3780",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Horticulture Week. vol 208, no. 18. (1990) p 17",
+            "machine_name": "horticulture_week_vol_208_no_18_1990_p_17",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "clerodendrum_ugandense",
+                "type": "species",
+                "archival_data": [
+                    "1408698"
+                ]
+            },
+            "volume": null,
+            "page": "p 17",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1776989",
+                "legacy_id": "83037",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Horticulture Week. vol 208, no. 18. (1990) p 17",
+            "machine_name": "horticulture_week_vol_208_no_18_1990_p_17",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "reinwardtia_indica",
+                "type": "species",
+                "archival_data": [
+                    "1424314"
+                ]
+            },
+            "volume": null,
+            "page": "p 17",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1821846",
+                "legacy_id": "126962",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        }
+    ]
+}

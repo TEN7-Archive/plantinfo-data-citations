@@ -1,0 +1,184 @@
+{
+    "name": "Discover. vol 26, no. 5. (2005)",
+    "machine_name": "discover_vol_26_no_5_2005",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2005",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2120521",
+        "legacy_id": "65049",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Discover. vol 26, no. 5. (2005) p 12",
+            "machine_name": "discover_vol_26_no_5_2005_p_12",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "dionaea_muscipula",
+                "type": "species",
+                "archival_data": [
+                    "1408837"
+                ]
+            },
+            "volume": null,
+            "page": "p 12",
+            "year": "2005",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1961017",
+                "legacy_id": "298570",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        },
+        {
+            "name": "Discover. vol 26, no. 5. (2005) p 34",
+            "machine_name": "discover_vol_26_no_5_2005_p_34",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pueraria_montana",
+                "type": "species",
+                "archival_data": [
+                    "1426505"
+                ]
+            },
+            "volume": null,
+            "page": "p 34",
+            "year": "2005",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1961018",
+                "legacy_id": "298571",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        },
+        {
+            "name": "Discover. vol 26, no. 5. (2005) p 36",
+            "machine_name": "discover_vol_26_no_5_2005_p_36",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "taraxacum_officinale",
+                "type": "species",
+                "archival_data": [
+                    "1429314"
+                ]
+            },
+            "volume": null,
+            "page": "p 36",
+            "year": "2005",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1961019",
+                "legacy_id": "298572",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        },
+        {
+            "name": "Discover. vol 26, no. 5. (2005) p 37",
+            "machine_name": "discover_vol_26_no_5_2005_p_37",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lythrum_salicaria",
+                "type": "species",
+                "archival_data": [
+                    "1420804"
+                ]
+            },
+            "volume": null,
+            "page": "p 37",
+            "year": "2005",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1961020",
+                "legacy_id": "298573",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        }
+    ]
+}

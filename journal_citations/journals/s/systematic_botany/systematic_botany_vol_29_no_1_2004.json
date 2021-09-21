@@ -1,0 +1,61 @@
+{
+    "name": "Systematic Botany. vol 29, no. 1. (2004)",
+    "machine_name": "systematic_botany_vol_29_no_1_2004",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2004",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2120236",
+        "legacy_id": "86150",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Systematic Botany. vol 29, no. 1. (2004) p 45, Pl. 2a-d",
+            "machine_name": "systematic_botany_vol_29_no_1_2004_p_45_pl_2a_d",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "craibella_phuyensis",
+                "type": "species",
+                "archival_data": [
+                    "1452665"
+                ]
+            },
+            "volume": null,
+            "page": "p 45, Pl. 2a-d",
+            "year": "2004",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1952848",
+                "legacy_id": "351872",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        }
+    ]
+}

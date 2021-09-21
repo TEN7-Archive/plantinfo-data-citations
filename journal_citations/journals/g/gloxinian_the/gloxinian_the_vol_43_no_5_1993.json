@@ -1,0 +1,184 @@
+{
+    "name": "Gloxinian, The. vol 43, no. 5. (1993)",
+    "machine_name": "gloxinian_the_vol_43_no_5_1993",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1993",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114162",
+        "legacy_id": "3077",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Gloxinian, The. vol 43, no. 5. (1993) p cover",
+            "machine_name": "gloxinian_the_vol_43_no_5_1993_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "kohleria_amabilis",
+                "type": "species",
+                "archival_data": [
+                    "1419897"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1800335",
+                "legacy_id": "106689",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Gloxinian, The. vol 43, no. 5. (1993) p 21",
+            "machine_name": "gloxinian_the_vol_43_no_5_1993_p_21",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "kohleria_eriantha",
+                "type": "species",
+                "archival_data": [
+                    "1419900"
+                ]
+            },
+            "volume": null,
+            "page": "p 21",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1800340",
+                "legacy_id": "106694",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Gloxinian, The. vol 43, no. 5. (1993)  p 17",
+            "machine_name": "gloxinian_the_vol_43_no_5_1993_p_17",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "streptocarpus_cultivars_black_panther",
+                "type": "variety",
+                "archival_data": [
+                    "1616937"
+                ]
+            },
+            "volume": null,
+            "page": "p 17",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2570861",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1571241464"
+            }
+        },
+        {
+            "name": "Gloxinian, The. vol 43, no. 5. (1993)  p 24",
+            "machine_name": "gloxinian_the_vol_43_no_5_1993_p_24",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "kohleria_villosa",
+                "type": "species",
+                "archival_data": [
+                    "1419903"
+                ]
+            },
+            "volume": null,
+            "page": "p 24",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2570866",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1571241464"
+            }
+        }
+    ]
+}

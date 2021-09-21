@@ -1,0 +1,61 @@
+{
+    "name": "Practical Winery & Vineyard (PW). vol 15, no. 1. (1994)",
+    "machine_name": "practical_winery_vineyard_pw_vol_15_no_1_1994",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1994",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113342",
+        "legacy_id": "5302",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Practical Winery & Vineyard (PW). vol 15, no. 1. (1994) p cover",
+            "machine_name": "practical_winery_vineyard_pw_vol_15_no_1_1994_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "vitis_cultivars_cabernet_sauvignon",
+                "type": "variety",
+                "archival_data": [
+                    "1500033"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1763640",
+                "legacy_id": "60098",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        }
+    ]
+}

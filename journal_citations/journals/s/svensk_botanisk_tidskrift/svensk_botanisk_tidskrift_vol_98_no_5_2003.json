@@ -1,0 +1,102 @@
+{
+    "name": "Svensk Botanisk Tidskrift. vol 98, no. 5. (2003)",
+    "machine_name": "svensk_botanisk_tidskrift_vol_98_no_5_2003",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2003",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2120022",
+        "legacy_id": "60991",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Svensk Botanisk Tidskrift. vol 98, no. 5. (2003) p 263",
+            "machine_name": "svensk_botanisk_tidskrift_vol_98_no_5_2003_p_263",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "galium_triflorum",
+                "type": "species",
+                "archival_data": [
+                    "1415296"
+                ]
+            },
+            "volume": null,
+            "page": "p 263",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1947500",
+                "legacy_id": "286991",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "Svensk Botanisk Tidskrift. vol 98, no. 5. (2003) p 266",
+            "machine_name": "svensk_botanisk_tidskrift_vol_98_no_5_2003_p_266",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cephalanthera_rubra",
+                "type": "species",
+                "archival_data": [
+                    "1404788"
+                ]
+            },
+            "volume": null,
+            "page": "p 266",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1947501",
+                "legacy_id": "286992",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        }
+    ]
+}

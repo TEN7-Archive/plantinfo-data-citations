@@ -1,0 +1,61 @@
+{
+    "name": "Grower. January 15, 2004.",
+    "machine_name": "grower_january_15_2004",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1689918",
+        "legacy_id": "54511",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grower. January 15, 2004. p 15",
+            "machine_name": "grower_january_15_2004_p_15",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rubus_r_cultivars_polka",
+                "type": "variety",
+                "archival_data": [
+                    "1581416"
+                ]
+            },
+            "volume": null,
+            "page": "p 15",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1914316",
+                "legacy_id": "269567",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        }
+    ]
+}

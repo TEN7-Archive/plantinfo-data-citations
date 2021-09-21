@@ -1,0 +1,102 @@
+{
+    "name": "Mammillaria Society, Journal. vol 37, no. 2. (1997)",
+    "machine_name": "mammillaria_society_journal_vol_37_no_2_1997",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1997",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2115399",
+        "legacy_id": "7100",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Mammillaria Society, Journal. vol 37, no. 2. (1997) p 19",
+            "machine_name": "mammillaria_society_journal_vol_37_no_2_1997_p_19",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "mammillaria_saxicola",
+                "type": "species",
+                "archival_data": [
+                    "1417065"
+                ]
+            },
+            "volume": null,
+            "page": "p 19",
+            "year": "1997",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1850514",
+                "legacy_id": "156596",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Mammillaria Society, Journal. vol 37, no. 2. (1997) p 19",
+            "machine_name": "mammillaria_society_journal_vol_37_no_2_1997_p_19",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "mammillaria_priessnitzii",
+                "type": "species",
+                "archival_data": [
+                    "1417044"
+                ]
+            },
+            "volume": null,
+            "page": "p 19",
+            "year": "1997",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1850515",
+                "legacy_id": "156597",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        }
+    ]
+}

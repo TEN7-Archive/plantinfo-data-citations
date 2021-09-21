@@ -1,0 +1,512 @@
+{
+    "name": "Botanical Artist. vol 25, no. 4. (2019)",
+    "machine_name": "botanical_artist_vol_25_no_4_2019",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2019",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": "7",
+    "description": null,
+    "archival_data": {
+        "id": "2592141",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1577622810"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Botanical Artist. vol 25, no. 4. (2019)  p cover",
+            "machine_name": "botanical_artist_vol_25_no_4_2019_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "brassica_rapa_c",
+                "type": "species",
+                "archival_data": [
+                    "1403438"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2592156",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1577623910"
+            }
+        },
+        {
+            "name": "Botanical Artist. vol 25, no. 4. (2019)  p 6",
+            "machine_name": "botanical_artist_vol_25_no_4_2019_p_6",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "physalis_peruviana",
+                "type": "species",
+                "archival_data": [
+                    "1424177"
+                ]
+            },
+            "volume": null,
+            "page": "p 6",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2592161",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1577623910"
+            }
+        },
+        {
+            "name": "Botanical Artist. vol 25, no. 4. (2019)  p 6",
+            "machine_name": "botanical_artist_vol_25_no_4_2019_p_6",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pinus_balfouriana",
+                "type": "species",
+                "archival_data": [
+                    "1425269"
+                ]
+            },
+            "volume": null,
+            "page": "p 6",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2592166",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1577623910"
+            }
+        },
+        {
+            "name": "Botanical Artist. vol 25, no. 4. (2019)  p 19",
+            "machine_name": "botanical_artist_vol_25_no_4_2019_p_19",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "iris_barbata_elatior",
+                "type": "variety",
+                "archival_data": [
+                    "2592146"
+                ]
+            },
+            "volume": null,
+            "page": "p 19",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2592171",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1577623910"
+            }
+        },
+        {
+            "name": "Botanical Artist. vol 25, no. 4. (2019)  p 27",
+            "machine_name": "botanical_artist_vol_25_no_4_2019_p_27",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pyrus_communis",
+                "type": "species",
+                "archival_data": [
+                    "1427244"
+                ]
+            },
+            "volume": null,
+            "page": "p 27",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2592176",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1577623910"
+            }
+        },
+        {
+            "name": "Botanical Artist. vol 25, no. 4. (2019)  p 27",
+            "machine_name": "botanical_artist_vol_25_no_4_2019_p_27",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "araujia_sericifera",
+                "type": "species",
+                "archival_data": [
+                    "1401048"
+                ]
+            },
+            "volume": null,
+            "page": "p 27",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2592181",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1577623910"
+            }
+        },
+        {
+            "name": "Botanical Artist. vol 25, no. 4. (2019)  p 29",
+            "machine_name": "botanical_artist_vol_25_no_4_2019_p_29",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "calypso_bulbosa",
+                "type": "species",
+                "archival_data": [
+                    "1399659"
+                ]
+            },
+            "volume": null,
+            "page": "p 29",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2592186",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1577623910"
+            }
+        },
+        {
+            "name": "Botanical Artist. vol 25, no. 4. (2019)  p 31",
+            "machine_name": "botanical_artist_vol_25_no_4_2019_p_31",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rhizophora_mangle",
+                "type": "species",
+                "archival_data": [
+                    "1423625"
+                ]
+            },
+            "volume": null,
+            "page": "p 31",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": true,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2592191",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1577623910"
+            }
+        },
+        {
+            "name": "Botanical Artist. vol 25, no. 4. (2019)  p 31",
+            "machine_name": "botanical_artist_vol_25_no_4_2019_p_31",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "avicennia_nitida",
+                "type": "species",
+                "archival_data": [
+                    "2592151"
+                ]
+            },
+            "volume": null,
+            "page": "p 31",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2592196",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1577623910"
+            }
+        },
+        {
+            "name": "Botanical Artist. vol 25, no. 4. (2019)  p 31",
+            "machine_name": "botanical_artist_vol_25_no_4_2019_p_31",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "laguncularia_racemosa",
+                "type": "species",
+                "archival_data": [
+                    "2277476"
+                ]
+            },
+            "volume": null,
+            "page": "p 31",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2592201",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1577623910"
+            }
+        },
+        {
+            "name": "Botanical Artist. vol 25, no. 4. (2019)  p 30-31",
+            "machine_name": "botanical_artist_vol_25_no_4_2019_p_30_31",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "conocarpus_erectus_sericeus",
+                "type": "variety",
+                "archival_data": [
+                    "2326041"
+                ]
+            },
+            "volume": null,
+            "page": "p 30-31",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2592206",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1577623910"
+            }
+        },
+        {
+            "name": "Botanical Artist. vol 25, no. 4. (2019)  p 34",
+            "machine_name": "botanical_artist_vol_25_no_4_2019_p_34",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "capsicum_h_cultivars_habanero",
+                "type": "variety",
+                "archival_data": [
+                    "1469755"
+                ]
+            },
+            "volume": null,
+            "page": "p 34",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2592211",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1577624061"
+            }
+        }
+    ]
+}

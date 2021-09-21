@@ -1,0 +1,184 @@
+{
+    "name": "Linnean Society of London, Botanical Journal. vol 136, no. 2. (2001)",
+    "machine_name": "linnean_society_of_london_botanical_journal_vol_136_no_2_2001",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2001",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2116703",
+        "legacy_id": "25654",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Linnean Society of London, Botanical Journal. vol 136, no. 2. (2001) p 142, Pl. 1.",
+            "machine_name": "linnean_society_of_london_botanical_journal_vol_136_no_2_2001_p_142_pl_1",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "passiflora_alata",
+                "type": "species",
+                "archival_data": [
+                    "1425888"
+                ]
+            },
+            "volume": null,
+            "page": "p 142, Pl. 1.",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1876339",
+                "legacy_id": "213670",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Linnean Society of London, Botanical Journal. vol 136, no. 2. (2001) p 142, Pl. 4.",
+            "machine_name": "linnean_society_of_london_botanical_journal_vol_136_no_2_2001_p_142_pl_4",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "passiflora_speciosa",
+                "type": "species",
+                "archival_data": [
+                    "1448606"
+                ]
+            },
+            "volume": null,
+            "page": "p 142, Pl. 4.",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1876340",
+                "legacy_id": "213690",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Linnean Society of London, Botanical Journal. vol 136, no. 2. (2001) p 142, Pl. 3.",
+            "machine_name": "linnean_society_of_london_botanical_journal_vol_136_no_2_2001_p_142_pl_3",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "passiflora_mucronata",
+                "type": "species",
+                "archival_data": [
+                    "1448605"
+                ]
+            },
+            "volume": null,
+            "page": "p 142, Pl. 3.",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1876341",
+                "legacy_id": "213710",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Linnean Society of London, Botanical Journal. vol 136, no. 2. (2001) p 142, Pl. 2.",
+            "machine_name": "linnean_society_of_london_botanical_journal_vol_136_no_2_2001_p_142_pl_2",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "passiflora_galbana",
+                "type": "species",
+                "archival_data": [
+                    "1448604"
+                ]
+            },
+            "volume": null,
+            "page": "p 142, Pl. 2.",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1876342",
+                "legacy_id": "213711",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        }
+    ]
+}

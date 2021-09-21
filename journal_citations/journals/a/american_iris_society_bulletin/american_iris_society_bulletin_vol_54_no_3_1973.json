@@ -1,0 +1,102 @@
+{
+    "name": "American Iris Society, Bulletin. vol 54, no. 3. (1973)",
+    "machine_name": "american_iris_society_bulletin_vol_54_no_3_1973",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1973",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": "7",
+    "description": null,
+    "archival_data": {
+        "id": "2588511",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1576863049"
+    },
+    "citation_reference_items": [
+        {
+            "name": "American Iris Society, Bulletin. vol 54, no. 3. (1973)  p cover",
+            "machine_name": "american_iris_society_bulletin_vol_54_no_3_1973_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "iris_cultivars_lime_fizz",
+                "type": "variety",
+                "archival_data": [
+                    "1510774"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2588516",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1576863205"
+            }
+        },
+        {
+            "name": "American Iris Society, Bulletin. vol 54, no. 3. (1973)  p backcover (Adv.)",
+            "machine_name": "american_iris_society_bulletin_vol_54_no_3_1973_p_backcover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "iris_cultivars_love_is",
+                "type": "variety",
+                "archival_data": [
+                    "1511051"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2588521",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1576863205"
+            }
+        }
+    ]
+}

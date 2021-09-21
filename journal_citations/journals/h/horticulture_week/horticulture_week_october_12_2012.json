@@ -1,0 +1,143 @@
+{
+    "name": "Horticulture Week. October 12, 2012.",
+    "machine_name": "horticulture_week_october_12_2012",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1691485",
+        "legacy_id": "119970",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Horticulture Week. October 12, 2012. p 22, Pl. 1",
+            "machine_name": "horticulture_week_october_12_2012_p_22_pl_1",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "vitis_vinifera_brandt",
+                "type": "variety",
+                "archival_data": [
+                    "1580104"
+                ]
+            },
+            "volume": null,
+            "page": "p 22, Pl. 1",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2047813",
+                "legacy_id": "454537",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Horticulture Week. October 12, 2012. p 23, Pl. 2",
+            "machine_name": "horticulture_week_october_12_2012_p_23_pl_2",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "vitis_vinifera_purpurea",
+                "type": "variety",
+                "archival_data": [
+                    "1495797"
+                ]
+            },
+            "volume": null,
+            "page": "p 23, Pl. 2",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2047814",
+                "legacy_id": "454538",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Horticulture Week. October 12, 2012. p 23, Pl. 3",
+            "machine_name": "horticulture_week_october_12_2012_p_23_pl_3",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "vitis_cultivars_boskoop_glory",
+                "type": "variety",
+                "archival_data": [
+                    "1558414"
+                ]
+            },
+            "volume": null,
+            "page": "p 23, Pl. 3",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2047815",
+                "legacy_id": "454539",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        }
+    ]
+}

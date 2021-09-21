@@ -1,0 +1,102 @@
+{
+    "name": "Sunset. August 2014.",
+    "machine_name": "sunset_august_2014",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1695029",
+        "legacy_id": "125004",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Sunset. August 2014. p 46",
+            "machine_name": "sunset_august_2014_p_46",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ozothamnus_cultivars_sussex_silver",
+                "type": "variety",
+                "archival_data": [
+                    "1614951"
+                ]
+            },
+            "volume": null,
+            "page": "p 46",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2006937",
+                "legacy_id": "479924",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "Sunset. August 2014. p 42",
+            "machine_name": "sunset_august_2014_p_42",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "salvia_clevelandii_winnifred_gilman",
+                "type": "variety",
+                "archival_data": [
+                    "1495610"
+                ]
+            },
+            "volume": null,
+            "page": "p 42",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2008521",
+                "legacy_id": "479923",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        }
+    ]
+}

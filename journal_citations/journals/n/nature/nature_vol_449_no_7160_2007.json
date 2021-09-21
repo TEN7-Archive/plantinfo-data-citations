@@ -1,0 +1,61 @@
+{
+    "name": "Nature. vol 449, no. 7160. (2007)",
+    "machine_name": "nature_vol_449_no_7160_2007",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2007",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2120188",
+        "legacy_id": "87129",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Nature. vol 449, no. 7160. (2007) p 268-269",
+            "machine_name": "nature_vol_449_no_7160_2007_p_268_269",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "papaver_somniferum",
+                "type": "species",
+                "archival_data": [
+                    "1424451"
+                ]
+            },
+            "volume": null,
+            "page": "p 268-269",
+            "year": "2007",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1951692",
+                "legacy_id": "354432",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        }
+    ]
+}

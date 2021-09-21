@@ -1,0 +1,102 @@
+{
+    "name": "Cactaceas y Suculentas Mexicanas. vol 54, no. 1. (2009)",
+    "machine_name": "cactaceas_y_suculentas_mexicanas_vol_54_no_1_2009",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2009",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2123719",
+        "legacy_id": "112090",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Cactaceas y Suculentas Mexicanas. vol 54, no. 1. (2009) p cover; 5; 8; 12",
+            "machine_name": "cactaceas_y_suculentas_mexicanas_vol_54_no_1_2009_p_cover_5_8_12",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "escontria_chiotilla",
+                "type": "species",
+                "archival_data": [
+                    "1413238"
+                ]
+            },
+            "volume": null,
+            "page": "p cover; 5; 8; 12",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2040301",
+                "legacy_id": "425159",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        },
+        {
+            "name": "Cactaceas y Suculentas Mexicanas. vol 54, no. 1. (2009) p 20-21; 24-25",
+            "machine_name": "cactaceas_y_suculentas_mexicanas_vol_54_no_1_2009_p_20_21_24_25",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "melocactus_curvispinus_curvispinus",
+                "type": "variety",
+                "archival_data": [
+                    "1636508"
+                ]
+            },
+            "volume": null,
+            "page": "p 20-21; 24-25",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2040302",
+                "legacy_id": "425160",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        }
+    ]
+}

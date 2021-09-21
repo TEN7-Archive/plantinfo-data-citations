@@ -1,0 +1,102 @@
+{
+    "name": "BioScience. vol 46, no. 1. (1996)",
+    "machine_name": "bioscience_vol_46_no_1_1996",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1996",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114329",
+        "legacy_id": "1589",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "BioScience. vol 46, no. 1. (1996) p cover",
+            "machine_name": "bioscience_vol_46_no_1_1996_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lonicera_maackii",
+                "type": "species",
+                "archival_data": [
+                    "1419629"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1996",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1808286",
+                "legacy_id": "110057",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "BioScience. vol 46, no. 1. (1996) p inside cover",
+            "machine_name": "bioscience_vol_46_no_1_1996_p_inside_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "populus_tremuloides",
+                "type": "species",
+                "archival_data": [
+                    "1422779"
+                ]
+            },
+            "volume": null,
+            "page": "p inside cover",
+            "year": "1996",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1818631",
+                "legacy_id": "123448",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        }
+    ]
+}

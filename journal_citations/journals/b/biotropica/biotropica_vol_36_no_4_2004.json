@@ -1,0 +1,61 @@
+{
+    "name": "Biotropica. vol 36, no. 4. (2004)",
+    "machine_name": "biotropica_vol_36_no_4_2004",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2004",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2120010",
+        "legacy_id": "62389",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Biotropica. vol 36, no. 4. (2004) p 634",
+            "machine_name": "biotropica_vol_36_no_4_2004_p_634",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "alpinia_kwangsiensis",
+                "type": "species",
+                "archival_data": [
+                    "1441332"
+                ]
+            },
+            "volume": null,
+            "page": "p 634",
+            "year": "2004",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1947072",
+                "legacy_id": "291800",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        }
+    ]
+}

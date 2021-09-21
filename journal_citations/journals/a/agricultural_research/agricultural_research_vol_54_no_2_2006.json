@@ -1,0 +1,61 @@
+{
+    "name": "Agricultural Research. vol 54, no. 2. (2006)",
+    "machine_name": "agricultural_research_vol_54_no_2_2006",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2006",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2119764",
+        "legacy_id": "70436",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Agricultural Research. vol 54, no. 2. (2006) p 15",
+            "machine_name": "agricultural_research_vol_54_no_2_2006_p_15",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "callicarpa_americana",
+                "type": "species",
+                "archival_data": [
+                    "1399288"
+                ]
+            },
+            "volume": null,
+            "page": "p 15",
+            "year": "2006",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1939519",
+                "legacy_id": "314014",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "name": "American Rose Magazine, The. vol 31, no. 1.(i.e.,vol 31, no.13) (1992)",
+    "machine_name": "american_rose_magazine_the_vol_31_no_1_i_e_vol_31_no_13_1992",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1992",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2112794",
+        "legacy_id": "969",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "American Rose Magazine, The. vol 31, no. 1.(i.e.,vol 31, no.13) (1992) p cover",
+            "machine_name": "american_rose_magazine_the_vol_31_no_1_i_e_vol_31_no_13_1992_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_american_rose_centennial",
+                "type": "variety",
+                "archival_data": [
+                    "1489165"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1744656",
+                "legacy_id": "44635",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483154438"
+            }
+        },
+        {
+            "name": "American Rose Magazine, The. vol 31, no. 1.(i.e.,vol 31, no.13) (1992) p 16",
+            "machine_name": "american_rose_magazine_the_vol_31_no_1_i_e_vol_31_no_13_1992_p_16",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_rose_de_rescht",
+                "type": "variety",
+                "archival_data": [
+                    "1494649"
+                ]
+            },
+            "volume": null,
+            "page": "p 16",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1754008",
+                "legacy_id": "52339",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483154438"
+            }
+        }
+    ]
+}

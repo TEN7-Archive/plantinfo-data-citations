@@ -1,0 +1,61 @@
+{
+    "name": "Sunset. January 2012.",
+    "machine_name": "sunset_january_2012",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1693633",
+        "legacy_id": "116371",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Sunset. January 2012. p 40",
+            "machine_name": "sunset_january_2012_p_40",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_koko_loco",
+                "type": "variety",
+                "archival_data": [
+                    "1626701"
+                ]
+            },
+            "volume": null,
+            "page": "p 40",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2010693",
+                "legacy_id": "440573",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        }
+    ]
+}

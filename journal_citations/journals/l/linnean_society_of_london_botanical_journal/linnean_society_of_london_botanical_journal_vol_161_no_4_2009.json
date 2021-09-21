@@ -1,0 +1,512 @@
+{
+    "name": "Linnean Society of London, Botanical Journal. vol 161, no. 4. (2009)",
+    "machine_name": "linnean_society_of_london_botanical_journal_vol_161_no_4_2009",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2009",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2123743",
+        "legacy_id": "106972",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Linnean Society of London, Botanical Journal. vol 161, no. 4. (2009) p 346, Pl. 9C",
+            "machine_name": "linnean_society_of_london_botanical_journal_vol_161_no_4_2009_p_346_pl_9c",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "sarracenia_flava",
+                "type": "species",
+                "archival_data": [
+                    "1431037"
+                ]
+            },
+            "volume": null,
+            "page": "p 346, Pl. 9C",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2041995",
+                "legacy_id": "406146",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        },
+        {
+            "name": "Linnean Society of London, Botanical Journal. vol 161, no. 4. (2009) p 346, Pl. 9D",
+            "machine_name": "linnean_society_of_london_botanical_journal_vol_161_no_4_2009_p_346_pl_9d",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "byblis_liniflora",
+                "type": "species",
+                "archival_data": [
+                    "1398852"
+                ]
+            },
+            "volume": null,
+            "page": "p 346, Pl. 9D",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2041996",
+                "legacy_id": "406147",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        },
+        {
+            "name": "Linnean Society of London, Botanical Journal. vol 161, no. 4. (2009) p 346, Pl. 9E",
+            "machine_name": "linnean_society_of_london_botanical_journal_vol_161_no_4_2009_p_346_pl_9e",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "byblis_gigantea",
+                "type": "species",
+                "archival_data": [
+                    "1398851"
+                ]
+            },
+            "volume": null,
+            "page": "p 346, Pl. 9E",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2041997",
+                "legacy_id": "406148",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        },
+        {
+            "name": "Linnean Society of London, Botanical Journal. vol 161, no. 4. (2009) p 346, Pl. 9F",
+            "machine_name": "linnean_society_of_london_botanical_journal_vol_161_no_4_2009_p_346_pl_9f",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "proboscidea_louisianica",
+                "type": "species",
+                "archival_data": [
+                    "1424625"
+                ]
+            },
+            "volume": null,
+            "page": "p 346, Pl. 9F",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2041998",
+                "legacy_id": "406149",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        },
+        {
+            "name": "Linnean Society of London, Botanical Journal. vol 161, no. 4. (2009) p 337, Pl. 4A",
+            "machine_name": "linnean_society_of_london_botanical_journal_vol_161_no_4_2009_p_337_pl_4a",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cephalotus_follicularis",
+                "type": "species",
+                "archival_data": [
+                    "1404813"
+                ]
+            },
+            "volume": null,
+            "page": "p 337, Pl. 4A",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2050590",
+                "legacy_id": "406138",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Linnean Society of London, Botanical Journal. vol 161, no. 4. (2009) p 337, Pl. 4B",
+            "machine_name": "linnean_society_of_london_botanical_journal_vol_161_no_4_2009_p_337_pl_4b",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "passiflora_foetida",
+                "type": "species",
+                "archival_data": [
+                    "1425921"
+                ]
+            },
+            "volume": null,
+            "page": "p 337, Pl. 4B",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2050591",
+                "legacy_id": "406139",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Linnean Society of London, Botanical Journal. vol 161, no. 4. (2009) p 337, Pl. 4C",
+            "machine_name": "linnean_society_of_london_botanical_journal_vol_161_no_4_2009_p_337_pl_4c",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "dionaea_muscipula",
+                "type": "species",
+                "archival_data": [
+                    "1408837"
+                ]
+            },
+            "volume": null,
+            "page": "p 337, Pl. 4C",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2050592",
+                "legacy_id": "406140",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Linnean Society of London, Botanical Journal. vol 161, no. 4. (2009) p 337, Pl. 4D",
+            "machine_name": "linnean_society_of_london_botanical_journal_vol_161_no_4_2009_p_337_pl_4d",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "drosera_pulchella",
+                "type": "species",
+                "archival_data": [
+                    "1405077"
+                ]
+            },
+            "volume": null,
+            "page": "p 337, Pl. 4D",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2050593",
+                "legacy_id": "406141",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Linnean Society of London, Botanical Journal. vol 161, no. 4. (2009) p 337, Pl. 4E",
+            "machine_name": "linnean_society_of_london_botanical_journal_vol_161_no_4_2009_p_337_pl_4e",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "drosera_regia",
+                "type": "species",
+                "archival_data": [
+                    "1405083"
+                ]
+            },
+            "volume": null,
+            "page": "p 337, Pl. 4E",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2050594",
+                "legacy_id": "406142",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Linnean Society of London, Botanical Journal. vol 161, no. 4. (2009) p 337, Pl. 4F",
+            "machine_name": "linnean_society_of_london_botanical_journal_vol_161_no_4_2009_p_337_pl_4f",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "drosophyllum_lusitanicum",
+                "type": "species",
+                "archival_data": [
+                    "1405101"
+                ]
+            },
+            "volume": null,
+            "page": "p 337, Pl. 4F",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2050595",
+                "legacy_id": "406143",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Linnean Society of London, Botanical Journal. vol 161, no. 4. (2009) p 339, Pl. 5A-D",
+            "machine_name": "linnean_society_of_london_botanical_journal_vol_161_no_4_2009_p_339_pl_5a_d",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "triphyophyllum_peltatum",
+                "type": "species",
+                "archival_data": [
+                    "1433514"
+                ]
+            },
+            "volume": null,
+            "page": "p 339, Pl. 5A-D",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2050596",
+                "legacy_id": "406144",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Linnean Society of London, Botanical Journal. vol 161, no. 4. (2009) p 346, Pl. 9B",
+            "machine_name": "linnean_society_of_london_botanical_journal_vol_161_no_4_2009_p_346_pl_9b",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "roridula_gorgonias",
+                "type": "species",
+                "archival_data": [
+                    "1455659"
+                ]
+            },
+            "volume": null,
+            "page": "p 346, Pl. 9B",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2050597",
+                "legacy_id": "406145",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        }
+    ]
+}

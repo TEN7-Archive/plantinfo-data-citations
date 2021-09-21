@@ -1,0 +1,143 @@
+{
+    "name": "Lien Horticole. no. 820. (2012)",
+    "machine_name": "lien_horticole_no_820_2012",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2012",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2123974",
+        "legacy_id": "120693",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Lien Horticole. no. 820. (2012) p 6 (Adv.)",
+            "machine_name": "lien_horticole_no_820_2012_p_6_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "calibrachoa_cultivars_superbells_series",
+                "type": "variety",
+                "archival_data": [
+                    "1573414"
+                ]
+            },
+            "volume": null,
+            "page": "p 6 (Adv.)",
+            "year": "2012",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2057208",
+                "legacy_id": "456306",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Lien Horticole. no. 820. (2012) p 12",
+            "machine_name": "lien_horticole_no_820_2012_p_12",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lavandula_cultivars_phenomenal",
+                "type": "variety",
+                "archival_data": [
+                    "1593601"
+                ]
+            },
+            "volume": null,
+            "page": "p 12",
+            "year": "2012",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2057209",
+                "legacy_id": "456307",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Lien Horticole. no. 820. (2012) p 12",
+            "machine_name": "lien_horticole_no_820_2012_p_12",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lavandula_angustifolia_momparler",
+                "type": "variety",
+                "archival_data": [
+                    "1648110"
+                ]
+            },
+            "volume": null,
+            "page": "p 12",
+            "year": "2012",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2057210",
+                "legacy_id": "456308",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        }
+    ]
+}

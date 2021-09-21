@@ -1,0 +1,143 @@
+{
+    "name": "BioScience. vol 55, no. 3. (2005)",
+    "machine_name": "bioscience_vol_55_no_3_2005",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2005",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2121413",
+        "legacy_id": "102849",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "BioScience. vol 55, no. 3. (2005) p 232, Pl. 1",
+            "machine_name": "bioscience_vol_55_no_3_2005_p_232_pl_1",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "protea_lacticolor",
+                "type": "species",
+                "archival_data": [
+                    "1424989"
+                ]
+            },
+            "volume": null,
+            "page": "p 232, Pl. 1",
+            "year": "2005",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1984320",
+                "legacy_id": "395572",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "BioScience. vol 55, no. 3. (2005) p 246, Pl. 3;249, Pl. 7",
+            "machine_name": "bioscience_vol_55_no_3_2005_p_246_pl_3_249_pl_7",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "gleditsia_triacanthos",
+                "type": "species",
+                "archival_data": [
+                    "1412315"
+                ]
+            },
+            "volume": null,
+            "page": "p 246, Pl. 3;249, Pl. 7",
+            "year": "2005",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1984321",
+                "legacy_id": "395573",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "BioScience. vol 55, no. 3. (2005) p 246-247, Pl. 3-4",
+            "machine_name": "bioscience_vol_55_no_3_2005_p_246_247_pl_3_4",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cornus_drummondii",
+                "type": "species",
+                "archival_data": [
+                    "1405319"
+                ]
+            },
+            "volume": null,
+            "page": "p 246-247, Pl. 3-4",
+            "year": "2005",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1984322",
+                "legacy_id": "395574",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        }
+    ]
+}

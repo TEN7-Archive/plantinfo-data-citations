@@ -1,0 +1,225 @@
+{
+    "name": "Desert Plants. vol 9, no. 2. (1988)",
+    "machine_name": "desert_plants_vol_9_no_2_1988",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1988",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113433",
+        "legacy_id": "2196",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Desert Plants. vol 9, no. 2. (1988) p 61",
+            "machine_name": "desert_plants_vol_9_no_2_1988_p_61",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "anemopsis_californica",
+                "type": "species",
+                "archival_data": [
+                    "1399470"
+                ]
+            },
+            "volume": null,
+            "page": "p 61",
+            "year": "1988",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1765078",
+                "legacy_id": "71805",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Desert Plants. vol 9, no. 2. (1988) p 36",
+            "machine_name": "desert_plants_vol_9_no_2_1988_p_36",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "nitrophila_occidentalis",
+                "type": "species",
+                "archival_data": [
+                    "1424681"
+                ]
+            },
+            "volume": null,
+            "page": "p 36",
+            "year": "1988",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1814214",
+                "legacy_id": "115643",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Desert Plants. vol 9, no. 2. (1988) p 61",
+            "machine_name": "desert_plants_vol_9_no_2_1988_p_61",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ruppia_maritima",
+                "type": "species",
+                "archival_data": [
+                    "1428764"
+                ]
+            },
+            "volume": null,
+            "page": "p 61",
+            "year": "1988",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1824264",
+                "legacy_id": "130158",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Desert Plants. vol 9, no. 2. (1988) p 64",
+            "machine_name": "desert_plants_vol_9_no_2_1988_p_64",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "sesbania_rostrata",
+                "type": "species",
+                "archival_data": [
+                    "1429202"
+                ]
+            },
+            "volume": null,
+            "page": "p 64",
+            "year": "1988",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1826157",
+                "legacy_id": "133355",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Desert Plants. vol 9, no. 2. (1988) p 33 (cover)",
+            "machine_name": "desert_plants_vol_9_no_2_1988_p_33_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "typha_domingensis",
+                "type": "species",
+                "archival_data": [
+                    "1428218"
+                ]
+            },
+            "volume": null,
+            "page": "p 33 (cover)",
+            "year": "1988",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1834567",
+                "legacy_id": "139492",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        }
+    ]
+}

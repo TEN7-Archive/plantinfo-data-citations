@@ -1,0 +1,61 @@
+{
+    "name": "Grower. vol 138, no. 14 (Oct. 3, 2002)",
+    "machine_name": "grower_vol_138_no_14_oct_3_2002",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1684445",
+        "legacy_id": "44069",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grower. vol 138, no. 14 (Oct. 3, 2002) p 16",
+            "machine_name": "grower_vol_138_no_14_oct_3_2002_p_16",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "potentilla_cultivars_summer_sorbet",
+                "type": "variety",
+                "archival_data": [
+                    "1571091"
+                ]
+            },
+            "volume": null,
+            "page": "p 16",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1901174",
+                "legacy_id": "244699",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        }
+    ]
+}

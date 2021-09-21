@@ -1,0 +1,184 @@
+{
+    "name": "Native Plants. vol 17, no. 2. (2000)",
+    "machine_name": "native_plants_vol_17_no_2_2000",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2000",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2116056",
+        "legacy_id": "10569",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Native Plants. vol 17, no. 2. (2000) p 4",
+            "machine_name": "native_plants_vol_17_no_2_2000_p_4",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "panax_quinquefolius",
+                "type": "species",
+                "archival_data": [
+                    "1424081"
+                ]
+            },
+            "volume": null,
+            "page": "p 4",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1862481",
+                "legacy_id": "180090",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Native Plants. vol 17, no. 2. (2000) p 8",
+            "machine_name": "native_plants_vol_17_no_2_2000_p_8",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "allium_canadense",
+                "type": "species",
+                "archival_data": [
+                    "1402072"
+                ]
+            },
+            "volume": null,
+            "page": "p 8",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1862482",
+                "legacy_id": "180091",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Native Plants. vol 17, no. 2. (2000) p 8",
+            "machine_name": "native_plants_vol_17_no_2_2000_p_8",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rudbeckia_hirta",
+                "type": "species",
+                "archival_data": [
+                    "1428694"
+                ]
+            },
+            "volume": null,
+            "page": "p 8",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1862483",
+                "legacy_id": "180092",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Native Plants. vol 17, no. 2. (2000) p 8",
+            "machine_name": "native_plants_vol_17_no_2_2000_p_8",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "monarda_citriodora",
+                "type": "species",
+                "archival_data": [
+                    "1421229"
+                ]
+            },
+            "volume": null,
+            "page": "p 8",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1862484",
+                "legacy_id": "180093",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        }
+    ]
+}

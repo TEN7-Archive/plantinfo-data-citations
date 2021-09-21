@@ -1,0 +1,389 @@
+{
+    "name": "Australian Horticulture. Spring 1997 supplement.",
+    "machine_name": "australian_horticulture_spring_1997_supplement",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1685622",
+        "legacy_id": "16729",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Australian Horticulture. Spring 1997 supplement. p 14 (Adv.)",
+            "machine_name": "australian_horticulture_spring_1997_supplement_p_14_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "prunus_subhirtella_pendula_alba",
+                "type": "variety",
+                "archival_data": [
+                    "1488964"
+                ]
+            },
+            "volume": null,
+            "page": "p 14 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1871979",
+                "legacy_id": "198730",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Australian Horticulture. Spring 1997 supplement. p 14 (Adv.)",
+            "machine_name": "australian_horticulture_spring_1997_supplement_p_14_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "prunus_c_cultivars_stella",
+                "type": "variety",
+                "archival_data": [
+                    "1489264"
+                ]
+            },
+            "volume": null,
+            "page": "p 14 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1871980",
+                "legacy_id": "198731",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Australian Horticulture. Spring 1997 supplement. p 18",
+            "machine_name": "australian_horticulture_spring_1997_supplement_p_18",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "convallaria_majalis",
+                "type": "species",
+                "archival_data": [
+                    "1404544"
+                ]
+            },
+            "volume": null,
+            "page": "p 18",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1871981",
+                "legacy_id": "198732",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Australian Horticulture. Spring 1997 supplement. p 18",
+            "machine_name": "australian_horticulture_spring_1997_supplement_p_18",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "helleborus_hybridus",
+                "type": "species",
+                "archival_data": [
+                    "1411685"
+                ]
+            },
+            "volume": null,
+            "page": "p 18",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1871982",
+                "legacy_id": "198733",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Australian Horticulture. Spring 1997 supplement. p 19",
+            "machine_name": "australian_horticulture_spring_1997_supplement_p_19",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "clivia_miniata",
+                "type": "species",
+                "archival_data": [
+                    "1409020"
+                ]
+            },
+            "volume": null,
+            "page": "p 19",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1871983",
+                "legacy_id": "198734",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Australian Horticulture. Spring 1997 supplement. p 19",
+            "machine_name": "australian_horticulture_spring_1997_supplement_p_19",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ophiopogon_japonicus",
+                "type": "species",
+                "archival_data": [
+                    "1427288"
+                ]
+            },
+            "volume": null,
+            "page": "p 19",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1871984",
+                "legacy_id": "198735",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Australian Horticulture. Spring 1997 supplement. p 19",
+            "machine_name": "australian_horticulture_spring_1997_supplement_p_19",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "geranium_maderense",
+                "type": "species",
+                "archival_data": [
+                    "1411519"
+                ]
+            },
+            "volume": null,
+            "page": "p 19",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1871985",
+                "legacy_id": "198736",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Australian Horticulture. Spring 1997 supplement. p 23",
+            "machine_name": "australian_horticulture_spring_1997_supplement_p_23",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "dahlia_cultivars_babydahl_series",
+                "type": "variety",
+                "archival_data": [
+                    "1558384"
+                ]
+            },
+            "volume": null,
+            "page": "p 23",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1871986",
+                "legacy_id": "198737",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Australian Horticulture. Spring 1997 supplement. p 23 (Adv.)",
+            "machine_name": "australian_horticulture_spring_1997_supplement_p_23_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "syzygium_paniculatum_bush_christmas",
+                "type": "variety",
+                "archival_data": [
+                    "1495654"
+                ]
+            },
+            "volume": null,
+            "page": "p 23 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1871987",
+                "legacy_id": "198738",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        }
+    ]
+}

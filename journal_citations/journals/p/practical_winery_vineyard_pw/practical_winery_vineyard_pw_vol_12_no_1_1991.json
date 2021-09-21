@@ -1,0 +1,61 @@
+{
+    "name": "Practical Winery & Vineyard (PW). vol 12, no. 1. (1991)",
+    "machine_name": "practical_winery_vineyard_pw_vol_12_no_1_1991",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1991",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113345",
+        "legacy_id": "5301",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Practical Winery & Vineyard (PW). vol 12, no. 1. (1991) p cover",
+            "machine_name": "practical_winery_vineyard_pw_vol_12_no_1_1991_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "vitis_cultivars_merlot",
+                "type": "variety",
+                "archival_data": [
+                    "1559179"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1763692",
+                "legacy_id": "60150",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        }
+    ]
+}

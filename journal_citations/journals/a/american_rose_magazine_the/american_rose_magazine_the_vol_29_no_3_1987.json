@@ -1,0 +1,102 @@
+{
+    "name": "American Rose Magazine, The. vol 29, no. 3 (1987)",
+    "machine_name": "american_rose_magazine_the_vol_29_no_3_1987",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1987",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2112769",
+        "legacy_id": "934",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "American Rose Magazine, The. vol 29, no. 3 (1987) p 29",
+            "machine_name": "american_rose_magazine_the_vol_29_no_3_1987_p_29",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_alika",
+                "type": "variety",
+                "archival_data": [
+                    "1489129"
+                ]
+            },
+            "volume": null,
+            "page": "p 29",
+            "year": "1987",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1744278",
+                "legacy_id": "44502",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483154438"
+            }
+        },
+        {
+            "name": "American Rose Magazine, The. vol 29, no. 3 (1987) p 28-29",
+            "machine_name": "american_rose_magazine_the_vol_29_no_3_1987_p_28_29",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_coriifolia_froebelii",
+                "type": "variety",
+                "archival_data": [
+                    "1493244"
+                ]
+            },
+            "volume": null,
+            "page": "p 28-29",
+            "year": "1987",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1758033",
+                "legacy_id": "54687",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483154438"
+            }
+        }
+    ]
+}

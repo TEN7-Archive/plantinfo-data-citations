@@ -1,0 +1,61 @@
+{
+    "name": "Gardens Illustrated. no. 187, (2012)",
+    "machine_name": "gardens_illustrated_no_187_2012",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2012",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2123941",
+        "legacy_id": "119170",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Gardens Illustrated. no. 187, (2012) p 13",
+            "machine_name": "gardens_illustrated_no_187_2012_p_13",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ricinoides_arbor",
+                "type": "species",
+                "archival_data": [
+                    "1461556"
+                ]
+            },
+            "volume": null,
+            "page": "p 13",
+            "year": "2012",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2055622",
+                "legacy_id": "451859",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        }
+    ]
+}

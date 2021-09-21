@@ -1,0 +1,102 @@
+{
+    "name": "Grower. vol 138, no. 23. (2002)",
+    "machine_name": "grower_vol_138_no_23_2002",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2002",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2117789",
+        "legacy_id": "44814",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grower. vol 138, no. 23. (2002) p 4",
+            "machine_name": "grower_vol_138_no_23_2002_p_4",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "petunia_cultivars_viva_series",
+                "type": "variety",
+                "archival_data": [
+                    "1559512"
+                ]
+            },
+            "volume": null,
+            "page": "p 4",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1897196",
+                "legacy_id": "246558",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Grower. vol 138, no. 23. (2002) p 27",
+            "machine_name": "grower_vol_138_no_23_2002_p_27",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hyacinthus_orientalis_blue_pearl",
+                "type": "variety",
+                "archival_data": [
+                    "1569955"
+                ]
+            },
+            "volume": null,
+            "page": "p 27",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1897198",
+                "legacy_id": "246560",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        }
+    ]
+}

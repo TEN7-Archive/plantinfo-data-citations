@@ -1,0 +1,61 @@
+{
+    "name": "Plantsman, The. vol 13, no. 2. (1991)",
+    "machine_name": "plantsman_the_vol_13_no_2_1991",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1991",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114502",
+        "legacy_id": "5258",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Plantsman, The. vol 13, no. 2. (1991) p 64",
+            "machine_name": "plantsman_the_vol_13_no_2_1991_p_64",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "sanguinaria_canadensis",
+                "type": "species",
+                "archival_data": [
+                    "1430611"
+                ]
+            },
+            "volume": null,
+            "page": "p 64",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": true,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1822083",
+                "legacy_id": "131106",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        }
+    ]
+}

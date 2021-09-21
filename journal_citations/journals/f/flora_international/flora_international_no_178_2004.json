@@ -1,0 +1,184 @@
+{
+    "name": "Flora International. no. 178. (2004)",
+    "machine_name": "flora_international_no_178_2004",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2004",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2119466",
+        "legacy_id": "59592",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Flora International. no. 178. (2004) p 26",
+            "machine_name": "flora_international_no_178_2004_p_26",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "delphinium_cultivars_black_arrow",
+                "type": "variety",
+                "archival_data": [
+                    "1599427"
+                ]
+            },
+            "volume": null,
+            "page": "p 26",
+            "year": "2004",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1932678",
+                "legacy_id": "282070",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "Flora International. no. 178. (2004) p 33;35",
+            "machine_name": "flora_international_no_178_2004_p_33_35",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "clerodendrum_trichotomum",
+                "type": "species",
+                "archival_data": [
+                    "1408695"
+                ]
+            },
+            "volume": null,
+            "page": "p 33;35",
+            "year": "2004",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1932679",
+                "legacy_id": "282071",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "Flora International. no. 178. (2004) p 35",
+            "machine_name": "flora_international_no_178_2004_p_35",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "eucomis_cultivars_zeal_bronze",
+                "type": "variety",
+                "archival_data": [
+                    "1551192"
+                ]
+            },
+            "volume": null,
+            "page": "p 35",
+            "year": "2004",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1932680",
+                "legacy_id": "282072",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "Flora International. no. 178. (2004) p 35",
+            "machine_name": "flora_international_no_178_2004_p_35",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hedychium_gardnerianum",
+                "type": "species",
+                "archival_data": [
+                    "1410846"
+                ]
+            },
+            "volume": null,
+            "page": "p 35",
+            "year": "2004",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1932681",
+                "legacy_id": "282073",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        }
+    ]
+}

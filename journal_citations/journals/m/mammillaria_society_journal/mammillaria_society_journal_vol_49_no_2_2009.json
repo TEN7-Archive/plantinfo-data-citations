@@ -1,0 +1,61 @@
+{
+    "name": "Mammillaria Society, Journal. vol 49, no. 2. (2009)",
+    "machine_name": "mammillaria_society_journal_vol_49_no_2_2009",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2009",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2121428",
+        "legacy_id": "102972",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Mammillaria Society, Journal. vol 49, no. 2. (2009) p cover; 39-42",
+            "machine_name": "mammillaria_society_journal_vol_49_no_2_2009_p_cover_39_42",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "mammillaria_herrerae",
+                "type": "species",
+                "archival_data": [
+                    "1416652"
+                ]
+            },
+            "volume": null,
+            "page": "p cover; 39-42",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1984636",
+                "legacy_id": "395701",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        }
+    ]
+}

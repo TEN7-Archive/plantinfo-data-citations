@@ -1,0 +1,184 @@
+{
+    "name": "Flora International. no. 210. (2009)",
+    "machine_name": "flora_international_no_210_2009",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2009",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2123953",
+        "legacy_id": "106889",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Flora International. no. 210. (2009) p 18-20",
+            "machine_name": "flora_international_no_210_2009_p_18_20",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "gentiana_sino_ornata",
+                "type": "species",
+                "archival_data": [
+                    "1411123"
+                ]
+            },
+            "volume": null,
+            "page": "p 18-20",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": true,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2055980",
+                "legacy_id": "406094",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Flora International. no. 210. (2009) p 19",
+            "machine_name": "flora_international_no_210_2009_p_19",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "gentiana_cultivars_shot_silk",
+                "type": "variety",
+                "archival_data": [
+                    "1475866"
+                ]
+            },
+            "volume": null,
+            "page": "p 19",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": true,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2055981",
+                "legacy_id": "406095",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Flora International. no. 210. (2009) p 20",
+            "machine_name": "flora_international_no_210_2009_p_20",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "gentiana_acaulis_holzmanii",
+                "type": "variety",
+                "archival_data": [
+                    "1631412"
+                ]
+            },
+            "volume": null,
+            "page": "p 20",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": true,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2055982",
+                "legacy_id": "406096",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Flora International. no. 210. (2009) p 55",
+            "machine_name": "flora_international_no_210_2009_p_55",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "clematis_cultivars_elsa_spath",
+                "type": "variety",
+                "archival_data": [
+                    "1469484"
+                ]
+            },
+            "volume": null,
+            "page": "p 55",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2055983",
+                "legacy_id": "406097",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        }
+    ]
+}

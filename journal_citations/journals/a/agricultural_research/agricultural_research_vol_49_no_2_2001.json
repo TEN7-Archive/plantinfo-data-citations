@@ -1,0 +1,102 @@
+{
+    "name": "Agricultural Research. vol 49, no. 2. (2001)",
+    "machine_name": "agricultural_research_vol_49_no_2_2001",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2001",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2116815",
+        "legacy_id": "22049",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Agricultural Research. vol 49, no. 2. (2001) p 14",
+            "machine_name": "agricultural_research_vol_49_no_2_2001_p_14",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "vicia_villosa",
+                "type": "species",
+                "archival_data": [
+                    "1436479"
+                ]
+            },
+            "volume": null,
+            "page": "p 14",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1878303",
+                "legacy_id": "207570",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Agricultural Research. vol 49, no. 2. (2001) p 15",
+            "machine_name": "agricultural_research_vol_49_no_2_2001_p_15",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "trifolium_subterraneum",
+                "type": "species",
+                "archival_data": [
+                    "1433150"
+                ]
+            },
+            "volume": null,
+            "page": "p 15",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1878304",
+                "legacy_id": "207571",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "name": "P.H.M.-Revue Horticole. no. 322. (1991)",
+    "machine_name": "p_h_m_revue_horticole_no_322_1991",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1991",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2118776",
+        "legacy_id": "57311",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "P.H.M.-Revue Horticole. no. 322. (1991) p 10 (Adv.)",
+            "machine_name": "p_h_m_revue_horticole_no_322_1991_p_10_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lactuca_cultivars_blonde_a_bord_rouge",
+                "type": "variety",
+                "archival_data": [
+                    "1480469"
+                ]
+            },
+            "volume": null,
+            "page": "p 10 (Adv.)",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1916827",
+                "legacy_id": "275798",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "P.H.M.-Revue Horticole. no. 322. (1991) p 15 (Adv.)",
+            "machine_name": "p_h_m_revue_horticole_no_322_1991_p_15_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lactuca_cultivars_mirian",
+                "type": "variety",
+                "archival_data": [
+                    "1480778"
+                ]
+            },
+            "volume": null,
+            "page": "p 15 (Adv.)",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1916828",
+                "legacy_id": "275799",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        }
+    ]
+}

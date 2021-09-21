@@ -1,0 +1,102 @@
+{
+    "name": "Azalean, The. vol 24, no. 4. (2002)",
+    "machine_name": "azalean_the_vol_24_no_4_2002",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2002",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2117813",
+        "legacy_id": "45369",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Azalean, The. vol 24, no. 4. (2002) p 93 (Adv.)",
+            "machine_name": "azalean_the_vol_24_no_4_2002_p_93_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rhododendron_cultivars_lawrence_olson",
+                "type": "variety",
+                "archival_data": [
+                    "1489679"
+                ]
+            },
+            "volume": null,
+            "page": "p 93 (Adv.)",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1897582",
+                "legacy_id": "248171",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Azalean, The. vol 24, no. 4. (2002) p 93 (Adv.)",
+            "machine_name": "azalean_the_vol_24_no_4_2002_p_93_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rhododendron_cultivars_girard_s_yellow_pom_pom",
+                "type": "variety",
+                "archival_data": [
+                    "1488782"
+                ]
+            },
+            "volume": null,
+            "page": "p 93 (Adv.)",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1897583",
+                "legacy_id": "248172",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        }
+    ]
+}

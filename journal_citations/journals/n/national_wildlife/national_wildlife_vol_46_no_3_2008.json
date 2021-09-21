@@ -1,0 +1,61 @@
+{
+    "name": "National Wildlife. vol 46, no. 3. (2008)",
+    "machine_name": "national_wildlife_vol_46_no_3_2008",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2008",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2120360",
+        "legacy_id": "93335",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "National Wildlife. vol 46, no. 3. (2008) p cover;29",
+            "machine_name": "national_wildlife_vol_46_no_3_2008_p_cover_29",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "aquilegia_caerulea",
+                "type": "species",
+                "archival_data": [
+                    "1400654"
+                ]
+            },
+            "volume": null,
+            "page": "p cover;29",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1956265",
+                "legacy_id": "371141",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        }
+    ]
+}

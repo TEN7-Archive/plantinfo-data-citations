@@ -1,0 +1,102 @@
+{
+    "name": "Scientific American. vol 280, no. 6. (1999)",
+    "machine_name": "scientific_american_vol_280_no_6_1999",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1999",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2118751",
+        "legacy_id": "56450",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Scientific American. vol 280, no. 6. (1999) p 75",
+            "machine_name": "scientific_american_vol_280_no_6_1999_p_75",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "erythroxylum_coca",
+                "type": "species",
+                "archival_data": [
+                    "1412905"
+                ]
+            },
+            "volume": null,
+            "page": "p 75",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": true,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1916590",
+                "legacy_id": "273870",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "Scientific American. vol 280, no. 6. (1999) p 74",
+            "machine_name": "scientific_american_vol_280_no_6_1999_p_74",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "solanum_tuberosum",
+                "type": "species",
+                "archival_data": [
+                    "1430753"
+                ]
+            },
+            "volume": null,
+            "page": "p 74",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1916609",
+                "legacy_id": "273970",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "name": "P.H.M.-Revue Horticole. no. 461. (2004)",
+    "machine_name": "p_h_m_revue_horticole_no_461_2004",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2004",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2120101",
+        "legacy_id": "61650",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "P.H.M.-Revue Horticole. no. 461. (2004) p inside cover (Adv.)",
+            "machine_name": "p_h_m_revue_horticole_no_461_2004_p_inside_cover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "osteospermum_cultivars_symphony_series",
+                "type": "variety",
+                "archival_data": [
+                    "1557304"
+                ]
+            },
+            "volume": null,
+            "page": "p inside cover (Adv.)",
+            "year": "2004",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1949421",
+                "legacy_id": "289241",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "P.H.M.-Revue Horticole. no. 461. (2004) p 40",
+            "machine_name": "p_h_m_revue_horticole_no_461_2004_p_40",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "viburnum_cultivars_pragense",
+                "type": "variety",
+                "archival_data": [
+                    "1498870"
+                ]
+            },
+            "volume": null,
+            "page": "p 40",
+            "year": "2004",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1949422",
+                "legacy_id": "289242",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "P.H.M.-Revue Horticole. no. 461. (2004) p backcover (Adv.)",
+            "machine_name": "p_h_m_revue_horticole_no_461_2004_p_backcover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "verbena_cultivars_sun_series",
+                "type": "variety",
+                "archival_data": [
+                    "1587903"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover (Adv.)",
+            "year": "2004",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1949423",
+                "legacy_id": "289243",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        }
+    ]
+}

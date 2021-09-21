@@ -1,0 +1,143 @@
+{
+    "name": "Scientific American. vol 261, no. 4. (1989)",
+    "machine_name": "scientific_american_vol_261_no_4_1989",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1989",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2118957",
+        "legacy_id": "56191",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Scientific American. vol 261, no. 4. (1989) p 91-92;95",
+            "machine_name": "scientific_american_vol_261_no_4_1989_p_91_92_95",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "eichhornia_crassipes",
+                "type": "species",
+                "archival_data": [
+                    "1413149"
+                ]
+            },
+            "volume": null,
+            "page": "p 91-92;95",
+            "year": "1989",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": true,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1919570",
+                "legacy_id": "273374",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "Scientific American. vol 261, no. 4. (1989) p 92",
+            "machine_name": "scientific_american_vol_261_no_4_1989_p_92",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "eichhornia_azurea",
+                "type": "species",
+                "archival_data": [
+                    "1413148"
+                ]
+            },
+            "volume": null,
+            "page": "p 92",
+            "year": "1989",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1919571",
+                "legacy_id": "273375",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "Scientific American. vol 261, no. 4. (1989) p 97",
+            "machine_name": "scientific_american_vol_261_no_4_1989_p_97",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "salvinia_molesta",
+                "type": "species",
+                "archival_data": [
+                    "1441923"
+                ]
+            },
+            "volume": null,
+            "page": "p 97",
+            "year": "1989",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1919572",
+                "legacy_id": "273376",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        }
+    ]
+}

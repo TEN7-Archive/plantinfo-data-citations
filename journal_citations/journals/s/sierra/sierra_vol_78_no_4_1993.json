@@ -1,0 +1,61 @@
+{
+    "name": "Sierra. vol 78, no. 4. (1993)",
+    "machine_name": "sierra_vol_78_no_4_1993",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1993",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114548",
+        "legacy_id": "5509",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Sierra. vol 78, no. 4. (1993) p 43",
+            "machine_name": "sierra_vol_78_no_4_1993_p_43",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "symplocarpus_foetidus",
+                "type": "species",
+                "archival_data": [
+                    "1428495"
+                ]
+            },
+            "volume": null,
+            "page": "p 43",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1826265",
+                "legacy_id": "136078",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        }
+    ]
+}

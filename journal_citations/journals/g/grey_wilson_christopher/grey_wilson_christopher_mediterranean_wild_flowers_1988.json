@@ -1,0 +1,61 @@
+{
+    "name": "Grey-Wilson, Christopher. Mediterranean Wild Flowers. (1988)",
+    "machine_name": "grey_wilson_christopher_mediterranean_wild_flowers_1988",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1988",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2117682",
+        "legacy_id": "3254",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grey-Wilson, Christopher. Mediterranean Wild Flowers. (1988) p 307, Pl. 114",
+            "machine_name": "grey_wilson_christopher_mediterranean_wild_flowers_1988_p_307_pl_114",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "anchusa_aegyptica",
+                "type": "species",
+                "archival_data": [
+                    "1398692"
+                ]
+            },
+            "volume": null,
+            "page": "p 307, Pl. 114",
+            "year": "1988",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1895058",
+                "legacy_id": "242030",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        }
+    ]
+}

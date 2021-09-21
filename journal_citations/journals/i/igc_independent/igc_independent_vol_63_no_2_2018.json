@@ -1,0 +1,102 @@
+{
+    "name": "IGC Independent. vol 63, no. 2. (2018)",
+    "machine_name": "igc_independent_vol_63_no_2_2018",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2018",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": "7",
+    "description": null,
+    "archival_data": {
+        "id": "2300771",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1523892564"
+    },
+    "citation_reference_items": [
+        {
+            "name": "IGC Independent. vol 63, no. 2. (2018) 13",
+            "machine_name": "igc_independent_vol_63_no_2_2018_13",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "capsicum_s_cultivars_mexican_sunset",
+                "type": "variety",
+                "archival_data": [
+                    "2281071"
+                ]
+            },
+            "volume": null,
+            "page": "13",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2300776",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1523892704"
+            }
+        },
+        {
+            "name": "IGC Independent. vol 63, no. 2. (2018) 13",
+            "machine_name": "igc_independent_vol_63_no_2_2018_13",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ilex_meserveae_scallywag",
+                "type": "variety",
+                "archival_data": [
+                    "2279516"
+                ]
+            },
+            "volume": null,
+            "page": "13",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2300781",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1523892704"
+            }
+        }
+    ]
+}

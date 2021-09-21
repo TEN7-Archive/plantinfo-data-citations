@@ -1,0 +1,143 @@
+{
+    "name": "Grower. February 5, 2004.",
+    "machine_name": "grower_february_5_2004",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1690472",
+        "legacy_id": "55310",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grower. February 5, 2004. p 4",
+            "machine_name": "grower_february_5_2004_p_4",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "daucus_carota_betasweet",
+                "type": "variety",
+                "archival_data": [
+                    "1539721"
+                ]
+            },
+            "volume": null,
+            "page": "p 4",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": true,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1915299",
+                "legacy_id": "271513",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Grower. February 5, 2004. p 7 (Adv.)",
+            "machine_name": "grower_february_5_2004_p_7_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pastinaca_sativa_javelin",
+                "type": "variety",
+                "archival_data": [
+                    "1521310"
+                ]
+            },
+            "volume": null,
+            "page": "p 7 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": true,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1915300",
+                "legacy_id": "271514",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Grower. February 5, 2004. p 14",
+            "machine_name": "grower_february_5_2004_p_14",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "asparagus_officinalis_pacific_purple",
+                "type": "variety",
+                "archival_data": [
+                    "1583478"
+                ]
+            },
+            "volume": null,
+            "page": "p 14",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1915301",
+                "legacy_id": "271515",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        }
+    ]
+}

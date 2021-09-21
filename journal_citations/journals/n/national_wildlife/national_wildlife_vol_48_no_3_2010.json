@@ -1,0 +1,143 @@
+{
+    "name": "National Wildlife. vol 48, no. 3. (2010)",
+    "machine_name": "national_wildlife_vol_48_no_3_2010",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2010",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2122928",
+        "legacy_id": "108351",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "National Wildlife. vol 48, no. 3. (2010) p 16",
+            "machine_name": "national_wildlife_vol_48_no_3_2010_p_16",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "viola_guadalupensis",
+                "type": "species",
+                "archival_data": [
+                    "1436850"
+                ]
+            },
+            "volume": null,
+            "page": "p 16",
+            "year": "2010",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2015271",
+                "legacy_id": "411293",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "National Wildlife. vol 48, no. 3. (2010) p 18",
+            "machine_name": "national_wildlife_vol_48_no_3_2010_p_18",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "clermontia_peleana",
+                "type": "species",
+                "archival_data": [
+                    "1448717"
+                ]
+            },
+            "volume": null,
+            "page": "p 18",
+            "year": "2010",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2015272",
+                "legacy_id": "411294",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "National Wildlife. vol 48, no. 3. (2010) p 18",
+            "machine_name": "national_wildlife_vol_48_no_3_2010_p_18",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "helianthemum_greenei",
+                "type": "species",
+                "archival_data": [
+                    "1456181"
+                ]
+            },
+            "volume": null,
+            "page": "p 18",
+            "year": "2010",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2015273",
+                "legacy_id": "411295",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        }
+    ]
+}

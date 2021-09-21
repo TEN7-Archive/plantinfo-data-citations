@@ -1,0 +1,61 @@
+{
+    "name": "Annals of the Missouri Botanical Garden. vol 85, no. 4.",
+    "machine_name": "annals_of_the_missouri_botanical_garden_vol_85_no_4",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1678812",
+        "legacy_id": "6896",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Annals of the Missouri Botanical Garden. vol 85, no. 4. p 571, Pl. 1(ii).",
+            "machine_name": "annals_of_the_missouri_botanical_garden_vol_85_no_4_p_571_pl_1_ii",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "weinmannia_fraxinea",
+                "type": "species",
+                "archival_data": [
+                    "1443593"
+                ]
+            },
+            "volume": null,
+            "page": "p 571, Pl. 1(ii).",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1848497",
+                "legacy_id": "154774",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        }
+    ]
+}

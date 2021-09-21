@@ -1,0 +1,143 @@
+{
+    "name": "Citrus & Vegetable Magazine. vol 65, no. 5. (2001)",
+    "machine_name": "citrus_vegetable_magazine_vol_65_no_5_2001",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2001",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2116624",
+        "legacy_id": "19649",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Citrus & Vegetable Magazine. vol 65, no. 5. (2001) p 16",
+            "machine_name": "citrus_vegetable_magazine_vol_65_no_5_2001_p_16",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "vaccinium_corymbosum",
+                "type": "species",
+                "archival_data": [
+                    "1428659"
+                ]
+            },
+            "volume": null,
+            "page": "p 16",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1874974",
+                "legacy_id": "203854",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Citrus & Vegetable Magazine. vol 65, no. 5. (2001) p 44",
+            "machine_name": "citrus_vegetable_magazine_vol_65_no_5_2001_p_44",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cucurbita_p_cultivars_neon",
+                "type": "variety",
+                "archival_data": [
+                    "1555558"
+                ]
+            },
+            "volume": null,
+            "page": "p 44",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1874975",
+                "legacy_id": "203855",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Citrus & Vegetable Magazine. vol 65, no. 5. (2001) p 44",
+            "machine_name": "citrus_vegetable_magazine_vol_65_no_5_2001_p_44",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "citrullus_lanatus_anthem",
+                "type": "variety",
+                "archival_data": [
+                    "1563627"
+                ]
+            },
+            "volume": null,
+            "page": "p 44",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1874976",
+                "legacy_id": "203856",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        }
+    ]
+}

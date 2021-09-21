@@ -1,0 +1,143 @@
+{
+    "name": "Nature. vol 433, no. 7024. (2005)",
+    "machine_name": "nature_vol_433_no_7024_2005",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2005",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2120514",
+        "legacy_id": "63511",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Nature. vol 433, no. 7024. (2005) p 365",
+            "machine_name": "nature_vol_433_no_7024_2005_p_365",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "brassica_oleracea_b_romanesco",
+                "type": "variety",
+                "archival_data": [
+                    "1465023"
+                ]
+            },
+            "volume": null,
+            "page": "p 365",
+            "year": "2005",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1960867",
+                "legacy_id": "294731",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        },
+        {
+            "name": "Nature. vol 433, no. 7024. (2005) p ix;422, Pl. 1a;423, Pl. 2b",
+            "machine_name": "nature_vol_433_no_7024_2005_p_ix_422_pl_1a_423_pl_2b",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "dionaea_muscipula",
+                "type": "species",
+                "archival_data": [
+                    "1408837"
+                ]
+            },
+            "volume": null,
+            "page": "p ix;422, Pl. 1a;423, Pl. 2b",
+            "year": "2005",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1960869",
+                "legacy_id": "294730",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        },
+        {
+            "name": "Nature. vol 433, no. 7024. (2005) p 346",
+            "machine_name": "nature_vol_433_no_7024_2005_p_346",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "amorphophallus_titanum",
+                "type": "species",
+                "archival_data": [
+                    "1398320"
+                ]
+            },
+            "volume": null,
+            "page": "p 346",
+            "year": "2005",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1960870",
+                "legacy_id": "294732",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        }
+    ]
+}

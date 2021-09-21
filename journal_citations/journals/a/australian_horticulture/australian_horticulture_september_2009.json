@@ -1,0 +1,389 @@
+{
+    "name": "Australian Horticulture. September 2009.",
+    "machine_name": "australian_horticulture_september_2009",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1692571",
+        "legacy_id": "106229",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Australian Horticulture. September 2009. p 14 (Adv.)",
+            "machine_name": "australian_horticulture_september_2009_p_14_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "prunus_cultivars_dave_s_delight",
+                "type": "variety",
+                "archival_data": [
+                    "1580209"
+                ]
+            },
+            "volume": null,
+            "page": "p 14 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1996620",
+                "legacy_id": "403512",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Australian Horticulture. September 2009. p 18 (Adv.)",
+            "machine_name": "australian_horticulture_september_2009_p_18_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hardenbergia_violacea_meema",
+                "type": "variety",
+                "archival_data": [
+                    "1621903"
+                ]
+            },
+            "volume": null,
+            "page": "p 18 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1996621",
+                "legacy_id": "403513",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Australian Horticulture. September 2009. p 18 (Adv.)",
+            "machine_name": "australian_horticulture_september_2009_p_18_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "agapanthus_orientalis_queen_mum",
+                "type": "variety",
+                "archival_data": [
+                    "1621905"
+                ]
+            },
+            "volume": null,
+            "page": "p 18 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1996622",
+                "legacy_id": "403514",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Australian Horticulture. September 2009. p 18 (Adv.)",
+            "machine_name": "australian_horticulture_september_2009_p_18_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "myoporum_parvifolium_yareena",
+                "type": "variety",
+                "archival_data": [
+                    "1621902"
+                ]
+            },
+            "volume": null,
+            "page": "p 18 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1996623",
+                "legacy_id": "403515",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Australian Horticulture. September 2009. p 19",
+            "machine_name": "australian_horticulture_september_2009_p_19",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "santalum_acuminatum",
+                "type": "species",
+                "archival_data": [
+                    "1430654"
+                ]
+            },
+            "volume": null,
+            "page": "p 19",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1996624",
+                "legacy_id": "403516",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Australian Horticulture. September 2009. p 20",
+            "machine_name": "australian_horticulture_september_2009_p_20",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "zingiber_officinale",
+                "type": "species",
+                "archival_data": [
+                    "1439053"
+                ]
+            },
+            "volume": null,
+            "page": "p 20",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": true,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1996625",
+                "legacy_id": "403517",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Australian Horticulture. September 2009. p 22",
+            "machine_name": "australian_horticulture_september_2009_p_22",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "canarina_canariensis",
+                "type": "species",
+                "archival_data": [
+                    "1407018"
+                ]
+            },
+            "volume": null,
+            "page": "p 22",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1996626",
+                "legacy_id": "403518",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Australian Horticulture. September 2009. p 24 (Adv.)",
+            "machine_name": "australian_horticulture_september_2009_p_24_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "nandina_domestica_blush",
+                "type": "variety",
+                "archival_data": [
+                    "1621900"
+                ]
+            },
+            "volume": null,
+            "page": "p 24 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1996627",
+                "legacy_id": "403519",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Australian Horticulture. September 2009. p 24 (Adv.)",
+            "machine_name": "australian_horticulture_september_2009_p_24_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "nandina_domestica_flirt",
+                "type": "variety",
+                "archival_data": [
+                    "1621904"
+                ]
+            },
+            "volume": null,
+            "page": "p 24 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1996628",
+                "legacy_id": "403520",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        }
+    ]
+}

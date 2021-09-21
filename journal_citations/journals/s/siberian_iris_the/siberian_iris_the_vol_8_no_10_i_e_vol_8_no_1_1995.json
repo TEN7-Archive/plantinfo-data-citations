@@ -1,0 +1,102 @@
+{
+    "name": "Siberian Iris, The. vol 8, no. 10. (i.e., vol 8, no. 1?) (1995)",
+    "machine_name": "siberian_iris_the_vol_8_no_10_i_e_vol_8_no_1_1995",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1995",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2111718",
+        "legacy_id": "5493",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Siberian Iris, The. vol 8, no. 10. (i.e., vol 8, no. 1?) (1995) p backcover",
+            "machine_name": "siberian_iris_the_vol_8_no_10_i_e_vol_8_no_1_1995_p_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "iris_cultivars_limeheart",
+                "type": "variety",
+                "archival_data": [
+                    "1480705"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover",
+            "year": "1995",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1722764",
+                "legacy_id": "24654",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Siberian Iris, The. vol 8, no. 10. (i.e., vol 8, no. 1?) (1995) p cover",
+            "machine_name": "siberian_iris_the_vol_8_no_10_i_e_vol_8_no_1_1995_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "iris_chrysographes",
+                "type": "species",
+                "archival_data": [
+                    "1417238"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1995",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1803716",
+                "legacy_id": "104898",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        }
+    ]
+}

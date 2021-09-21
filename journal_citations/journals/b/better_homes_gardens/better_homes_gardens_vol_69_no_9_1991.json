@@ -1,0 +1,102 @@
+{
+    "name": "Better Homes & Gardens. vol 69, no. 9. (1991)",
+    "machine_name": "better_homes_gardens_vol_69_no_9_1991",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1991",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113539",
+        "legacy_id": "1522",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Better Homes & Gardens. vol 69, no. 9. (1991) p 26",
+            "machine_name": "better_homes_gardens_vol_69_no_9_1991_p_26",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ajuga_reptans",
+                "type": "species",
+                "archival_data": [
+                    "1401349"
+                ]
+            },
+            "volume": null,
+            "page": "p 26",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1767185",
+                "legacy_id": "69627",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Better Homes & Gardens. vol 69, no. 9. (1991) p 26",
+            "machine_name": "better_homes_gardens_vol_69_no_9_1991_p_26",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cercis_canadensis",
+                "type": "species",
+                "archival_data": [
+                    "1405172"
+                ]
+            },
+            "volume": null,
+            "page": "p 26",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1774906",
+                "legacy_id": "81162",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        }
+    ]
+}

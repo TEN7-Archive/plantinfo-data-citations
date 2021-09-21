@@ -1,0 +1,184 @@
+{
+    "name": "Horticulture Week. March 6, 2003.",
+    "machine_name": "horticulture_week_march_6_2003",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1686289",
+        "legacy_id": "46949",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Horticulture Week. March 6, 2003. p 16",
+            "machine_name": "horticulture_week_march_6_2003_p_16",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "aubrieta_deltoidea",
+                "type": "species",
+                "archival_data": [
+                    "1398776"
+                ]
+            },
+            "volume": null,
+            "page": "p 16",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1901818",
+                "legacy_id": "254311",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Horticulture Week. March 6, 2003. p 17",
+            "machine_name": "horticulture_week_march_6_2003_p_17",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "aubrieta_deltoidea_aureovariegata",
+                "type": "variety",
+                "archival_data": [
+                    "1574805"
+                ]
+            },
+            "volume": null,
+            "page": "p 17",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1901819",
+                "legacy_id": "254330",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Horticulture Week. March 6, 2003. p 17",
+            "machine_name": "horticulture_week_march_6_2003_p_17",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "aubrieta_cultivars_greencourt_purple",
+                "type": "variety",
+                "archival_data": [
+                    "1574806"
+                ]
+            },
+            "volume": null,
+            "page": "p 17",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1901820",
+                "legacy_id": "254331",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Horticulture Week. March 6, 2003. p 16",
+            "machine_name": "horticulture_week_march_6_2003_p_16",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "aubrieta_cultivars_dr_mules",
+                "type": "variety",
+                "archival_data": [
+                    "1499339"
+                ]
+            },
+            "volume": null,
+            "page": "p 16",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1901821",
+                "legacy_id": "254350",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        }
+    ]
+}

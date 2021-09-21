@@ -1,0 +1,61 @@
+{
+    "name": "Agricultural Research. vol 52, no. 11. (2004)",
+    "machine_name": "agricultural_research_vol_52_no_11_2004",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2004",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2120118",
+        "legacy_id": "61789",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Agricultural Research. vol 52, no. 11. (2004) p 4;8",
+            "machine_name": "agricultural_research_vol_52_no_11_2004_p_4_8",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "melaleuca_viridiflora_rubriflora",
+                "type": "variety",
+                "archival_data": [
+                    "1481563"
+                ]
+            },
+            "volume": null,
+            "page": "p 4;8",
+            "year": "2004",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": true,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1950054",
+                "legacy_id": "289432",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        }
+    ]
+}

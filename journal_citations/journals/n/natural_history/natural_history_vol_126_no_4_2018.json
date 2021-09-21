@@ -1,0 +1,102 @@
+{
+    "name": "Natural History. vol 126, no. 4. (2018)",
+    "machine_name": "natural_history_vol_126_no_4_2018",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2018",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": "7",
+    "description": null,
+    "archival_data": {
+        "id": "2300046",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1523798352"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Natural History. vol 126, no. 4. (2018) p 42",
+            "machine_name": "natural_history_vol_126_no_4_2018_p_42",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "helianthus_verticillatus",
+                "type": "species",
+                "archival_data": [
+                    "1445494"
+                ]
+            },
+            "volume": null,
+            "page": "p 42",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2300051",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1523798538"
+            }
+        },
+        {
+            "name": "Natural History. vol 126, no. 4. (2018) p 43",
+            "machine_name": "natural_history_vol_126_no_4_2018_p_43",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "marshallia_mohrii",
+                "type": "species",
+                "archival_data": [
+                    "1434195"
+                ]
+            },
+            "volume": null,
+            "page": "p 43",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2300056",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1523798538"
+            }
+        }
+    ]
+}

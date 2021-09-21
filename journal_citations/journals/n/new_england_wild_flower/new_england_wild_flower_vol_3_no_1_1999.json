@@ -1,0 +1,102 @@
+{
+    "name": "New England Wild Flower. vol 3, no. 1. (1999)",
+    "machine_name": "new_england_wild_flower_vol_3_no_1_1999",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1999",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2115471",
+        "legacy_id": "7267",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "New England Wild Flower. vol 3, no. 1. (1999) p cover",
+            "machine_name": "new_england_wild_flower_vol_3_no_1_1999_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lilium_superbum",
+                "type": "species",
+                "archival_data": [
+                    "1417735"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1851614",
+                "legacy_id": "158190",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "New England Wild Flower. vol 3, no. 1. (1999) p backcover",
+            "machine_name": "new_england_wild_flower_vol_3_no_1_1999_p_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "erythronium_americanum",
+                "type": "species",
+                "archival_data": [
+                    "1412880"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1851615",
+                "legacy_id": "158191",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        }
+    ]
+}

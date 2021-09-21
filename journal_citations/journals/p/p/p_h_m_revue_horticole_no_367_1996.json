@@ -1,0 +1,61 @@
+{
+    "name": "P.H.M.-Revue Horticole. no. 367. (1996)",
+    "machine_name": "p_h_m_revue_horticole_no_367_1996",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1996",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2118821",
+        "legacy_id": "57669",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "P.H.M.-Revue Horticole. no. 367. (1996) p 13",
+            "machine_name": "p_h_m_revue_horticole_no_367_1996_p_13",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "forsythia_mandshurica_maree_d_or",
+                "type": "variety",
+                "archival_data": [
+                    "1570720"
+                ]
+            },
+            "volume": null,
+            "page": "p 13",
+            "year": "1996",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1917185",
+                "legacy_id": "276450",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        }
+    ]
+}

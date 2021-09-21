@@ -1,0 +1,102 @@
+{
+    "name": "Sida, Contributions to Botany. vol 14, no. 3. (1991)",
+    "machine_name": "sida_contributions_to_botany_vol_14_no_3_1991",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1991",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2117979",
+        "legacy_id": "5497",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Sida, Contributions to Botany. vol 14, no. 3. (1991) p 402, Pl. 2.",
+            "machine_name": "sida_contributions_to_botany_vol_14_no_3_1991_p_402_pl_2",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "fryxellia_pygmaea",
+                "type": "species",
+                "archival_data": [
+                    "1455257"
+                ]
+            },
+            "volume": null,
+            "page": "p 402, Pl. 2.",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1901122",
+                "legacy_id": "244642",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Sida, Contributions to Botany. vol 14, no. 3. (1991) p 407, Pl. 1",
+            "machine_name": "sida_contributions_to_botany_vol_14_no_3_1991_p_407_pl_1",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "sida_jatrophoides",
+                "type": "species",
+                "archival_data": [
+                    "1455258"
+                ]
+            },
+            "volume": null,
+            "page": "p 407, Pl. 1",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1923407",
+                "legacy_id": "335532",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        }
+    ]
+}

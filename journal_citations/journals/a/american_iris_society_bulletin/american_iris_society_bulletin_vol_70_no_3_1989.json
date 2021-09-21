@@ -1,0 +1,61 @@
+{
+    "name": "American Iris Society, Bulletin. vol 70, no. 3. (1989)",
+    "machine_name": "american_iris_society_bulletin_vol_70_no_3_1989",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1989",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2111811",
+        "legacy_id": "399",
+        "author": "oitadmin",
+        "created": "1473951060"
+    },
+    "citation_reference_items": [
+        {
+            "name": "American Iris Society, Bulletin. vol 70, no. 3. (no. 274). (1988) p backcover (Adv.)",
+            "machine_name": "american_iris_society_bulletin_vol_70_no_3_no_274_1988_p_backcover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "iris_cultivars_pink_jade",
+                "type": "variety",
+                "archival_data": [
+                    "1476837"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover (Adv.)",
+            "year": "1988",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1724095",
+                "legacy_id": "25096",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        }
+    ]
+}

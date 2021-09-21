@@ -1,0 +1,61 @@
+{
+    "name": "Grounds Maintenance. vol 25, no. 9. (1990)",
+    "machine_name": "grounds_maintenance_vol_25_no_9_1990",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1990",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2112430",
+        "legacy_id": "3264",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grounds Maintenance. vol 25, no. 9. (1990) p 24",
+            "machine_name": "grounds_maintenance_vol_25_no_9_1990_p_24",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "petunia_cultivars_coral_madness",
+                "type": "variety",
+                "archival_data": [
+                    "1481499"
+                ]
+            },
+            "volume": null,
+            "page": "p 24",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1737942",
+                "legacy_id": "37627",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        }
+    ]
+}

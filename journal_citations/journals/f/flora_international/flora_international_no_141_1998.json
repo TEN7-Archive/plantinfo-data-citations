@@ -1,0 +1,184 @@
+{
+    "name": "Flora International. no. 141. (1998)",
+    "machine_name": "flora_international_no_141_1998",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1998",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114814",
+        "legacy_id": "6184",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Flora International. no. 141. (1998) p 18-19",
+            "machine_name": "flora_international_no_141_1998_p_18_19",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cobaea_scandens",
+                "type": "species",
+                "archival_data": [
+                    "1409039"
+                ]
+            },
+            "volume": null,
+            "page": "p 18-19",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1839695",
+                "legacy_id": "144894",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Flora International. no. 141. (1998) p 50",
+            "machine_name": "flora_international_no_141_1998_p_50",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_henri_martin",
+                "type": "variety",
+                "archival_data": [
+                    "1494240"
+                ]
+            },
+            "volume": null,
+            "page": "p 50",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1839696",
+                "legacy_id": "144895",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Flora International. no. 141. (1998) p 50",
+            "machine_name": "flora_international_no_141_1998_p_50",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_constance_spry",
+                "type": "variety",
+                "archival_data": [
+                    "1486517"
+                ]
+            },
+            "volume": null,
+            "page": "p 50",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1839697",
+                "legacy_id": "144896",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Flora International. no. 141. (1998) p 51",
+            "machine_name": "flora_international_no_141_1998_p_51",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_charles_de_mills",
+                "type": "variety",
+                "archival_data": [
+                    "1490969"
+                ]
+            },
+            "volume": null,
+            "page": "p 51",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1839698",
+                "legacy_id": "144897",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        }
+    ]
+}

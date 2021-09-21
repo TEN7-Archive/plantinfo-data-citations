@@ -1,0 +1,102 @@
+{
+    "name": "Landscape Management. vol 53, no. 1. (2014)",
+    "machine_name": "landscape_management_vol_53_no_1_2014",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2014",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2123117",
+        "legacy_id": "123930",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Landscape Management. vol 53, no. 1. (2014) p 14 (Adv.)",
+            "machine_name": "landscape_management_vol_53_no_1_2014_p_14_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "taraxacum_officinale",
+                "type": "species",
+                "archival_data": [
+                    "1429314"
+                ]
+            },
+            "volume": null,
+            "page": "p 14 (Adv.)",
+            "year": "2014",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2020072",
+                "legacy_id": "473747",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "Landscape Management. vol 53, no. 1. (2014) p 14 (Adv.)",
+            "machine_name": "landscape_management_vol_53_no_1_2014_p_14_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hypochaeris_radicata",
+                "type": "species",
+                "archival_data": [
+                    "1415768"
+                ]
+            },
+            "volume": null,
+            "page": "p 14 (Adv.)",
+            "year": "2014",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2020073",
+                "legacy_id": "473748",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        }
+    ]
+}

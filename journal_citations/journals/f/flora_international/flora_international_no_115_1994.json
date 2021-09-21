@@ -1,0 +1,143 @@
+{
+    "name": "Flora International. no. 115. (1994)",
+    "machine_name": "flora_international_no_115_1994",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1994",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2110415",
+        "legacy_id": "2565",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Flora International. no. 115. (1994) p 14",
+            "machine_name": "flora_international_no_115_1994_p_14",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "clematis_cultivars_nelly_moser",
+                "type": "variety",
+                "archival_data": [
+                    "1469544"
+                ]
+            },
+            "volume": null,
+            "page": "p 14",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1708422",
+                "legacy_id": "7836",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Flora International. no. 115. (1994) p 55",
+            "machine_name": "flora_international_no_115_1994_p_55",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "muscari_armeniacum_fantasy_creation",
+                "type": "variety",
+                "archival_data": [
+                    "1482681"
+                ]
+            },
+            "volume": null,
+            "page": "p 55",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1733943",
+                "legacy_id": "32640",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Flora International. no. 115. (1994) p 55",
+            "machine_name": "flora_international_no_115_1994_p_55",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "tulipa_cultivars_professor_penn",
+                "type": "variety",
+                "archival_data": [
+                    "1492524"
+                ]
+            },
+            "volume": null,
+            "page": "p 55",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1762562",
+                "legacy_id": "58524",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        }
+    ]
+}

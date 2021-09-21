@@ -1,0 +1,61 @@
+{
+    "name": "Better Homes & Gardens. vol 88, no. 11. (2010)",
+    "machine_name": "better_homes_gardens_vol_88_no_11_2010",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2010",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2123680",
+        "legacy_id": "111213",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Better Homes & Gardens. vol 88, no. 11. (2010) p 118",
+            "machine_name": "better_homes_gardens_vol_88_no_11_2010_p_118",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hylotelephium_telephium_matrona",
+                "type": "variety",
+                "archival_data": [
+                    "1529873"
+                ]
+            },
+            "volume": null,
+            "page": "p 118",
+            "year": "2010",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2038774",
+                "legacy_id": "422205",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        }
+    ]
+}

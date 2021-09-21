@@ -1,0 +1,143 @@
+{
+    "name": "Natural History. vol 105, no. 6. (1996)",
+    "machine_name": "natural_history_vol_105_no_6_1996",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1996",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2111564",
+        "legacy_id": "4656",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Natural History. vol 105, no. 6. (1996) p 44-47",
+            "machine_name": "natural_history_vol_105_no_6_1996_p_44_47",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "fagus_sylvatica_tortuosa",
+                "type": "variety",
+                "archival_data": [
+                    "1545558"
+                ]
+            },
+            "volume": null,
+            "page": "p 44-47",
+            "year": "1996",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": true,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1721104",
+                "legacy_id": "15073",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Natural History. vol 105, no. 6. (1996) p 58",
+            "machine_name": "natural_history_vol_105_no_6_1996_p_58",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "mitchella_repens",
+                "type": "species",
+                "archival_data": [
+                    "1420869"
+                ]
+            },
+            "volume": null,
+            "page": "p 58",
+            "year": "1996",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1807241",
+                "legacy_id": "113754",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Natural History. vol 105, no. 6. (1996) p 56-57",
+            "machine_name": "natural_history_vol_105_no_6_1996_p_56_57",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "picea_mariana",
+                "type": "species",
+                "archival_data": [
+                    "1424530"
+                ]
+            },
+            "volume": null,
+            "page": "p 56-57",
+            "year": "1996",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1815625",
+                "legacy_id": "121394",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        }
+    ]
+}

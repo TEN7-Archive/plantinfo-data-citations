@@ -1,0 +1,102 @@
+{
+    "name": "Magnolia, Journal of the Magnolia Soc. vol 30, no. 1. (1995)",
+    "machine_name": "magnolia_journal_of_the_magnolia_soc_vol_30_no_1_1995",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1995",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2112317",
+        "legacy_id": "4373",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Magnolia, Journal of the Magnolia Soc. vol 30, no. 1. (1995) p 5",
+            "machine_name": "magnolia_journal_of_the_magnolia_soc_vol_30_no_1_1995_p_5",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "magnolia_dawsoniana_clarke",
+                "type": "variety",
+                "archival_data": [
+                    "1477564"
+                ]
+            },
+            "volume": null,
+            "page": "p 5",
+            "year": "1995",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1736130",
+                "legacy_id": "30583",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Magnolia, Journal of the Magnolia Soc. vol 30, no. 1. (1995) p cover",
+            "machine_name": "magnolia_journal_of_the_magnolia_soc_vol_30_no_1_1995_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "magnolia_sprengeri_diva",
+                "type": "variety",
+                "archival_data": [
+                    "1477838"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1995",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1736459",
+                "legacy_id": "30665",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        }
+    ]
+}

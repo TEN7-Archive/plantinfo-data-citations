@@ -1,0 +1,143 @@
+{
+    "name": "HortWest. vol 17, no. 3. (i.e., no. 4) (1998)",
+    "machine_name": "hortwest_vol_17_no_3_i_e_no_4_1998",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1998",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114702",
+        "legacy_id": "6334",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "HortWest. vol 17, no. 3. (i.e., no. 4) (1998) p 20 (Adv.)",
+            "machine_name": "hortwest_vol_17_no_3_i_e_no_4_1998_p_20_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_charles_albanel",
+                "type": "variety",
+                "archival_data": [
+                    "1490966"
+                ]
+            },
+            "volume": null,
+            "page": "p 20 (Adv.)",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1836977",
+                "legacy_id": "146811",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "HortWest. vol 17, no. 3. (i.e., no. 4) (1998) p backcover (Adv.)",
+            "machine_name": "hortwest_vol_17_no_3_i_e_no_4_1998_p_backcover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_bloom_rite_series",
+                "type": "variety",
+                "archival_data": [
+                    "1533693"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover (Adv.)",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1836978",
+                "legacy_id": "146812",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "HortWest. vol 17, no. 3. (i.e., no. 4) (1998) p 32",
+            "machine_name": "hortwest_vol_17_no_3_i_e_no_4_1998_p_32",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cornus_cultivars_eddie_s_white_wonder",
+                "type": "variety",
+                "archival_data": [
+                    "1470752"
+                ]
+            },
+            "volume": null,
+            "page": "p 32",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1837190",
+                "legacy_id": "144262",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        }
+    ]
+}

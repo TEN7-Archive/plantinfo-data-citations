@@ -1,0 +1,102 @@
+{
+    "name": "Horticulture Week. Suppl.: Plant Suppliers Guide 2008. (2007)",
+    "machine_name": "horticulture_week_suppl_plant_suppliers_guide_2008_2007",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2007",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2120238",
+        "legacy_id": "85829",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Horticulture Week. Suppl.: Plant Suppliers Guide 2008. (2007) p 2 (Adv.)",
+            "machine_name": "horticulture_week_suppl_plant_suppliers_guide_2008_2007_p_2_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "escallonia_cultivars_red_carpet",
+                "type": "variety",
+                "archival_data": [
+                    "1631821"
+                ]
+            },
+            "volume": null,
+            "page": "p 2 (Adv.)",
+            "year": "2007",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1952851",
+                "legacy_id": "351912",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "Horticulture Week. Suppl.: Plant Suppliers Guide 2008. (2007) p 2 (Adv.)",
+            "machine_name": "horticulture_week_suppl_plant_suppliers_guide_2008_2007_p_2_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "weigela_cultivars_little_red_robin",
+                "type": "variety",
+                "archival_data": [
+                    "1631822"
+                ]
+            },
+            "volume": null,
+            "page": "p 2 (Adv.)",
+            "year": "2007",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1952852",
+                "legacy_id": "351913",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        }
+    ]
+}

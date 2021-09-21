@@ -1,0 +1,61 @@
+{
+    "name": "Nature. vol 407, no. 6804. (2000)",
+    "machine_name": "nature_vol_407_no_6804_2000",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2000",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2118680",
+        "legacy_id": "52449",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Nature. vol 407, no. 6804. (2000) p 581",
+            "machine_name": "nature_vol_407_no_6804_2000_p_581",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ipomoea_nil",
+                "type": "species",
+                "archival_data": [
+                    "1416908"
+                ]
+            },
+            "volume": null,
+            "page": "p 581",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1915459",
+                "legacy_id": "267470",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        }
+    ]
+}

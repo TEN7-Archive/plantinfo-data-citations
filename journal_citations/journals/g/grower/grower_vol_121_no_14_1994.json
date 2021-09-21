@@ -1,0 +1,102 @@
+{
+    "name": "Grower. vol 121, no. 14. (1994)",
+    "machine_name": "grower_vol_121_no_14_1994",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1994",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2112580",
+        "legacy_id": "3556",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grower. vol 121, no. 14. (1994) p 34",
+            "machine_name": "grower_vol_121_no_14_1994_p_34",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "primula_auricula_lilian_harvey",
+                "type": "variety",
+                "archival_data": [
+                    "1487510"
+                ]
+            },
+            "volume": null,
+            "page": "p 34",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1742333",
+                "legacy_id": "40069",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483154438"
+            }
+        },
+        {
+            "name": "Grower. vol 121, no. 14. (1994) p 34",
+            "machine_name": "grower_vol_121_no_14_1994_p_34",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "primula_cultivars_miss_indigo",
+                "type": "variety",
+                "archival_data": [
+                    "1487516"
+                ]
+            },
+            "volume": null,
+            "page": "p 34",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1742342",
+                "legacy_id": "40078",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483154438"
+            }
+        }
+    ]
+}

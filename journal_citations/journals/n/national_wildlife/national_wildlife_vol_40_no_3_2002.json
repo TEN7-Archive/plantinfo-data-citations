@@ -1,0 +1,102 @@
+{
+    "name": "National Wildlife. vol 40, no. 3. (2002)",
+    "machine_name": "national_wildlife_vol_40_no_3_2002",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2002",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2117266",
+        "legacy_id": "35330",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "National Wildlife. vol 40, no. 3. (2002) p 12",
+            "machine_name": "national_wildlife_vol_40_no_3_2002_p_12",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "schinus_terebinthifolius",
+                "type": "species",
+                "archival_data": [
+                    "1432577"
+                ]
+            },
+            "volume": null,
+            "page": "p 12",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1886599",
+                "legacy_id": "229232",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "National Wildlife. vol 40, no. 3. (2002) p 66",
+            "machine_name": "national_wildlife_vol_40_no_3_2002_p_66",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "amorphophallus_titanum",
+                "type": "species",
+                "archival_data": [
+                    "1398320"
+                ]
+            },
+            "volume": null,
+            "page": "p 66",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1886600",
+                "legacy_id": "229233",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        }
+    ]
+}

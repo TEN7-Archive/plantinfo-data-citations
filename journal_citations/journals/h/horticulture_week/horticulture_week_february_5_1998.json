@@ -1,0 +1,61 @@
+{
+    "name": "Horticulture Week. February 5, 1998.",
+    "machine_name": "horticulture_week_february_5_1998",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1683981",
+        "legacy_id": "50915",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Horticulture Week. February 5, 1998. p 28 (Adv.)",
+            "machine_name": "horticulture_week_february_5_1998_p_28_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "tagetes_cultivars_discovery_series",
+                "type": "variety",
+                "archival_data": [
+                    "1495673"
+                ]
+            },
+            "volume": null,
+            "page": "p 28 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1915682",
+                "legacy_id": "264801",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        }
+    ]
+}

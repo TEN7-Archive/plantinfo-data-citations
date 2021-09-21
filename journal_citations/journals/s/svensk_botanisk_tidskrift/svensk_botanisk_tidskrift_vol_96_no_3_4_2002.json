@@ -1,0 +1,389 @@
+{
+    "name": "Svensk Botanisk Tidskrift. vol 96, no. 3-4. (2002)",
+    "machine_name": "svensk_botanisk_tidskrift_vol_96_no_3_4_2002",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2002",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2117697",
+        "legacy_id": "39270",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Svensk Botanisk Tidskrift. vol 96, no. 3-4. (2002) p 178, Pl. 1.",
+            "machine_name": "svensk_botanisk_tidskrift_vol_96_no_3_4_2002_p_178_pl_1",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pinus_sylvestris",
+                "type": "species",
+                "archival_data": [
+                    "1425620"
+                ]
+            },
+            "volume": null,
+            "page": "p 178, Pl. 1.",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1895501",
+                "legacy_id": "235630",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Svensk Botanisk Tidskrift. vol 96, no. 3-4. (2002) p 179, Pl. 2;182, Pl. 3.",
+            "machine_name": "svensk_botanisk_tidskrift_vol_96_no_3_4_2002_p_179_pl_2_182_pl_3",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "picea_abies",
+                "type": "species",
+                "archival_data": [
+                    "1424518"
+                ]
+            },
+            "volume": null,
+            "page": "p 179, Pl. 2;182, Pl. 3.",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1895502",
+                "legacy_id": "235631",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Svensk Botanisk Tidskrift. vol 96, no. 3-4. (2002) p 183, Pl. 4.",
+            "machine_name": "svensk_botanisk_tidskrift_vol_96_no_3_4_2002_p_183_pl_4",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "betula_pubescens_czerepanovii",
+                "type": "variety",
+                "archival_data": [
+                    "1574469"
+                ]
+            },
+            "volume": null,
+            "page": "p 183, Pl. 4.",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1895503",
+                "legacy_id": "235632",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Svensk Botanisk Tidskrift. vol 96, no. 3-4. (2002) p 186",
+            "machine_name": "svensk_botanisk_tidskrift_vol_96_no_3_4_2002_p_186",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "kitaibela_vitifolia",
+                "type": "species",
+                "archival_data": [
+                    "1443179"
+                ]
+            },
+            "volume": null,
+            "page": "p 186",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1895504",
+                "legacy_id": "235633",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Svensk Botanisk Tidskrift. vol 96, no. 3-4. (2002) p 187",
+            "machine_name": "svensk_botanisk_tidskrift_vol_96_no_3_4_2002_p_187",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "fuchsia_hybrida",
+                "type": "species",
+                "archival_data": [
+                    "1414536"
+                ]
+            },
+            "volume": null,
+            "page": "p 187",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1895505",
+                "legacy_id": "235634",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Svensk Botanisk Tidskrift. vol 96, no. 3-4. (2002) p 190",
+            "machine_name": "svensk_botanisk_tidskrift_vol_96_no_3_4_2002_p_190",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "boykinia_richardsonii",
+                "type": "species",
+                "archival_data": [
+                    "1402682"
+                ]
+            },
+            "volume": null,
+            "page": "p 190",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1895506",
+                "legacy_id": "235635",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Svensk Botanisk Tidskrift. vol 96, no. 3-4. (2002) p 191",
+            "machine_name": "svensk_botanisk_tidskrift_vol_96_no_3_4_2002_p_191",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "mimosa_pudica",
+                "type": "species",
+                "archival_data": [
+                    "1420498"
+                ]
+            },
+            "volume": null,
+            "page": "p 191",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1895507",
+                "legacy_id": "235636",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Svensk Botanisk Tidskrift. vol 96, no. 3-4. (2002) p 191",
+            "machine_name": "svensk_botanisk_tidskrift_vol_96_no_3_4_2002_p_191",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "colutea_media",
+                "type": "species",
+                "archival_data": [
+                    "1403784"
+                ]
+            },
+            "volume": null,
+            "page": "p 191",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1895508",
+                "legacy_id": "235637",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Svensk Botanisk Tidskrift. vol 96, no. 3-4. (2002) p 191",
+            "machine_name": "svensk_botanisk_tidskrift_vol_96_no_3_4_2002_p_191",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "limnanthes_douglasii",
+                "type": "species",
+                "archival_data": [
+                    "1417751"
+                ]
+            },
+            "volume": null,
+            "page": "p 191",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1895509",
+                "legacy_id": "235638",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        }
+    ]
+}

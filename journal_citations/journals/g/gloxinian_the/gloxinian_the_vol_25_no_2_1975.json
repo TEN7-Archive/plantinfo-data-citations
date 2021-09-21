@@ -1,0 +1,61 @@
+{
+    "name": "Gloxinian, The. vol 25, no. 2. (1975)",
+    "machine_name": "gloxinian_the_vol_25_no_2_1975",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1975",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": "7",
+    "description": null,
+    "archival_data": {
+        "id": "2578866",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1572351988"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Gloxinian, The. vol 25, no. 2. (1975)  p cover",
+            "machine_name": "gloxinian_the_vol_25_no_2_1975_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "sinningia_guttata",
+                "type": "species",
+                "archival_data": [
+                    "1429990"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2578871",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1572352056"
+            }
+        }
+    ]
+}

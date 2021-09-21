@@ -1,0 +1,102 @@
+{
+    "name": "P.H.M.-Revue Horticole. no. 474. (2005)",
+    "machine_name": "p_h_m_revue_horticole_no_474_2005",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2005",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2121652",
+        "legacy_id": "70210",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "P.H.M.-Revue Horticole. no. 474. (2005) p 25",
+            "machine_name": "p_h_m_revue_horticole_no_474_2005_p_25",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "malus_a_cultivars_gloster_69",
+                "type": "variety",
+                "archival_data": [
+                    "1478455"
+                ]
+            },
+            "volume": null,
+            "page": "p 25",
+            "year": "2005",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1992106",
+                "legacy_id": "313090",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "P.H.M.-Revue Horticole. no. 474. (2005) p 26",
+            "machine_name": "p_h_m_revue_horticole_no_474_2005_p_26",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "geranium_riversleaianum_mavis_simpson",
+                "type": "variety",
+                "archival_data": [
+                    "1476164"
+                ]
+            },
+            "volume": null,
+            "page": "p 26",
+            "year": "2005",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1992107",
+                "legacy_id": "313091",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        }
+    ]
+}

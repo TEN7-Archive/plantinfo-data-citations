@@ -1,0 +1,61 @@
+{
+    "name": "Australian Horticulture. vol 91, no. 11. (19993)",
+    "machine_name": "australian_horticulture_vol_91_no_11_19993",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "19993",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2117638",
+        "legacy_id": "1260",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Australian Horticulture. vol 91, no. 11. (19993) p backcover (Adv.)",
+            "machine_name": "australian_horticulture_vol_91_no_11_19993_p_backcover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "acer_palmatum_sekimori",
+                "type": "variety",
+                "archival_data": [
+                    "1498110"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover (Adv.)",
+            "year": "19993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1893705",
+                "legacy_id": "238077",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        }
+    ]
+}

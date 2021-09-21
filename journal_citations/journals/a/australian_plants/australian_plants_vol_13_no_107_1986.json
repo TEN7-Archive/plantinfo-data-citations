@@ -1,0 +1,635 @@
+{
+    "name": "Australian Plants. vol 13, no. 107. (1986)",
+    "machine_name": "australian_plants_vol_13_no_107_1986",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1986",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2110607",
+        "legacy_id": "1344",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Australian Plants. vol 13, no. 107. (1986) p 308-09",
+            "machine_name": "australian_plants_vol_13_no_107_1986_p_308_09",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "clianthus_formosus_marginatus",
+                "type": "variety",
+                "archival_data": [
+                    "1470385"
+                ]
+            },
+            "volume": null,
+            "page": "p 308-09",
+            "year": "1986",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1710108",
+                "legacy_id": "8275",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 13, no. 107. (1986) p 316",
+            "machine_name": "australian_plants_vol_13_no_107_1986_p_316",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "eucalyptus_blakelyi",
+                "type": "species",
+                "archival_data": [
+                    "1413305"
+                ]
+            },
+            "volume": null,
+            "page": "p 316",
+            "year": "1986",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1792991",
+                "legacy_id": "94177",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 13, no. 107. (1986) p 288",
+            "machine_name": "australian_plants_vol_13_no_107_1986_p_288",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "grevillea_pteridifolia",
+                "type": "species",
+                "archival_data": [
+                    "1413863"
+                ]
+            },
+            "volume": null,
+            "page": "p 288",
+            "year": "1986",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1796361",
+                "legacy_id": "100338",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 13, no. 107. (1986) p 292",
+            "machine_name": "australian_plants_vol_13_no_107_1986_p_292",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "leptospermum_flavescens",
+                "type": "species",
+                "archival_data": [
+                    "1416253"
+                ]
+            },
+            "volume": null,
+            "page": "p 292",
+            "year": "1986",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1800752",
+                "legacy_id": "108111",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 13, no. 107. (1986) p 292",
+            "machine_name": "australian_plants_vol_13_no_107_1986_p_292",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "leptospermum_scoparium",
+                "type": "species",
+                "archival_data": [
+                    "1416554"
+                ]
+            },
+            "volume": null,
+            "page": "p 292",
+            "year": "1986",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1801021",
+                "legacy_id": "108138",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 13, no. 107. (1986) p 328",
+            "machine_name": "australian_plants_vol_13_no_107_1986_p_328",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pultenaea_linophylla",
+                "type": "species",
+                "archival_data": [
+                    "1426853"
+                ]
+            },
+            "volume": null,
+            "page": "p 328",
+            "year": "1986",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1816467",
+                "legacy_id": "125570",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 13, no. 107. (1986) p 329",
+            "machine_name": "australian_plants_vol_13_no_107_1986_p_329",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pultenaea_myrtoides",
+                "type": "species",
+                "archival_data": [
+                    "1426857"
+                ]
+            },
+            "volume": null,
+            "page": "p 329",
+            "year": "1986",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1816472",
+                "legacy_id": "125575",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 13, no. 107. (1986) p 328",
+            "machine_name": "australian_plants_vol_13_no_107_1986_p_328",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pultenaea_pedunculata",
+                "type": "species",
+                "archival_data": [
+                    "1426862"
+                ]
+            },
+            "volume": null,
+            "page": "p 328",
+            "year": "1986",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1816478",
+                "legacy_id": "125581",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 13, no. 107. (1986) p backcover",
+            "machine_name": "australian_plants_vol_13_no_107_1986_p_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pithecellobium_pruinosum",
+                "type": "species",
+                "archival_data": [
+                    "1425980"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover",
+            "year": "1986",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "1819157",
+                "legacy_id": "122246",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 13, no. 107. (1986) p 301",
+            "machine_name": "australian_plants_vol_13_no_107_1986_p_301",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "wodyetia_bifurcata",
+                "type": "species",
+                "archival_data": [
+                    "1437994"
+                ]
+            },
+            "volume": null,
+            "page": "p 301",
+            "year": "1986",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1832492",
+                "legacy_id": "141821",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 13, no. 107. (1986) p 289",
+            "machine_name": "australian_plants_vol_13_no_107_1986_p_289",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "melaleuca_nervosa",
+                "type": "species",
+                "archival_data": [
+                    "1418988"
+                ]
+            },
+            "volume": null,
+            "page": "p 289",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2357131",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1532692323"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 13, no. 107. (1986) p 305",
+            "machine_name": "australian_plants_vol_13_no_107_1986_p_305",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "syzygium_luehmannii",
+                "type": "species",
+                "archival_data": [
+                    "1428887"
+                ]
+            },
+            "volume": null,
+            "page": "p 305",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2357136",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1532692323"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 13, no. 107. (1986) p 305",
+            "machine_name": "australian_plants_vol_13_no_107_1986_p_305",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "syzygium_moorei",
+                "type": "species",
+                "archival_data": [
+                    "1428890"
+                ]
+            },
+            "volume": null,
+            "page": "p 305",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2357141",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1532692323"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 13, no. 107. (1986) p 325",
+            "machine_name": "australian_plants_vol_13_no_107_1986_p_325",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pultenaea_dasyphylla",
+                "type": "species",
+                "archival_data": [
+                    "1426839"
+                ]
+            },
+            "volume": null,
+            "page": "p 325",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2357146",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1532692323"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 13, no. 107. (1986) p 325",
+            "machine_name": "australian_plants_vol_13_no_107_1986_p_325",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pultenaea_lycopodioides",
+                "type": "species",
+                "archival_data": [
+                    "1426854"
+                ]
+            },
+            "volume": null,
+            "page": "p 325",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2357151",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1532692323"
+            }
+        }
+    ]
+}

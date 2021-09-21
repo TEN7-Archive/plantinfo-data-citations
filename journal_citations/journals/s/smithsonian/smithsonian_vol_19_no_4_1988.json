@@ -1,0 +1,61 @@
+{
+    "name": "Smithsonian. vol 19, no. 4. (1988)",
+    "machine_name": "smithsonian_vol_19_no_4_1988",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1988",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113646",
+        "legacy_id": "5554",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Smithsonian. vol 19, no. 4. (1988) p 85",
+            "machine_name": "smithsonian_vol_19_no_4_1988_p_85",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "calypso_bulbosa",
+                "type": "species",
+                "archival_data": [
+                    "1399659"
+                ]
+            },
+            "volume": null,
+            "page": "p 85",
+            "year": "1988",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1770071",
+                "legacy_id": "78567",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        }
+    ]
+}

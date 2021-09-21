@@ -1,0 +1,184 @@
+{
+    "name": "Nursery Retailer. vol 51, no. 6. (2006)",
+    "machine_name": "nursery_retailer_vol_51_no_6_2006",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2006",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2118972",
+        "legacy_id": "77229",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Nursery Retailer. vol 51, no. 6. (2006) p 43 (Adv.)",
+            "machine_name": "nursery_retailer_vol_51_no_6_2006_p_43_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "sambucus_cultivars_lace_series",
+                "type": "variety",
+                "archival_data": [
+                    "1561879"
+                ]
+            },
+            "volume": null,
+            "page": "p 43 (Adv.)",
+            "year": "2006",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1920167",
+                "legacy_id": "331692",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "Nursery Retailer. vol 51, no. 6. (2006) p 49 (Adv.)",
+            "machine_name": "nursery_retailer_vol_51_no_6_2006_p_49_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "leucanthemum_superbum_broadway_lights",
+                "type": "variety",
+                "archival_data": [
+                    "1615755"
+                ]
+            },
+            "volume": null,
+            "page": "p 49 (Adv.)",
+            "year": "2006",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1920168",
+                "legacy_id": "331693",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "Nursery Retailer. vol 51, no. 6. (2006) p 77 (Adv.)",
+            "machine_name": "nursery_retailer_vol_51_no_6_2006_p_77_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hydrangea_macrophylla_forever_ever_series",
+                "type": "variety",
+                "archival_data": [
+                    "1614014"
+                ]
+            },
+            "volume": null,
+            "page": "p 77 (Adv.)",
+            "year": "2006",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1920169",
+                "legacy_id": "331694",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "Nursery Retailer. vol 51, no. 6. (2006) p backcover (Adv.)",
+            "machine_name": "nursery_retailer_vol_51_no_6_2006_p_backcover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rhododendron_cultivars_encore_series",
+                "type": "variety",
+                "archival_data": [
+                    "1599263"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover (Adv.)",
+            "year": "2006",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1920170",
+                "legacy_id": "331695",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        }
+    ]
+}

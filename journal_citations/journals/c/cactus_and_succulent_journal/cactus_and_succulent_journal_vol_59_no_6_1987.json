@@ -1,0 +1,143 @@
+{
+    "name": "Cactus and Succulent Journal. vol 59, no. 6. (1987)",
+    "machine_name": "cactus_and_succulent_journal_vol_59_no_6_1987",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1987",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2111163",
+        "legacy_id": "1838",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Cactus and Succulent Journal. vol 59, no. 6. (1987) p 236, Pl. 1-2.",
+            "machine_name": "cactus_and_succulent_journal_vol_59_no_6_1987_p_236_pl_1_2",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "dudleya_nubigena_nubigena",
+                "type": "variety",
+                "archival_data": [
+                    "1468840"
+                ]
+            },
+            "volume": null,
+            "page": "p 236, Pl. 1-2.",
+            "year": "1987",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1715083",
+                "legacy_id": "13512",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 59, no. 6. (1987) p cover",
+            "machine_name": "cactus_and_succulent_journal_vol_59_no_6_1987_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "monadenium_guentheri",
+                "type": "species",
+                "archival_data": [
+                    "1421200"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1987",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1807571",
+                "legacy_id": "113840",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 59, no. 6. (1987) p 259, Pl. 7.",
+            "machine_name": "cactus_and_succulent_journal_vol_59_no_6_1987_p_259_pl_7",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "opuntia_cymochila",
+                "type": "species",
+                "archival_data": [
+                    "1421783"
+                ]
+            },
+            "volume": null,
+            "page": "p 259, Pl. 7.",
+            "year": "1987",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1814272",
+                "legacy_id": "116951",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        }
+    ]
+}

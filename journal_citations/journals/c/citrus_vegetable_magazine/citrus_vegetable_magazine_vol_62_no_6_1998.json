@@ -1,0 +1,102 @@
+{
+    "name": "Citrus & Vegetable Magazine. vol 62, no. 6. (1998)",
+    "machine_name": "citrus_vegetable_magazine_vol_62_no_6_1998",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1998",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2117150",
+        "legacy_id": "28971",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Citrus & Vegetable Magazine. vol 62, no. 6. (1998) p 42",
+            "machine_name": "citrus_vegetable_magazine_vol_62_no_6_1998_p_42",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "fragaria_ananassa_sweet_charlie",
+                "type": "variety",
+                "archival_data": [
+                    "1474014"
+                ]
+            },
+            "volume": null,
+            "page": "p 42",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1884640",
+                "legacy_id": "220076",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Citrus & Vegetable Magazine. vol 62, no. 6. (1998) p 57 (Adv.)",
+            "machine_name": "citrus_vegetable_magazine_vol_62_no_6_1998_p_57_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "citrullus_lanatus_mardi_gras",
+                "type": "variety",
+                "archival_data": [
+                    "1468874"
+                ]
+            },
+            "volume": null,
+            "page": "p 57 (Adv.)",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": true,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1884641",
+                "legacy_id": "220077",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        }
+    ]
+}

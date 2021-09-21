@@ -1,0 +1,61 @@
+{
+    "name": "Lilacs. vol 30, no. 1. (2001)",
+    "machine_name": "lilacs_vol_30_no_1_2001",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2001",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2116693",
+        "legacy_id": "20049",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Lilacs. vol 30, no. 1. (2001) p cover",
+            "machine_name": "lilacs_vol_30_no_1_2001_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "syringa_vulgaris_zhemchuzkina_pearl_of_minsk",
+                "type": "variety",
+                "archival_data": [
+                    "1663149"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1876267",
+                "legacy_id": "204530",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "name": "Grower. January 27, 2005.",
+    "machine_name": "grower_january_27_2005",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1687124",
+        "legacy_id": "63632",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grower. January 27, 2005. p 9",
+            "machine_name": "grower_january_27_2005_p_9",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "nemesia_cultivars_aromatica_series",
+                "type": "variety",
+                "archival_data": [
+                    "1573418"
+                ]
+            },
+            "volume": null,
+            "page": "p 9",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1961514",
+                "legacy_id": "294970",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        },
+        {
+            "name": "Grower. January 27, 2005. p 18",
+            "machine_name": "grower_january_27_2005_p_18",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "viola_cultivars_sorbet_series",
+                "type": "variety",
+                "archival_data": [
+                    "1499440"
+                ]
+            },
+            "volume": null,
+            "page": "p 18",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1961516",
+                "legacy_id": "294972",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        }
+    ]
+}

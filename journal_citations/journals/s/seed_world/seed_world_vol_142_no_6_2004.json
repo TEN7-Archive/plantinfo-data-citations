@@ -1,0 +1,61 @@
+{
+    "name": "Seed World. vol 142, no. 6. (2004)",
+    "machine_name": "seed_world_vol_142_no_6_2004",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2004",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2119550",
+        "legacy_id": "58758",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Seed World. vol 142, no. 6. (2004) p 23 (Adv.)",
+            "machine_name": "seed_world_vol_142_no_6_2004_p_23_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cucurbita_s_cultivars_bonbon",
+                "type": "variety",
+                "archival_data": [
+                    "1587355"
+                ]
+            },
+            "volume": null,
+            "page": "p 23 (Adv.)",
+            "year": "2004",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": true,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1934381",
+                "legacy_id": "279447",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        }
+    ]
+}

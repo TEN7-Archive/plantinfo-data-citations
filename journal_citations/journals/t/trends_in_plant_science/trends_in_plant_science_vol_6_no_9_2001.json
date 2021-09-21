@@ -1,0 +1,102 @@
+{
+    "name": "Trends in Plant Science. vol 6, no. 9. (2001)",
+    "machine_name": "trends_in_plant_science_vol_6_no_9_2001",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2001",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2117067",
+        "legacy_id": "29889",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Trends in Plant Science. vol 6, no. 9. (2001) p cover;435, Pl. 3.",
+            "machine_name": "trends_in_plant_science_vol_6_no_9_2001_p_cover_435_pl_3",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "craterostigma_pumilum",
+                "type": "species",
+                "archival_data": [
+                    "1407558"
+                ]
+            },
+            "volume": null,
+            "page": "p cover;435, Pl. 3.",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1883116",
+                "legacy_id": "221530",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Trends in Plant Science. vol 6, no. 9. (2001) p 408, Pl. 3.",
+            "machine_name": "trends_in_plant_science_vol_6_no_9_2001_p_408_pl_3",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "coffea_arabica",
+                "type": "species",
+                "archival_data": [
+                    "1453613"
+                ]
+            },
+            "volume": null,
+            "page": "p 408, Pl. 3.",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": true,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1883117",
+                "legacy_id": "221531",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        }
+    ]
+}

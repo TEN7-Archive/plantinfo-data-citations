@@ -1,0 +1,102 @@
+{
+    "name": "Canadian Journal of Botany. vol 83, no. 1. (2005)",
+    "machine_name": "canadian_journal_of_botany_vol_83_no_1_2005",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2005",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2120708",
+        "legacy_id": "64139",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Canadian Journal of Botany. vol 83, no. 1. (2005) p 118, Pl. 2a-b",
+            "machine_name": "canadian_journal_of_botany_vol_83_no_1_2005_p_118_pl_2a_b",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "salicornia_rubra",
+                "type": "species",
+                "archival_data": [
+                    "1447503"
+                ]
+            },
+            "volume": null,
+            "page": "p 118, Pl. 2a-b",
+            "year": "2005",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1965594",
+                "legacy_id": "296410",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        },
+        {
+            "name": "Canadian Journal of Botany. vol 83, no. 1. (2005) p 119, Pl. 3a-b",
+            "machine_name": "canadian_journal_of_botany_vol_83_no_1_2005_p_119_pl_3a_b",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "salicornia_perennis",
+                "type": "species",
+                "archival_data": [
+                    "1447504"
+                ]
+            },
+            "volume": null,
+            "page": "p 119, Pl. 3a-b",
+            "year": "2005",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1965595",
+                "legacy_id": "296411",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        }
+    ]
+}

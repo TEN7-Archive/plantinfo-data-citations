@@ -1,0 +1,102 @@
+{
+    "name": "Cactus and Succulent Journal. vol 60, no. 3. (1988)",
+    "machine_name": "cactus_and_succulent_journal_vol_60_no_3_1988",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1988",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2111198",
+        "legacy_id": "1841",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Cactus and Succulent Journal. vol 60, no. 3. (1988) p cover",
+            "machine_name": "cactus_and_succulent_journal_vol_60_no_3_1988_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "echinocereus_pectinatus_rubispinus",
+                "type": "variety",
+                "archival_data": [
+                    "1474270"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1988",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1715413",
+                "legacy_id": "13593",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 60, no. 3. (1988) p 109, Pl. 1-2.",
+            "machine_name": "cactus_and_succulent_journal_vol_60_no_3_1988_p_109_pl_1_2",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "myrtillocactus_cochal",
+                "type": "species",
+                "archival_data": [
+                    "1416400"
+                ]
+            },
+            "volume": null,
+            "page": "p 109, Pl. 1-2.",
+            "year": "1988",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1805364",
+                "legacy_id": "114692",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        }
+    ]
+}

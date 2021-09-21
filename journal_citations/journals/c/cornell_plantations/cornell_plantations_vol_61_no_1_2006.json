@@ -1,0 +1,102 @@
+{
+    "name": "Cornell Plantations. vol 61, no. 1. (2006)",
+    "machine_name": "cornell_plantations_vol_61_no_1_2006",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2006",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2119638",
+        "legacy_id": "70689",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Cornell Plantations. vol 61, no. 1. (2006) p 1-3",
+            "machine_name": "cornell_plantations_vol_61_no_1_2006_p_1_3",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "franklinia_alatamaha",
+                "type": "species",
+                "archival_data": [
+                    "1414081"
+                ]
+            },
+            "volume": null,
+            "page": "p 1-3",
+            "year": "2006",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1936351",
+                "legacy_id": "314613",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "Cornell Plantations. vol 61, no. 1. (2006) p 16-18;20-21",
+            "machine_name": "cornell_plantations_vol_61_no_1_2006_p_16_18_20_21",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "juglans_cinerea",
+                "type": "species",
+                "archival_data": [
+                    "1418748"
+                ]
+            },
+            "volume": null,
+            "page": "p 16-18;20-21",
+            "year": "2006",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": true,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": true,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1936352",
+                "legacy_id": "314615",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "name": "American Peony Society, Bulletin. no. 314. (2000)",
+    "machine_name": "american_peony_society_bulletin_no_314_2000",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2000",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2116234",
+        "legacy_id": "11769",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "American Peony Society, Bulletin. no. 314. (2000) p cover",
+            "machine_name": "american_peony_society_bulletin_no_314_2000_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "paeonia_t_cultivars_argonaut",
+                "type": "variety",
+                "archival_data": [
+                    "1551748"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1867355",
+                "legacy_id": "184230",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "American Peony Society, Bulletin. no. 314. (2000) p backcover",
+            "machine_name": "american_peony_society_bulletin_no_314_2000_p_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "paeonia_t_cultivars_bartzella",
+                "type": "variety",
+                "archival_data": [
+                    "1483984"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1867356",
+                "legacy_id": "184250",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        }
+    ]
+}

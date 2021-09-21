@@ -1,0 +1,143 @@
+{
+    "name": "Audubon. vol 95, no. 1. (1993)",
+    "machine_name": "audubon_vol_95_no_1_1993",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1993",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114594",
+        "legacy_id": "1222",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Audubon. vol 95, no. 1. (1993) p 75",
+            "machine_name": "audubon_vol_95_no_1_1993_p_75",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "thuja_occidentalis",
+                "type": "species",
+                "archival_data": [
+                    "1430811"
+                ]
+            },
+            "volume": null,
+            "page": "p 75",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1830944",
+                "legacy_id": "137282",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Audubon. vol 95, no. 1. (1993) p 63-65",
+            "machine_name": "audubon_vol_95_no_1_1993_p_63_65",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "tsuga_canadensis",
+                "type": "species",
+                "archival_data": [
+                    "1427535"
+                ]
+            },
+            "volume": null,
+            "page": "p 63-65",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": true,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1832972",
+                "legacy_id": "139111",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Audubon. vol 95, no. 1. (1993) p 62|72-73",
+            "machine_name": "audubon_vol_95_no_1_1993_p_62_72_73",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "taxodium_distichum",
+                "type": "species",
+                "archival_data": [
+                    "1429331"
+                ]
+            },
+            "volume": null,
+            "page": "p 62|72-73",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": true,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1833440",
+                "legacy_id": "136599",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        }
+    ]
+}

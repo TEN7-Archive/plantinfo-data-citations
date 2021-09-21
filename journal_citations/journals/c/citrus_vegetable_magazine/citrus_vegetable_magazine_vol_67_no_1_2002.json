@@ -1,0 +1,61 @@
+{
+    "name": "Citrus & Vegetable Magazine. vol 67, no. 1. (2002)",
+    "machine_name": "citrus_vegetable_magazine_vol_67_no_1_2002",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2002",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2117612",
+        "legacy_id": "43716",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Citrus & Vegetable Magazine. vol 67, no. 1. (2002) p 26",
+            "machine_name": "citrus_vegetable_magazine_vol_67_no_1_2002_p_26",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "capsicum_s_cultivars_conquest",
+                "type": "variety",
+                "archival_data": [
+                    "1565315"
+                ]
+            },
+            "volume": null,
+            "page": "p 26",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1892896",
+                "legacy_id": "243812",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        }
+    ]
+}

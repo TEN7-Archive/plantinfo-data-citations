@@ -1,0 +1,102 @@
+{
+    "name": "Flora International. no. 158. (2001)",
+    "machine_name": "flora_international_no_158_2001",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2001",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2116845",
+        "legacy_id": "20889",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Flora International. no. 158. (2001) p 46",
+            "machine_name": "flora_international_no_158_2001_p_46",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lilium_cultivars_child_of_magic",
+                "type": "variety",
+                "archival_data": [
+                    "1559443"
+                ]
+            },
+            "volume": null,
+            "page": "p 46",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1879179",
+                "legacy_id": "205830",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Flora International. no. 158. (2001) p 47",
+            "machine_name": "flora_international_no_158_2001_p_47",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_great_expectations",
+                "type": "variety",
+                "archival_data": [
+                    "1564864"
+                ]
+            },
+            "volume": null,
+            "page": "p 47",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1879180",
+                "legacy_id": "205831",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        }
+    ]
+}

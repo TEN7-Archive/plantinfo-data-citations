@@ -1,0 +1,102 @@
+{
+    "name": "American Forests. vol 98, no. 5-6. (1992)",
+    "machine_name": "american_forests_vol_98_no_5_6_1992",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1992",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114438",
+        "legacy_id": "228",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "American Forests. vol 98, no. 5-6. (1992) p 37",
+            "machine_name": "american_forests_vol_98_no_5_6_1992_p_37",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "quercus_alba",
+                "type": "species",
+                "archival_data": [
+                    "1427266"
+                ]
+            },
+            "volume": null,
+            "page": "p 37",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1817148",
+                "legacy_id": "125846",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "American Forests. vol 98, no. 5-6. (1992) p 38",
+            "machine_name": "american_forests_vol_98_no_5_6_1992_p_38",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pinus_jeffreyi",
+                "type": "species",
+                "archival_data": [
+                    "1425299"
+                ]
+            },
+            "volume": null,
+            "page": "p 38",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": true,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1817537",
+                "legacy_id": "121840",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        }
+    ]
+}

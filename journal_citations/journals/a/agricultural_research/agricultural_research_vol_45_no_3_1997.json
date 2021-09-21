@@ -1,0 +1,102 @@
+{
+    "name": "Agricultural Research. vol 45, no. 3. (1997)",
+    "machine_name": "agricultural_research_vol_45_no_3_1997",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1997",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2116291",
+        "legacy_id": "12131",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Agricultural Research. vol 45, no. 3. (1997) p cover;4-5 (see errata 45\/4)",
+            "machine_name": "agricultural_research_vol_45_no_3_1997_p_cover_4_5_see_errata_45_4",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "oryza_sativa_akita_komachi",
+                "type": "variety",
+                "archival_data": [
+                    "1552333"
+                ]
+            },
+            "volume": null,
+            "page": "p cover;4-5 (see errata 45\/4)",
+            "year": "1997",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1868294",
+                "legacy_id": "185350",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Agricultural Research. vol 45, no. 3. (1997) p 16",
+            "machine_name": "agricultural_research_vol_45_no_3_1997_p_16",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "asimina_triloba",
+                "type": "species",
+                "archival_data": [
+                    "1403020"
+                ]
+            },
+            "volume": null,
+            "page": "p 16",
+            "year": "1997",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1868295",
+                "legacy_id": "185370",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        }
+    ]
+}

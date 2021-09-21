@@ -1,0 +1,143 @@
+{
+    "name": "American Forests. vol 111, no. 1. (2005)",
+    "machine_name": "american_forests_vol_111_no_1_2005",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2005",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2120558",
+        "legacy_id": "65133",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "American Forests. vol 111, no. 1. (2005) p 44",
+            "machine_name": "american_forests_vol_111_no_1_2005_p_44",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "liquidambar_styraciflua",
+                "type": "species",
+                "archival_data": [
+                    "1418459"
+                ]
+            },
+            "volume": null,
+            "page": "p 44",
+            "year": "2005",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1961962",
+                "legacy_id": "298813",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        },
+        {
+            "name": "American Forests. vol 111, no. 1. (2005) p 46",
+            "machine_name": "american_forests_vol_111_no_1_2005_p_46",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ginkgo_biloba",
+                "type": "species",
+                "archival_data": [
+                    "1411935"
+                ]
+            },
+            "volume": null,
+            "page": "p 46",
+            "year": "2005",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1961963",
+                "legacy_id": "298814",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        },
+        {
+            "name": "American Forests. vol 111, no. 1. (2005) p 46",
+            "machine_name": "american_forests_vol_111_no_1_2005_p_46",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "metasequoia_glyptostroboides",
+                "type": "species",
+                "archival_data": [
+                    "1420066"
+                ]
+            },
+            "volume": null,
+            "page": "p 46",
+            "year": "2005",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1961964",
+                "legacy_id": "298815",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        }
+    ]
+}

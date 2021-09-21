@@ -1,0 +1,102 @@
+{
+    "name": "HortWest. vol 18, no. 10. (1999)",
+    "machine_name": "hortwest_vol_18_no_10_1999",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1999",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2115873",
+        "legacy_id": "7922",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "HortWest. vol 18, no. 10. (1999) p 7",
+            "machine_name": "hortwest_vol_18_no_10_1999_p_7",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "magnolia_insignis",
+                "type": "species",
+                "archival_data": [
+                    "1421184"
+                ]
+            },
+            "volume": null,
+            "page": "p 7",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1858981",
+                "legacy_id": "166374",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "HortWest. vol 18, no. 10. (1999) p 12 (Adv.)",
+            "machine_name": "hortwest_vol_18_no_10_1999_p_12_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rhododendron_cultivars_northern_hi_lights",
+                "type": "variety",
+                "archival_data": [
+                    "1490544"
+                ]
+            },
+            "volume": null,
+            "page": "p 12 (Adv.)",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1858982",
+                "legacy_id": "166375",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        }
+    ]
+}

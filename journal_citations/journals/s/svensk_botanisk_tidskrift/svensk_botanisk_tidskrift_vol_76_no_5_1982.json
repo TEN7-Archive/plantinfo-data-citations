@@ -1,0 +1,102 @@
+{
+    "name": "Svensk Botanisk Tidskrift. vol 76, no. 5. (1982)",
+    "machine_name": "svensk_botanisk_tidskrift_vol_76_no_5_1982",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1982",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2118544",
+        "legacy_id": "5687",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Svensk Botanisk Tidskrift. vol 76, no. 5. (1982) p cover",
+            "machine_name": "svensk_botanisk_tidskrift_vol_76_no_5_1982_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pteridium_aquilinum",
+                "type": "species",
+                "archival_data": [
+                    "1438226"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1982",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1913132",
+                "legacy_id": "272674",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Svensk Botanisk Tidskrift. vol 76, no. 5. (1982) p 276",
+            "machine_name": "svensk_botanisk_tidskrift_vol_76_no_5_1982_p_276",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "euphrasia_officinalis_fennica",
+                "type": "variety",
+                "archival_data": [
+                    "1587268"
+                ]
+            },
+            "volume": null,
+            "page": "p 276",
+            "year": "1982",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1913133",
+                "legacy_id": "272675",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        }
+    ]
+}

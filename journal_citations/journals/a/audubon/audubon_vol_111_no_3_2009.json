@@ -1,0 +1,102 @@
+{
+    "name": "Audubon. vol 111, no. 3. (2009)",
+    "machine_name": "audubon_vol_111_no_3_2009",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2009",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2121432",
+        "legacy_id": "104212",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Audubon. vol 111, no. 3. (2009) p 51",
+            "machine_name": "audubon_vol_111_no_3_2009_p_51",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "calypso_bulbosa",
+                "type": "species",
+                "archival_data": [
+                    "1399659"
+                ]
+            },
+            "volume": null,
+            "page": "p 51",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1984824",
+                "legacy_id": "399159",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Audubon. vol 111, no. 3. (2009) p 71",
+            "machine_name": "audubon_vol_111_no_3_2009_p_71",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hymenocallis_coronaria",
+                "type": "species",
+                "archival_data": [
+                    "1449132"
+                ]
+            },
+            "volume": null,
+            "page": "p 71",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1984825",
+                "legacy_id": "399160",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        }
+    ]
+}

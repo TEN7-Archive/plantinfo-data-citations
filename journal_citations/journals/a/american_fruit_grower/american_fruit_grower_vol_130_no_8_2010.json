@@ -1,0 +1,143 @@
+{
+    "name": "American Fruit Grower. vol 130, no. 8. (2010)",
+    "machine_name": "american_fruit_grower_vol_130_no_8_2010",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2010",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2122248",
+        "legacy_id": "110389",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "American Fruit Grower. vol 130, no. 8. (2010) p 37 (Adv.)",
+            "machine_name": "american_fruit_grower_vol_130_no_8_2010_p_37_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "malus_a_cultivars_honeycrisp",
+                "type": "variety",
+                "archival_data": [
+                    "1478493"
+                ]
+            },
+            "volume": null,
+            "page": "p 37 (Adv.)",
+            "year": "2010",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2002900",
+                "legacy_id": "419394",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "American Fruit Grower. vol 130, no. 8. (2010) p 37 (Adv.)",
+            "machine_name": "american_fruit_grower_vol_130_no_8_2010_p_37_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "malus_a_cultivars_aztec_fuji",
+                "type": "variety",
+                "archival_data": [
+                    "1633001"
+                ]
+            },
+            "volume": null,
+            "page": "p 37 (Adv.)",
+            "year": "2010",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2054168",
+                "legacy_id": "419392",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "American Fruit Grower. vol 130, no. 8. (2010) p 37 (Adv.)",
+            "machine_name": "american_fruit_grower_vol_130_no_8_2010_p_37_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "malus_a_cultivars_brookfield_gala",
+                "type": "variety",
+                "archival_data": [
+                    "1578831"
+                ]
+            },
+            "volume": null,
+            "page": "p 37 (Adv.)",
+            "year": "2010",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2054169",
+                "legacy_id": "419393",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        }
+    ]
+}

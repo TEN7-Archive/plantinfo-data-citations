@@ -1,0 +1,143 @@
+{
+    "name": "Gloxinian, The. vol 41, no. 3. (1991)",
+    "machine_name": "gloxinian_the_vol_41_no_3_1991",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1991",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2110714",
+        "legacy_id": "3064",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Gloxinian, The. vol 41, no. 3. (1991) p 16",
+            "machine_name": "gloxinian_the_vol_41_no_3_1991_p_16",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "primulina_dryas_hisako",
+                "type": "variety",
+                "archival_data": [
+                    "1468302"
+                ]
+            },
+            "volume": null,
+            "page": "p 16",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1711050",
+                "legacy_id": "7176",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Gloxinian, The. vol 41, no. 3. (1991) p cover",
+            "machine_name": "gloxinian_the_vol_41_no_3_1991_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "primulina_eburnea",
+                "type": "species",
+                "archival_data": [
+                    "1460400"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1777569",
+                "legacy_id": "81844",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Gloxinian, The. vol 41, no. 3. (1991) p 21",
+            "machine_name": "gloxinian_the_vol_41_no_3_1991_p_21",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "heppiella_ulmifolia",
+                "type": "species",
+                "archival_data": [
+                    "1412044"
+                ]
+            },
+            "volume": null,
+            "page": "p 21",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1799324",
+                "legacy_id": "102377",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        }
+    ]
+}

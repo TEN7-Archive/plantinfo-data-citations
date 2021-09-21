@@ -1,0 +1,102 @@
+{
+    "name": "Chrysanthemum, The. vol 57, no. 1. (2001)",
+    "machine_name": "chrysanthemum_the_vol_57_no_1_2001",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2001",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2116846",
+        "legacy_id": "20892",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Chrysanthemum, The. vol 57, no. 1. (2001) p cover",
+            "machine_name": "chrysanthemum_the_vol_57_no_1_2001_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "chrysanthemum_cultivars_lili_gallon",
+                "type": "variety",
+                "archival_data": [
+                    "1503898"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1879181",
+                "legacy_id": "205832",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Chrysanthemum, The. vol 57, no. 1. (2001) p backcover",
+            "machine_name": "chrysanthemum_the_vol_57_no_1_2001_p_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "chrysanthemum_cultivars_luxor",
+                "type": "variety",
+                "archival_data": [
+                    "1503917"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1879182",
+                "legacy_id": "205833",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        }
+    ]
+}

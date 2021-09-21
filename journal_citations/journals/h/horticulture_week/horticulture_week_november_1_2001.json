@@ -1,0 +1,799 @@
+{
+    "name": "Horticulture Week. November 1, 2001.",
+    "machine_name": "horticulture_week_november_1_2001",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1685388",
+        "legacy_id": "29449",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Horticulture Week. November 1, 2001. p 2 (Adv.)",
+            "machine_name": "horticulture_week_november_1_2001_p_2_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "petunia_cultivars_avalanche_series",
+                "type": "variety",
+                "archival_data": [
+                    "1555149"
+                ]
+            },
+            "volume": null,
+            "page": "p 2 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1881845",
+                "legacy_id": "220876",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Horticulture Week. November 1, 2001. p 8",
+            "machine_name": "horticulture_week_november_1_2001_p_8",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lupinus_cultivars_pink_cadillac",
+                "type": "variety",
+                "archival_data": [
+                    "1569171"
+                ]
+            },
+            "volume": null,
+            "page": "p 8",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1881846",
+                "legacy_id": "220877",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Horticulture Week. November 1, 2001. p 11",
+            "machine_name": "horticulture_week_november_1_2001_p_11",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "leucanthemum_superbum_snowcap",
+                "type": "variety",
+                "archival_data": [
+                    "1516259"
+                ]
+            },
+            "volume": null,
+            "page": "p 11",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1881847",
+                "legacy_id": "220878",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Horticulture Week. November 1, 2001. p 11",
+            "machine_name": "horticulture_week_november_1_2001_p_11",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "coreopsis_verticillata_golden_gain",
+                "type": "variety",
+                "archival_data": [
+                    "1541021"
+                ]
+            },
+            "volume": null,
+            "page": "p 11",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1881848",
+                "legacy_id": "220879",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Horticulture Week. November 1, 2001. p 17 (Adv.)",
+            "machine_name": "horticulture_week_november_1_2001_p_17_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "impatiens_cultivars_expo_series",
+                "type": "variety",
+                "archival_data": [
+                    "1477610"
+                ]
+            },
+            "volume": null,
+            "page": "p 17 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1881849",
+                "legacy_id": "220880",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Horticulture Week. November 1, 2001. p 18",
+            "machine_name": "horticulture_week_november_1_2001_p_18",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "sempervivum_calcareum_william_lawrence",
+                "type": "variety",
+                "archival_data": [
+                    "1569172"
+                ]
+            },
+            "volume": null,
+            "page": "p 18",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1881850",
+                "legacy_id": "220881",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Horticulture Week. November 1, 2001. p 18-9",
+            "machine_name": "horticulture_week_november_1_2001_p_18_9",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "sempervivum_cultivars_virgil",
+                "type": "variety",
+                "archival_data": [
+                    "1561681"
+                ]
+            },
+            "volume": null,
+            "page": "p 18-9",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1881851",
+                "legacy_id": "220882",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Horticulture Week. November 1, 2001. p 19",
+            "machine_name": "horticulture_week_november_1_2001_p_19",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "sempervivum_cultivars_woolcott_s_variety",
+                "type": "variety",
+                "archival_data": [
+                    "1530470"
+                ]
+            },
+            "volume": null,
+            "page": "p 19",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1881852",
+                "legacy_id": "220890",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Horticulture Week. November 1, 2001. p 19",
+            "machine_name": "horticulture_week_november_1_2001_p_19",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "sempervivum_marmoreum",
+                "type": "species",
+                "archival_data": [
+                    "1428421"
+                ]
+            },
+            "volume": null,
+            "page": "p 19",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1881853",
+                "legacy_id": "220891",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Horticulture Week. November 1, 2001. p 23",
+            "machine_name": "horticulture_week_november_1_2001_p_23",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lathyrus_cultivars_streamer_series",
+                "type": "variety",
+                "archival_data": [
+                    "1569174"
+                ]
+            },
+            "volume": null,
+            "page": "p 23",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1881854",
+                "legacy_id": "220892",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Horticulture Week. November 1, 2001. p 24",
+            "machine_name": "horticulture_week_november_1_2001_p_24",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rudbeckia_hirta_cherokee_sunset",
+                "type": "variety",
+                "archival_data": [
+                    "1561636"
+                ]
+            },
+            "volume": null,
+            "page": "p 24",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1881855",
+                "legacy_id": "220895",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Horticulture Week. November 1, 2001. p 23",
+            "machine_name": "horticulture_week_november_1_2001_p_23",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lychnis_cultivars_blue_angel",
+                "type": "variety",
+                "archival_data": [
+                    "1569175"
+                ]
+            },
+            "volume": null,
+            "page": "p 23",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1881856",
+                "legacy_id": "220894",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Horticulture Week. November 1, 2001. p 24",
+            "machine_name": "horticulture_week_november_1_2001_p_24",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lupinus_cultivars_tutti_frutti",
+                "type": "variety",
+                "archival_data": [
+                    "1569177"
+                ]
+            },
+            "volume": null,
+            "page": "p 24",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1881857",
+                "legacy_id": "220896",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Horticulture Week. November 1, 2001. p 24",
+            "machine_name": "horticulture_week_november_1_2001_p_24",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "phlox_cultivars_lord_chancellor",
+                "type": "variety",
+                "archival_data": [
+                    "1569176"
+                ]
+            },
+            "volume": null,
+            "page": "p 24",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1881858",
+                "legacy_id": "220897",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Horticulture Week. November 1, 2001. p 24",
+            "machine_name": "horticulture_week_november_1_2001_p_24",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "calendula_cultivars_needles_and_pins",
+                "type": "variety",
+                "archival_data": [
+                    "1569173"
+                ]
+            },
+            "volume": null,
+            "page": "p 24",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1881859",
+                "legacy_id": "220898",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Horticulture Week. November 1, 2001. p 25 (Adv.)",
+            "machine_name": "horticulture_week_november_1_2001_p_25_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "petunia_cultivars_wave_series",
+                "type": "variety",
+                "archival_data": [
+                    "1481801"
+                ]
+            },
+            "volume": null,
+            "page": "p 25 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1881860",
+                "legacy_id": "220899",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Horticulture Week. November 1, 2001. p 26",
+            "machine_name": "horticulture_week_november_1_2001_p_26",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "dahlia_cultivars_bishop_s_children_series",
+                "type": "variety",
+                "archival_data": [
+                    "1546463"
+                ]
+            },
+            "volume": null,
+            "page": "p 26",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1881861",
+                "legacy_id": "220900",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Horticulture Week. November 1, 2001. p 26",
+            "machine_name": "horticulture_week_november_1_2001_p_26",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "papaver_cultivars_dawn_chorus",
+                "type": "variety",
+                "archival_data": [
+                    "1569179"
+                ]
+            },
+            "volume": null,
+            "page": "p 26",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1881862",
+                "legacy_id": "220901",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Horticulture Week. November 1, 2001. p 26",
+            "machine_name": "horticulture_week_november_1_2001_p_26",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "antirrhinum_cultivars_mini_snap_series",
+                "type": "variety",
+                "archival_data": [
+                    "1569178"
+                ]
+            },
+            "volume": null,
+            "page": "p 26",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1881863",
+                "legacy_id": "220902",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        }
+    ]
+}

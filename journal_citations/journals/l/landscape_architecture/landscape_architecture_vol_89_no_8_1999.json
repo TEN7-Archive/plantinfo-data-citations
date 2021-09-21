@@ -1,0 +1,61 @@
+{
+    "name": "Landscape Architecture. vol 89, no. 8. (1999)",
+    "machine_name": "landscape_architecture_vol_89_no_8_1999",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1999",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2115781",
+        "legacy_id": "7662",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Landscape Architecture. vol 89, no. 8. (1999) p 111 (Adv.)",
+            "machine_name": "landscape_architecture_vol_89_no_8_1999_p_111_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "malus_c_cultivars_golden_raindrops",
+                "type": "variety",
+                "archival_data": [
+                    "1485059"
+                ]
+            },
+            "volume": null,
+            "page": "p 111 (Adv.)",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1857570",
+                "legacy_id": "163508",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        }
+    ]
+}

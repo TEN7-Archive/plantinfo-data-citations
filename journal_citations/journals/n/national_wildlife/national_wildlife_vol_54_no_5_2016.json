@@ -1,0 +1,102 @@
+{
+    "name": "National Wildlife. vol 54, no. 5. (2016)",
+    "machine_name": "national_wildlife_vol_54_no_5_2016",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2016",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2124624",
+        "legacy_id": "133614",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "National Wildlife. vol 54, no. 5. (2016) p 35",
+            "machine_name": "national_wildlife_vol_54_no_5_2016_p_35",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "yucca_brevifolia",
+                "type": "species",
+                "archival_data": [
+                    "1438657"
+                ]
+            },
+            "volume": null,
+            "page": "p 35",
+            "year": "2016",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2094231",
+                "legacy_id": "521487",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483209571"
+            }
+        },
+        {
+            "name": "National Wildlife. vol 54, no. 5. (2016) p cover",
+            "machine_name": "national_wildlife_vol_54_no_5_2016_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lobelia_grayana",
+                "type": "species",
+                "archival_data": [
+                    "1418884"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "2016",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2095958",
+                "legacy_id": "521386",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483209571"
+            }
+        }
+    ]
+}

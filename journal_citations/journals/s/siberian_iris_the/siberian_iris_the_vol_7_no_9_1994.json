@@ -1,0 +1,61 @@
+{
+    "name": "Siberian Iris, The. vol 7, no. 9. (1994)",
+    "machine_name": "siberian_iris_the_vol_7_no_9_1994",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1994",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2112051",
+        "legacy_id": "5492",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Siberian Iris, The. vol 7, no. 9. (1994) p backcover (Adv.)",
+            "machine_name": "siberian_iris_the_vol_7_no_9_1994_p_backcover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "iris_cultivars_strawberry_fair",
+                "type": "variety",
+                "archival_data": [
+                    "1477999"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover (Adv.)",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1731837",
+                "legacy_id": "25627",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        }
+    ]
+}

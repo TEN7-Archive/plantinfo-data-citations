@@ -1,0 +1,61 @@
+{
+    "name": "National Wildlife. vol 31, no. 1. (1993)",
+    "machine_name": "national_wildlife_vol_31_no_1_1993",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1993",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113855",
+        "legacy_id": "4607",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "National Wildlife. vol 31, no. 1. (1993) p 54",
+            "machine_name": "national_wildlife_vol_31_no_1_1993_p_54",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "carnegiea_gigantea",
+                "type": "species",
+                "archival_data": [
+                    "1408533"
+                ]
+            },
+            "volume": null,
+            "page": "p 54",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1779068",
+                "legacy_id": "79566",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        }
+    ]
+}

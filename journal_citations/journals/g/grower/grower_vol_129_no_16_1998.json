@@ -1,0 +1,184 @@
+{
+    "name": "Grower. vol 129, no. 16. (1998)",
+    "machine_name": "grower_vol_129_no_16_1998",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1998",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114654",
+        "legacy_id": "6205",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grower. vol 129, no. 16. (1998) p 6",
+            "machine_name": "grower_vol_129_no_16_1998_p_6",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "brassica_oleracea_c_tundra",
+                "type": "variety",
+                "archival_data": [
+                    "1497669"
+                ]
+            },
+            "volume": null,
+            "page": "p 6",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1836293",
+                "legacy_id": "145285",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Grower. vol 129, no. 16. (1998) p 8",
+            "machine_name": "grower_vol_129_no_16_1998_p_8",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "chrysanthemum_cultivars_lineker",
+                "type": "variety",
+                "archival_data": [
+                    "1528786"
+                ]
+            },
+            "volume": null,
+            "page": "p 8",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1836294",
+                "legacy_id": "145286",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Grower. vol 129, no. 16. (1998) p 31",
+            "machine_name": "grower_vol_129_no_16_1998_p_31",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lycopersicon_cultivars_espero",
+                "type": "variety",
+                "archival_data": [
+                    "1528787"
+                ]
+            },
+            "volume": null,
+            "page": "p 31",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1836295",
+                "legacy_id": "145288",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Grower. vol 129, no. 16. (1998) p 27-28",
+            "machine_name": "grower_vol_129_no_16_1998_p_27_28",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "iris_pallasii",
+                "type": "species",
+                "archival_data": [
+                    "1444237"
+                ]
+            },
+            "volume": null,
+            "page": "p 27-28",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": true,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1836925",
+                "legacy_id": "145463",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        }
+    ]
+}

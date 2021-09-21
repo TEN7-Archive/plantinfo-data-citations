@@ -1,0 +1,143 @@
+{
+    "name": "Plant Cell, The. vol 16, no. 3. (2004)",
+    "machine_name": "plant_cell_the_vol_16_no_3_2004",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2004",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2118829",
+        "legacy_id": "57771",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Plant Cell, The. vol 16, no. 3. (2004) p 620, Pl. 4(c-d)",
+            "machine_name": "plant_cell_the_vol_16_no_3_2004_p_620_pl_4_c_d",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lycopersicon_esculentum",
+                "type": "species",
+                "archival_data": [
+                    "1420733"
+                ]
+            },
+            "volume": null,
+            "page": "p 620, Pl. 4(c-d)",
+            "year": "2004",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1917212",
+                "legacy_id": "276514",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "Plant Cell, The. vol 16, no. 3. (2004) p 632, Pl. 3(b)",
+            "machine_name": "plant_cell_the_vol_16_no_3_2004_p_632_pl_3_b",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "arabidopsis_thaliana",
+                "type": "species",
+                "archival_data": [
+                    "1400989"
+                ]
+            },
+            "volume": null,
+            "page": "p 632, Pl. 3(b)",
+            "year": "2004",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1917213",
+                "legacy_id": "276515",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "Plant Cell, The. vol 16, no. 3. (2004) p 747, Pl. 4(a)",
+            "machine_name": "plant_cell_the_vol_16_no_3_2004_p_747_pl_4_a",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "petunia_hybrida",
+                "type": "species",
+                "archival_data": [
+                    "1422615"
+                ]
+            },
+            "volume": null,
+            "page": "p 747, Pl. 4(a)",
+            "year": "2004",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1917214",
+                "legacy_id": "276516",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        }
+    ]
+}

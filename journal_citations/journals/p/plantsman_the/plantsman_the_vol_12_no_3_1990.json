@@ -1,0 +1,102 @@
+{
+    "name": "Plantsman, The. vol 12, no. 3. (1990)",
+    "machine_name": "plantsman_the_vol_12_no_3_1990",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1990",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114056",
+        "legacy_id": "5255",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Plantsman, The. vol 12, no. 3. (1990) p 128",
+            "machine_name": "plantsman_the_vol_12_no_3_1990_p_128",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "eucomis_bicolor",
+                "type": "species",
+                "archival_data": [
+                    "1415191"
+                ]
+            },
+            "volume": null,
+            "page": "p 128",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1791459",
+                "legacy_id": "95032",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Plantsman, The. vol 12, no. 3. (1990) p 128",
+            "machine_name": "plantsman_the_vol_12_no_3_1990_p_128",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "eucomis_schijffii",
+                "type": "species",
+                "archival_data": [
+                    "1415199"
+                ]
+            },
+            "volume": null,
+            "page": "p 128",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1791479",
+                "legacy_id": "95053",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        }
+    ]
+}

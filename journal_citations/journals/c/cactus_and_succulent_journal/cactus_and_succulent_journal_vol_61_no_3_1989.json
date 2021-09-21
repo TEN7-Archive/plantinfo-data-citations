@@ -1,0 +1,184 @@
+{
+    "name": "Cactus and Succulent Journal. vol 61, no. 3. (1989)",
+    "machine_name": "cactus_and_succulent_journal_vol_61_no_3_1989",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1989",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114043",
+        "legacy_id": "1847",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Cactus and Succulent Journal. vol 61, no. 3. (1989) p 118, Pl. 2.",
+            "machine_name": "cactus_and_succulent_journal_vol_61_no_3_1989_p_118_pl_2",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "euphorbia_pedilanthoides",
+                "type": "species",
+                "archival_data": [
+                    "1411397"
+                ]
+            },
+            "volume": null,
+            "page": "p 118, Pl. 2.",
+            "year": "1989",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1790241",
+                "legacy_id": "96028",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 61, no. 3. (1989) p cover",
+            "machine_name": "cactus_and_succulent_journal_vol_61_no_3_1989_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "euphorbia_decepta",
+                "type": "species",
+                "archival_data": [
+                    "1410301"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1989",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1793410",
+                "legacy_id": "95539",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 61, no. 3. (1989) p 119, Pl. 1.",
+            "machine_name": "cactus_and_succulent_journal_vol_61_no_3_1989_p_119_pl_1",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pachyphytum_bracteosum",
+                "type": "species",
+                "archival_data": [
+                    "1423706"
+                ]
+            },
+            "volume": null,
+            "page": "p 119, Pl. 1.",
+            "year": "1989",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1812407",
+                "legacy_id": "117814",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 61, no. 3. (1989) p 100, Pl. 1.",
+            "machine_name": "cactus_and_succulent_journal_vol_61_no_3_1989_p_100_pl_1",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rhipsalis_boliviana",
+                "type": "species",
+                "archival_data": [
+                    "1423594"
+                ]
+            },
+            "volume": null,
+            "page": "p 100, Pl. 1.",
+            "year": "1989",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1822818",
+                "legacy_id": "127200",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        }
+    ]
+}

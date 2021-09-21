@@ -1,0 +1,61 @@
+{
+    "name": "American Forests. vol 100, no. 5-6. (1994)",
+    "machine_name": "american_forests_vol_100_no_5_6_1994",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1994",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114575",
+        "legacy_id": "206",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "American Forests. vol 100, no. 5-6. (1994) p 43",
+            "machine_name": "american_forests_vol_100_no_5_6_1994_p_43",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "sassafras_albidum",
+                "type": "species",
+                "archival_data": [
+                    "1431059"
+                ]
+            },
+            "volume": null,
+            "page": "p 43",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1829221",
+                "legacy_id": "131505",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        }
+    ]
+}

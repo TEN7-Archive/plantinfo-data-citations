@@ -1,0 +1,922 @@
+{
+    "name": "Cactus and Succulent Journal. vol 71, no. 6. (1999)",
+    "machine_name": "cactus_and_succulent_journal_vol_71_no_6_1999",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1999",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2115980",
+        "legacy_id": "7976",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Cactus and Succulent Journal. vol 71, no. 6. (1999) p cover",
+            "machine_name": "cactus_and_succulent_journal_vol_71_no_6_1999_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "echeveria_gibbiflora",
+                "type": "species",
+                "archival_data": [
+                    "1405488"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1860864",
+                "legacy_id": "166836",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 71, no. 6. (1999) p 293-4, Pl. 10-12.",
+            "machine_name": "cactus_and_succulent_journal_vol_71_no_6_1999_p_293_4_pl_10_12",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pediocactus_despainii",
+                "type": "species",
+                "archival_data": [
+                    "1426625"
+                ]
+            },
+            "volume": null,
+            "page": "p 293-4, Pl. 10-12.",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1860865",
+                "legacy_id": "166837",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 71, no. 6. (1999) p 295, Pl. 13-14; 297, Pl. 16.",
+            "machine_name": "cactus_and_succulent_journal_vol_71_no_6_1999_p_295_pl_13_14_297_pl_16",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pediocactus_winkleri",
+                "type": "species",
+                "archival_data": [
+                    "1426633"
+                ]
+            },
+            "volume": null,
+            "page": "p 295, Pl. 13-14; 297, Pl. 16.",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1860866",
+                "legacy_id": "166838",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 71, no. 6. (1999) p 297, Pl. 17.",
+            "machine_name": "cactus_and_succulent_journal_vol_71_no_6_1999_p_297_pl_17",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pediocactus_peeblesianus_peeblesianus",
+                "type": "variety",
+                "archival_data": [
+                    "1549721"
+                ]
+            },
+            "volume": null,
+            "page": "p 297, Pl. 17.",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1860867",
+                "legacy_id": "166839",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 71, no. 6. (1999) p 298-9, Pl. 18-20.",
+            "machine_name": "cactus_and_succulent_journal_vol_71_no_6_1999_p_298_9_pl_18_20",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pediocactus_peeblesianus_fickeiseniae",
+                "type": "variety",
+                "archival_data": [
+                    "1549722"
+                ]
+            },
+            "volume": null,
+            "page": "p 298-9, Pl. 18-20.",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1860868",
+                "legacy_id": "166840",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 71, no. 6. (1999) p 303, Pl. 3.",
+            "machine_name": "cactus_and_succulent_journal_vol_71_no_6_1999_p_303_pl_3",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "echeveria_teretifolia",
+                "type": "species",
+                "archival_data": [
+                    "1439521"
+                ]
+            },
+            "volume": null,
+            "page": "p 303, Pl. 3.",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1860869",
+                "legacy_id": "166841",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 71, no. 6. (1999) p 304, Pl. 5.",
+            "machine_name": "cactus_and_succulent_journal_vol_71_no_6_1999_p_304_pl_5",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "fouquieria_macdougalii",
+                "type": "species",
+                "archival_data": [
+                    "1439523"
+                ]
+            },
+            "volume": null,
+            "page": "p 304, Pl. 5.",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": true,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1860870",
+                "legacy_id": "166842",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 71, no. 6. (1999) p 304, Pl. 4.",
+            "machine_name": "cactus_and_succulent_journal_vol_71_no_6_1999_p_304_pl_4",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "fouquieria_formosa",
+                "type": "species",
+                "archival_data": [
+                    "1439522"
+                ]
+            },
+            "volume": null,
+            "page": "p 304, Pl. 4.",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": true,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1860871",
+                "legacy_id": "166843",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 71, no. 6. (1999) p 306",
+            "machine_name": "cactus_and_succulent_journal_vol_71_no_6_1999_p_306",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "orostachys_iwarenge",
+                "type": "species",
+                "archival_data": [
+                    "1422607"
+                ]
+            },
+            "volume": null,
+            "page": "p 306",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1860872",
+                "legacy_id": "166844",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 71, no. 6. (1999) p 310, Pl. 1-2.",
+            "machine_name": "cactus_and_succulent_journal_vol_71_no_6_1999_p_310_pl_1_2",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pilosocereus_occultiflorus",
+                "type": "species",
+                "archival_data": [
+                    "1439524"
+                ]
+            },
+            "volume": null,
+            "page": "p 310, Pl. 1-2.",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1860873",
+                "legacy_id": "166845",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 71, no. 6. (1999) p 312, Pl. 6.",
+            "machine_name": "cactus_and_succulent_journal_vol_71_no_6_1999_p_312_pl_6",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pilosocereus_pachycladus",
+                "type": "species",
+                "archival_data": [
+                    "1439525"
+                ]
+            },
+            "volume": null,
+            "page": "p 312, Pl. 6.",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1860874",
+                "legacy_id": "166846",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 71, no. 6. (1999) p 318",
+            "machine_name": "cactus_and_succulent_journal_vol_71_no_6_1999_p_318",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "gymnocalycium_mihanovichii_friedrichii",
+                "type": "variety",
+                "archival_data": [
+                    "1473177"
+                ]
+            },
+            "volume": null,
+            "page": "p 318",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1860875",
+                "legacy_id": "166847",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 71, no. 6. (1999) p 318",
+            "machine_name": "cactus_and_succulent_journal_vol_71_no_6_1999_p_318",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "melocactus_violaceus_margaritaceus",
+                "type": "variety",
+                "archival_data": [
+                    "1481584"
+                ]
+            },
+            "volume": null,
+            "page": "p 318",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1860876",
+                "legacy_id": "166848",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 71, no. 6. (1999) p 318",
+            "machine_name": "cactus_and_succulent_journal_vol_71_no_6_1999_p_318",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "parodia_herzogii",
+                "type": "species",
+                "archival_data": [
+                    "1425225"
+                ]
+            },
+            "volume": null,
+            "page": "p 318",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1860877",
+                "legacy_id": "166849",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 71, no. 6. (1999) p 319",
+            "machine_name": "cactus_and_succulent_journal_vol_71_no_6_1999_p_319",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "dinteranthus_pole_evansii",
+                "type": "species",
+                "archival_data": [
+                    "1444410"
+                ]
+            },
+            "volume": null,
+            "page": "p 319",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1860878",
+                "legacy_id": "166850",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 71, no. 6. (1999) p 319",
+            "machine_name": "cactus_and_succulent_journal_vol_71_no_6_1999_p_319",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "monsonia_vanderietiae",
+                "type": "species",
+                "archival_data": [
+                    "1430991"
+                ]
+            },
+            "volume": null,
+            "page": "p 319",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1860879",
+                "legacy_id": "166851",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 71, no. 6. (1999) p 319",
+            "machine_name": "cactus_and_succulent_journal_vol_71_no_6_1999_p_319",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ceropegia_fusca",
+                "type": "species",
+                "archival_data": [
+                    "1405226"
+                ]
+            },
+            "volume": null,
+            "page": "p 319",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1860880",
+                "legacy_id": "166852",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 71, no. 6. (1999) p 321, Pl. 4-6.",
+            "machine_name": "cactus_and_succulent_journal_vol_71_no_6_1999_p_321_pl_4_6",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "opuntia_campii",
+                "type": "species",
+                "archival_data": [
+                    "1439526"
+                ]
+            },
+            "volume": null,
+            "page": "p 321, Pl. 4-6.",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1860881",
+                "legacy_id": "166853",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 71, no. 6. (1999) p 321, Pl. 4.",
+            "machine_name": "cactus_and_succulent_journal_vol_71_no_6_1999_p_321_pl_4",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cylindropuntia_bigelovii_bigelovii",
+                "type": "variety",
+                "archival_data": [
+                    "1483358"
+                ]
+            },
+            "volume": null,
+            "page": "p 321, Pl. 4.",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1860882",
+                "legacy_id": "166854",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 71, no. 6. (1999) p 321, Pl. 4.",
+            "machine_name": "cactus_and_succulent_journal_vol_71_no_6_1999_p_321_pl_4",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cylindropuntia_acanthocarpa_major",
+                "type": "variety",
+                "archival_data": [
+                    "1483354"
+                ]
+            },
+            "volume": null,
+            "page": "p 321, Pl. 4.",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1860883",
+                "legacy_id": "166855",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 71, no. 6. (1999) p 326, Pl. 1.",
+            "machine_name": "cactus_and_succulent_journal_vol_71_no_6_1999_p_326_pl_1",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "agave_applanata",
+                "type": "species",
+                "archival_data": [
+                    "1439527"
+                ]
+            },
+            "volume": null,
+            "page": "p 326, Pl. 1.",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1860884",
+                "legacy_id": "166856",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 71, no. 6. (1999) p 303, Pl. 2.",
+            "machine_name": "cactus_and_succulent_journal_vol_71_no_6_1999_p_303_pl_2",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "echeveria_coccinea",
+                "type": "species",
+                "archival_data": [
+                    "1439811"
+                ]
+            },
+            "volume": null,
+            "page": "p 303, Pl. 2.",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": true,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1861161",
+                "legacy_id": "166894",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        }
+    ]
+}

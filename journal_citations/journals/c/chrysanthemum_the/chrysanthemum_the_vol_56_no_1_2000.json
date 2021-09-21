@@ -1,0 +1,102 @@
+{
+    "name": "Chrysanthemum, The. vol 56, no. 1. (2000)",
+    "machine_name": "chrysanthemum_the_vol_56_no_1_2000",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2000",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2116278",
+        "legacy_id": "13292",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Chrysanthemum, The. vol 56, no. 1. (2000) p backcover",
+            "machine_name": "chrysanthemum_the_vol_56_no_1_2000_p_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "chrysanthemum_cultivars_leicester",
+                "type": "variety",
+                "archival_data": [
+                    "1551175"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1868063",
+                "legacy_id": "189550",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Chrysanthemum, The. vol 56, no. 1. (2000) p backcover",
+            "machine_name": "chrysanthemum_the_vol_56_no_1_2000_p_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "chrysanthemum_cultivars_kimie",
+                "type": "variety",
+                "archival_data": [
+                    "1503646"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1868064",
+                "legacy_id": "189551",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        }
+    ]
+}

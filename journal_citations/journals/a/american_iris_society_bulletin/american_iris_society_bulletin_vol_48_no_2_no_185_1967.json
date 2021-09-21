@@ -1,0 +1,61 @@
+{
+    "name": "American Iris Society, Bulletin. vol 48, no. 2. (no. 185) (1967)",
+    "machine_name": "american_iris_society_bulletin_vol_48_no_2_no_185_1967",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1967",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": "7",
+    "description": null,
+    "archival_data": {
+        "id": "2591971",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1577620620"
+    },
+    "citation_reference_items": [
+        {
+            "name": "American Iris Society, Bulletin. vol 47, no. 2. (no. 185) (1967)  p cover",
+            "machine_name": "american_iris_society_bulletin_vol_47_no_2_no_185_1967_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "iris_cultivars_ribbon_round",
+                "type": "variety",
+                "archival_data": [
+                    "1513901"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2591976",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1577620736"
+            }
+        }
+    ]
+}

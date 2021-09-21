@@ -1,0 +1,102 @@
+{
+    "name": "Flora International. no. 150. (1999)",
+    "machine_name": "flora_international_no_150_1999",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1999",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2115835",
+        "legacy_id": "7900",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Flora International. no. 150. (1999) p 39",
+            "machine_name": "flora_international_no_150_1999_p_39",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "clematis_alpina_frances_rivis",
+                "type": "variety",
+                "archival_data": [
+                    "1469822"
+                ]
+            },
+            "volume": null,
+            "page": "p 39",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1858330",
+                "legacy_id": "166188",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Flora International. no. 150. (1999) p 39",
+            "machine_name": "flora_international_no_150_1999_p_39",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "garrya_elliptica_james_roof",
+                "type": "variety",
+                "archival_data": [
+                    "1475821"
+                ]
+            },
+            "volume": null,
+            "page": "p 39",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1858331",
+                "legacy_id": "166189",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        }
+    ]
+}

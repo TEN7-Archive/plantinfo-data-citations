@@ -1,0 +1,471 @@
+{
+    "name": "Cactus and Succulent Journal. vol 65, no. 6. (1993)",
+    "machine_name": "cactus_and_succulent_journal_vol_65_no_6_1993",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1993",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2110200",
+        "legacy_id": "1873",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Cactus and Succulent Journal. vol 65, no. 6. (1993) p 284, Pl. 1.",
+            "machine_name": "cactus_and_succulent_journal_vol_65_no_6_1993_p_284_pl_1",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cotyledon_orbiculata_oblonga",
+                "type": "variety",
+                "archival_data": [
+                    "1471595"
+                ]
+            },
+            "volume": null,
+            "page": "p 284, Pl. 1.",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1707161",
+                "legacy_id": "8950",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 65, no. 6. (1993) p 291, Pl. 1.",
+            "machine_name": "cactus_and_succulent_journal_vol_65_no_6_1993_p_291_pl_1",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ariocarpus_kotschoubeyanus",
+                "type": "species",
+                "archival_data": [
+                    "1401807"
+                ]
+            },
+            "volume": null,
+            "page": "p 291, Pl. 1.",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1764849",
+                "legacy_id": "73200",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 65, no. 6. (1993) p 285, Pl. 2.",
+            "machine_name": "cactus_and_succulent_journal_vol_65_no_6_1993_p_285_pl_2",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cotyledon_orbiculata",
+                "type": "species",
+                "archival_data": [
+                    "1406858"
+                ]
+            },
+            "volume": null,
+            "page": "p 285, Pl. 2.",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1780405",
+                "legacy_id": "85280",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 65, no. 6. (1993) p 305, Pl. 1.",
+            "machine_name": "cactus_and_succulent_journal_vol_65_no_6_1993_p_305_pl_1",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "epiphyllum_anguliger",
+                "type": "species",
+                "archival_data": [
+                    "1415074"
+                ]
+            },
+            "volume": null,
+            "page": "p 305, Pl. 1.",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1786395",
+                "legacy_id": "92427",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 65, no. 6. (1993) p 294, Pl. 4.",
+            "machine_name": "cactus_and_succulent_journal_vol_65_no_6_1993_p_294_pl_4",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "echidnopsis_milleri",
+                "type": "species",
+                "archival_data": [
+                    "1405516"
+                ]
+            },
+            "volume": null,
+            "page": "p 294, Pl. 4.",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1788895",
+                "legacy_id": "90914",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 65, no. 6. (1993) p 293, Pl. 2.",
+            "machine_name": "cactus_and_succulent_journal_vol_65_no_6_1993_p_293_pl_2",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "echidnopsis_socotrana",
+                "type": "species",
+                "archival_data": [
+                    "1405517"
+                ]
+            },
+            "volume": null,
+            "page": "p 293, Pl. 2.",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1788896",
+                "legacy_id": "90915",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 65, no. 6. (1993) p 288, Pl. 3.",
+            "machine_name": "cactus_and_succulent_journal_vol_65_no_6_1993_p_288_pl_3",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "kleinia_schwartzii",
+                "type": "species",
+                "archival_data": [
+                    "1419561"
+                ]
+            },
+            "volume": null,
+            "page": "p 288, Pl. 3.",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1799978",
+                "legacy_id": "106572",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 65, no. 6. (1993) p 272, Pl. 3.",
+            "machine_name": "cactus_and_succulent_journal_vol_65_no_6_1993_p_272_pl_3",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lenophyllum_acutifolium",
+                "type": "species",
+                "archival_data": [
+                    "1415815"
+                ]
+            },
+            "volume": null,
+            "page": "p 272, Pl. 3.",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1800057",
+                "legacy_id": "107900",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 65, no. 6. (1993) p 299, Pl. 10.",
+            "machine_name": "cactus_and_succulent_journal_vol_65_no_6_1993_p_299_pl_10",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "opuntia_macrorhiza",
+                "type": "species",
+                "archival_data": [
+                    "1421812"
+                ]
+            },
+            "volume": null,
+            "page": "p 299, Pl. 10.",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1814318",
+                "legacy_id": "116998",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 65, no. 6. (1993) p 302, Pl. 3.",
+            "machine_name": "cactus_and_succulent_journal_vol_65_no_6_1993_p_302_pl_3",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "sedum_porphyreum",
+                "type": "species",
+                "archival_data": [
+                    "1428070"
+                ]
+            },
+            "volume": null,
+            "page": "p 302, Pl. 3.",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1829299",
+                "legacy_id": "132823",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 65, no. 6. (1993) p 272",
+            "machine_name": "cactus_and_succulent_journal_vol_65_no_6_1993_p_272",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "echeveria_affinis",
+                "type": "species",
+                "archival_data": [
+                    "1405476"
+                ]
+            },
+            "volume": null,
+            "page": "p 272",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1937340",
+                "legacy_id": "315056",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        }
+    ]
+}

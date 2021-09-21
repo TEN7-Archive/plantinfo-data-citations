@@ -1,0 +1,61 @@
+{
+    "name": "Mandaville, James P. Flora of Eastern Saudi Arabia. (199)",
+    "machine_name": "mandaville_james_p_flora_of_eastern_saudi_arabia_199",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "199",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2118106",
+        "legacy_id": "4418",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Mandaville, James P. Flora of Eastern Saudi Arabia. (199) p 274, Pl. 125-26",
+            "machine_name": "mandaville_james_p_flora_of_eastern_saudi_arabia_199_p_274_pl_125_26",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "astragalus_kahiricus",
+                "type": "species",
+                "archival_data": [
+                    "1447339"
+                ]
+            },
+            "volume": null,
+            "page": "p 274, Pl. 125-26",
+            "year": "199",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1905207",
+                "legacy_id": "252287",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        }
+    ]
+}

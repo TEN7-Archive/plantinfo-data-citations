@@ -1,0 +1,512 @@
+{
+    "name": "Cactus and Succulent Journal. vol 65, no. 2. (1993)",
+    "machine_name": "cactus_and_succulent_journal_vol_65_no_2_1993",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1993",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2109852",
+        "legacy_id": "1869",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Cactus and Succulent Journal. vol 65, no. 2. (1993) p cover",
+            "machine_name": "cactus_and_succulent_journal_vol_65_no_2_1993_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "aeonium_decorum_sunset",
+                "type": "variety",
+                "archival_data": [
+                    "1466204"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1705585",
+                "legacy_id": "837",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 65, no. 2. (1993) p 72, Pl. 2.",
+            "machine_name": "cactus_and_succulent_journal_vol_65_no_2_1993_p_72_pl_2",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "echinopsis_cultivars_apricot_glow",
+                "type": "variety",
+                "archival_data": [
+                    "1474531"
+                ]
+            },
+            "volume": null,
+            "page": "p 72, Pl. 2.",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1715742",
+                "legacy_id": "13671",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 65, no. 2. (1993) p 72, Pl. 3.",
+            "machine_name": "cactus_and_succulent_journal_vol_65_no_2_1993_p_72_pl_3",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "echinopsis_cultivars_first_light",
+                "type": "variety",
+                "archival_data": [
+                    "1474542"
+                ]
+            },
+            "volume": null,
+            "page": "p 72, Pl. 3.",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1715745",
+                "legacy_id": "13674",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 65, no. 2. (1993) p 73, Pl. 4.",
+            "machine_name": "cactus_and_succulent_journal_vol_65_no_2_1993_p_73_pl_4",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "echinopsis_cultivars_volcanic_sunset",
+                "type": "variety",
+                "archival_data": [
+                    "1474576"
+                ]
+            },
+            "volume": null,
+            "page": "p 73, Pl. 4.",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1715754",
+                "legacy_id": "13683",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 65, no. 2. (1993) p 77, Pl. 8.",
+            "machine_name": "cactus_and_succulent_journal_vol_65_no_2_1993_p_77_pl_8",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lampranthus_aurantiacus_gold_nugget",
+                "type": "variety",
+                "archival_data": [
+                    "1477192"
+                ]
+            },
+            "volume": null,
+            "page": "p 77, Pl. 8.",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1728422",
+                "legacy_id": "27319",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 65, no. 2. (1993) p 77, Pl. 9.",
+            "machine_name": "cactus_and_succulent_journal_vol_65_no_2_1993_p_77_pl_9",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lampranthus_spectabilis_redshift",
+                "type": "variety",
+                "archival_data": [
+                    "1477194"
+                ]
+            },
+            "volume": null,
+            "page": "p 77, Pl. 9.",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1728424",
+                "legacy_id": "27321",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 65, no. 2. (1993) p 79, Pl. 12.",
+            "machine_name": "cactus_and_succulent_journal_vol_65_no_2_1993_p_79_pl_12",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "sedum_rubrotinctum_aurora",
+                "type": "variety",
+                "archival_data": [
+                    "1492708"
+                ]
+            },
+            "volume": null,
+            "page": "p 79, Pl. 12.",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1757864",
+                "legacy_id": "56026",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483154438"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 65, no. 2. (1993) p 88, Pl. 1-2.",
+            "machine_name": "cactus_and_succulent_journal_vol_65_no_2_1993_p_88_pl_1_2",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "aloe_gariepensis",
+                "type": "species",
+                "archival_data": [
+                    "1402866"
+                ]
+            },
+            "volume": null,
+            "page": "p 88, Pl. 1-2.",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1765327",
+                "legacy_id": "70522",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 65, no. 2. (1993) p 69, Pl. 1.",
+            "machine_name": "cactus_and_succulent_journal_vol_65_no_2_1993_p_69_pl_1",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "caralluma_socotrana",
+                "type": "species",
+                "archival_data": [
+                    "1407391"
+                ]
+            },
+            "volume": null,
+            "page": "p 69, Pl. 1.",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1778043",
+                "legacy_id": "79280",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 65, no. 2. (1993) p 73, Pl. 5.",
+            "machine_name": "cactus_and_succulent_journal_vol_65_no_2_1993_p_73_pl_5",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "echinopsis_maximiliana",
+                "type": "species",
+                "archival_data": [
+                    "1412788"
+                ]
+            },
+            "volume": null,
+            "page": "p 73, Pl. 5.",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1788471",
+                "legacy_id": "91329",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 65, no. 2. (1993) p 64, Pl. 1.",
+            "machine_name": "cactus_and_succulent_journal_vol_65_no_2_1993_p_64_pl_1",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pachycereus_pringlei",
+                "type": "species",
+                "archival_data": [
+                    "1423691"
+                ]
+            },
+            "volume": null,
+            "page": "p 64, Pl. 1.",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1812386",
+                "legacy_id": "117792",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 65, no. 2. (1993) p 78, Pl. 10.",
+            "machine_name": "cactus_and_succulent_journal_vol_65_no_2_1993_p_78_pl_10",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ruschia_spinescens",
+                "type": "species",
+                "archival_data": [
+                    "1428772"
+                ]
+            },
+            "volume": null,
+            "page": "p 78, Pl. 10.",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1824270",
+                "legacy_id": "130164",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        }
+    ]
+}

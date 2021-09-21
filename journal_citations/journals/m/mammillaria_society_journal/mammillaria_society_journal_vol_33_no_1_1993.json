@@ -1,0 +1,102 @@
+{
+    "name": "Mammillaria Society, Journal. vol 33, no. 1. (1993)",
+    "machine_name": "mammillaria_society_journal_vol_33_no_1_1993",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1993",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2112338",
+        "legacy_id": "4402",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Mammillaria Society, Journal. vol 33, no. 1. (1993) p 3",
+            "machine_name": "mammillaria_society_journal_vol_33_no_1_1993_p_3",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "mammillaria_rekoi_leptacantha",
+                "type": "variety",
+                "archival_data": [
+                    "1485601"
+                ]
+            },
+            "volume": null,
+            "page": "p 3",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1736259",
+                "legacy_id": "31965",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Mammillaria Society, Journal. vol 33, no. 1. (1993) p 3",
+            "machine_name": "mammillaria_society_journal_vol_33_no_1_1993_p_3",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "mammillaria_saxicola",
+                "type": "species",
+                "archival_data": [
+                    "1417065"
+                ]
+            },
+            "volume": null,
+            "page": "p 3",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1804918",
+                "legacy_id": "111896",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        }
+    ]
+}

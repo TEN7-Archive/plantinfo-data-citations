@@ -1,0 +1,61 @@
+{
+    "name": "Sunset. May 2009.",
+    "machine_name": "sunset_may_2009",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1691642",
+        "legacy_id": "102691",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Sunset. May 2009. p 45 (Adv.)",
+            "machine_name": "sunset_may_2009_p_45_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "agapanthus_cultivars_baby_pete",
+                "type": "variety",
+                "archival_data": [
+                    "1628528"
+                ]
+            },
+            "volume": null,
+            "page": "p 45 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1983700",
+                "legacy_id": "395384",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        }
+    ]
+}

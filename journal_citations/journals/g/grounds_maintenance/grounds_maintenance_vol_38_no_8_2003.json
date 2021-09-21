@@ -1,0 +1,102 @@
+{
+    "name": "Grounds Maintenance. vol 38, no. 8. (2003)",
+    "machine_name": "grounds_maintenance_vol_38_no_8_2003",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2003",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2118188",
+        "legacy_id": "49997",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grounds Maintenance. vol 38, no. 8. (2003) p c4",
+            "machine_name": "grounds_maintenance_vol_38_no_8_2003_p_c4",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "sorghastrum_nutans",
+                "type": "species",
+                "archival_data": [
+                    "1431491"
+                ]
+            },
+            "volume": null,
+            "page": "p c4",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1907028",
+                "legacy_id": "262967",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Grounds Maintenance. vol 38, no. 8. (2003) p c10",
+            "machine_name": "grounds_maintenance_vol_38_no_8_2003_p_c10",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "sporobolus_heterolepis",
+                "type": "species",
+                "archival_data": [
+                    "1432231"
+                ]
+            },
+            "volume": null,
+            "page": "p c10",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1907029",
+                "legacy_id": "262968",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        }
+    ]
+}

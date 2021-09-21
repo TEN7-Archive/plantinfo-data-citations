@@ -1,0 +1,102 @@
+{
+    "name": "Landscape Architecture. vol 85, no. 7. (1995)",
+    "machine_name": "landscape_architecture_vol_85_no_7_1995",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1995",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2112998",
+        "legacy_id": "4272",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Landscape Architecture. vol 85, no. 7. (1995) p 1 (Adv.)",
+            "machine_name": "landscape_architecture_vol_85_no_7_1995_p_1_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_flower_carpet_series",
+                "type": "variety",
+                "archival_data": [
+                    "1487746"
+                ]
+            },
+            "volume": null,
+            "page": "p 1 (Adv.)",
+            "year": "1995",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1750728",
+                "legacy_id": "47528",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483154438"
+            }
+        },
+        {
+            "name": "Landscape Architecture. vol 85, no. 7. (1995) p 25 (Adv.)",
+            "machine_name": "landscape_architecture_vol_85_no_7_1995_p_25_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lonicera_sempervirens",
+                "type": "species",
+                "archival_data": [
+                    "1419642"
+                ]
+            },
+            "volume": null,
+            "page": "p 25 (Adv.)",
+            "year": "1995",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1808327",
+                "legacy_id": "110098",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        }
+    ]
+}

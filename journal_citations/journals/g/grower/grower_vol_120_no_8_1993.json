@@ -1,0 +1,61 @@
+{
+    "name": "Grower. vol 120, no. 8. (1993)",
+    "machine_name": "grower_vol_120_no_8_1993",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1993",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2112052",
+        "legacy_id": "3551",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grower. vol 120, no. 8. (1993) p inside cover (Adv.)",
+            "machine_name": "grower_vol_120_no_8_1993_p_inside_cover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lactuca_cultivars_rachel",
+                "type": "variety",
+                "archival_data": [
+                    "1480797"
+                ]
+            },
+            "volume": null,
+            "page": "p inside cover (Adv.)",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1731907",
+                "legacy_id": "26912",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        }
+    ]
+}

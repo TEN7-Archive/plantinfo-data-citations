@@ -1,0 +1,61 @@
+{
+    "name": "Natural History. vol 93, no. 10. (1984)",
+    "machine_name": "natural_history_vol_93_no_10_1984",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1984",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114513",
+        "legacy_id": "4667",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Natural History. vol 93, no. 10. (1984) p 74-77",
+            "machine_name": "natural_history_vol_93_no_10_1984_p_74_77",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rhizanthella_gardneri",
+                "type": "species",
+                "archival_data": [
+                    "1423621"
+                ]
+            },
+            "volume": null,
+            "page": "p 74-77",
+            "year": "1984",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1823084",
+                "legacy_id": "127221",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "name": "Citrus & Vegetable Magazine. vol 57, no. 6. (1994)",
+    "machine_name": "citrus_vegetable_magazine_vol_57_no_6_1994",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1994",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113254",
+        "legacy_id": "1956",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Citrus & Vegetable Magazine. vol 57, no. 6. (1994) p 62",
+            "machine_name": "citrus_vegetable_magazine_vol_57_no_6_1994_p_62",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "citrus_sinensis_ambersweet",
+                "type": "variety",
+                "archival_data": [
+                    "1469197"
+                ]
+            },
+            "volume": null,
+            "page": "p 62",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1762068",
+                "legacy_id": "60993",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        }
+    ]
+}

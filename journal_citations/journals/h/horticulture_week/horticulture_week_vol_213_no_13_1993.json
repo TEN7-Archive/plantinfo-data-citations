@@ -1,0 +1,102 @@
+{
+    "name": "Horticulture Week. vol 213, no. 13. (1993)",
+    "machine_name": "horticulture_week_vol_213_no_13_1993",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1993",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2112488",
+        "legacy_id": "3838",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Horticulture Week. vol 213, no. 13. (1993) p inside cover (Adv.)",
+            "machine_name": "horticulture_week_vol_213_no_13_1993_p_inside_cover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "petunia_cultivars_picasso_series",
+                "type": "variety",
+                "archival_data": [
+                    "1481548"
+                ]
+            },
+            "volume": null,
+            "page": "p inside cover (Adv.)",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1738941",
+                "legacy_id": "37883",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Horticulture Week. vol 213, no. 13. (1993) p 27 (Adv.)",
+            "machine_name": "horticulture_week_vol_213_no_13_1993_p_27_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "viola_wittrockiana_universal_series",
+                "type": "variety",
+                "archival_data": [
+                    "1500012"
+                ]
+            },
+            "volume": null,
+            "page": "p 27 (Adv.)",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1763336",
+                "legacy_id": "60045",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        }
+    ]
+}

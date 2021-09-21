@@ -1,0 +1,143 @@
+{
+    "name": "Agricultural Research. vol 39, no. 3. (1991)",
+    "machine_name": "agricultural_research_vol_39_no_3_1991",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1991",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113879",
+        "legacy_id": "60",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Agricultural Research. vol 39, no. 3. (1991) p 4",
+            "machine_name": "agricultural_research_vol_39_no_3_1991_p_4",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "carya_hunanensis",
+                "type": "species",
+                "archival_data": [
+                    "1408576"
+                ]
+            },
+            "volume": null,
+            "page": "p 4",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1779708",
+                "legacy_id": "79715",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Agricultural Research. vol 39, no. 3. (1991) p 16",
+            "machine_name": "agricultural_research_vol_39_no_3_1991_p_16",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "crambe_abyssinica",
+                "type": "species",
+                "archival_data": [
+                    "1407158"
+                ]
+            },
+            "volume": null,
+            "page": "p 16",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1780437",
+                "legacy_id": "85313",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Agricultural Research. vol 39, no. 3. (1991) p 23",
+            "machine_name": "agricultural_research_vol_39_no_3_1991_p_23",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "senna_obtusifolia",
+                "type": "species",
+                "archival_data": [
+                    "1428865"
+                ]
+            },
+            "volume": null,
+            "page": "p 23",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1830638",
+                "legacy_id": "133197",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        }
+    ]
+}

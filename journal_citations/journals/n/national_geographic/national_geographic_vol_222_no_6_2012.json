@@ -1,0 +1,102 @@
+{
+    "name": "National Geographic. vol 222, no. 6. (2012)",
+    "machine_name": "national_geographic_vol_222_no_6_2012",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2012",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2124571",
+        "legacy_id": "131970",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "National Geographic. vol 222, no. 6. (2012) p cover;28-33;35-36;foldout",
+            "machine_name": "national_geographic_vol_222_no_6_2012_p_cover_28_33_35_36_foldout",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "sequoiadendron_giganteum",
+                "type": "species",
+                "archival_data": [
+                    "1428875"
+                ]
+            },
+            "volume": null,
+            "page": "p cover;28-33;35-36;foldout",
+            "year": "2012",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": true,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2091087",
+                "legacy_id": "513127",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483209571"
+            }
+        },
+        {
+            "name": "National Geographic. vol 222, no. 6. (2012) p front matter",
+            "machine_name": "national_geographic_vol_222_no_6_2012_p_front_matter",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "oryza_sativa",
+                "type": "species",
+                "archival_data": [
+                    "1422920"
+                ]
+            },
+            "volume": null,
+            "page": "p front matter",
+            "year": "2012",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2091088",
+                "legacy_id": "513128",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483209571"
+            }
+        }
+    ]
+}

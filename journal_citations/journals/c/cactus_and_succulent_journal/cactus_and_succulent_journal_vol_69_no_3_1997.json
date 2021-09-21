@@ -1,0 +1,61 @@
+{
+    "name": "Cactus and Succulent Journal. vol 69, no. 3. (1997)",
+    "machine_name": "cactus_and_succulent_journal_vol_69_no_3_1997",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1997",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113229",
+        "legacy_id": "1894",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Cactus and Succulent Journal. vol 69, no. 3. (1997) p 152",
+            "machine_name": "cactus_and_succulent_journal_vol_69_no_3_1997_p_152",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "echinocereus_viridiflorus_davisii",
+                "type": "variety",
+                "archival_data": [
+                    "1474524"
+                ]
+            },
+            "volume": null,
+            "page": "p 152",
+            "year": "1997",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1761780",
+                "legacy_id": "60951",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "name": "Systematic Botany. vol 34, no. 3. (2009)",
+    "machine_name": "systematic_botany_vol_34_no_3_2009",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2009",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2122800",
+        "legacy_id": "109279",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Systematic Botany. vol 34, no. 3. (2009) p 562, Pl. 1B",
+            "machine_name": "systematic_botany_vol_34_no_3_2009_p_562_pl_1b",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "melasma_scabrum",
+                "type": "species",
+                "archival_data": [
+                    "1419305"
+                ]
+            },
+            "volume": null,
+            "page": "p 562, Pl. 1B",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2012420",
+                "legacy_id": "415512",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "Systematic Botany. vol 34, no. 3. (2009) p 562, Pl. 1F",
+            "machine_name": "systematic_botany_vol_34_no_3_2009_p_562_pl_1f",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "aeginetia_indica",
+                "type": "species",
+                "archival_data": [
+                    "1399783"
+                ]
+            },
+            "volume": null,
+            "page": "p 562, Pl. 1F",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2012421",
+                "legacy_id": "415513",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        }
+    ]
+}

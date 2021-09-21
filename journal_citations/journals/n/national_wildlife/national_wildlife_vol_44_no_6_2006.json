@@ -1,0 +1,61 @@
+{
+    "name": "National Wildlife. vol 44, no. 6. (2006)",
+    "machine_name": "national_wildlife_vol_44_no_6_2006",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2006",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2120725",
+        "legacy_id": "76390",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "National Wildlife. vol 44, no. 6. (2006) p 43",
+            "machine_name": "national_wildlife_vol_44_no_6_2006_p_43",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "potentilla_anserina",
+                "type": "species",
+                "archival_data": [
+                    "1423118"
+                ]
+            },
+            "volume": null,
+            "page": "p 43",
+            "year": "2006",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1966095",
+                "legacy_id": "328752",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        }
+    ]
+}

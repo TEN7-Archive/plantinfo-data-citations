@@ -1,0 +1,61 @@
+{
+    "name": "Everett, Thomas H. The N.Y.B.G. Illustrated Encyclopedia of Hort. vol. 6 (1982)",
+    "machine_name": "everett_thomas_h_the_n_y_b_g_illustrated_encyclopedia_of_hort_vol_6_1982",
+    "type": "journal_book",
+    "volume": "6",
+    "number": null,
+    "year": "1982",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2117688",
+        "legacy_id": "2497",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Everett, Thomas H. The N.Y.B.G. Illustrated Encyclopedia of Hort. vol. 6 (1982) 6 p 1802",
+            "machine_name": "everett_thomas_h_the_n_y_b_g_illustrated_encyclopedia_of_hort_vol_6_1982_6_p_1802",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "incarvillea_delavayi",
+                "type": "species",
+                "archival_data": [
+                    "1416507"
+                ]
+            },
+            "volume": "6",
+            "page": "p 1802",
+            "year": "1982",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1895237",
+                "legacy_id": "239210",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483346299"
+            }
+        }
+    ]
+}

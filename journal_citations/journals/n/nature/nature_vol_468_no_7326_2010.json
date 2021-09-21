@@ -1,0 +1,61 @@
+{
+    "name": "Nature. vol 468, no. 7326. (2010)",
+    "machine_name": "nature_vol_468_no_7326_2010",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2010",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2123990",
+        "legacy_id": "112009",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Nature. vol 468, no. 7326. (2010) p 887",
+            "machine_name": "nature_vol_468_no_7326_2010_p_887",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "nicotiana_attenuata",
+                "type": "species",
+                "archival_data": [
+                    "1417923"
+                ]
+            },
+            "volume": null,
+            "page": "p 887",
+            "year": "2010",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2058617",
+                "legacy_id": "424652",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        }
+    ]
+}

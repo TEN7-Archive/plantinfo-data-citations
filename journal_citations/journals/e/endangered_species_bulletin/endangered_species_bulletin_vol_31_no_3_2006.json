@@ -1,0 +1,102 @@
+{
+    "name": "Endangered Species Bulletin. vol 31, no. 3. (2006)",
+    "machine_name": "endangered_species_bulletin_vol_31_no_3_2006",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2006",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2123503",
+        "legacy_id": "124925",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Endangered Species Bulletin. vol 31, no. 3. (2006) p 6",
+            "machine_name": "endangered_species_bulletin_vol_31_no_3_2006_p_6",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hesperomannia_arbuscula",
+                "type": "species",
+                "archival_data": [
+                    "1449723"
+                ]
+            },
+            "volume": null,
+            "page": "p 6",
+            "year": "2006",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2030558",
+                "legacy_id": "478882",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        },
+        {
+            "name": "Endangered Species Bulletin. vol 31, no. 3. (2006) 30-31",
+            "machine_name": "endangered_species_bulletin_vol_31_no_3_2006_30_31",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "astragalus_jaegerianus",
+                "type": "species",
+                "archival_data": [
+                    "1461149"
+                ]
+            },
+            "volume": null,
+            "page": "30-31",
+            "year": "2006",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2030559",
+                "legacy_id": "478883",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        }
+    ]
+}

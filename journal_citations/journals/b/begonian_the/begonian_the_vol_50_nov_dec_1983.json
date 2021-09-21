@@ -1,0 +1,61 @@
+{
+    "name": "Begonian, The. vol 50, Nov\/Dec. (1983)",
+    "machine_name": "begonian_the_vol_50_nov_dec_1983",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1983",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2558291",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1565696990"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Begonian, The. vol 50, Nov\/Dec. (1983) p cover",
+            "machine_name": "begonian_the_vol_50_nov_dec_1983_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "begonia_leathermaniae",
+                "type": "species",
+                "archival_data": [
+                    "1400392"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2558296",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1565697067"
+            }
+        }
+    ]
+}

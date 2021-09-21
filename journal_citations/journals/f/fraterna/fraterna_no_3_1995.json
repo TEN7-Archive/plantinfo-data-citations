@@ -1,0 +1,137 @@
+{
+    "name": "Fraterna. no. 3. (1995)",
+    "machine_name": "fraterna_no_3_1995",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1995",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114112",
+        "legacy_id": "2677",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Fraterna. no. 3. (1995) p 11",
+            "machine_name": "fraterna_no_3_1995_p_11",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hoya_crassicaulis",
+                "type": "species",
+                "archival_data": [
+                    "1420238"
+                ]
+            },
+            "volume": null,
+            "page": "p 11",
+            "year": "1995",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1797810",
+                "legacy_id": "103334",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Fraterna. no. 3. (1995) p 11",
+            "machine_name": "fraterna_no_3_1995_p_11",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hoya_incrassata",
+                "type": "species",
+                "archival_data": [
+                    "1420555"
+                ]
+            },
+            "volume": null,
+            "page": "p 11",
+            "year": "1995",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1798099",
+                "legacy_id": "103375",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Fraterna. no. 3. (1995) p cover|2",
+            "machine_name": "fraterna_no_3_1995_p_cover_2",
+            "type": "citation_reference",
+            "plant": [],
+            "volume": null,
+            "page": "p cover|2",
+            "year": "1995",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1798431",
+                "legacy_id": "103464",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "name": "Scientific American. vol 260, no. 6. (1989)",
+    "machine_name": "scientific_american_vol_260_no_6_1989",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1989",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2118954",
+        "legacy_id": "56171",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Scientific American. vol 260, no. 6. (1989) p 114",
+            "machine_name": "scientific_american_vol_260_no_6_1989_p_114",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "artemisia_absinthium",
+                "type": "species",
+                "archival_data": [
+                    "1402551"
+                ]
+            },
+            "volume": null,
+            "page": "p 114",
+            "year": "1989",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1919566",
+                "legacy_id": "273370",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "name": "Australian Horticulture. vol 89, no. 1. (1991)",
+    "machine_name": "australian_horticulture_vol_89_no_1_1991",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1991",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113337",
+        "legacy_id": "1235",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Australian Horticulture. vol 89, no. 1. (1991) p backcover (Adv.)",
+            "machine_name": "australian_horticulture_vol_89_no_1_1991_p_backcover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ulmus_carpinifolia_variegata",
+                "type": "variety",
+                "archival_data": [
+                    "1498030"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover (Adv.)",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1763566",
+                "legacy_id": "58793",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Australian Horticulture. vol 89, no. 1. (1991) p 90",
+            "machine_name": "australian_horticulture_vol_89_no_1_1991_p_90",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "codonocarpus_cotinifolius",
+                "type": "species",
+                "archival_data": [
+                    "1409387"
+                ]
+            },
+            "volume": null,
+            "page": "p 90",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1778301",
+                "legacy_id": "83369",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        }
+    ]
+}

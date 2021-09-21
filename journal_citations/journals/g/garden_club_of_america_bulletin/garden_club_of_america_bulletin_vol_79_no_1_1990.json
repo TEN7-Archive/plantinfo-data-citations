@@ -1,0 +1,102 @@
+{
+    "name": "Garden Club of America, Bulletin. vol 79, no. 1. (1990)",
+    "machine_name": "garden_club_of_america_bulletin_vol_79_no_1_1990",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1990",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114362",
+        "legacy_id": "2684",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Garden Club of America, Bulletin. vol 79, no. 1. (1990) p 2",
+            "machine_name": "garden_club_of_america_bulletin_vol_79_no_1_1990_p_2",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "orontium_aquaticum",
+                "type": "species",
+                "archival_data": [
+                    "1422605"
+                ]
+            },
+            "volume": null,
+            "page": "p 2",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1810439",
+                "legacy_id": "117311",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Garden Club of America, Bulletin. vol 79, no. 1. (1990) p inside front\/backcover",
+            "machine_name": "garden_club_of_america_bulletin_vol_79_no_1_1990_p_inside_front_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "zinnia_angustifolia",
+                "type": "species",
+                "archival_data": [
+                    "1439059"
+                ]
+            },
+            "volume": null,
+            "page": "p inside front\/backcover",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1840142",
+                "legacy_id": "142370",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "name": "Fraterna. 3rd issue. (1993)",
+    "machine_name": "fraterna_3rd_issue_1993",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1993",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114131",
+        "legacy_id": "2672",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Fraterna. 3rd issue. (1993) p 11",
+            "machine_name": "fraterna_3rd_issue_1993_p_11",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hoya_heuschkeliana",
+                "type": "species",
+                "archival_data": [
+                    "1420551"
+                ]
+            },
+            "volume": null,
+            "page": "p 11",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1798090",
+                "legacy_id": "103366",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Fraterna. 3rd issue. (1993) p 2",
+            "machine_name": "fraterna_3rd_issue_1993_p_2",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hoya_imperialis",
+                "type": "species",
+                "archival_data": [
+                    "1420553"
+                ]
+            },
+            "volume": null,
+            "page": "p 2",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1798095",
+                "legacy_id": "103371",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        }
+    ]
+}

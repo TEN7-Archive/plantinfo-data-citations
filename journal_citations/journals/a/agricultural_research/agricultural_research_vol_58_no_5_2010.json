@@ -1,0 +1,61 @@
+{
+    "name": "Agricultural Research. vol 58, no. 5. (2010)",
+    "machine_name": "agricultural_research_vol_58_no_5_2010",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2010",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2123781",
+        "legacy_id": "108651",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Agricultural Research. vol 58, no. 5. (2010) p 10",
+            "machine_name": "agricultural_research_vol_58_no_5_2010_p_10",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lens_culinaris_essex",
+                "type": "variety",
+                "archival_data": [
+                    "1594190"
+                ]
+            },
+            "volume": null,
+            "page": "p 10",
+            "year": "2010",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2044254",
+                "legacy_id": "412308",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        }
+    ]
+}

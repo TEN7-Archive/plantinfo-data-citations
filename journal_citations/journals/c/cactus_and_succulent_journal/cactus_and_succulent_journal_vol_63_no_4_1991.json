@@ -1,0 +1,389 @@
+{
+    "name": "Cactus and Succulent Journal. vol 63, no. 4. (1991)",
+    "machine_name": "cactus_and_succulent_journal_vol_63_no_4_1991",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1991",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2111171",
+        "legacy_id": "1860",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Cactus and Succulent Journal. vol 63, no. 4. (1991) p 208, Pl. 1.",
+            "machine_name": "cactus_and_succulent_journal_vol_63_no_4_1991_p_208_pl_1",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "echinocereus_fendleri_fendleri",
+                "type": "variety",
+                "archival_data": [
+                    "1474260"
+                ]
+            },
+            "volume": null,
+            "page": "p 208, Pl. 1.",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1715144",
+                "legacy_id": "13573",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 63, no. 4. (1991) p 188, Pl. 12.",
+            "machine_name": "cactus_and_succulent_journal_vol_63_no_4_1991_p_188_pl_12",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pachycereus_marginatus_marginatus",
+                "type": "variety",
+                "archival_data": [
+                    "1483962"
+                ]
+            },
+            "volume": null,
+            "page": "p 188, Pl. 12.",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1737721",
+                "legacy_id": "34935",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 63, no. 4. (1991) p 183",
+            "machine_name": "cactus_and_succulent_journal_vol_63_no_4_1991_p_183",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "dyckia_marnier_lapostollei",
+                "type": "species",
+                "archival_data": [
+                    "1405446"
+                ]
+            },
+            "volume": null,
+            "page": "p 183",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1788851",
+                "legacy_id": "90870",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 63, no. 4. (1991) p 183",
+            "machine_name": "cactus_and_succulent_journal_vol_63_no_4_1991_p_183",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pelargonium_alternans",
+                "type": "species",
+                "archival_data": [
+                    "1426641"
+                ]
+            },
+            "volume": null,
+            "page": "p 183",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1813800",
+                "legacy_id": "119500",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 63, no. 4. (1991) p 182",
+            "machine_name": "cactus_and_succulent_journal_vol_63_no_4_1991_p_182",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "oreocereus_trollii",
+                "type": "species",
+                "archival_data": [
+                    "1422213"
+                ]
+            },
+            "volume": null,
+            "page": "p 182",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1814906",
+                "legacy_id": "117117",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 63, no. 4. (1991) p 183",
+            "machine_name": "cactus_and_succulent_journal_vol_63_no_4_1991_p_183",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "sansevieria_pinguicula",
+                "type": "species",
+                "archival_data": [
+                    "1430647"
+                ]
+            },
+            "volume": null,
+            "page": "p 183",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1822407",
+                "legacy_id": "131189",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 63, no. 4. (1991) p 182",
+            "machine_name": "cactus_and_succulent_journal_vol_63_no_4_1991_p_182",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rhipsalidopsis_rosea",
+                "type": "species",
+                "archival_data": [
+                    "1423591"
+                ]
+            },
+            "volume": null,
+            "page": "p 182",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1822809",
+                "legacy_id": "127191",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 63, no. 4. (1991) p 194",
+            "machine_name": "cactus_and_succulent_journal_vol_63_no_4_1991_p_194",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "echinocereus_triglochidiatus_torowenpensis",
+                "type": "variety",
+                "archival_data": [
+                    "1474297"
+                ]
+            },
+            "volume": null,
+            "page": "p 194",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1937356",
+                "legacy_id": "315079",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 63, no. 4. (1991) p 170",
+            "machine_name": "cactus_and_succulent_journal_vol_63_no_4_1991_p_170",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "caralluma_vanduliae",
+                "type": "species",
+                "archival_data": [
+                    "1444898"
+                ]
+            },
+            "volume": null,
+            "page": "p 170",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1948565",
+                "legacy_id": "290660",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        }
+    ]
+}

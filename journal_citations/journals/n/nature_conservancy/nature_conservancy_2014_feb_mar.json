@@ -1,0 +1,61 @@
+{
+    "name": "Nature Conservancy. 2014. Feb\/Mar.",
+    "machine_name": "nature_conservancy_2014_feb_mar",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1695479",
+        "legacy_id": "125016",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Nature Conservancy. 2014. Feb\/Mar. p 49",
+            "machine_name": "nature_conservancy_2014_feb_mar_p_49",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "echinacea_tennesseensis",
+                "type": "species",
+                "archival_data": [
+                    "1405529"
+                ]
+            },
+            "volume": null,
+            "page": "p 49",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2008838",
+                "legacy_id": "480221",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        }
+    ]
+}

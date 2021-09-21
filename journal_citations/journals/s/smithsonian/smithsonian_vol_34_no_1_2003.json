@@ -1,0 +1,61 @@
+{
+    "name": "Smithsonian. vol 34, no. 1. (2003)",
+    "machine_name": "smithsonian_vol_34_no_1_2003",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2003",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2118132",
+        "legacy_id": "46629",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Smithsonian. vol 34, no. 1. (2003) p 39",
+            "machine_name": "smithsonian_vol_34_no_1_2003_p_39",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "encephalartos_woodii",
+                "type": "species",
+                "archival_data": [
+                    "1413911"
+                ]
+            },
+            "volume": null,
+            "page": "p 39",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1906157",
+                "legacy_id": "252590",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        }
+    ]
+}

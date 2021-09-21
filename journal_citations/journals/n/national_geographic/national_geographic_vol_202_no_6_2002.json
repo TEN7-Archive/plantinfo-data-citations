@@ -1,0 +1,102 @@
+{
+    "name": "National Geographic. vol 202, no. 6. (2002)",
+    "machine_name": "national_geographic_vol_202_no_6_2002",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2002",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2117879",
+        "legacy_id": "44489",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "National Geographic. vol 202, no. 6. (2002) p 20 of front matter",
+            "machine_name": "national_geographic_vol_202_no_6_2002_p_20_of_front_matter",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "euphorbia_pulcherrima",
+                "type": "species",
+                "archival_data": [
+                    "1411441"
+                ]
+            },
+            "volume": null,
+            "page": "p 20 of front matter",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1898992",
+                "legacy_id": "245530",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "National Geographic. vol 202, no. 6. (2002) p 33",
+            "machine_name": "national_geographic_vol_202_no_6_2002_p_33",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "alpinia_purpurata",
+                "type": "species",
+                "archival_data": [
+                    "1403313"
+                ]
+            },
+            "volume": null,
+            "page": "p 33",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1898993",
+                "legacy_id": "245531",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        }
+    ]
+}

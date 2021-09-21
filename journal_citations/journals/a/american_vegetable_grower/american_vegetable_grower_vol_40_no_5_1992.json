@@ -1,0 +1,102 @@
+{
+    "name": "American Vegetable Grower. vol 40, no. 5. (1992)",
+    "machine_name": "american_vegetable_grower_vol_40_no_5_1992",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1992",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2112065",
+        "legacy_id": "1095",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "American Vegetable Grower. vol 40, no. 5. (1992) p inside cover (Adv.)",
+            "machine_name": "american_vegetable_grower_vol_40_no_5_1992_p_inside_cover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lycopersicon_cultivars_merced",
+                "type": "variety",
+                "archival_data": [
+                    "1481467"
+                ]
+            },
+            "volume": null,
+            "page": "p inside cover (Adv.)",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1732431",
+                "legacy_id": "29653",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "American Vegetable Grower. vol 40, no. 5. (1992) p back cover (Adv.)",
+            "machine_name": "american_vegetable_grower_vol_40_no_5_1992_p_back_cover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "zea_c_cultivars_dazzle",
+                "type": "variety",
+                "archival_data": [
+                    "1496364"
+                ]
+            },
+            "volume": null,
+            "page": "p back cover (Adv.)",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1759771",
+                "legacy_id": "60419",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        }
+    ]
+}

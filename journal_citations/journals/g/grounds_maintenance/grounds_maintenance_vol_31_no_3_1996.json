@@ -1,0 +1,61 @@
+{
+    "name": "Grounds Maintenance. vol 31, no. 3. (1996)",
+    "machine_name": "grounds_maintenance_vol_31_no_3_1996",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1996",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2118550",
+        "legacy_id": "51789",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grounds Maintenance. vol 31, no. 3. (1996) p 46",
+            "machine_name": "grounds_maintenance_vol_31_no_3_1996_p_46",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "prunus_cultivars_okame",
+                "type": "variety",
+                "archival_data": [
+                    "1488676"
+                ]
+            },
+            "volume": null,
+            "page": "p 46",
+            "year": "1996",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1913285",
+                "legacy_id": "266434",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "name": "Natural History. vol 103, no. 10. (1994)",
+    "machine_name": "natural_history_vol_103_no_10_1994",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1994",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114381",
+        "legacy_id": "4638",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Natural History. vol 103, no. 10. (1994) p 58-65",
+            "machine_name": "natural_history_vol_103_no_10_1994_p_58_65",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pachycereus_pecten_aboriginum",
+                "type": "species",
+                "archival_data": [
+                    "1423690"
+                ]
+            },
+            "volume": null,
+            "page": "p 58-65",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": true,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1812383",
+                "legacy_id": "117789",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Natural History. vol 103, no. 10. (1994) p 26-27",
+            "machine_name": "natural_history_vol_103_no_10_1994_p_26_27",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rhizophora_mangle",
+                "type": "species",
+                "archival_data": [
+                    "1423625"
+                ]
+            },
+            "volume": null,
+            "page": "p 26-27",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1823094",
+                "legacy_id": "127231",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Natural History. vol 103, no. 10. (1994) p 40",
+            "machine_name": "natural_history_vol_103_no_10_1994_p_40",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "quercus_rubra",
+                "type": "species",
+                "archival_data": [
+                    "1421759"
+                ]
+            },
+            "volume": null,
+            "page": "p 40",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1824026",
+                "legacy_id": "126178",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        }
+    ]
+}

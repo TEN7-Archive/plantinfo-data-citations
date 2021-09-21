@@ -1,0 +1,61 @@
+{
+    "name": "Natural History. vol 122, no. 10. (2014-15)",
+    "machine_name": "natural_history_vol_122_no_10_2014_15",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2014-15",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2123829",
+        "legacy_id": "125331",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Natural History. vol 122, no. 10. (2014-15) p",
+            "machine_name": "natural_history_vol_122_no_10_2014_15_p",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "acacia_etbaica",
+                "type": "species",
+                "archival_data": [
+                    "1459771"
+                ]
+            },
+            "volume": null,
+            "page": "p",
+            "year": "2014-15",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2047906",
+                "legacy_id": "485866",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        }
+    ]
+}

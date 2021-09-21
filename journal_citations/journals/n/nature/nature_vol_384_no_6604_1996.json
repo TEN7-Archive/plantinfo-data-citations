@@ -1,0 +1,102 @@
+{
+    "name": "Nature. vol 384, no. 6604. (1996)",
+    "machine_name": "nature_vol_384_no_6604_1996",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1996",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2118509",
+        "legacy_id": "53814",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Nature. vol 384, no. 6604. (1996) p 13",
+            "machine_name": "nature_vol_384_no_6604_1996_p_13",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "protea_cynaroides",
+                "type": "species",
+                "archival_data": [
+                    "1424980"
+                ]
+            },
+            "volume": null,
+            "page": "p 13",
+            "year": "1996",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1912378",
+                "legacy_id": "268673",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Nature. vol 384, no. 6604. (1996) p 27",
+            "machine_name": "nature_vol_384_no_6604_1996_p_27",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "solanum_tuberosum",
+                "type": "species",
+                "archival_data": [
+                    "1430753"
+                ]
+            },
+            "volume": null,
+            "page": "p 27",
+            "year": "1996",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1912379",
+                "legacy_id": "268674",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        }
+    ]
+}

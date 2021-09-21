@@ -1,0 +1,184 @@
+{
+    "name": "Grower. October 12, 2006.",
+    "machine_name": "grower_october_12_2006",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1688567",
+        "legacy_id": "76029",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grower. October 12, 2006. p 5",
+            "machine_name": "grower_october_12_2006_p_5",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "brassica_oleracea_b_tenderstem",
+                "type": "variety",
+                "archival_data": [
+                    "1656097"
+                ]
+            },
+            "volume": null,
+            "page": "p 5",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1923261",
+                "legacy_id": "329974",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "Grower. October 12, 2006. p 25",
+            "machine_name": "grower_october_12_2006_p_25",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_emotions",
+                "type": "variety",
+                "archival_data": [
+                    "1656098"
+                ]
+            },
+            "volume": null,
+            "page": "p 25",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1923262",
+                "legacy_id": "329975",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "Grower. October 12, 2006. p 11",
+            "machine_name": "grower_october_12_2006_p_11",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "sutera_cultivars_cabana_series",
+                "type": "variety",
+                "archival_data": [
+                    "1561874"
+                ]
+            },
+            "volume": null,
+            "page": "p 11",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1970460",
+                "legacy_id": "328152",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        },
+        {
+            "name": "Grower. October 12, 2006. p 12",
+            "machine_name": "grower_october_12_2006_p_12",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "begonia_tuberhybrida_nonstop_series",
+                "type": "variety",
+                "archival_data": [
+                    "1464551"
+                ]
+            },
+            "volume": null,
+            "page": "p 12",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1970461",
+                "legacy_id": "328172",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        }
+    ]
+}

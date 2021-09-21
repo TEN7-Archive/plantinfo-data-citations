@@ -1,0 +1,102 @@
+{
+    "name": "American Rose, The. vol 34, no. 19. (1998)",
+    "machine_name": "american_rose_the_vol_34_no_19_1998",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1998",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114806",
+        "legacy_id": "6269",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "American Rose, The. vol 34, no. 19. (1998) p cover",
+            "machine_name": "american_rose_the_vol_34_no_19_1998_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_moonlight_and_roses",
+                "type": "variety",
+                "archival_data": [
+                    "1535778"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1839436",
+                "legacy_id": "146090",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "American Rose, The. vol 34, no. 19. (1998) p 18",
+            "machine_name": "american_rose_the_vol_34_no_19_1998_p_18",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_duchesse_de_brabant",
+                "type": "variety",
+                "archival_data": [
+                    "1487405"
+                ]
+            },
+            "volume": null,
+            "page": "p 18",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1839437",
+                "legacy_id": "146091",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        }
+    ]
+}

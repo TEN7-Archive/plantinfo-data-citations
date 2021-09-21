@@ -1,0 +1,143 @@
+{
+    "name": "Horticulture Week. October 9, 2009.",
+    "machine_name": "horticulture_week_october_9_2009",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1692401",
+        "legacy_id": "105869",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Horticulture Week. October 9, 2009. p 9 (Adv.)",
+            "machine_name": "horticulture_week_october_9_2009_p_9_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "begonia_tuberhybrida_illumination_series",
+                "type": "variety",
+                "archival_data": [
+                    "1563502"
+                ]
+            },
+            "volume": null,
+            "page": "p 9 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1998844",
+                "legacy_id": "402592",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Horticulture Week. October 9, 2009. p 20, Pl. 1",
+            "machine_name": "horticulture_week_october_9_2009_p_20_pl_1",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "nyssa_sinensis",
+                "type": "species",
+                "archival_data": [
+                    "1425435"
+                ]
+            },
+            "volume": null,
+            "page": "p 20, Pl. 1",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1998845",
+                "legacy_id": "402593",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Horticulture Week. October 9, 2009. p 21, Pl. 2",
+            "machine_name": "horticulture_week_october_9_2009_p_21_pl_2",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "nyssa_sylvatica",
+                "type": "species",
+                "archival_data": [
+                    "1425436"
+                ]
+            },
+            "volume": null,
+            "page": "p 21, Pl. 2",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1998846",
+                "legacy_id": "402594",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        }
+    ]
+}

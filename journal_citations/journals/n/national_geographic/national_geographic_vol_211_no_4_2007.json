@@ -1,0 +1,102 @@
+{
+    "name": "National Geographic. vol 211, no. 4. (2007)",
+    "machine_name": "national_geographic_vol_211_no_4_2007",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2007",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2121029",
+        "legacy_id": "80469",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "National Geographic. vol 211, no. 4. (2007) p 124",
+            "machine_name": "national_geographic_vol_211_no_4_2007_p_124",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "oenothera_biennis",
+                "type": "species",
+                "archival_data": [
+                    "1426165"
+                ]
+            },
+            "volume": null,
+            "page": "p 124",
+            "year": "2007",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1974042",
+                "legacy_id": "339092",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        },
+        {
+            "name": "National Geographic. vol 211, no. 4. (2007) p 128",
+            "machine_name": "national_geographic_vol_211_no_4_2007_p_128",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "tradescantia_bracteata",
+                "type": "species",
+                "archival_data": [
+                    "1432391"
+                ]
+            },
+            "volume": null,
+            "page": "p 128",
+            "year": "2007",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1974043",
+                "legacy_id": "339093",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        }
+    ]
+}

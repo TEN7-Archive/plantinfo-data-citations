@@ -1,0 +1,102 @@
+{
+    "name": "Plant Cell, The. vol 15, no. 12. (2003)",
+    "machine_name": "plant_cell_the_vol_15_no_12_2003",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2003",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2118569",
+        "legacy_id": "54454",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Plant Cell, The. vol 15, no. 12. (2003) p 2794, Pl. 1(a,d)",
+            "machine_name": "plant_cell_the_vol_15_no_12_2003_p_2794_pl_1_a_d",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "arabidopsis_thaliana",
+                "type": "species",
+                "archival_data": [
+                    "1400989"
+                ]
+            },
+            "volume": null,
+            "page": "p 2794, Pl. 1(a,d)",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1913670",
+                "legacy_id": "269334",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Plant Cell, The. vol 15, no. 12. (2003) p 2901, Pl. 1(a-e, far left)",
+            "machine_name": "plant_cell_the_vol_15_no_12_2003_p_2901_pl_1_a_e_far_left",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "oryza_sativa",
+                "type": "species",
+                "archival_data": [
+                    "1422920"
+                ]
+            },
+            "volume": null,
+            "page": "p 2901, Pl. 1(a-e, far left)",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": true,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1913671",
+                "legacy_id": "269335",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        }
+    ]
+}

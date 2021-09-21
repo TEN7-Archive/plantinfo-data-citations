@@ -1,0 +1,143 @@
+{
+    "name": "Grower. June 15, 2006.",
+    "machine_name": "grower_june_15_2006",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1687724",
+        "legacy_id": "73489",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grower. June 15, 2006. p 19",
+            "machine_name": "grower_june_15_2006_p_19",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "euphorbia_pulcherrima_mars_series",
+                "type": "variety",
+                "archival_data": [
+                    "1574883"
+                ]
+            },
+            "volume": null,
+            "page": "p 19",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1965820",
+                "legacy_id": "321853",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        },
+        {
+            "name": "Grower. June 15, 2006. p 23",
+            "machine_name": "grower_june_15_2006_p_23",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "fragaria_ananassa_jubilee",
+                "type": "variety",
+                "archival_data": [
+                    "1582737"
+                ]
+            },
+            "volume": null,
+            "page": "p 23",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1965821",
+                "legacy_id": "321854",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        },
+        {
+            "name": "Grower. June 15, 2006. p 28",
+            "machine_name": "grower_june_15_2006_p_28",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "begonia_cultivars_jolly_series",
+                "type": "variety",
+                "archival_data": [
+                    "1643560"
+                ]
+            },
+            "volume": null,
+            "page": "p 28",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1967077",
+                "legacy_id": "322295",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        }
+    ]
+}

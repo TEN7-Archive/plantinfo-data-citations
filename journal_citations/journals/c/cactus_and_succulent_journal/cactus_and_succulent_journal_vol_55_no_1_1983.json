@@ -1,0 +1,266 @@
+{
+    "name": "Cactus and Succulent Journal. vol 55, no. 1. (1983)",
+    "machine_name": "cactus_and_succulent_journal_vol_55_no_1_1983",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1983",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2111165",
+        "legacy_id": "1810",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Cactus and Succulent Journal. vol 55, no. 1. (1983) p 26, Pl. 9",
+            "machine_name": "cactus_and_succulent_journal_vol_55_no_1_1983_p_26_pl_9",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "duvalia_sulcata_seminuda",
+                "type": "variety",
+                "archival_data": [
+                    "1468844"
+                ]
+            },
+            "volume": null,
+            "page": "p 26, Pl. 9",
+            "year": "1983",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1715086",
+                "legacy_id": "13515",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 55, no. 1. (1983) p 1 (cover)",
+            "machine_name": "cactus_and_succulent_journal_vol_55_no_1_1983_p_1_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "astrophytum_ornatum",
+                "type": "species",
+                "archival_data": [
+                    "1398418"
+                ]
+            },
+            "volume": null,
+            "page": "p 1 (cover)",
+            "year": "1983",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1770527",
+                "legacy_id": "74598",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 55, no. 1. (1983) p 23, Pl. 1-3",
+            "machine_name": "cactus_and_succulent_journal_vol_55_no_1_1983_p_23_pl_1_3",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "caralluma_petraea",
+                "type": "species",
+                "archival_data": [
+                    "1407387"
+                ]
+            },
+            "volume": null,
+            "page": "p 23, Pl. 1-3",
+            "year": "1983",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1778039",
+                "legacy_id": "79276",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 55, no. 1. (1983) p 26, Pl. 8-9",
+            "machine_name": "cactus_and_succulent_journal_vol_55_no_1_1983_p_26_pl_8_9",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "duvalia_velutina",
+                "type": "species",
+                "archival_data": [
+                    "1406285"
+                ]
+            },
+            "volume": null,
+            "page": "p 26, Pl. 8-9",
+            "year": "1983",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1788680",
+                "legacy_id": "90862",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 55, no. 1. (1983) p 22, Pl. 1",
+            "machine_name": "cactus_and_succulent_journal_vol_55_no_1_1983_p_22_pl_1",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "mammillaria_hernandezii",
+                "type": "species",
+                "archival_data": [
+                    "1416651"
+                ]
+            },
+            "volume": null,
+            "page": "p 22, Pl. 1",
+            "year": "1983",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1809390",
+                "legacy_id": "111706",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 55, no. 1. (1983) p 27",
+            "machine_name": "cactus_and_succulent_journal_vol_55_no_1_1983_p_27",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "echeveria_papillosa",
+                "type": "species",
+                "archival_data": [
+                    "1405498"
+                ]
+            },
+            "volume": null,
+            "page": "p 27",
+            "year": "1983",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1937306",
+                "legacy_id": "315022",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        }
+    ]
+}

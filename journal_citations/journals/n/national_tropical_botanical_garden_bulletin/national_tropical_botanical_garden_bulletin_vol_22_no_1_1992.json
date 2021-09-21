@@ -1,0 +1,61 @@
+{
+    "name": "National Tropical Botanical Garden, Bulletin. vol 22, no. 1. (1992)",
+    "machine_name": "national_tropical_botanical_garden_bulletin_vol_22_no_1_1992",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1992",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113749",
+        "legacy_id": "4598",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "National Tropical Botanical Garden, Bulletin. vol 22, no. 1. (1992) p cover",
+            "machine_name": "national_tropical_botanical_garden_bulletin_vol_22_no_1_1992_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "brighamia_rockii",
+                "type": "species",
+                "archival_data": [
+                    "1403462"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1774532",
+                "legacy_id": "76956",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        }
+    ]
+}

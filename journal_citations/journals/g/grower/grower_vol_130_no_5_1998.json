@@ -1,0 +1,471 @@
+{
+    "name": "Grower. vol 130, no. 5. (1998)",
+    "machine_name": "grower_vol_130_no_5_1998",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1998",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114928",
+        "legacy_id": "6432",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grower. vol 130, no. 5. (1998) p 6",
+            "machine_name": "grower_vol_130_no_5_1998_p_6",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "prunus_c_cultivars_sunburst",
+                "type": "variety",
+                "archival_data": [
+                    "1489267"
+                ]
+            },
+            "volume": null,
+            "page": "p 6",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1842145",
+                "legacy_id": "148130",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Grower. vol 130, no. 5. (1998) p 16",
+            "machine_name": "grower_vol_130_no_5_1998_p_16",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "verbascum_cultivars_raspberry_ripple",
+                "type": "variety",
+                "archival_data": [
+                    "1535300"
+                ]
+            },
+            "volume": null,
+            "page": "p 16",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1842154",
+                "legacy_id": "148139",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Grower. vol 130, no. 5. (1998) p 16",
+            "machine_name": "grower_vol_130_no_5_1998_p_16",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "camellia_cultivars_les_jury",
+                "type": "variety",
+                "archival_data": [
+                    "1535301"
+                ]
+            },
+            "volume": null,
+            "page": "p 16",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1842155",
+                "legacy_id": "148140",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Grower. vol 130, no. 5. (1998) p 17",
+            "machine_name": "grower_vol_130_no_5_1998_p_17",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "petunia_cultivars_limelight_series",
+                "type": "variety",
+                "archival_data": [
+                    "1534061"
+                ]
+            },
+            "volume": null,
+            "page": "p 17",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1842157",
+                "legacy_id": "148142",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Grower. vol 130, no. 5. (1998) p 21-22",
+            "machine_name": "grower_vol_130_no_5_1998_p_21_22",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lactuca_cultivars_ronda_rz",
+                "type": "variety",
+                "archival_data": [
+                    "1535299"
+                ]
+            },
+            "volume": null,
+            "page": "p 21-22",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1842158",
+                "legacy_id": "148143",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Grower. vol 130, no. 5. (1998) p 21",
+            "machine_name": "grower_vol_130_no_5_1998_p_21",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lactuca_cultivars_concorde_rz",
+                "type": "variety",
+                "archival_data": [
+                    "1535302"
+                ]
+            },
+            "volume": null,
+            "page": "p 21",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1842159",
+                "legacy_id": "148144",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Grower. vol 130, no. 5. (1998) p 21",
+            "machine_name": "grower_vol_130_no_5_1998_p_21",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lactuca_cultivars_malibu_rz",
+                "type": "variety",
+                "archival_data": [
+                    "1535303"
+                ]
+            },
+            "volume": null,
+            "page": "p 21",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1842160",
+                "legacy_id": "148145",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Grower. vol 130, no. 5. (1998) p 22",
+            "machine_name": "grower_vol_130_no_5_1998_p_22",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lactuca_cultivars_pantheon_rz",
+                "type": "variety",
+                "archival_data": [
+                    "1535304"
+                ]
+            },
+            "volume": null,
+            "page": "p 22",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1842161",
+                "legacy_id": "148146",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Grower. vol 130, no. 5. (1998) p 22",
+            "machine_name": "grower_vol_130_no_5_1998_p_22",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lactuca_cultivars_klausia",
+                "type": "variety",
+                "archival_data": [
+                    "1535305"
+                ]
+            },
+            "volume": null,
+            "page": "p 22",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1842163",
+                "legacy_id": "148148",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Grower. vol 130, no. 5. (1998) p 23",
+            "machine_name": "grower_vol_130_no_5_1998_p_23",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lactuca_cultivars_kendai_rz",
+                "type": "variety",
+                "archival_data": [
+                    "1535306"
+                ]
+            },
+            "volume": null,
+            "page": "p 23",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1842164",
+                "legacy_id": "148149",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Grower. vol 130, no. 5. (1998) p 23",
+            "machine_name": "grower_vol_130_no_5_1998_p_23",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lactuca_cultivars_remus_rz",
+                "type": "variety",
+                "archival_data": [
+                    "1535307"
+                ]
+            },
+            "volume": null,
+            "page": "p 23",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1842165",
+                "legacy_id": "148150",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        }
+    ]
+}

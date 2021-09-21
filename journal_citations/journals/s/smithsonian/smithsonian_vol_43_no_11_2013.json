@@ -1,0 +1,61 @@
+{
+    "name": "Smithsonian. vol 43, no. 11. (2013)",
+    "machine_name": "smithsonian_vol_43_no_11_2013",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2013",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2124125",
+        "legacy_id": "121652",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Smithsonian. vol 43, no. 11. (2013) p 78",
+            "machine_name": "smithsonian_vol_43_no_11_2013_p_78",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "silene_stenophylla",
+                "type": "species",
+                "archival_data": [
+                    "1461207"
+                ]
+            },
+            "volume": null,
+            "page": "p 78",
+            "year": "2013",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2072326",
+                "legacy_id": "460125",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483209571"
+            }
+        }
+    ]
+}

@@ -1,0 +1,717 @@
+{
+    "name": "Magnolia, Journal of the Magnolia Soc. vol 43, no. 84. (2008)",
+    "machine_name": "magnolia_journal_of_the_magnolia_soc_vol_43_no_84_2008",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2008",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2121477",
+        "legacy_id": "97769",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Magnolia, Journal of the Magnolia Soc. vol 43, no. 84. (2008) p cover",
+            "machine_name": "magnolia_journal_of_the_magnolia_soc_vol_43_no_84_2008_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "magnolia_cultivars_frank_s_masterpiece",
+                "type": "variety",
+                "archival_data": [
+                    "1574089"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1986615",
+                "legacy_id": "382272",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Magnolia, Journal of the Magnolia Soc. vol 43, no. 84. (2008) p 2;6-9;11-15",
+            "machine_name": "magnolia_journal_of_the_magnolia_soc_vol_43_no_84_2008_p_2_6_9_11_15",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "magnolia_stellata",
+                "type": "species",
+                "archival_data": [
+                    "1421492"
+                ]
+            },
+            "volume": null,
+            "page": "p 2;6-9;11-15",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1986616",
+                "legacy_id": "382273",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Magnolia, Journal of the Magnolia Soc. vol 43, no. 84. (2008) p 21-22",
+            "machine_name": "magnolia_journal_of_the_magnolia_soc_vol_43_no_84_2008_p_21_22",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "magnolia_campbellii",
+                "type": "species",
+                "archival_data": [
+                    "1421166"
+                ]
+            },
+            "volume": null,
+            "page": "p 21-22",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1986617",
+                "legacy_id": "382274",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Magnolia, Journal of the Magnolia Soc. vol 43, no. 84. (2008) p 24",
+            "machine_name": "magnolia_journal_of_the_magnolia_soc_vol_43_no_84_2008_p_24",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "magnolia_cultivars_sweetheart",
+                "type": "variety",
+                "archival_data": [
+                    "1574307"
+                ]
+            },
+            "volume": null,
+            "page": "p 24",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1986618",
+                "legacy_id": "382275",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Magnolia, Journal of the Magnolia Soc. vol 43, no. 84. (2008) p 24",
+            "machine_name": "magnolia_journal_of_the_magnolia_soc_vol_43_no_84_2008_p_24",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "magnolia_cultivars_royal_purple",
+                "type": "variety",
+                "archival_data": [
+                    "1639699"
+                ]
+            },
+            "volume": null,
+            "page": "p 24",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1986619",
+                "legacy_id": "382276",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Magnolia, Journal of the Magnolia Soc. vol 43, no. 84. (2008) p 25",
+            "machine_name": "magnolia_journal_of_the_magnolia_soc_vol_43_no_84_2008_p_25",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "magnolia_cultivars_ian_s_red",
+                "type": "variety",
+                "archival_data": [
+                    "1639700"
+                ]
+            },
+            "volume": null,
+            "page": "p 25",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1986620",
+                "legacy_id": "382277",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Magnolia, Journal of the Magnolia Soc. vol 43, no. 84. (2008) p 26",
+            "machine_name": "magnolia_journal_of_the_magnolia_soc_vol_43_no_84_2008_p_26",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "magnolia_cultivars_felix",
+                "type": "variety",
+                "archival_data": [
+                    "1639701"
+                ]
+            },
+            "volume": null,
+            "page": "p 26",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1986621",
+                "legacy_id": "382278",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Magnolia, Journal of the Magnolia Soc. vol 43, no. 84. (2008) p 26",
+            "machine_name": "magnolia_journal_of_the_magnolia_soc_vol_43_no_84_2008_p_26",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "magnolia_cultivars_genie",
+                "type": "variety",
+                "archival_data": [
+                    "1639702"
+                ]
+            },
+            "volume": null,
+            "page": "p 26",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1986622",
+                "legacy_id": "382279",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Magnolia, Journal of the Magnolia Soc. vol 43, no. 84. (2008) p 27",
+            "machine_name": "magnolia_journal_of_the_magnolia_soc_vol_43_no_84_2008_p_27",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "magnolia_cultivars_aurora",
+                "type": "variety",
+                "archival_data": [
+                    "1574088"
+                ]
+            },
+            "volume": null,
+            "page": "p 27",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1986623",
+                "legacy_id": "382280",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Magnolia, Journal of the Magnolia Soc. vol 43, no. 84. (2008) p 28",
+            "machine_name": "magnolia_journal_of_the_magnolia_soc_vol_43_no_84_2008_p_28",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "magnolia_cultivars_fiona",
+                "type": "variety",
+                "archival_data": [
+                    "1639703"
+                ]
+            },
+            "volume": null,
+            "page": "p 28",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1986624",
+                "legacy_id": "382281",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Magnolia, Journal of the Magnolia Soc. vol 43, no. 84. (2008) p 33",
+            "machine_name": "magnolia_journal_of_the_magnolia_soc_vol_43_no_84_2008_p_33",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "magnolia_cultivars_exotic_star",
+                "type": "variety",
+                "archival_data": [
+                    "1639704"
+                ]
+            },
+            "volume": null,
+            "page": "p 33",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1986625",
+                "legacy_id": "382282",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Magnolia, Journal of the Magnolia Soc. vol 43, no. 84. (2008) p 34",
+            "machine_name": "magnolia_journal_of_the_magnolia_soc_vol_43_no_84_2008_p_34",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "magnolia_cultivars_string_of_pearls",
+                "type": "variety",
+                "archival_data": [
+                    "1517726"
+                ]
+            },
+            "volume": null,
+            "page": "p 34",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1986626",
+                "legacy_id": "382283",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Magnolia, Journal of the Magnolia Soc. vol 43, no. 84. (2008) p 37 (Adv.)",
+            "machine_name": "magnolia_journal_of_the_magnolia_soc_vol_43_no_84_2008_p_37_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "magnolia_cultivars_toro",
+                "type": "variety",
+                "archival_data": [
+                    "1584901"
+                ]
+            },
+            "volume": null,
+            "page": "p 37 (Adv.)",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1986627",
+                "legacy_id": "382284",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Magnolia, Journal of the Magnolia Soc. vol 43, no. 84. (2008) p 38 (Adv.)",
+            "machine_name": "magnolia_journal_of_the_magnolia_soc_vol_43_no_84_2008_p_38_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "magnolia_champaca",
+                "type": "species",
+                "archival_data": [
+                    "1450722"
+                ]
+            },
+            "volume": null,
+            "page": "p 38 (Adv.)",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1986628",
+                "legacy_id": "382285",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Magnolia, Journal of the Magnolia Soc. vol 43, no. 84. (2008) p 38 (Adv.)",
+            "machine_name": "magnolia_journal_of_the_magnolia_soc_vol_43_no_84_2008_p_38_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "magnolia_alba",
+                "type": "species",
+                "archival_data": [
+                    "1456433"
+                ]
+            },
+            "volume": null,
+            "page": "p 38 (Adv.)",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1986629",
+                "legacy_id": "382286",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Magnolia, Journal of the Magnolia Soc. vol 43, no. 84. (2008) p 38 (Adv.)",
+            "machine_name": "magnolia_journal_of_the_magnolia_soc_vol_43_no_84_2008_p_38_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "magnolia_coco",
+                "type": "species",
+                "archival_data": [
+                    "1421169"
+                ]
+            },
+            "volume": null,
+            "page": "p 38 (Adv.)",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1986630",
+                "legacy_id": "382287",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Magnolia, Journal of the Magnolia Soc. vol 43, no. 84. (2008) p backcover",
+            "machine_name": "magnolia_journal_of_the_magnolia_soc_vol_43_no_84_2008_p_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "magnolia_sieboldii_min_pyong_gal",
+                "type": "variety",
+                "archival_data": [
+                    "1639705"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1986631",
+                "legacy_id": "382288",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        }
+    ]
+}

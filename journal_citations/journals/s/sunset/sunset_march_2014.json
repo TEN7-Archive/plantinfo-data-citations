@@ -1,0 +1,143 @@
+{
+    "name": "Sunset. March 2014.",
+    "machine_name": "sunset_march_2014",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1695005",
+        "legacy_id": "124110",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Sunset. March 2014. p 45 (Adv.)",
+            "machine_name": "sunset_march_2014_p_45_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "mandevilla_cultivars_sun_parasol_series",
+                "type": "variety",
+                "archival_data": [
+                    "1537972"
+                ]
+            },
+            "volume": null,
+            "page": "p 45 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2009378",
+                "legacy_id": "474607",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "Sunset. March 2014. p 102",
+            "machine_name": "sunset_march_2014_p_102",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ceanothus_gloriosus",
+                "type": "species",
+                "archival_data": [
+                    "1403697"
+                ]
+            },
+            "volume": null,
+            "page": "p 102",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2009379",
+                "legacy_id": "474609",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "Sunset. March 2014. p 44",
+            "machine_name": "sunset_march_2014_p_44",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "digiplexis_cultivars_illumination_series",
+                "type": "variety",
+                "archival_data": [
+                    "1608315"
+                ]
+            },
+            "volume": null,
+            "page": "p 44",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2051094",
+                "legacy_id": "474608",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        }
+    ]
+}

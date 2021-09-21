@@ -1,0 +1,61 @@
+{
+    "name": "Arnoldia. vol 49, no. 2. (1989)",
+    "machine_name": "arnoldia_vol_49_no_2_1989",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1989",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114629",
+        "legacy_id": "1190",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Arnoldia. vol 49, no. 2. (1989) p cover",
+            "machine_name": "arnoldia_vol_49_no_2_1989_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "thamnocalamus_spathaceus",
+                "type": "species",
+                "archival_data": [
+                    "1430102"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1989",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1835110",
+                "legacy_id": "137046",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        }
+    ]
+}

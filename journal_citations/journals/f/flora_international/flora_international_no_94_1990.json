@@ -1,0 +1,143 @@
+{
+    "name": "Flora International. no. 94. (1990)",
+    "machine_name": "flora_international_no_94_1990",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1990",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113016",
+        "legacy_id": "2600",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Flora International. no. 94. (1990) p 48",
+            "machine_name": "flora_international_no_94_1990_p_48",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_fruhlingsgold_spring_gold",
+                "type": "variety",
+                "archival_data": [
+                    "1488024"
+                ]
+            },
+            "volume": null,
+            "page": "p 48",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1751709",
+                "legacy_id": "47764",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483154438"
+            }
+        },
+        {
+            "name": "Flora International. no. 94. (1990) p 48",
+            "machine_name": "flora_international_no_94_1990_p_48",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_sarah_van_fleet",
+                "type": "variety",
+                "archival_data": [
+                    "1495196"
+                ]
+            },
+            "volume": null,
+            "page": "p 48",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1755006",
+                "legacy_id": "52598",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483154438"
+            }
+        },
+        {
+            "name": "Flora International. no. 94. (1990) p 48",
+            "machine_name": "flora_international_no_94_1990_p_48",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_tuscany_superb",
+                "type": "variety",
+                "archival_data": [
+                    "1492330"
+                ]
+            },
+            "volume": null,
+            "page": "p 48",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1755156",
+                "legacy_id": "54012",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483154438"
+            }
+        }
+    ]
+}

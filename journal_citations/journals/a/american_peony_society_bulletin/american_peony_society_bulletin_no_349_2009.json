@@ -1,0 +1,102 @@
+{
+    "name": "American Peony Society, Bulletin. no. 349. (2009)",
+    "machine_name": "american_peony_society_bulletin_no_349_2009",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2009",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2119813",
+        "legacy_id": "100309",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "American Peony Society, Bulletin. no. 349. (2009) p 22",
+            "machine_name": "american_peony_society_bulletin_no_349_2009_p_22",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "paeonia_cultivars_kathy_s_touch",
+                "type": "variety",
+                "archival_data": [
+                    "1621092"
+                ]
+            },
+            "volume": null,
+            "page": "p 22",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1940898",
+                "legacy_id": "389592",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "American Peony Society, Bulletin. no. 349. (2009) p 25 (Adv.)",
+            "machine_name": "american_peony_society_bulletin_no_349_2009_p_25_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "paeonia_cultivars_garden_lace",
+                "type": "variety",
+                "archival_data": [
+                    "1545367"
+                ]
+            },
+            "volume": null,
+            "page": "p 25 (Adv.)",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1940899",
+                "legacy_id": "389593",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        }
+    ]
+}

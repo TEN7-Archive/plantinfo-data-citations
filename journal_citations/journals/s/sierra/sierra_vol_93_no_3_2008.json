@@ -1,0 +1,61 @@
+{
+    "name": "Sierra. vol 93, no. 3. (2008)",
+    "machine_name": "sierra_vol_93_no_3_2008",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2008",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2119332",
+        "legacy_id": "93871",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Sierra. vol 93, no. 3. (2008) p 30-31",
+            "machine_name": "sierra_vol_93_no_3_2008_p_30_31",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hymenocallis_coronaria",
+                "type": "species",
+                "archival_data": [
+                    "1449132"
+                ]
+            },
+            "volume": null,
+            "page": "p 30-31",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1929301",
+                "legacy_id": "372371",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        }
+    ]
+}

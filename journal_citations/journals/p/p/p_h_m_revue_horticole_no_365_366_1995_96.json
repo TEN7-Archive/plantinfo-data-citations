@@ -1,0 +1,143 @@
+{
+    "name": "P.H.M.-Revue Horticole. no. 365\/366. (1995\/96)",
+    "machine_name": "p_h_m_revue_horticole_no_365_366_1995_96",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1995\/96",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2118820",
+        "legacy_id": "57650",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "P.H.M.-Revue Horticole. no. 365\/366. (1995\/96) p 42",
+            "machine_name": "p_h_m_revue_horticole_no_365_366_1995_96_p_42",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "capsicum_baccatum",
+                "type": "species",
+                "archival_data": [
+                    "1440318"
+                ]
+            },
+            "volume": null,
+            "page": "p 42",
+            "year": "1995\/96",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1917184",
+                "legacy_id": "276436",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "P.H.M.-Revue Horticole. no. 365\/366. (1995\/96) p cover",
+            "machine_name": "p_h_m_revue_horticole_no_365_366_1995_96_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "capsicum_s_cultivars_osir",
+                "type": "variety",
+                "archival_data": [
+                    "1600584"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1995\/96",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1931007",
+                "legacy_id": "280130",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "P.H.M.-Revue Horticole. no. 365\/366. (1995\/96) p 41",
+            "machine_name": "p_h_m_revue_horticole_no_365_366_1995_96_p_41",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "capsicum_microcarpum",
+                "type": "species",
+                "archival_data": [
+                    "1448934"
+                ]
+            },
+            "volume": null,
+            "page": "p 41",
+            "year": "1995\/96",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1931008",
+                "legacy_id": "280132",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        }
+    ]
+}

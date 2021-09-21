@@ -1,0 +1,184 @@
+{
+    "name": "Svensk Botanisk Tidskrift. vol 87, no. 1. (1993)",
+    "machine_name": "svensk_botanisk_tidskrift_vol_87_no_1_1993",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1993",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113548",
+        "legacy_id": "5739",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Svensk Botanisk Tidskrift. vol 87, no. 1. (1993) p 357",
+            "machine_name": "svensk_botanisk_tidskrift_vol_87_no_1_1993_p_357",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "alchemilla_glabra",
+                "type": "species",
+                "archival_data": [
+                    "1401697"
+                ]
+            },
+            "volume": null,
+            "page": "p 357",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1767585",
+                "legacy_id": "69784",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Svensk Botanisk Tidskrift. vol 87, no. 1. (1993) p 357",
+            "machine_name": "svensk_botanisk_tidskrift_vol_87_no_1_1993_p_357",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "alchemilla_subcrenata",
+                "type": "species",
+                "archival_data": [
+                    "1401716"
+                ]
+            },
+            "volume": null,
+            "page": "p 357",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1767888",
+                "legacy_id": "69837",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Svensk Botanisk Tidskrift. vol 87, no. 1. (1993) p 357",
+            "machine_name": "svensk_botanisk_tidskrift_vol_87_no_1_1993_p_357",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "alchemilla_glomerulans",
+                "type": "species",
+                "archival_data": [
+                    "1401699"
+                ]
+            },
+            "volume": null,
+            "page": "p 357",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1895273",
+                "legacy_id": "239276",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Svensk Botanisk Tidskrift. vol 87, no. 1. (1993) p 356-57",
+            "machine_name": "svensk_botanisk_tidskrift_vol_87_no_1_1993_p_356_57",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "alchemilla_taernaensis",
+                "type": "species",
+                "archival_data": [
+                    "1401718"
+                ]
+            },
+            "volume": null,
+            "page": "p 356-57",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1895276",
+                "legacy_id": "239279",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        }
+    ]
+}

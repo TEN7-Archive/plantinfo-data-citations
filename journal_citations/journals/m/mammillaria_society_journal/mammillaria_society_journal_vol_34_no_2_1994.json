@@ -1,0 +1,102 @@
+{
+    "name": "Mammillaria Society, Journal. vol 34, no. 2. (1994)",
+    "machine_name": "mammillaria_society_journal_vol_34_no_2_1994",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1994",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114334",
+        "legacy_id": "4407",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Mammillaria Society, Journal. vol 34, no. 2. (1994) p 19",
+            "machine_name": "mammillaria_society_journal_vol_34_no_2_1994_p_19",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "mammillaria_albilanata",
+                "type": "species",
+                "archival_data": [
+                    "1415965"
+                ]
+            },
+            "volume": null,
+            "page": "p 19",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1808735",
+                "legacy_id": "111536",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Mammillaria Society, Journal. vol 34, no. 2. (1994) p 19",
+            "machine_name": "mammillaria_society_journal_vol_34_no_2_1994_p_19",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "mammillaria_fittkaui",
+                "type": "species",
+                "archival_data": [
+                    "1416334"
+                ]
+            },
+            "volume": null,
+            "page": "p 19",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1809339",
+                "legacy_id": "111655",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        }
+    ]
+}

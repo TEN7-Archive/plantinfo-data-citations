@@ -1,0 +1,102 @@
+{
+    "name": "Perennial Plants. Summer 2015.",
+    "machine_name": "perennial_plants_summer_2015",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1696233",
+        "legacy_id": "130992",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Perennial Plants. Summer 2015. p 28 (Adv.)",
+            "machine_name": "perennial_plants_summer_2015_p_28_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pulsatilla_vulgaris_rosen_glocke_rose_bells",
+                "type": "variety",
+                "archival_data": [
+                    "1663932"
+                ]
+            },
+            "volume": null,
+            "page": "p 28 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2093194",
+                "legacy_id": "509132",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483209571"
+            }
+        },
+        {
+            "name": "Perennial Plants. Summer 2015. p 39 (Adv.)",
+            "machine_name": "perennial_plants_summer_2015_p_39_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "geranium_cantabrigiense_biokovo",
+                "type": "variety",
+                "archival_data": [
+                    "1507152"
+                ]
+            },
+            "volume": null,
+            "page": "p 39 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2093195",
+                "legacy_id": "509133",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483209571"
+            }
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "name": "Natural History. vol 99, no. 6. (1990)",
+    "machine_name": "natural_history_vol_99_no_6_1990",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1990",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113578",
+        "legacy_id": "4724",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Natural History. vol 99, no. 6. (1990) p 26-27",
+            "machine_name": "natural_history_vol_99_no_6_1990_p_26_27",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "anaphalis_margaritacea",
+                "type": "species",
+                "archival_data": [
+                    "1398684"
+                ]
+            },
+            "volume": null,
+            "page": "p 26-27",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1768326",
+                "legacy_id": "71324",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        }
+    ]
+}

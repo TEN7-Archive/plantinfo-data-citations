@@ -1,0 +1,102 @@
+{
+    "name": "Natural History. vol 126, no. 10. (2018)",
+    "machine_name": "natural_history_vol_126_no_10_2018",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2018",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": "7",
+    "description": null,
+    "archival_data": {
+        "id": "2405036",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1541537601"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Natural History. vol 126, no. 10. (2018) p 43",
+            "machine_name": "natural_history_vol_126_no_10_2018_p_43",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "chasmanthium_latifolium",
+                "type": "species",
+                "archival_data": [
+                    "1405936"
+                ]
+            },
+            "volume": null,
+            "page": "p 43",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2405041",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1541537773"
+            }
+        },
+        {
+            "name": "Natural History. vol 126, no. 10. (2018) p 44",
+            "machine_name": "natural_history_vol_126_no_10_2018_p_44",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "persicaria_virginiana",
+                "type": "species",
+                "archival_data": [
+                    "1444463"
+                ]
+            },
+            "volume": null,
+            "page": "p 44",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2405046",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1541537773"
+            }
+        }
+    ]
+}

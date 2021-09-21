@@ -1,0 +1,143 @@
+{
+    "name": "Sunset. April 2016.",
+    "machine_name": "sunset_april_2016",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1696410",
+        "legacy_id": "132631",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Sunset. April 2016. p 64",
+            "machine_name": "sunset_april_2016_p_64",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "nandina_cultivars_magical_lemon_and_lime",
+                "type": "variety",
+                "archival_data": [
+                    "1665838"
+                ]
+            },
+            "volume": null,
+            "page": "p 64",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2090585",
+                "legacy_id": "515555",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483209571"
+            }
+        },
+        {
+            "name": "Sunset. April 2016. p 65 (Adv.)",
+            "machine_name": "sunset_april_2016_p_65_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hydrangea_paniculata_bobo",
+                "type": "variety",
+                "archival_data": [
+                    "1625000"
+                ]
+            },
+            "volume": null,
+            "page": "p 65 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2090586",
+                "legacy_id": "515556",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483209571"
+            }
+        },
+        {
+            "name": "Sunset. April 2016. p 88-89; 92",
+            "machine_name": "sunset_april_2016_p_88_89_92",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "camellia_sinensis",
+                "type": "species",
+                "archival_data": [
+                    "1406608"
+                ]
+            },
+            "volume": null,
+            "page": "p 88-89; 92",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2090587",
+                "legacy_id": "515557",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483209571"
+            }
+        }
+    ]
+}

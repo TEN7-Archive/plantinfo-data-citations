@@ -1,0 +1,1414 @@
+{
+    "name": "Arnoldia. vol 67, no. 2. (2009)",
+    "machine_name": "arnoldia_vol_67_no_2_2009",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2009",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2121979",
+        "legacy_id": "106029",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Arnoldia. vol 67, no. 2. (2009) p cover",
+            "machine_name": "arnoldia_vol_67_no_2_2009_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "malus_c_cultivars_indian_magic",
+                "type": "variety",
+                "archival_data": [
+                    "1485063"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1999555",
+                "legacy_id": "402912",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 67, no. 2. (2009) p inside cover",
+            "machine_name": "arnoldia_vol_67_no_2_2009_p_inside_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "acer_davidii",
+                "type": "species",
+                "archival_data": [
+                    "1402825"
+                ]
+            },
+            "volume": null,
+            "page": "p inside cover",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": true,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1999556",
+                "legacy_id": "402913",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 67, no. 2. (2009) p 2",
+            "machine_name": "arnoldia_vol_67_no_2_2009_p_2",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "malus_c_cultivars_liset",
+                "type": "variety",
+                "archival_data": [
+                    "1485071"
+                ]
+            },
+            "volume": null,
+            "page": "p 2",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1999557",
+                "legacy_id": "402914",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 67, no. 2. (2009) p 4;16",
+            "machine_name": "arnoldia_vol_67_no_2_2009_p_4_16",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "malus_floribunda",
+                "type": "species",
+                "archival_data": [
+                    "1415916"
+                ]
+            },
+            "volume": null,
+            "page": "p 4;16",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1999558",
+                "legacy_id": "402915",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 67, no. 2. (2009) p 5;12",
+            "machine_name": "arnoldia_vol_67_no_2_2009_p_5_12",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "malus_c_cultivars_red_jade",
+                "type": "variety",
+                "archival_data": [
+                    "1485313"
+                ]
+            },
+            "volume": null,
+            "page": "p 5;12",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1999559",
+                "legacy_id": "402916",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 67, no. 2. (2009) p 6",
+            "machine_name": "arnoldia_vol_67_no_2_2009_p_6",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "malus_c_cultivars_orange_crush",
+                "type": "variety",
+                "archival_data": [
+                    "1640228"
+                ]
+            },
+            "volume": null,
+            "page": "p 6",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1999560",
+                "legacy_id": "402917",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 67, no. 2. (2009) p 7",
+            "machine_name": "arnoldia_vol_67_no_2_2009_p_7",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "malus_c_cultivars_coralburst",
+                "type": "variety",
+                "archival_data": [
+                    "1485045"
+                ]
+            },
+            "volume": null,
+            "page": "p 7",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1999561",
+                "legacy_id": "402918",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 67, no. 2. (2009) p 7",
+            "machine_name": "arnoldia_vol_67_no_2_2009_p_7",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "malus_c_cultivars_adirondack",
+                "type": "variety",
+                "archival_data": [
+                    "1485030"
+                ]
+            },
+            "volume": null,
+            "page": "p 7",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1999562",
+                "legacy_id": "402919",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 67, no. 2. (2009) p 7",
+            "machine_name": "arnoldia_vol_67_no_2_2009_p_7",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "malus_c_cultivars_purple_prince",
+                "type": "variety",
+                "archival_data": [
+                    "1520607"
+                ]
+            },
+            "volume": null,
+            "page": "p 7",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1999563",
+                "legacy_id": "402920",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 67, no. 2. (2009) p 8",
+            "machine_name": "arnoldia_vol_67_no_2_2009_p_8",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "malus_c_cultivars_camelot",
+                "type": "variety",
+                "archival_data": [
+                    "1515533"
+                ]
+            },
+            "volume": null,
+            "page": "p 8",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1999564",
+                "legacy_id": "402921",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 67, no. 2. (2009) p 8",
+            "machine_name": "arnoldia_vol_67_no_2_2009_p_8",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "malus_c_cultivars_red_jewel",
+                "type": "variety",
+                "archival_data": [
+                    "1485314"
+                ]
+            },
+            "volume": null,
+            "page": "p 8",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1999565",
+                "legacy_id": "402922",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 67, no. 2. (2009) p 8",
+            "machine_name": "arnoldia_vol_67_no_2_2009_p_8",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "malus_c_cultivars_david",
+                "type": "variety",
+                "archival_data": [
+                    "1485051"
+                ]
+            },
+            "volume": null,
+            "page": "p 8",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1999566",
+                "legacy_id": "402923",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 67, no. 2. (2009) p 8;11;19",
+            "machine_name": "arnoldia_vol_67_no_2_2009_p_8_11_19",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "malus_c_cultivars_donald_wyman",
+                "type": "variety",
+                "archival_data": [
+                    "1485053"
+                ]
+            },
+            "volume": null,
+            "page": "p 8;11;19",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1999567",
+                "legacy_id": "402924",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 67, no. 2. (2009) p 8",
+            "machine_name": "arnoldia_vol_67_no_2_2009_p_8",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "malus_c_cultivars_golden_raindrops",
+                "type": "variety",
+                "archival_data": [
+                    "1485059"
+                ]
+            },
+            "volume": null,
+            "page": "p 8",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1999568",
+                "legacy_id": "402925",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 67, no. 2. (2009) p 10",
+            "machine_name": "arnoldia_vol_67_no_2_2009_p_10",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "malus_c_cultivars_bob_white",
+                "type": "variety",
+                "archival_data": [
+                    "1485036"
+                ]
+            },
+            "volume": null,
+            "page": "p 10",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1999569",
+                "legacy_id": "402926",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 67, no. 2. (2009) p 10",
+            "machine_name": "arnoldia_vol_67_no_2_2009_p_10",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "malus_c_cultivars_dolgo",
+                "type": "variety",
+                "archival_data": [
+                    "1485052"
+                ]
+            },
+            "volume": null,
+            "page": "p 10",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1999570",
+                "legacy_id": "402927",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 67, no. 2. (2009) p 11",
+            "machine_name": "arnoldia_vol_67_no_2_2009_p_11",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "malus_c_cultivars_snowdrift",
+                "type": "variety",
+                "archival_data": [
+                    "1485324"
+                ]
+            },
+            "volume": null,
+            "page": "p 11",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1999571",
+                "legacy_id": "402928",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 67, no. 2. (2009) p 12",
+            "machine_name": "arnoldia_vol_67_no_2_2009_p_12",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "malus_c_cultivars_prairifire",
+                "type": "variety",
+                "archival_data": [
+                    "1485310"
+                ]
+            },
+            "volume": null,
+            "page": "p 12",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1999572",
+                "legacy_id": "402929",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 67, no. 2. (2009) p 13",
+            "machine_name": "arnoldia_vol_67_no_2_2009_p_13",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "malus_c_cultivars_louisa",
+                "type": "variety",
+                "archival_data": [
+                    "1485072"
+                ]
+            },
+            "volume": null,
+            "page": "p 13",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1999573",
+                "legacy_id": "402930",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 67, no. 2. (2009) p 17",
+            "machine_name": "arnoldia_vol_67_no_2_2009_p_17",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "malus_hupehensis",
+                "type": "species",
+                "archival_data": [
+                    "1415919"
+                ]
+            },
+            "volume": null,
+            "page": "p 17",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1999574",
+                "legacy_id": "402931",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 67, no. 2. (2009) p 17",
+            "machine_name": "arnoldia_vol_67_no_2_2009_p_17",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "malus_c_cultivars_mary_potter",
+                "type": "variety",
+                "archival_data": [
+                    "1531827"
+                ]
+            },
+            "volume": null,
+            "page": "p 17",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1999575",
+                "legacy_id": "402932",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 67, no. 2. (2009) p 20",
+            "machine_name": "arnoldia_vol_67_no_2_2009_p_20",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "malus_baccata",
+                "type": "species",
+                "archival_data": [
+                    "1415910"
+                ]
+            },
+            "volume": null,
+            "page": "p 20",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1999576",
+                "legacy_id": "402933",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 67, no. 2. (2009) p 21",
+            "machine_name": "arnoldia_vol_67_no_2_2009_p_21",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "malus_c_cultivars_dorothea",
+                "type": "variety",
+                "archival_data": [
+                    "1515541"
+                ]
+            },
+            "volume": null,
+            "page": "p 21",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1999577",
+                "legacy_id": "402934",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 67, no. 2. (2009) p 23",
+            "machine_name": "arnoldia_vol_67_no_2_2009_p_23",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cunninghamia_lanceolata",
+                "type": "species",
+                "archival_data": [
+                    "1408758"
+                ]
+            },
+            "volume": null,
+            "page": "p 23",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1999578",
+                "legacy_id": "402935",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 67, no. 2. (2009) p 25",
+            "machine_name": "arnoldia_vol_67_no_2_2009_p_25",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "davidia_involucrata",
+                "type": "species",
+                "archival_data": [
+                    "1405430"
+                ]
+            },
+            "volume": null,
+            "page": "p 25",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1999579",
+                "legacy_id": "402936",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 67, no. 2. (2009) p 25",
+            "machine_name": "arnoldia_vol_67_no_2_2009_p_25",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "calanthe_tricarinata",
+                "type": "species",
+                "archival_data": [
+                    "1399217"
+                ]
+            },
+            "volume": null,
+            "page": "p 25",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1999580",
+                "legacy_id": "402937",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 67, no. 2. (2009) p 25",
+            "machine_name": "arnoldia_vol_67_no_2_2009_p_25",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "enkianthus_deflexus",
+                "type": "species",
+                "archival_data": [
+                    "1413960"
+                ]
+            },
+            "volume": null,
+            "page": "p 25",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1999581",
+                "legacy_id": "402938",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 67, no. 2. (2009) p 26",
+            "machine_name": "arnoldia_vol_67_no_2_2009_p_26",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cornus_controversa",
+                "type": "species",
+                "archival_data": [
+                    "1405318"
+                ]
+            },
+            "volume": null,
+            "page": "p 26",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1999582",
+                "legacy_id": "402939",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 67, no. 2. (2009) p 27",
+            "machine_name": "arnoldia_vol_67_no_2_2009_p_27",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "carpinus_fangiana",
+                "type": "species",
+                "archival_data": [
+                    "1408543"
+                ]
+            },
+            "volume": null,
+            "page": "p 27",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1999583",
+                "legacy_id": "402940",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 67, no. 2. (2009) p 27",
+            "machine_name": "arnoldia_vol_67_no_2_2009_p_27",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "viburnum_brevitubum",
+                "type": "species",
+                "archival_data": [
+                    "1459422"
+                ]
+            },
+            "volume": null,
+            "page": "p 27",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1999584",
+                "legacy_id": "402941",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 67, no. 2. (2009) p 27",
+            "machine_name": "arnoldia_vol_67_no_2_2009_p_27",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "epimedium_davidii",
+                "type": "species",
+                "archival_data": [
+                    "1415036"
+                ]
+            },
+            "volume": null,
+            "page": "p 27",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1999585",
+                "legacy_id": "402942",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 67, no. 2. (2009) p 28",
+            "machine_name": "arnoldia_vol_67_no_2_2009_p_28",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "helleborus_thibetanus",
+                "type": "species",
+                "archival_data": [
+                    "1411987"
+                ]
+            },
+            "volume": null,
+            "page": "p 28",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1999586",
+                "legacy_id": "402943",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 67, no. 2. (2009) p 28",
+            "machine_name": "arnoldia_vol_67_no_2_2009_p_28",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "arisaema_dilatatum",
+                "type": "species",
+                "archival_data": [
+                    "1448326"
+                ]
+            },
+            "volume": null,
+            "page": "p 28",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1999587",
+                "legacy_id": "402944",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 67, no. 2. (2009) p inside backcover",
+            "machine_name": "arnoldia_vol_67_no_2_2009_p_inside_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "acer_rubrum_schlesingeri",
+                "type": "variety",
+                "archival_data": [
+                    "1463463"
+                ]
+            },
+            "volume": null,
+            "page": "p inside backcover",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1999588",
+                "legacy_id": "402945",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        }
+    ]
+}

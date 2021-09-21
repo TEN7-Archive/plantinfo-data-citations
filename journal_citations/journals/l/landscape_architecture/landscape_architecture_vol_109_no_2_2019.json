@@ -1,0 +1,61 @@
+{
+    "name": "Landscape Architecture. vol 109, no. 2. (2019)",
+    "machine_name": "landscape_architecture_vol_109_no_2_2019",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2019",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": "7",
+    "description": null,
+    "archival_data": {
+        "id": "2558986",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1566592830"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Landscape Architecture. vol 109, no. 2. (2019) p 29 (Adv.)",
+            "machine_name": "landscape_architecture_vol_109_no_2_2019_p_29_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "aronia_melanocarpa_low_scape",
+                "type": "variety",
+                "archival_data": [
+                    "2126496"
+                ]
+            },
+            "volume": null,
+            "page": "p 29 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2558991",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1566593037"
+            }
+        }
+    ]
+}

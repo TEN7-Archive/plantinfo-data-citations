@@ -1,0 +1,102 @@
+{
+    "name": "Fraterna. vol 13, no. 1. (2000)",
+    "machine_name": "fraterna_vol_13_no_1_2000",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2000",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2116066",
+        "legacy_id": "8649",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Fraterna. vol 13, no. 1. (2000) p cover;11",
+            "machine_name": "fraterna_vol_13_no_1_2000_p_cover_11",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hoya_lasiantha",
+                "type": "species",
+                "archival_data": [
+                    "1441243"
+                ]
+            },
+            "volume": null,
+            "page": "p cover;11",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1862704",
+                "legacy_id": "171973",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Fraterna. vol 13, no. 1. (2000) p 16",
+            "machine_name": "fraterna_vol_13_no_1_2000_p_16",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hoya_deykeae",
+                "type": "species",
+                "archival_data": [
+                    "1441244"
+                ]
+            },
+            "volume": null,
+            "page": "p 16",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1862705",
+                "legacy_id": "171974",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        }
+    ]
+}

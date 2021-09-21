@@ -1,0 +1,143 @@
+{
+    "name": "Systematic Botany. vol 35, no. 1. (2010)",
+    "machine_name": "systematic_botany_vol_35_no_1_2010",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2010",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2123934",
+        "legacy_id": "109509",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Systematic Botany. vol 35, no. 1. (2010) p 182, Pl. 1E",
+            "machine_name": "systematic_botany_vol_35_no_1_2010_p_182_pl_1e",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ipomopsis_aggregata",
+                "type": "species",
+                "archival_data": [
+                    "1416924"
+                ]
+            },
+            "volume": null,
+            "page": "p 182, Pl. 1E",
+            "year": "2010",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2055412",
+                "legacy_id": "416242",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Systematic Botany. vol 35, no. 1. (2010) p 182, Pl. 1F",
+            "machine_name": "systematic_botany_vol_35_no_1_2010_p_182_pl_1f",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ipomopsis_tenuituba",
+                "type": "species",
+                "archival_data": [
+                    "1449911"
+                ]
+            },
+            "volume": null,
+            "page": "p 182, Pl. 1F",
+            "year": "2010",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2055413",
+                "legacy_id": "416243",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Systematic Botany. vol 35, no. 1. (2010) p 182, Pl. 1I",
+            "machine_name": "systematic_botany_vol_35_no_1_2010_p_182_pl_1i",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ipomopsis_congesta",
+                "type": "species",
+                "archival_data": [
+                    "1439573"
+                ]
+            },
+            "volume": null,
+            "page": "p 182, Pl. 1I",
+            "year": "2010",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2055414",
+                "legacy_id": "416244",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        }
+    ]
+}

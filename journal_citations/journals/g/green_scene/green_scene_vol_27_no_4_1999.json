@@ -1,0 +1,143 @@
+{
+    "name": "Green Scene. vol 27, no. 4. (1999)",
+    "machine_name": "green_scene_vol_27_no_4_1999",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1999",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2115601",
+        "legacy_id": "7202",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Green Scene. vol 27, no. 4. (1999) p 6",
+            "machine_name": "green_scene_vol_27_no_4_1999_p_6",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "tsuga_canadensis_pendula",
+                "type": "variety",
+                "archival_data": [
+                    "1492222"
+                ]
+            },
+            "volume": null,
+            "page": "p 6",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1853972",
+                "legacy_id": "157495",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Green Scene. vol 27, no. 4. (1999) p 22",
+            "machine_name": "green_scene_vol_27_no_4_1999_p_22",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "quercus_oglethorpensis",
+                "type": "species",
+                "archival_data": [
+                    "1421743"
+                ]
+            },
+            "volume": null,
+            "page": "p 22",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1853973",
+                "legacy_id": "157496",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Green Scene. vol 27, no. 4. (1999) p 22",
+            "machine_name": "green_scene_vol_27_no_4_1999_p_22",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "quercus_stellata",
+                "type": "species",
+                "archival_data": [
+                    "1422045"
+                ]
+            },
+            "volume": null,
+            "page": "p 22",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1853974",
+                "legacy_id": "157497",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        }
+    ]
+}

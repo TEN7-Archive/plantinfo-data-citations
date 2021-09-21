@@ -1,0 +1,102 @@
+{
+    "name": "Citrus & Vegetable Magazine. vol 54, no. 4. (1990)",
+    "machine_name": "citrus_vegetable_magazine_vol_54_no_4_1990",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1990",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2112009",
+        "legacy_id": "1938",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Citrus & Vegetable Magazine. vol 54, no. 4. (1990) p 43 (Adv.)",
+            "machine_name": "citrus_vegetable_magazine_vol_54_no_4_1990_p_43_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lycopersicon_cultivars_bonita",
+                "type": "variety",
+                "archival_data": [
+                    "1480877"
+                ]
+            },
+            "volume": null,
+            "page": "p 43 (Adv.)",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1730154",
+                "legacy_id": "29082",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Citrus & Vegetable Magazine. vol 54, no. 4. (1990) p 43 (Adv.)",
+            "machine_name": "citrus_vegetable_magazine_vol_54_no_4_1990_p_43_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lycopersicon_cultivars_cobia",
+                "type": "variety",
+                "archival_data": [
+                    "1481132"
+                ]
+            },
+            "volume": null,
+            "page": "p 43 (Adv.)",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1730740",
+                "legacy_id": "29183",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        }
+    ]
+}

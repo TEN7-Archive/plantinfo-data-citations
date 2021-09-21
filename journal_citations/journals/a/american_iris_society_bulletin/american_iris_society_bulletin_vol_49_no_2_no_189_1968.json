@@ -1,0 +1,102 @@
+{
+    "name": "American Iris Society, Bulletin. vol 49, no. 2. (no. 189) (1968)",
+    "machine_name": "american_iris_society_bulletin_vol_49_no_2_no_189_1968",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1968",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": "7",
+    "description": null,
+    "archival_data": {
+        "id": "2591661",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1577537760"
+    },
+    "citation_reference_items": [
+        {
+            "name": "American Iris Society, Bulletin. vol 48, no. 2. (no. 189) (1968)  p cover",
+            "machine_name": "american_iris_society_bulletin_vol_48_no_2_no_189_1968_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "iris_cultivars_ever_and_ever",
+                "type": "variety",
+                "archival_data": [
+                    "2591666"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2591676",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1577537983"
+            }
+        },
+        {
+            "name": "American Iris Society, Bulletin. vol 48, no. 2. (no. 189) (1968)  p backcover",
+            "machine_name": "american_iris_society_bulletin_vol_48_no_2_no_189_1968_p_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "iris_cultivars_blue_baron",
+                "type": "variety",
+                "archival_data": [
+                    "2591671"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2591681",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1577537983"
+            }
+        }
+    ]
+}

@@ -1,0 +1,676 @@
+{
+    "name": "Magnolia, Journal of the Magnolia Soc. vol 44, no. 85. (2009)",
+    "machine_name": "magnolia_journal_of_the_magnolia_soc_vol_44_no_85_2009",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2009",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2119821",
+        "legacy_id": "101729",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Magnolia, Journal of the Magnolia Soc. vol 44, no. 85. (2009) p cover;19-20",
+            "machine_name": "magnolia_journal_of_the_magnolia_soc_vol_44_no_85_2009_p_cover_19_20",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "magnolia_denudata_swarthmore_sentinel",
+                "type": "variety",
+                "archival_data": [
+                    "1621191"
+                ]
+            },
+            "volume": null,
+            "page": "p cover;19-20",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1941085",
+                "legacy_id": "393212",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "Magnolia, Journal of the Magnolia Soc. vol 44, no. 85. (2009) p 2-3",
+            "machine_name": "magnolia_journal_of_the_magnolia_soc_vol_44_no_85_2009_p_2_3",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "magnolia_obovata_lydia",
+                "type": "variety",
+                "archival_data": [
+                    "1633179"
+                ]
+            },
+            "volume": null,
+            "page": "p 2-3",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1941086",
+                "legacy_id": "393213",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "Magnolia, Journal of the Magnolia Soc. vol 44, no. 85. (2009) p 6-7",
+            "machine_name": "magnolia_journal_of_the_magnolia_soc_vol_44_no_85_2009_p_6_7",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "magnolia_virginiana",
+                "type": "species",
+                "archival_data": [
+                    "1421498"
+                ]
+            },
+            "volume": null,
+            "page": "p 6-7",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1941087",
+                "legacy_id": "393214",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "Magnolia, Journal of the Magnolia Soc. vol 44, no. 85. (2009) p 8",
+            "machine_name": "magnolia_journal_of_the_magnolia_soc_vol_44_no_85_2009_p_8",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "magnolia_cultivars_reigel",
+                "type": "variety",
+                "archival_data": [
+                    "1621192"
+                ]
+            },
+            "volume": null,
+            "page": "p 8",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1941088",
+                "legacy_id": "393215",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "Magnolia, Journal of the Magnolia Soc. vol 44, no. 85. (2009) p 9",
+            "machine_name": "magnolia_journal_of_the_magnolia_soc_vol_44_no_85_2009_p_9",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "magnolia_grandiflora_calla_leaf",
+                "type": "variety",
+                "archival_data": [
+                    "1621193"
+                ]
+            },
+            "volume": null,
+            "page": "p 9",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1941089",
+                "legacy_id": "393216",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "Magnolia, Journal of the Magnolia Soc. vol 44, no. 85. (2009) p 10",
+            "machine_name": "magnolia_journal_of_the_magnolia_soc_vol_44_no_85_2009_p_10",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "magnolia_virginiana_green_shadow",
+                "type": "variety",
+                "archival_data": [
+                    "1630293"
+                ]
+            },
+            "volume": null,
+            "page": "p 10",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1941090",
+                "legacy_id": "393217",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "Magnolia, Journal of the Magnolia Soc. vol 44, no. 85. (2009) p 11",
+            "machine_name": "magnolia_journal_of_the_magnolia_soc_vol_44_no_85_2009_p_11",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "magnolia_virginiana_virginiana",
+                "type": "variety",
+                "archival_data": [
+                    "1513848"
+                ]
+            },
+            "volume": null,
+            "page": "p 11",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1941091",
+                "legacy_id": "393218",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "Magnolia, Journal of the Magnolia Soc. vol 44, no. 85. (2009) p 12;15",
+            "machine_name": "magnolia_journal_of_the_magnolia_soc_vol_44_no_85_2009_p_12_15",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "magnolia_virginiana_australis",
+                "type": "variety",
+                "archival_data": [
+                    "1513846"
+                ]
+            },
+            "volume": null,
+            "page": "p 12;15",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1941092",
+                "legacy_id": "393219",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "Magnolia, Journal of the Magnolia Soc. vol 44, no. 85. (2009) p 14",
+            "machine_name": "magnolia_journal_of_the_magnolia_soc_vol_44_no_85_2009_p_14",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lilium_catesbaei",
+                "type": "species",
+                "archival_data": [
+                    "1417375"
+                ]
+            },
+            "volume": null,
+            "page": "p 14",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1941093",
+                "legacy_id": "393220",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "Magnolia, Journal of the Magnolia Soc. vol 44, no. 85. (2009) p 16",
+            "machine_name": "magnolia_journal_of_the_magnolia_soc_vol_44_no_85_2009_p_16",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "liriodendron_tulipifera_integrifolium",
+                "type": "variety",
+                "archival_data": [
+                    "1479632"
+                ]
+            },
+            "volume": null,
+            "page": "p 16",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1941094",
+                "legacy_id": "393221",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "Magnolia, Journal of the Magnolia Soc. vol 44, no. 85. (2009) p 18",
+            "machine_name": "magnolia_journal_of_the_magnolia_soc_vol_44_no_85_2009_p_18",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "magnolia_cultivars_lupo_osti",
+                "type": "variety",
+                "archival_data": [
+                    "1621194"
+                ]
+            },
+            "volume": null,
+            "page": "p 18",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1941095",
+                "legacy_id": "393222",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "Magnolia, Journal of the Magnolia Soc. vol 44, no. 85. (2009) p 21 (Adv.)",
+            "machine_name": "magnolia_journal_of_the_magnolia_soc_vol_44_no_85_2009_p_21_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "magnolia_cultivars_pink_charm",
+                "type": "variety",
+                "archival_data": [
+                    "1621195"
+                ]
+            },
+            "volume": null,
+            "page": "p 21 (Adv.)",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1941096",
+                "legacy_id": "393223",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "Magnolia, Journal of the Magnolia Soc. vol 44, no. 85. (2009) p 22 (Adv.)",
+            "machine_name": "magnolia_journal_of_the_magnolia_soc_vol_44_no_85_2009_p_22_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "magnolia_champaca",
+                "type": "species",
+                "archival_data": [
+                    "1450722"
+                ]
+            },
+            "volume": null,
+            "page": "p 22 (Adv.)",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1941097",
+                "legacy_id": "393224",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "Magnolia, Journal of the Magnolia Soc. vol 44, no. 85. (2009) p 22 (Adv.)",
+            "machine_name": "magnolia_journal_of_the_magnolia_soc_vol_44_no_85_2009_p_22_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "magnolia_cultivars_white_champak",
+                "type": "variety",
+                "archival_data": [
+                    "1621196"
+                ]
+            },
+            "volume": null,
+            "page": "p 22 (Adv.)",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1941098",
+                "legacy_id": "393225",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "Magnolia, Journal of the Magnolia Soc. vol 44, no. 85. (2009) p 22 (Adv.)",
+            "machine_name": "magnolia_journal_of_the_magnolia_soc_vol_44_no_85_2009_p_22_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "magnolia_coco",
+                "type": "species",
+                "archival_data": [
+                    "1421169"
+                ]
+            },
+            "volume": null,
+            "page": "p 22 (Adv.)",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1941099",
+                "legacy_id": "393226",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "Magnolia, Journal of the Magnolia Soc. vol 44, no. 85. (2009) p backcover",
+            "machine_name": "magnolia_journal_of_the_magnolia_soc_vol_44_no_85_2009_p_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "magnolia_cultivars_green_bee",
+                "type": "variety",
+                "archival_data": [
+                    "1587892"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1941100",
+                "legacy_id": "393227",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        }
+    ]
+}

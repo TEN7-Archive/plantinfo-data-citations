@@ -1,0 +1,61 @@
+{
+    "name": "Green Scene. vol 26, no. 6. (1998)",
+    "machine_name": "green_scene_vol_26_no_6_1998",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1998",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114771",
+        "legacy_id": "6352",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Green Scene. vol 26, no. 6. (1998) p cover",
+            "machine_name": "green_scene_vol_26_no_6_1998_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "stewartia_pseudocamellia",
+                "type": "species",
+                "archival_data": [
+                    "1433061"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1838274",
+                "legacy_id": "147012",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        }
+    ]
+}

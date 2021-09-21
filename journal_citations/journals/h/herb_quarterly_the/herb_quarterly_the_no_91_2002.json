@@ -1,0 +1,143 @@
+{
+    "name": "Herb Quarterly, The. no. 91 (2002)",
+    "machine_name": "herb_quarterly_the_no_91_2002",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2002",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2117506",
+        "legacy_id": "36630",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Herb Quarterly, The. no. 91 (2002) p 5",
+            "machine_name": "herb_quarterly_the_no_91_2002_p_5",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "centella_asiatica",
+                "type": "species",
+                "archival_data": [
+                    "1404469"
+                ]
+            },
+            "volume": null,
+            "page": "p 5",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": true,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1890745",
+                "legacy_id": "231164",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Herb Quarterly, The. no. 91 (2002) p 5",
+            "machine_name": "herb_quarterly_the_no_91_2002_p_5",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "trifolium_pratense",
+                "type": "species",
+                "archival_data": [
+                    "1433136"
+                ]
+            },
+            "volume": null,
+            "page": "p 5",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1890746",
+                "legacy_id": "231165",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Herb Quarterly, The. no. 91 (2002) p 6",
+            "machine_name": "herb_quarterly_the_no_91_2002_p_6",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "curcuma_longa",
+                "type": "species",
+                "archival_data": [
+                    "1408800"
+                ]
+            },
+            "volume": null,
+            "page": "p 6",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": true,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1890747",
+                "legacy_id": "231166",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        }
+    ]
+}

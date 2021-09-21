@@ -1,0 +1,225 @@
+{
+    "name": "Herb Companion, The. vol 24, no. 1. (2011)",
+    "machine_name": "herb_companion_the_vol_24_no_1_2011",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2011",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2122645",
+        "legacy_id": "115051",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Herb Companion, The. vol 24, no. 1. (2011) p 13; 15",
+            "machine_name": "herb_companion_the_vol_24_no_1_2011_p_13_15",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "allium_sativum",
+                "type": "species",
+                "archival_data": [
+                    "1402132"
+                ]
+            },
+            "volume": null,
+            "page": "p 13; 15",
+            "year": "2011",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": true,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2009199",
+                "legacy_id": "436603",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "Herb Companion, The. vol 24, no. 1. (2011) p 21",
+            "machine_name": "herb_companion_the_vol_24_no_1_2011_p_21",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "mandragora_officinarum",
+                "type": "species",
+                "archival_data": [
+                    "1417426"
+                ]
+            },
+            "volume": null,
+            "page": "p 21",
+            "year": "2011",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2009289",
+                "legacy_id": "436604",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "Herb Companion, The. vol 24, no. 1. (2011) p 29",
+            "machine_name": "herb_companion_the_vol_24_no_1_2011_p_29",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "chamaemelum_nobile",
+                "type": "species",
+                "archival_data": [
+                    "1405634"
+                ]
+            },
+            "volume": null,
+            "page": "p 29",
+            "year": "2011",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2009290",
+                "legacy_id": "436605",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "Herb Companion, The. vol 24, no. 1. (2011) p 63; 65",
+            "machine_name": "herb_companion_the_vol_24_no_1_2011_p_63_65",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "olea_europaea",
+                "type": "species",
+                "archival_data": [
+                    "1426212"
+                ]
+            },
+            "volume": null,
+            "page": "p 63; 65",
+            "year": "2011",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2009291",
+                "legacy_id": "436606",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "Herb Companion, The. vol 24, no. 1. (2011) p 67; 69",
+            "machine_name": "herb_companion_the_vol_24_no_1_2011_p_67_69",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "eruca_vesicaria_sativa",
+                "type": "variety",
+                "archival_data": [
+                    "1475799"
+                ]
+            },
+            "volume": null,
+            "page": "p 67; 69",
+            "year": "2011",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2009292",
+                "legacy_id": "436607",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        }
+    ]
+}

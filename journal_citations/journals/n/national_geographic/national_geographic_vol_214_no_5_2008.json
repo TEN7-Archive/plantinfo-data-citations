@@ -1,0 +1,61 @@
+{
+    "name": "National Geographic. vol 214, no. 5. (2008)",
+    "machine_name": "national_geographic_vol_214_no_5_2008",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2008",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2121528",
+        "legacy_id": "97949",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "National Geographic. vol 214, no. 5. (2008) p front matter",
+            "machine_name": "national_geographic_vol_214_no_5_2008_p_front_matter",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "phoenix_dactylifera",
+                "type": "species",
+                "archival_data": [
+                    "1423733"
+                ]
+            },
+            "volume": null,
+            "page": "p front matter",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1987886",
+                "legacy_id": "382692",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        }
+    ]
+}

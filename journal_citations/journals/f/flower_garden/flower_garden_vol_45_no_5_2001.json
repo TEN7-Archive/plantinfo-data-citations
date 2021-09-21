@@ -1,0 +1,143 @@
+{
+    "name": "Flower & Garden. vol 45, no. 5. (2001)",
+    "machine_name": "flower_garden_vol_45_no_5_2001",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2001",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2117095",
+        "legacy_id": "27290",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Flower & Garden. vol 45, no. 5. (2001) p 28",
+            "machine_name": "flower_garden_vol_45_no_5_2001_p_28",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "paeonia_t_cultivars_qing_long_wo_mo_chi_green_d",
+                "type": "variety",
+                "archival_data": [
+                    "1542097"
+                ]
+            },
+            "volume": null,
+            "page": "p 28",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1883569",
+                "legacy_id": "217250",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Flower & Garden. vol 45, no. 5. (2001) p 28",
+            "machine_name": "flower_garden_vol_45_no_5_2001_p_28",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "paeonia_cultivars_champion_pink",
+                "type": "variety",
+                "archival_data": [
+                    "1560606"
+                ]
+            },
+            "volume": null,
+            "page": "p 28",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1883570",
+                "legacy_id": "217270",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Flower & Garden. vol 45, no. 5. (2001) p 45 (Adv.)",
+            "machine_name": "flower_garden_vol_45_no_5_2001_p_45_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "paulownia_tomentosa",
+                "type": "species",
+                "archival_data": [
+                    "1426262"
+                ]
+            },
+            "volume": null,
+            "page": "p 45 (Adv.)",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1883571",
+                "legacy_id": "217271",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        }
+    ]
+}

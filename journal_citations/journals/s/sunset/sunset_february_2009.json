@@ -1,0 +1,102 @@
+{
+    "name": "Sunset. February 2009.",
+    "machine_name": "sunset_february_2009",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1691031",
+        "legacy_id": "99811",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Sunset. February 2009. p 36",
+            "machine_name": "sunset_february_2009_p_36",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "capsicum_h_cultivars_mariachi",
+                "type": "variety",
+                "archival_data": [
+                    "1612992"
+                ]
+            },
+            "volume": null,
+            "page": "p 36",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1941756",
+                "legacy_id": "388323",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "Sunset. February 2009. p 39",
+            "machine_name": "sunset_february_2009_p_39",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "viola_cultivars_penny_series",
+                "type": "variety",
+                "archival_data": [
+                    "1499433"
+                ]
+            },
+            "volume": null,
+            "page": "p 39",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1941757",
+                "legacy_id": "388324",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        }
+    ]
+}

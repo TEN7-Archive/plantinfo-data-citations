@@ -1,0 +1,61 @@
+{
+    "name": "American Forests. vol 101, no. 9-10. (1995)",
+    "machine_name": "american_forests_vol_101_no_9_10_1995",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1995",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114167",
+        "legacy_id": "211",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "American Forests. vol 101, no. 9-10. (1995) p backcover (Adv.)",
+            "machine_name": "american_forests_vol_101_no_9_10_1995_p_backcover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "liriodendron_tulipifera",
+                "type": "species",
+                "archival_data": [
+                    "1418461"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover (Adv.)",
+            "year": "1995",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1800483",
+                "legacy_id": "109425",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        }
+    ]
+}

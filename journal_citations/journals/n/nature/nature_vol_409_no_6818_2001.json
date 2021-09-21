@@ -1,0 +1,61 @@
+{
+    "name": "Nature. vol 409, no. 6818. (2001)",
+    "machine_name": "nature_vol_409_no_6818_2001",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2001",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2116612",
+        "legacy_id": "19611",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Nature. vol 409, no. 6818. (2001) p 272",
+            "machine_name": "nature_vol_409_no_6818_2001_p_272",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lotus_corniculatus_japonicus",
+                "type": "variety",
+                "archival_data": [
+                    "1480523"
+                ]
+            },
+            "volume": null,
+            "page": "p 272",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": true,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1874712",
+                "legacy_id": "203810",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        }
+    ]
+}

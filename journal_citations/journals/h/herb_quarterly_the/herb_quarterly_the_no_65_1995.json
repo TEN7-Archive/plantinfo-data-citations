@@ -1,0 +1,184 @@
+{
+    "name": "Herb Quarterly, The. no. 65, (1995)",
+    "machine_name": "herb_quarterly_the_no_65_1995",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1995",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113980",
+        "legacy_id": "3691",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Herb Quarterly, The. no. 65, (1995) p 28",
+            "machine_name": "herb_quarterly_the_no_65_1995_p_28",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "elettaria_cardamomum",
+                "type": "species",
+                "archival_data": [
+                    "1413214"
+                ]
+            },
+            "volume": null,
+            "page": "p 28",
+            "year": "1995",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": true,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1785435",
+                "legacy_id": "91604",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Herb Quarterly, The. no. 65, (1995) p 25",
+            "machine_name": "herb_quarterly_the_no_65_1995_p_25",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "glycyrrhiza_glabra",
+                "type": "species",
+                "archival_data": [
+                    "1412670"
+                ]
+            },
+            "volume": null,
+            "page": "p 25",
+            "year": "1995",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": true,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1799216",
+                "legacy_id": "99761",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Herb Quarterly, The. no. 65, (1995) p 26",
+            "machine_name": "herb_quarterly_the_no_65_1995_p_26",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "panax_quinquefolius",
+                "type": "species",
+                "archival_data": [
+                    "1424081"
+                ]
+            },
+            "volume": null,
+            "page": "p 26",
+            "year": "1995",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": true,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1813106",
+                "legacy_id": "118029",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Herb Quarterly, The. no. 65, (1995) p 27",
+            "machine_name": "herb_quarterly_the_no_65_1995_p_27",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "smilax_medica",
+                "type": "species",
+                "archival_data": [
+                    "1430363"
+                ]
+            },
+            "volume": null,
+            "page": "p 27",
+            "year": "1995",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": true,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1828730",
+                "legacy_id": "133983",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "name": "Deutscher Gartenbau. vol 47, no. 44. (1993)",
+    "machine_name": "deutscher_gartenbau_vol_47_no_44_1993",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1993",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113071",
+        "legacy_id": "2334",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Deutscher Gartenbau. vol 47, no. 44. (1993) p 2783",
+            "machine_name": "deutscher_gartenbau_vol_47_no_44_1993_p_2783",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "sanvitalia_cultivars_irish_eyes",
+                "type": "variety",
+                "archival_data": [
+                    "1491804"
+                ]
+            },
+            "volume": null,
+            "page": "p 2783",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1756500",
+                "legacy_id": "55638",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483154438"
+            }
+        },
+        {
+            "name": "Deutscher Gartenbau. vol 47, no. 44. (1993) p 2783",
+            "machine_name": "deutscher_gartenbau_vol_47_no_44_1993_p_2783",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "torenia_cultivars_clown_series",
+                "type": "variety",
+                "archival_data": [
+                    "1491899"
+                ]
+            },
+            "volume": null,
+            "page": "p 2783",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1760292",
+                "legacy_id": "57975",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        }
+    ]
+}

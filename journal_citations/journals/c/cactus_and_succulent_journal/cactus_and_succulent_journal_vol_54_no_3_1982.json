@@ -1,0 +1,512 @@
+{
+    "name": "Cactus and Succulent Journal. vol 54, no. 3. (1982)",
+    "machine_name": "cactus_and_succulent_journal_vol_54_no_3_1982",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1982",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2109111",
+        "legacy_id": "1806",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Cactus and Succulent Journal. vol 54, no. 3. (1982) p 121, Pl. 3",
+            "machine_name": "cactus_and_succulent_journal_vol_54_no_3_1982_p_121_pl_3",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "aporophyllum_cultivars_hazel",
+                "type": "variety",
+                "archival_data": [
+                    "1463645"
+                ]
+            },
+            "volume": null,
+            "page": "p 121, Pl. 3",
+            "year": "1982",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1703087",
+                "legacy_id": "2053",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 54, no. 3. (1982) p 120, Pl. 1",
+            "machine_name": "cactus_and_succulent_journal_vol_54_no_3_1982_p_120_pl_1",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "aporophyllum_cultivars_lawrence",
+                "type": "variety",
+                "archival_data": [
+                    "1463646"
+                ]
+            },
+            "volume": null,
+            "page": "p 120, Pl. 1",
+            "year": "1982",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1703088",
+                "legacy_id": "2054",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 54, no. 3. (1982) p 117, Pl. 2",
+            "machine_name": "cactus_and_succulent_journal_vol_54_no_3_1982_p_117_pl_2",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "agave_deserti",
+                "type": "species",
+                "archival_data": [
+                    "1400929"
+                ]
+            },
+            "volume": null,
+            "page": "p 117, Pl. 2",
+            "year": "1982",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1766203",
+                "legacy_id": "69378",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 54, no. 3. (1982) p 120, Pl. 2",
+            "machine_name": "cactus_and_succulent_journal_vol_54_no_3_1982_p_120_pl_2",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "aporocactus_flagelliformis",
+                "type": "species",
+                "archival_data": [
+                    "1400630"
+                ]
+            },
+            "volume": null,
+            "page": "p 120, Pl. 2",
+            "year": "1982",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1767418",
+                "legacy_id": "72420",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 54, no. 3. (1982) p 97 (cover)",
+            "machine_name": "cactus_and_succulent_journal_vol_54_no_3_1982_p_97_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cereus_nycticalus",
+                "type": "species",
+                "archival_data": [
+                    "1405199"
+                ]
+            },
+            "volume": null,
+            "page": "p 97 (cover)",
+            "year": "1982",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1775221",
+                "legacy_id": "81229",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 54, no. 3. (1982) p 97 (cover)",
+            "machine_name": "cactus_and_succulent_journal_vol_54_no_3_1982_p_97_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "carnegiea_gigantea",
+                "type": "species",
+                "archival_data": [
+                    "1408533"
+                ]
+            },
+            "volume": null,
+            "page": "p 97 (cover)",
+            "year": "1982",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1779050",
+                "legacy_id": "79548",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 54, no. 3. (1982) p 144, Pl. 5",
+            "machine_name": "cactus_and_succulent_journal_vol_54_no_3_1982_p_144_pl_5",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "coryphantha_pseudoechinus",
+                "type": "species",
+                "archival_data": [
+                    "1406441"
+                ]
+            },
+            "volume": null,
+            "page": "p 144, Pl. 5",
+            "year": "1982",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1784585",
+                "legacy_id": "85047",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 54, no. 3. (1982) p 144, Pl. 4",
+            "machine_name": "cactus_and_succulent_journal_vol_54_no_3_1982_p_144_pl_4",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "coryphantha_pusilliflora",
+                "type": "species",
+                "archival_data": [
+                    "1406444"
+                ]
+            },
+            "volume": null,
+            "page": "p 144, Pl. 4",
+            "year": "1982",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1784588",
+                "legacy_id": "85050",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 54, no. 3. (1982) p 100, Pl. 4",
+            "machine_name": "cactus_and_succulent_journal_vol_54_no_3_1982_p_100_pl_4",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "huernia_concinna",
+                "type": "species",
+                "archival_data": [
+                    "1420620"
+                ]
+            },
+            "volume": null,
+            "page": "p 100, Pl. 4",
+            "year": "1982",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1798445",
+                "legacy_id": "103480",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 54, no. 3. (1982) p 100, Pl. 2-3",
+            "machine_name": "cactus_and_succulent_journal_vol_54_no_3_1982_p_100_pl_2_3",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "huernia_ingeae",
+                "type": "species",
+                "archival_data": [
+                    "1420624"
+                ]
+            },
+            "volume": null,
+            "page": "p 100, Pl. 2-3",
+            "year": "1982",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1798452",
+                "legacy_id": "103487",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 54, no. 3. (1982) p 117, Pl. 1",
+            "machine_name": "cactus_and_succulent_journal_vol_54_no_3_1982_p_117_pl_1",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "mammillaria_tetrancistra",
+                "type": "species",
+                "archival_data": [
+                    "1417091"
+                ]
+            },
+            "volume": null,
+            "page": "p 117, Pl. 1",
+            "year": "1982",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1805207",
+                "legacy_id": "111940",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 54, no. 3. (1982) p 124, Pl. 149",
+            "machine_name": "cactus_and_succulent_journal_vol_54_no_3_1982_p_124_pl_149",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rebutia_totorensis",
+                "type": "species",
+                "archival_data": [
+                    "1423264"
+                ]
+            },
+            "volume": null,
+            "page": "p 124, Pl. 149",
+            "year": "1982",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1821795",
+                "legacy_id": "126910",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        }
+    ]
+}

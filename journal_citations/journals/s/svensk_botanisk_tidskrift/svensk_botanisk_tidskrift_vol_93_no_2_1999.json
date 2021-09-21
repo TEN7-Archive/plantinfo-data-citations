@@ -1,0 +1,143 @@
+{
+    "name": "Svensk Botanisk Tidskrift. vol 93, no. 2. (1999)",
+    "machine_name": "svensk_botanisk_tidskrift_vol_93_no_2_1999",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1999",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2115795",
+        "legacy_id": "7773",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Svensk Botanisk Tidskrift. vol 93, no. 2. (1999) p 96",
+            "machine_name": "svensk_botanisk_tidskrift_vol_93_no_2_1999_p_96",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "prunella_vulgaris",
+                "type": "species",
+                "archival_data": [
+                    "1425028"
+                ]
+            },
+            "volume": null,
+            "page": "p 96",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1857652",
+                "legacy_id": "164776",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Svensk Botanisk Tidskrift. vol 93, no. 2. (1999) p 96",
+            "machine_name": "svensk_botanisk_tidskrift_vol_93_no_2_1999_p_96",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "prunella_grandiflora",
+                "type": "species",
+                "archival_data": [
+                    "1425025"
+                ]
+            },
+            "volume": null,
+            "page": "p 96",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1857653",
+                "legacy_id": "164777",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Svensk Botanisk Tidskrift. vol 93, no. 2. (1999) p 106",
+            "machine_name": "svensk_botanisk_tidskrift_vol_93_no_2_1999_p_106",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "viola_persicifolia",
+                "type": "species",
+                "archival_data": [
+                    "1436881"
+                ]
+            },
+            "volume": null,
+            "page": "p 106",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1857654",
+                "legacy_id": "164778",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        }
+    ]
+}

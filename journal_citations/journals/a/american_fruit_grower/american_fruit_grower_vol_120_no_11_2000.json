@@ -1,0 +1,143 @@
+{
+    "name": "American Fruit Grower. vol 120, no. 11. (2000)",
+    "machine_name": "american_fruit_grower_vol_120_no_11_2000",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2000",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2116496",
+        "legacy_id": "18051",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "American Fruit Grower. vol 120, no. 11. (2000) p inside cover (Adv.)",
+            "machine_name": "american_fruit_grower_vol_120_no_11_2000_p_inside_cover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "malus_a_cultivars_pink_lady",
+                "type": "variety",
+                "archival_data": [
+                    "1484141"
+                ]
+            },
+            "volume": null,
+            "page": "p inside cover (Adv.)",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1872381",
+                "legacy_id": "200798",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "American Fruit Grower. vol 120, no. 11. (2000) p inside backcover (Adv.)",
+            "machine_name": "american_fruit_grower_vol_120_no_11_2000_p_inside_backcover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "vitis_cultivars_merlot_348",
+                "type": "variety",
+                "archival_data": [
+                    "1559173"
+                ]
+            },
+            "volume": null,
+            "page": "p inside backcover (Adv.)",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1872382",
+                "legacy_id": "200799",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "American Fruit Grower. vol 120, no. 11. (2000) p inside backcover (Adv.)",
+            "machine_name": "american_fruit_grower_vol_120_no_11_2000_p_inside_backcover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "vitis_cultivars_cabernet_franc_327",
+                "type": "variety",
+                "archival_data": [
+                    "1559168"
+                ]
+            },
+            "volume": null,
+            "page": "p inside backcover (Adv.)",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1872383",
+                "legacy_id": "200800",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        }
+    ]
+}

@@ -1,0 +1,717 @@
+{
+    "name": "Flora of Australia. vol. 25 (1985)",
+    "machine_name": "flora_of_australia_vol_25_1985",
+    "type": "journal_book",
+    "volume": "25",
+    "number": null,
+    "year": "1985",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2111114",
+        "legacy_id": "2575",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Flora of Australia. vol. 25 (1985) 25 p 102, Pl. 25.",
+            "machine_name": "flora_of_australia_vol_25_1985_25_p_102_pl_25",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "dodonaea_sinuolata_acrodentata",
+                "type": "variety",
+                "archival_data": [
+                    "1468483"
+                ]
+            },
+            "volume": "25",
+            "page": "p 102, Pl. 25.",
+            "year": "1985",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1714426",
+                "legacy_id": "13360",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483346299"
+            }
+        },
+        {
+            "name": "Flora of Australia. vol. 25 (1985) 25 p frontispiece",
+            "machine_name": "flora_of_australia_vol_25_1985_25_p_frontispiece",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "dodonaea_viscosa_spatulata",
+                "type": "variety",
+                "archival_data": [
+                    "1468490"
+                ]
+            },
+            "volume": "25",
+            "page": "p frontispiece",
+            "year": "1985",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": true,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1714437",
+                "legacy_id": "13371",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483346299"
+            }
+        },
+        {
+            "name": "Flora of Australia. vol. 25 (1985) 25 p 27, Pl. 6.",
+            "machine_name": "flora_of_australia_vol_25_1985_25_p_27_pl_6",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "alectryon_subdentatum",
+                "type": "species",
+                "archival_data": [
+                    "1401729"
+                ]
+            },
+            "volume": "25",
+            "page": "p 27, Pl. 6.",
+            "year": "1985",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1767901",
+                "legacy_id": "69851",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483346299"
+            }
+        },
+        {
+            "name": "Flora of Australia. vol. 25 (1985) 25 p 161, Pl. 35.",
+            "machine_name": "flora_of_australia_vol_25_1985_25_p_161_pl_35",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "buchanania_obovata",
+                "type": "species",
+                "archival_data": [
+                    "1397733"
+                ]
+            },
+            "volume": "25",
+            "page": "p 161, Pl. 35.",
+            "year": "1985",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1770068",
+                "legacy_id": "77201",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483346299"
+            }
+        },
+        {
+            "name": "Flora of Australia. vol. 25 (1985) 25 p 27, Pl. 5.",
+            "machine_name": "flora_of_australia_vol_25_1985_25_p_27_pl_5",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "atalaya_hemiglauca",
+                "type": "species",
+                "archival_data": [
+                    "1398427"
+                ]
+            },
+            "volume": "25",
+            "page": "p 27, Pl. 5.",
+            "year": "1985",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1770548",
+                "legacy_id": "74619",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483346299"
+            }
+        },
+        {
+            "name": "Flora of Australia. vol. 25 (1985) 25 p 27, Pl. 8.",
+            "machine_name": "flora_of_australia_vol_25_1985_25_p_27_pl_8",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "diploglottis_diphyllostegia",
+                "type": "species",
+                "archival_data": [
+                    "1409227"
+                ]
+            },
+            "volume": "25",
+            "page": "p 27, Pl. 8.",
+            "year": "1985",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1782293",
+                "legacy_id": "89651",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483346299"
+            }
+        },
+        {
+            "name": "Flora of Australia. vol. 25 (1985) 25 p 102, Pl. 22.",
+            "machine_name": "flora_of_australia_vol_25_1985_25_p_102_pl_22",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "diplopeltis_huegelii",
+                "type": "species",
+                "archival_data": [
+                    "1409230"
+                ]
+            },
+            "volume": "25",
+            "page": "p 102, Pl. 22.",
+            "year": "1985",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1782295",
+                "legacy_id": "89653",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483346299"
+            }
+        },
+        {
+            "name": "Flora of Australia. vol. 25 (1985) 25 p 102, Pl. 24.",
+            "machine_name": "flora_of_australia_vol_25_1985_25_p_102_pl_24",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "dodonaea_baueri",
+                "type": "species",
+                "archival_data": [
+                    "1403533"
+                ]
+            },
+            "volume": "25",
+            "page": "p 102, Pl. 24.",
+            "year": "1985",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1787856",
+                "legacy_id": "89943",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483346299"
+            }
+        },
+        {
+            "name": "Flora of Australia. vol. 25 (1985) 25 p 102, Pl. 23.",
+            "machine_name": "flora_of_australia_vol_25_1985_25_p_102_pl_23",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "dodonaea_petiolaris",
+                "type": "species",
+                "archival_data": [
+                    "1403554"
+                ]
+            },
+            "volume": "25",
+            "page": "p 102, Pl. 23.",
+            "year": "1985",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1788050",
+                "legacy_id": "89973",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483346299"
+            }
+        },
+        {
+            "name": "Flora of Australia. vol. 25 (1985) 25 p 161, Pl. 33.",
+            "machine_name": "flora_of_australia_vol_25_1985_25_p_161_pl_33",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "dodonaea_pinifolia",
+                "type": "species",
+                "archival_data": [
+                    "1403556"
+                ]
+            },
+            "volume": "25",
+            "page": "p 161, Pl. 33.",
+            "year": "1985",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1788052",
+                "legacy_id": "89975",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483346299"
+            }
+        },
+        {
+            "name": "Flora of Australia. vol. 25 (1985) 25 p 161, Pl. 34.",
+            "machine_name": "flora_of_australia_vol_25_1985_25_p_161_pl_34",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "dodonaea_triangularis",
+                "type": "species",
+                "archival_data": [
+                    "1403564"
+                ]
+            },
+            "volume": "25",
+            "page": "p 161, Pl. 34.",
+            "year": "1985",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1788060",
+                "legacy_id": "89983",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483346299"
+            }
+        },
+        {
+            "name": "Flora of Australia. vol. 25 (1985) 25 p 27, Pl. 7.",
+            "machine_name": "flora_of_australia_vol_25_1985_25_p_27_pl_7",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "harpullia_pendula",
+                "type": "species",
+                "archival_data": [
+                    "1410113"
+                ]
+            },
+            "volume": "25",
+            "page": "p 27, Pl. 7.",
+            "year": "1985",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1795107",
+                "legacy_id": "101305",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483346299"
+            }
+        },
+        {
+            "name": "Flora of Australia. vol. 25 (1985) 25 p 71, Pl. 16.",
+            "machine_name": "flora_of_australia_vol_25_1985_25_p_71_pl_16",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lepidopetalum_subdichotomum",
+                "type": "species",
+                "archival_data": [
+                    "1416193"
+                ]
+            },
+            "volume": "25",
+            "page": "p 71, Pl. 16.",
+            "year": "1985",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1800691",
+                "legacy_id": "108049",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483346299"
+            }
+        },
+        {
+            "name": "Flora of Australia. vol. 25 (1985) 25 p 71, Pl. 15.",
+            "machine_name": "flora_of_australia_vol_25_1985_25_p_71_pl_15",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rhysotoechia_robertsonii",
+                "type": "species",
+                "archival_data": [
+                    "1432833"
+                ]
+            },
+            "volume": "25",
+            "page": "p 71, Pl. 15.",
+            "year": "1985",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1824196",
+                "legacy_id": "128819",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483346299"
+            }
+        },
+        {
+            "name": "Flora of Australia. vol. 25 (1985) 25 p 71, Pl. 17.",
+            "machine_name": "flora_of_australia_vol_25_1985_25_p_71_pl_17",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "synima_macrophylla",
+                "type": "species",
+                "archival_data": [
+                    "1428543"
+                ]
+            },
+            "volume": "25",
+            "page": "p 71, Pl. 17.",
+            "year": "1985",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1826312",
+                "legacy_id": "136128",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483346299"
+            }
+        },
+        {
+            "name": "Flora of Australia. vol. 25 (1985) 25 p 71, Pl. 14.",
+            "machine_name": "flora_of_australia_vol_25_1985_25_p_71_pl_14",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "sarcopteryx_montana",
+                "type": "species",
+                "archival_data": [
+                    "1431024"
+                ]
+            },
+            "volume": "25",
+            "page": "p 71, Pl. 14.",
+            "year": "1985",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1828875",
+                "legacy_id": "131393",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483346299"
+            }
+        },
+        {
+            "name": "Flora of Australia. vol. 25 (1985) 25 p 161, Pl. 36.",
+            "machine_name": "flora_of_australia_vol_25_1985_25_p_161_pl_36",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "semecarpus_australiensis",
+                "type": "species",
+                "archival_data": [
+                    "1428406"
+                ]
+            },
+            "volume": "25",
+            "page": "p 161, Pl. 36.",
+            "year": "1985",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1829632",
+                "legacy_id": "132915",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483346299"
+            }
+        }
+    ]
+}

@@ -1,0 +1,184 @@
+{
+    "name": "Herb Companion, The. vol 18, no. 6. (2006)",
+    "machine_name": "herb_companion_the_vol_18_no_6_2006",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2006",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2120784",
+        "legacy_id": "73811",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Herb Companion, The. vol 18, no. 6. (2006) p 12",
+            "machine_name": "herb_companion_the_vol_18_no_6_2006_p_12",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "filipendula_ulmaria",
+                "type": "species",
+                "archival_data": [
+                    "1413386"
+                ]
+            },
+            "volume": null,
+            "page": "p 12",
+            "year": "2006",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1967464",
+                "legacy_id": "322603",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        },
+        {
+            "name": "Herb Companion, The. vol 18, no. 6. (2006) p 14",
+            "machine_name": "herb_companion_the_vol_18_no_6_2006_p_14",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "myrrhis_odorata",
+                "type": "species",
+                "archival_data": [
+                    "1416390"
+                ]
+            },
+            "volume": null,
+            "page": "p 14",
+            "year": "2006",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1967465",
+                "legacy_id": "322604",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        },
+        {
+            "name": "Herb Companion, The. vol 18, no. 6. (2006) p 14",
+            "machine_name": "herb_companion_the_vol_18_no_6_2006_p_14",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "galium_odoratum",
+                "type": "species",
+                "archival_data": [
+                    "1415278"
+                ]
+            },
+            "volume": null,
+            "page": "p 14",
+            "year": "2006",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1967466",
+                "legacy_id": "322605",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        },
+        {
+            "name": "Herb Companion, The. vol 18, no. 6. (2006) p 34",
+            "machine_name": "herb_companion_the_vol_18_no_6_2006_p_34",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "thymus_serpyllum",
+                "type": "species",
+                "archival_data": [
+                    "1430874"
+                ]
+            },
+            "volume": null,
+            "page": "p 34",
+            "year": "2006",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1967467",
+                "legacy_id": "322606",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        }
+    ]
+}

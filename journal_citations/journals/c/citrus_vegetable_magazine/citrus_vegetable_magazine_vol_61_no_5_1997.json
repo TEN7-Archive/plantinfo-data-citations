@@ -1,0 +1,143 @@
+{
+    "name": "Citrus & Vegetable Magazine. vol 61, no. 5. (1997)",
+    "machine_name": "citrus_vegetable_magazine_vol_61_no_5_1997",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1997",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113261",
+        "legacy_id": "1975",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Citrus & Vegetable Magazine. vol 61, no. 5. (1997) p 23 (Adv.)",
+            "machine_name": "citrus_vegetable_magazine_vol_61_no_5_1997_p_23_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cucurbita_s_cultivars_dixie",
+                "type": "variety",
+                "archival_data": [
+                    "1468685"
+                ]
+            },
+            "volume": null,
+            "page": "p 23 (Adv.)",
+            "year": "1997",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1762095",
+                "legacy_id": "61021",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Citrus & Vegetable Magazine. vol 61, no. 5. (1997) p 63 (Adv.)",
+            "machine_name": "citrus_vegetable_magazine_vol_61_no_5_1997_p_63_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "citrullus_lanatus_royal_flush",
+                "type": "variety",
+                "archival_data": [
+                    "1468888"
+                ]
+            },
+            "volume": null,
+            "page": "p 63 (Adv.)",
+            "year": "1997",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1762096",
+                "legacy_id": "61022",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Citrus & Vegetable Magazine. vol 61, no. 5. (1997) p backcover (Adv.)",
+            "machine_name": "citrus_vegetable_magazine_vol_61_no_5_1997_p_backcover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "citrullus_lanatus_mardi_gras",
+                "type": "variety",
+                "archival_data": [
+                    "1468874"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover (Adv.)",
+            "year": "1997",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1762097",
+                "legacy_id": "61023",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        }
+    ]
+}

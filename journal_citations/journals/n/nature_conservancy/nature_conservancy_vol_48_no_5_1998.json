@@ -1,0 +1,61 @@
+{
+    "name": "Nature Conservancy. vol 48, no. 5. (1998)",
+    "machine_name": "nature_conservancy_vol_48_no_5_1998",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1998",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114985",
+        "legacy_id": "6445",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Nature Conservancy. vol 48, no. 5. (1998) p 12-13",
+            "machine_name": "nature_conservancy_vol_48_no_5_1998_p_12_13",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pinus_ponderosa",
+                "type": "species",
+                "archival_data": [
+                    "1425607"
+                ]
+            },
+            "volume": null,
+            "page": "p 12-13",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1843100",
+                "legacy_id": "148385",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        }
+    ]
+}

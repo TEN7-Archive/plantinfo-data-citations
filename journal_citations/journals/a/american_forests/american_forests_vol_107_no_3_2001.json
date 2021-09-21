@@ -1,0 +1,143 @@
+{
+    "name": "American Forests. vol 107, no. 3. (2001)",
+    "machine_name": "american_forests_vol_107_no_3_2001",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2001",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2117228",
+        "legacy_id": "27972",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "American Forests. vol 107, no. 3. (2001) p 12",
+            "machine_name": "american_forests_vol_107_no_3_2001_p_12",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "taxodium_distichum",
+                "type": "species",
+                "archival_data": [
+                    "1429331"
+                ]
+            },
+            "volume": null,
+            "page": "p 12",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1885802",
+                "legacy_id": "218557",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "American Forests. vol 107, no. 3. (2001) p 23-25",
+            "machine_name": "american_forests_vol_107_no_3_2001_p_23_25",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "populus_deltoides",
+                "type": "species",
+                "archival_data": [
+                    "1422760"
+                ]
+            },
+            "volume": null,
+            "page": "p 23-25",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1885803",
+                "legacy_id": "218558",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "American Forests. vol 107, no. 3. (2001) p 44;46",
+            "machine_name": "american_forests_vol_107_no_3_2001_p_44_46",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "carya_illinoinensis",
+                "type": "species",
+                "archival_data": [
+                    "1408577"
+                ]
+            },
+            "volume": null,
+            "page": "p 44;46",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": true,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1885804",
+                "legacy_id": "218559",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        }
+    ]
+}

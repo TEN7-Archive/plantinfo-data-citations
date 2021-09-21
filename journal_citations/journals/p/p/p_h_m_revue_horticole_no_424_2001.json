@@ -1,0 +1,102 @@
+{
+    "name": "P.H.M.-Revue Horticole. no. 424. (2001)",
+    "machine_name": "p_h_m_revue_horticole_no_424_2001",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2001",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2116924",
+        "legacy_id": "25429",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "P.H.M.-Revue Horticole. no. 424. (2001) p 10",
+            "machine_name": "p_h_m_revue_horticole_no_424_2001_p_10",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_terra_cotta",
+                "type": "variety",
+                "archival_data": [
+                    "1537064"
+                ]
+            },
+            "volume": null,
+            "page": "p 10",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1880742",
+                "legacy_id": "213450",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "P.H.M.-Revue Horticole. no. 424. (2001) p 14",
+            "machine_name": "p_h_m_revue_horticole_no_424_2001_p_14",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "gerbera_cultivars_testarossa",
+                "type": "variety",
+                "archival_data": [
+                    "1565062"
+                ]
+            },
+            "volume": null,
+            "page": "p 14",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1880746",
+                "legacy_id": "213473",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        }
+    ]
+}

@@ -1,0 +1,184 @@
+{
+    "name": "Flora International. no. 203. (2008)",
+    "machine_name": "flora_international_no_203_2008",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2008",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2119964",
+        "legacy_id": "100770",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Flora International. no. 203. (2008) p 52",
+            "machine_name": "flora_international_no_203_2008_p_52",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ficus_cultivars_amstel_king",
+                "type": "variety",
+                "archival_data": [
+                    "1473143"
+                ]
+            },
+            "volume": null,
+            "page": "p 52",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1945335",
+                "legacy_id": "391112",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "Flora International. no. 203. (2008) p 53",
+            "machine_name": "flora_international_no_203_2008_p_53",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "anthurium_clarinervium",
+                "type": "species",
+                "archival_data": [
+                    "1433898"
+                ]
+            },
+            "volume": null,
+            "page": "p 53",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1945336",
+                "legacy_id": "391113",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "Flora International. no. 203. (2008) p 53",
+            "machine_name": "flora_international_no_203_2008_p_53",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "muehlenbeckia_complexa_marri",
+                "type": "variety",
+                "archival_data": [
+                    "1618444"
+                ]
+            },
+            "volume": null,
+            "page": "p 53",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1945337",
+                "legacy_id": "391114",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "Flora International. no. 203. (2008) p 34",
+            "machine_name": "flora_international_no_203_2008_p_34",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "dahlia_cultivars_unique",
+                "type": "variety",
+                "archival_data": [
+                    "1618445"
+                ]
+            },
+            "volume": null,
+            "page": "p 34",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1945338",
+                "legacy_id": "391115",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        }
+    ]
+}

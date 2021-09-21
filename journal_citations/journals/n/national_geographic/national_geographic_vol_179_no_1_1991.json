@@ -1,0 +1,61 @@
+{
+    "name": "National Geographic. vol 179, no. 1. (1991)",
+    "machine_name": "national_geographic_vol_179_no_1_1991",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1991",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113596",
+        "legacy_id": "4571",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "National Geographic. vol 179, no. 1. (1991) p 12-13| 25",
+            "machine_name": "national_geographic_vol_179_no_1_1991_p_12_13_25",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "adansonia_digitata",
+                "type": "species",
+                "archival_data": [
+                    "1398931"
+                ]
+            },
+            "volume": null,
+            "page": "p 12-13| 25",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": true,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1768774",
+                "legacy_id": "68701",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        }
+    ]
+}

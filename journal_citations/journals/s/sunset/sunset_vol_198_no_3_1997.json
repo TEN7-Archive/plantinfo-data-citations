@@ -1,0 +1,102 @@
+{
+    "name": "Sunset. vol 198, no. 3. (1997)",
+    "machine_name": "sunset_vol_198_no_3_1997",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1997",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2115421",
+        "legacy_id": "7113",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Sunset. vol 198, no. 3. (1997) p 53",
+            "machine_name": "sunset_vol_198_no_3_1997_p_53",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_lovely_fairy",
+                "type": "variety",
+                "archival_data": [
+                    "1491360"
+                ]
+            },
+            "volume": null,
+            "page": "p 53",
+            "year": "1997",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1850838",
+                "legacy_id": "156689",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Sunset. vol 198, no. 3. (1997) p 53",
+            "machine_name": "sunset_vol_198_no_3_1997_p_53",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_royal_bonica",
+                "type": "variety",
+                "archival_data": [
+                    "1494915"
+                ]
+            },
+            "volume": null,
+            "page": "p 53",
+            "year": "1997",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1850839",
+                "legacy_id": "156690",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        }
+    ]
+}

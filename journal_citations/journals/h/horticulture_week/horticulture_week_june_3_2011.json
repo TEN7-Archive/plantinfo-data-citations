@@ -1,0 +1,143 @@
+{
+    "name": "Horticulture Week. June 3, 2011.",
+    "machine_name": "horticulture_week_june_3_2011",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1693210",
+        "legacy_id": "114997",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Horticulture Week. June 3, 2011. p 19, Pl. 2",
+            "machine_name": "horticulture_week_june_3_2011_p_19_pl_2",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "begonia_rex_cultorum_fireworks",
+                "type": "variety",
+                "archival_data": [
+                    "1495923"
+                ]
+            },
+            "volume": null,
+            "page": "p 19, Pl. 2",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2012933",
+                "legacy_id": "436033",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "Horticulture Week. June 3, 2011. p 18, Pl. 1",
+            "machine_name": "horticulture_week_june_3_2011_p_18_pl_1",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "begonia_rex_cultorum_red_robin",
+                "type": "variety",
+                "archival_data": [
+                    "1622178"
+                ]
+            },
+            "volume": null,
+            "page": "p 18, Pl. 1",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2012934",
+                "legacy_id": "436034",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "Horticulture Week. June 3, 2011. p 11",
+            "machine_name": "horticulture_week_june_3_2011_p_11",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_queen_anne",
+                "type": "variety",
+                "archival_data": [
+                    "1653606"
+                ]
+            },
+            "volume": null,
+            "page": "p 11",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2063548",
+                "legacy_id": "436032",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        }
+    ]
+}

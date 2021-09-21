@@ -1,0 +1,102 @@
+{
+    "name": "Better Homes & Gardens. vol 83, no. 7. (2005)",
+    "machine_name": "better_homes_gardens_vol_83_no_7_2005",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2005",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2121200",
+        "legacy_id": "66290",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Better Homes & Gardens. vol 83, no. 7. (2005) p 113",
+            "machine_name": "better_homes_gardens_vol_83_no_7_2005_p_113",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hydrangea_arborescens_annabelle",
+                "type": "variety",
+                "archival_data": [
+                    "1480927"
+                ]
+            },
+            "volume": null,
+            "page": "p 113",
+            "year": "2005",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1978385",
+                "legacy_id": "302479",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        },
+        {
+            "name": "Better Homes & Gardens. vol 83, no. 7. (2005) p 113",
+            "machine_name": "better_homes_gardens_vol_83_no_7_2005_p_113",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "sedum_cultivars_frosty_morn",
+                "type": "variety",
+                "archival_data": [
+                    "1529867"
+                ]
+            },
+            "volume": null,
+            "page": "p 113",
+            "year": "2005",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1978386",
+                "legacy_id": "302480",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        }
+    ]
+}

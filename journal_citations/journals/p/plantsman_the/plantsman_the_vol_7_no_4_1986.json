@@ -1,0 +1,61 @@
+{
+    "name": "Plantsman, The. vol 7, no. 4. (1986)",
+    "machine_name": "plantsman_the_vol_7_no_4_1986",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1986",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2110571",
+        "legacy_id": "5285",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Plantsman, The. vol 7, no. 4. (1986) p facing 193",
+            "machine_name": "plantsman_the_vol_7_no_4_1986_p_facing_193",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "clematis_tibetana_vernayi",
+                "type": "variety",
+                "archival_data": [
+                    "1470127"
+                ]
+            },
+            "volume": null,
+            "page": "p facing 193",
+            "year": "1986",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1709751",
+                "legacy_id": "8168",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        }
+    ]
+}

@@ -1,0 +1,963 @@
+{
+    "name": "Northern Gardener. vol 137, no. 6. (2009)",
+    "machine_name": "northern_gardener_vol_137_no_6_2009",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2009",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2121969",
+        "legacy_id": "105989",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Northern Gardener. vol 137, no. 6. (2009) p 12",
+            "machine_name": "northern_gardener_vol_137_no_6_2009_p_12",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "clematis_virginiana",
+                "type": "species",
+                "archival_data": [
+                    "1408636"
+                ]
+            },
+            "volume": null,
+            "page": "p 12",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1999369",
+                "legacy_id": "402852",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Northern Gardener. vol 137, no. 6. (2009) p 17",
+            "machine_name": "northern_gardener_vol_137_no_6_2009_p_17",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "picea_pungens_glauca_globosa",
+                "type": "variety",
+                "archival_data": [
+                    "1521666"
+                ]
+            },
+            "volume": null,
+            "page": "p 17",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1999370",
+                "legacy_id": "402853",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Northern Gardener. vol 137, no. 6. (2009) p 25",
+            "machine_name": "northern_gardener_vol_137_no_6_2009_p_25",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "clematis_cultivars_alionushka",
+                "type": "variety",
+                "archival_data": [
+                    "1527624"
+                ]
+            },
+            "volume": null,
+            "page": "p 25",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1999527",
+                "legacy_id": "402854",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Northern Gardener. vol 137, no. 6. (2009) p 27",
+            "machine_name": "northern_gardener_vol_137_no_6_2009_p_27",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "platycodon_grandiflorus_astra_series",
+                "type": "variety",
+                "archival_data": [
+                    "1486327"
+                ]
+            },
+            "volume": null,
+            "page": "p 27",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1999528",
+                "legacy_id": "402855",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Northern Gardener. vol 137, no. 6. (2009) p 27",
+            "machine_name": "northern_gardener_vol_137_no_6_2009_p_27",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lilium_cultivars_fangio",
+                "type": "variety",
+                "archival_data": [
+                    "1561788"
+                ]
+            },
+            "volume": null,
+            "page": "p 27",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1999529",
+                "legacy_id": "402856",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Northern Gardener. vol 137, no. 6. (2009) p 27",
+            "machine_name": "northern_gardener_vol_137_no_6_2009_p_27",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ratibida_columnifera",
+                "type": "species",
+                "archival_data": [
+                    "1422863"
+                ]
+            },
+            "volume": null,
+            "page": "p 27",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1999530",
+                "legacy_id": "402857",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Northern Gardener. vol 137, no. 6. (2009) p 27",
+            "machine_name": "northern_gardener_vol_137_no_6_2009_p_27",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "filipendula_rubra_venusta",
+                "type": "variety",
+                "archival_data": [
+                    "1473464"
+                ]
+            },
+            "volume": null,
+            "page": "p 27",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1999531",
+                "legacy_id": "402858",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Northern Gardener. vol 137, no. 6. (2009) p 27",
+            "machine_name": "northern_gardener_vol_137_no_6_2009_p_27",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "viburnum_trilobum_wentworth",
+                "type": "variety",
+                "archival_data": [
+                    "1530594"
+                ]
+            },
+            "volume": null,
+            "page": "p 27",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1999532",
+                "legacy_id": "402859",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Northern Gardener. vol 137, no. 6. (2009) p 32",
+            "machine_name": "northern_gardener_vol_137_no_6_2009_p_32",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "echinacea_paradoxa",
+                "type": "species",
+                "archival_data": [
+                    "1405524"
+                ]
+            },
+            "volume": null,
+            "page": "p 32",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1999533",
+                "legacy_id": "402860",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Northern Gardener. vol 137, no. 6. (2009) p 32",
+            "machine_name": "northern_gardener_vol_137_no_6_2009_p_32",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "baptisia_australis",
+                "type": "species",
+                "archival_data": [
+                    "1399609"
+                ]
+            },
+            "volume": null,
+            "page": "p 32",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1999534",
+                "legacy_id": "402861",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Northern Gardener. vol 137, no. 6. (2009) p 32-34",
+            "machine_name": "northern_gardener_vol_137_no_6_2009_p_32_34",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "dodecatheon_meadia",
+                "type": "species",
+                "archival_data": [
+                    "1403528"
+                ]
+            },
+            "volume": null,
+            "page": "p 32-34",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1999535",
+                "legacy_id": "402862",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Northern Gardener. vol 137, no. 6. (2009) p 33",
+            "machine_name": "northern_gardener_vol_137_no_6_2009_p_33",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "parthenium_integrifolium",
+                "type": "species",
+                "archival_data": [
+                    "1425577"
+                ]
+            },
+            "volume": null,
+            "page": "p 33",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1999536",
+                "legacy_id": "402863",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Northern Gardener. vol 137, no. 6. (2009) p 33",
+            "machine_name": "northern_gardener_vol_137_no_6_2009_p_33",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "vernonia_fasciculata",
+                "type": "species",
+                "archival_data": [
+                    "1429354"
+                ]
+            },
+            "volume": null,
+            "page": "p 33",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1999537",
+                "legacy_id": "402864",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Northern Gardener. vol 137, no. 6. (2009) p 34-35",
+            "machine_name": "northern_gardener_vol_137_no_6_2009_p_34_35",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "schizachyrium_scoparium",
+                "type": "species",
+                "archival_data": [
+                    "1432591"
+                ]
+            },
+            "volume": null,
+            "page": "p 34-35",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1999538",
+                "legacy_id": "402865",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Northern Gardener. vol 137, no. 6. (2009) p 34",
+            "machine_name": "northern_gardener_vol_137_no_6_2009_p_34",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "eryngium_yuccifolium",
+                "type": "species",
+                "archival_data": [
+                    "1412527"
+                ]
+            },
+            "volume": null,
+            "page": "p 34",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1999539",
+                "legacy_id": "402866",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Northern Gardener. vol 137, no. 6. (2009) p 34",
+            "machine_name": "northern_gardener_vol_137_no_6_2009_p_34",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "coreopsis_tripteris",
+                "type": "species",
+                "archival_data": [
+                    "1405290"
+                ]
+            },
+            "volume": null,
+            "page": "p 34",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1999540",
+                "legacy_id": "402867",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Northern Gardener. vol 137, no. 6. (2009) p 34",
+            "machine_name": "northern_gardener_vol_137_no_6_2009_p_34",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "chasmanthium_latifolium",
+                "type": "species",
+                "archival_data": [
+                    "1405936"
+                ]
+            },
+            "volume": null,
+            "page": "p 34",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1999541",
+                "legacy_id": "402868",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Northern Gardener. vol 137, no. 6. (2009) p 34",
+            "machine_name": "northern_gardener_vol_137_no_6_2009_p_34",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "echinacea_purpurea",
+                "type": "species",
+                "archival_data": [
+                    "1405525"
+                ]
+            },
+            "volume": null,
+            "page": "p 34",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1999542",
+                "legacy_id": "402869",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Northern Gardener. vol 137, no. 6. (2009) p 34",
+            "machine_name": "northern_gardener_vol_137_no_6_2009_p_34",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "dalea_purpurea",
+                "type": "species",
+                "archival_data": [
+                    "1404992"
+                ]
+            },
+            "volume": null,
+            "page": "p 34",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1999543",
+                "legacy_id": "402870",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Northern Gardener. vol 137, no. 6. (2009) p 34",
+            "machine_name": "northern_gardener_vol_137_no_6_2009_p_34",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "geum_triflorum",
+                "type": "species",
+                "archival_data": [
+                    "1411905"
+                ]
+            },
+            "volume": null,
+            "page": "p 34",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1999544",
+                "legacy_id": "402871",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Northern Gardener. vol 137, no. 6. (2009) p 34",
+            "machine_name": "northern_gardener_vol_137_no_6_2009_p_34",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "symphyotrichum_novae_angliae",
+                "type": "species",
+                "archival_data": [
+                    "1449973"
+                ]
+            },
+            "volume": null,
+            "page": "p 34",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1999545",
+                "legacy_id": "402872",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Northern Gardener. vol 137, no. 6. (2009) p 34",
+            "machine_name": "northern_gardener_vol_137_no_6_2009_p_34",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "veronicastrum_virginicum",
+                "type": "species",
+                "archival_data": [
+                    "1429432"
+                ]
+            },
+            "volume": null,
+            "page": "p 34",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1999546",
+                "legacy_id": "402873",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Northern Gardener. vol 137, no. 6. (2009) p 34",
+            "machine_name": "northern_gardener_vol_137_no_6_2009_p_34",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "filipendula_rubra",
+                "type": "species",
+                "archival_data": [
+                    "1413385"
+                ]
+            },
+            "volume": null,
+            "page": "p 34",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1999547",
+                "legacy_id": "402874",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        }
+    ]
+}

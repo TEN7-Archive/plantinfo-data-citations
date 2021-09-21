@@ -1,0 +1,102 @@
+{
+    "name": "Horticulture. vol 64, no. 5 (1986)",
+    "machine_name": "horticulture_vol_64_no_5_1986",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1986",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114073",
+        "legacy_id": "3948",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Horticulture. vol 64, no. 5 (1986) p 42-43",
+            "machine_name": "horticulture_vol_64_no_5_1986_p_42_43",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "galium_odoratum",
+                "type": "species",
+                "archival_data": [
+                    "1415278"
+                ]
+            },
+            "volume": null,
+            "page": "p 42-43",
+            "year": "1986",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1793265",
+                "legacy_id": "98146",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Horticulture. vol 64, no. 5 (1986) p 70 (Adv.)",
+            "machine_name": "horticulture_vol_64_no_5_1986_p_70_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "fritillaria_meleagris",
+                "type": "species",
+                "archival_data": [
+                    "1414470"
+                ]
+            },
+            "volume": null,
+            "page": "p 70 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2514046",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1557228951"
+            }
+        }
+    ]
+}

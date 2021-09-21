@@ -1,0 +1,102 @@
+{
+    "name": "Sunset. October 2014.",
+    "machine_name": "sunset_october_2014",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1693662",
+        "legacy_id": "125155",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Sunset. October 2014. p 46",
+            "machine_name": "sunset_october_2014_p_46",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "diospyros_kaki_fuyu",
+                "type": "variety",
+                "archival_data": [
+                    "1469138"
+                ]
+            },
+            "volume": null,
+            "page": "p 46",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2050813",
+                "legacy_id": "481683",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Sunset. October 2014. p 104",
+            "machine_name": "sunset_october_2014_p_104",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "bouteloua_dactyloides_uc_verde",
+                "type": "variety",
+                "archival_data": [
+                    "1604642"
+                ]
+            },
+            "volume": null,
+            "page": "p 104",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2050814",
+                "legacy_id": "481684",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        }
+    ]
+}

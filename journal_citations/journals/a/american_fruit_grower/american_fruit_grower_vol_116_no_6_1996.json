@@ -1,0 +1,102 @@
+{
+    "name": "American Fruit Grower. vol 116, no. 6. (1996)",
+    "machine_name": "american_fruit_grower_vol_116_no_6_1996",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1996",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2111091",
+        "legacy_id": "274",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "American Fruit Grower. vol 116, no. 6. (1996) p 24",
+            "machine_name": "american_fruit_grower_vol_116_no_6_1996_p_24",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "diospyros_virginiana_matsumoto_wase_fuyu",
+                "type": "variety",
+                "archival_data": [
+                    "1469147"
+                ]
+            },
+            "volume": null,
+            "page": "p 24",
+            "year": "1996",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1714123",
+                "legacy_id": "13311",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "American Fruit Grower. vol 116, no. 6. (1996) p 24",
+            "machine_name": "american_fruit_grower_vol_116_no_6_1996_p_24",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ribes_g_cultivars_black_velvet",
+                "type": "variety",
+                "archival_data": [
+                    "1523955"
+                ]
+            },
+            "volume": null,
+            "page": "p 24",
+            "year": "1996",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1747866",
+                "legacy_id": "44126",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483154438"
+            }
+        }
+    ]
+}

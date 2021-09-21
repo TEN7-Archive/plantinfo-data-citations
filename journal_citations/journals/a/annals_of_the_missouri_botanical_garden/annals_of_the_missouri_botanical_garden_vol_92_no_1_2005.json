@@ -1,0 +1,184 @@
+{
+    "name": "Annals of the Missouri Botanical Garden. vol 92, no. 1. (2005)",
+    "machine_name": "annals_of_the_missouri_botanical_garden_vol_92_no_1_2005",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2005",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2121110",
+        "legacy_id": "66029",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Annals of the Missouri Botanical Garden. vol 92, no. 1. (2005) p 133, Pl. 2a-c",
+            "machine_name": "annals_of_the_missouri_botanical_garden_vol_92_no_1_2005_p_133_pl_2a_c",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pedicularis_densispica",
+                "type": "species",
+                "archival_data": [
+                    "1450527"
+                ]
+            },
+            "volume": null,
+            "page": "p 133, Pl. 2a-c",
+            "year": "2005",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1976139",
+                "legacy_id": "301690",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        },
+        {
+            "name": "Annals of the Missouri Botanical Garden. vol 92, no. 1. (2005) p 133, Pl. 2d-e",
+            "machine_name": "annals_of_the_missouri_botanical_garden_vol_92_no_1_2005_p_133_pl_2d_e",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pedicularis_lutescens_lutescens",
+                "type": "variety",
+                "archival_data": [
+                    "1612433"
+                ]
+            },
+            "volume": null,
+            "page": "p 133, Pl. 2d-e",
+            "year": "2005",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1976140",
+                "legacy_id": "301691",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        },
+        {
+            "name": "Annals of the Missouri Botanical Garden. vol 92, no. 1. (2005) p 133, Pl. 2f-g",
+            "machine_name": "annals_of_the_missouri_botanical_garden_vol_92_no_1_2005_p_133_pl_2f_g",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pedicularis_integrifolia",
+                "type": "species",
+                "archival_data": [
+                    "1453633"
+                ]
+            },
+            "volume": null,
+            "page": "p 133, Pl. 2f-g",
+            "year": "2005",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1976141",
+                "legacy_id": "301692",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        },
+        {
+            "name": "Annals of the Missouri Botanical Garden. vol 92, no. 1. (2005) p 133, Pl. 2h",
+            "machine_name": "annals_of_the_missouri_botanical_garden_vol_92_no_1_2005_p_133_pl_2h",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pedicularis_tricolor",
+                "type": "species",
+                "archival_data": [
+                    "1426348"
+                ]
+            },
+            "volume": null,
+            "page": "p 133, Pl. 2h",
+            "year": "2005",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1976142",
+                "legacy_id": "301693",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        }
+    ]
+}

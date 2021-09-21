@@ -1,0 +1,102 @@
+{
+    "name": "Landscape Architecture. vol 90, no. 10. (2000)",
+    "machine_name": "landscape_architecture_vol_90_no_10_2000",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2000",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2116551",
+        "legacy_id": "17009",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Landscape Architecture. vol 90, no. 10. (2000) p 38",
+            "machine_name": "landscape_architecture_vol_90_no_10_2000_p_38",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "sabal_minor",
+                "type": "species",
+                "archival_data": [
+                    "1429084"
+                ]
+            },
+            "volume": null,
+            "page": "p 38",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1873588",
+                "legacy_id": "199370",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Landscape Architecture. vol 90, no. 10. (2000) p 152 (Adv.)",
+            "machine_name": "landscape_architecture_vol_90_no_10_2000_p_152_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "acer_cultivars_norwegian_sunset",
+                "type": "variety",
+                "archival_data": [
+                    "1466354"
+                ]
+            },
+            "volume": null,
+            "page": "p 152 (Adv.)",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1873589",
+                "legacy_id": "199371",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        }
+    ]
+}

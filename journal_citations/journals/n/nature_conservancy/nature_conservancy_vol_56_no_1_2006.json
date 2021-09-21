@@ -1,0 +1,102 @@
+{
+    "name": "Nature Conservancy. vol 56, no. 1. (2006)",
+    "machine_name": "nature_conservancy_vol_56_no_1_2006",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2006",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2119654",
+        "legacy_id": "70912",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Nature Conservancy. vol 56, no. 1. (2006) p 14",
+            "machine_name": "nature_conservancy_vol_56_no_1_2006_p_14",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "sabatia_arkansana",
+                "type": "species",
+                "archival_data": [
+                    "1451895"
+                ]
+            },
+            "volume": null,
+            "page": "p 14",
+            "year": "2006",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1936711",
+                "legacy_id": "314847",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "Nature Conservancy. vol 56, no. 1. (2006) p 26",
+            "machine_name": "nature_conservancy_vol_56_no_1_2006_p_26",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "asclepias_tuberosa",
+                "type": "species",
+                "archival_data": [
+                    "1403000"
+                ]
+            },
+            "volume": null,
+            "page": "p 26",
+            "year": "2006",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": true,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1936712",
+                "legacy_id": "314848",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        }
+    ]
+}

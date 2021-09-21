@@ -1,0 +1,143 @@
+{
+    "name": "Green Scene. vol 29, no. 4. (2001)",
+    "machine_name": "green_scene_vol_29_no_4_2001",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2001",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2116773",
+        "legacy_id": "26089",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Green Scene. vol 29, no. 4. (2001) p 21-22",
+            "machine_name": "green_scene_vol_29_no_4_2001_p_21_22",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "vigna_caracalla",
+                "type": "species",
+                "archival_data": [
+                    "1436484"
+                ]
+            },
+            "volume": null,
+            "page": "p 21-22",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1877641",
+                "legacy_id": "214350",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Green Scene. vol 29, no. 4. (2001) p 34",
+            "machine_name": "green_scene_vol_29_no_4_2001_p_34",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "paeonia_japonica",
+                "type": "species",
+                "archival_data": [
+                    "1441087"
+                ]
+            },
+            "volume": null,
+            "page": "p 34",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1877642",
+                "legacy_id": "214351",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Green Scene. vol 29, no. 4. (2001) p 36",
+            "machine_name": "green_scene_vol_29_no_4_2001_p_36",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "geranium_macrorrhizum",
+                "type": "species",
+                "archival_data": [
+                    "1411517"
+                ]
+            },
+            "volume": null,
+            "page": "p 36",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1877643",
+                "legacy_id": "214352",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "name": "Biotropica. vol 42, no. 3. (2010)",
+    "machine_name": "biotropica_vol_42_no_3_2010",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2010",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2124051",
+        "legacy_id": "108736",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Biotropica. vol 42, no. 3. (2010) p 338, Pl. 1A-E",
+            "machine_name": "biotropica_vol_42_no_3_2010_p_338_pl_1a_e",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rhodoleia_championii",
+                "type": "species",
+                "archival_data": [
+                    "1432471"
+                ]
+            },
+            "volume": null,
+            "page": "p 338, Pl. 1A-E",
+            "year": "2010",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2064586",
+                "legacy_id": "412571",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        }
+    ]
+}

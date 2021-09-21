@@ -1,0 +1,61 @@
+{
+    "name": "Natural History. vol 125, no. 1. (2016\/17)",
+    "machine_name": "natural_history_vol_125_no_1_2016_17",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2016\/17",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": "7",
+    "description": null,
+    "archival_data": {
+        "id": "2200831",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1515762846"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Natural History. vol 125, no. 1. (2016\/17) p 37",
+            "machine_name": "natural_history_vol_125_no_1_2016_17_p_37",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "polypodium_appalachianum",
+                "type": "species",
+                "archival_data": [
+                    "1445546"
+                ]
+            },
+            "volume": null,
+            "page": "p 37",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2200836",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1515763222"
+            }
+        }
+    ]
+}

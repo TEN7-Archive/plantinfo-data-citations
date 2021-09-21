@@ -1,0 +1,61 @@
+{
+    "name": "Scientific American. vol 250, no. 1. (1984)",
+    "machine_name": "scientific_american_vol_250_no_1_1984",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1984",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114367",
+        "legacy_id": "5402",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Scientific American. vol 250, no. 1. (1984) p 80| 85",
+            "machine_name": "scientific_american_vol_250_no_1_1984_p_80_85",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "oryza_sativa",
+                "type": "species",
+                "archival_data": [
+                    "1422920"
+                ]
+            },
+            "volume": null,
+            "page": "p 80| 85",
+            "year": "1984",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1810764",
+                "legacy_id": "117394",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        }
+    ]
+}

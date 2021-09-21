@@ -1,0 +1,225 @@
+{
+    "name": "HortScience. vol 36, no. 6. (2001)",
+    "machine_name": "hortscience_vol_36_no_6_2001",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2001",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2117102",
+        "legacy_id": "30049",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "HortScience. vol 36, no. 6. (2001) p cover",
+            "machine_name": "hortscience_vol_36_no_6_2001_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "elaeagnus_umbellata",
+                "type": "species",
+                "archival_data": [
+                    "1413164"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1883710",
+                "legacy_id": "221692",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "HortScience. vol 36, no. 6. (2001) p 1139",
+            "machine_name": "hortscience_vol_36_no_6_2001_p_1139",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "verbena_canadensis_homestead_purple",
+                "type": "variety",
+                "archival_data": [
+                    "1498629"
+                ]
+            },
+            "volume": null,
+            "page": "p 1139",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1883714",
+                "legacy_id": "221696",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "HortScience. vol 36, no. 6. (2001) p 1152",
+            "machine_name": "hortscience_vol_36_no_6_2001_p_1152",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ipomoea_batatas_white_regal",
+                "type": "variety",
+                "archival_data": [
+                    "1565588"
+                ]
+            },
+            "volume": null,
+            "page": "p 1152",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": true,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1883715",
+                "legacy_id": "221697",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "HortScience. vol 36, no. 6. (2001) p 1155",
+            "machine_name": "hortscience_vol_36_no_6_2001_p_1155",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rubus_r_cultivars_lewis",
+                "type": "variety",
+                "archival_data": [
+                    "1565589"
+                ]
+            },
+            "volume": null,
+            "page": "p 1155",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1883716",
+                "legacy_id": "221698",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "HortScience. vol 36, no. 6. (2001) p 1159",
+            "machine_name": "hortscience_vol_36_no_6_2001_p_1159",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rubus_r_cultivars_coho",
+                "type": "variety",
+                "archival_data": [
+                    "1565590"
+                ]
+            },
+            "volume": null,
+            "page": "p 1159",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1883720",
+                "legacy_id": "221702",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        }
+    ]
+}

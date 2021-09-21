@@ -1,0 +1,61 @@
+{
+    "name": "Landscape Management. vol 58, no. 8. (2019)",
+    "machine_name": "landscape_management_vol_58_no_8_2019",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2019",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": "7",
+    "description": null,
+    "archival_data": {
+        "id": "2560521",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1569066438"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Landscape Management. vol 58, no. 8. (2019)  p 49",
+            "machine_name": "landscape_management_vol_58_no_8_2019_p_49",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "poa_annua",
+                "type": "species",
+                "archival_data": [
+                    "1427088"
+                ]
+            },
+            "volume": null,
+            "page": "p 49",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2560526",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1569066531"
+            }
+        }
+    ]
+}

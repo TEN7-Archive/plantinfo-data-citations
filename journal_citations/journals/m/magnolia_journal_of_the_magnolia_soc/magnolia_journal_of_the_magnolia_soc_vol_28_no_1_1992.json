@@ -1,0 +1,61 @@
+{
+    "name": "Magnolia, Journal of the Magnolia Soc. vol 28, no. 1. (1992)",
+    "machine_name": "magnolia_journal_of_the_magnolia_soc_vol_28_no_1_1992",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1992",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114308",
+        "legacy_id": "4369",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Magnolia, Journal of the Magnolia Soc. vol 28, no. 1. (1992) p cover|13|backcover",
+            "machine_name": "magnolia_journal_of_the_magnolia_soc_vol_28_no_1_1992_p_cover_13_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "magnolia_biondii",
+                "type": "species",
+                "archival_data": [
+                    "1421164"
+                ]
+            },
+            "volume": null,
+            "page": "p cover|13|backcover",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1806467",
+                "legacy_id": "110966",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        }
+    ]
+}

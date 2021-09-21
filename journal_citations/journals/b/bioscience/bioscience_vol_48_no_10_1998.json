@@ -1,0 +1,102 @@
+{
+    "name": "BioScience. vol 48, no. 10. (1998)",
+    "machine_name": "bioscience_vol_48_no_10_1998",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1998",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2115208",
+        "legacy_id": "7144",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "BioScience. vol 48, no. 10. (1998) p cover",
+            "machine_name": "bioscience_vol_48_no_10_1998_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "thymus_vulgaris",
+                "type": "species",
+                "archival_data": [
+                    "1430876"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1847068",
+                "legacy_id": "157017",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "BioScience. vol 48, no. 10. (1998) p 789",
+            "machine_name": "bioscience_vol_48_no_10_1998_p_789",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "arundo_donax",
+                "type": "species",
+                "archival_data": [
+                    "1402932"
+                ]
+            },
+            "volume": null,
+            "page": "p 789",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1847069",
+                "legacy_id": "157018",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        }
+    ]
+}

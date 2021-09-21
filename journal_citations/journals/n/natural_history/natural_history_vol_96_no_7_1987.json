@@ -1,0 +1,61 @@
+{
+    "name": "Natural History. Vol 96, no. 7. (1987)",
+    "machine_name": "natural_history_vol_96_no_7_1987",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1987",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114372",
+        "legacy_id": "4698",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Natural History. Vol 96, no. 7. (1987) p 71",
+            "machine_name": "natural_history_vol_96_no_7_1987_p_71",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "oenothera_argillicola",
+                "type": "species",
+                "archival_data": [
+                    "1425878"
+                ]
+            },
+            "volume": null,
+            "page": "p 71",
+            "year": "1987",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1811311",
+                "legacy_id": "116188",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        }
+    ]
+}

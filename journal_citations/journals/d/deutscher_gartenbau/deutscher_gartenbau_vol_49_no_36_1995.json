@@ -1,0 +1,102 @@
+{
+    "name": "Deutscher Gartenbau. vol 49, no. 36. (1995)",
+    "machine_name": "deutscher_gartenbau_vol_49_no_36_1995",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1995",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2110414",
+        "legacy_id": "2401",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Deutscher Gartenbau. vol 49, no. 36. (1995) p cover",
+            "machine_name": "deutscher_gartenbau_vol_49_no_36_1995_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "clematis_cultivars_multi_blue",
+                "type": "variety",
+                "archival_data": [
+                    "1469543"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1995",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1708418",
+                "legacy_id": "7832",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Deutscher Gartenbau. vol 49, no. 36. (1995) p 2107",
+            "machine_name": "deutscher_gartenbau_vol_49_no_36_1995_p_2107",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "bidens_ferulifolia",
+                "type": "species",
+                "archival_data": [
+                    "1401518"
+                ]
+            },
+            "volume": null,
+            "page": "p 2107",
+            "year": "1995",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1771279",
+                "legacy_id": "76131",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        }
+    ]
+}

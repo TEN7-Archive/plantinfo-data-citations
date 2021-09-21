@@ -1,0 +1,143 @@
+{
+    "name": "IGC Retailer. vol 56, no. 6. (2011)",
+    "machine_name": "igc_retailer_vol_56_no_6_2011",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2011",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2122666",
+        "legacy_id": "115330",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "IGC Retailer. vol 56, no. 6. (2011) p backcover (Adv.)",
+            "machine_name": "igc_retailer_vol_56_no_6_2011_p_backcover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rhododendron_cultivars_encore_series",
+                "type": "variety",
+                "archival_data": [
+                    "1599263"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover (Adv.)",
+            "year": "2011",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2009515",
+                "legacy_id": "437536",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "IGC Retailer. vol 56, no. 6. (2011) p 7 (Adv.)",
+            "machine_name": "igc_retailer_vol_56_no_6_2011_p_7_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "syringa_cultivars_bloomerang_series",
+                "type": "variety",
+                "archival_data": [
+                    "1638506"
+                ]
+            },
+            "volume": null,
+            "page": "p 7 (Adv.)",
+            "year": "2011",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2014166",
+                "legacy_id": "437534",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "IGC Retailer. vol 56, no. 6. (2011) p 21 (Adv.)",
+            "machine_name": "igc_retailer_vol_56_no_6_2011_p_21_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rudbeckia_fulgida_goldsturm",
+                "type": "variety",
+                "archival_data": [
+                    "1493853"
+                ]
+            },
+            "volume": null,
+            "page": "p 21 (Adv.)",
+            "year": "2011",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2053054",
+                "legacy_id": "437535",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        }
+    ]
+}

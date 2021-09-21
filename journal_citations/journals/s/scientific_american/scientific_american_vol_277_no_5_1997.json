@@ -1,0 +1,61 @@
+{
+    "name": "Scientific American. vol 277, no. 5. (1997)",
+    "machine_name": "scientific_american_vol_277_no_5_1997",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1997",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2118753",
+        "legacy_id": "56370",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Scientific American. vol 277, no. 5. (1997) p 36",
+            "machine_name": "scientific_american_vol_277_no_5_1997_p_36",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cirsium_canescens",
+                "type": "species",
+                "archival_data": [
+                    "1407449"
+                ]
+            },
+            "volume": null,
+            "page": "p 36",
+            "year": "1997",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": true,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1916608",
+                "legacy_id": "273950",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        }
+    ]
+}

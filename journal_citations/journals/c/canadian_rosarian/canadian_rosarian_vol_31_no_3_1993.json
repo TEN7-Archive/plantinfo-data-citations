@@ -1,0 +1,143 @@
+{
+    "name": "Canadian Rosarian. vol 31, no. 3. (1993)",
+    "machine_name": "canadian_rosarian_vol_31_no_3_1993",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1993",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2112952",
+        "legacy_id": "1901",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Canadian Rosarian. vol 31, no. 3. (1993) p backcover (Adv.)",
+            "machine_name": "canadian_rosarian_vol_31_no_3_1993_p_backcover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_louisanna",
+                "type": "variety",
+                "archival_data": [
+                    "1491128"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover (Adv.)",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1748921",
+                "legacy_id": "49706",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483154438"
+            }
+        },
+        {
+            "name": "Canadian Rosarian. vol 31, no. 3. (1993) p cover",
+            "machine_name": "canadian_rosarian_vol_31_no_3_1993_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_evelyn",
+                "type": "variety",
+                "archival_data": [
+                    "1488337"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1749428",
+                "legacy_id": "47217",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483154438"
+            }
+        },
+        {
+            "name": "Canadian Rosarian. vol 31, no. 3. (1993) p inside cover",
+            "machine_name": "canadian_rosarian_vol_31_no_3_1993_p_inside_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_queen_elizabeth",
+                "type": "variety",
+                "archival_data": [
+                    "1494075"
+                ]
+            },
+            "volume": null,
+            "page": "p inside cover",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1757563",
+                "legacy_id": "51938",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483154438"
+            }
+        }
+    ]
+}

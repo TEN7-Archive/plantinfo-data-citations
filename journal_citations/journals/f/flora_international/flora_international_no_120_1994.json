@@ -1,0 +1,184 @@
+{
+    "name": "Flora International. no. 120. (1994)",
+    "machine_name": "flora_international_no_120_1994",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1994",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2109044",
+        "legacy_id": "2568",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Flora International. no. 120. (1994) p 57",
+            "machine_name": "flora_international_no_120_1994_p_57",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "anthurium_cultivars_midori",
+                "type": "variety",
+                "archival_data": [
+                    "1466757"
+                ]
+            },
+            "volume": null,
+            "page": "p 57",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1702956",
+                "legacy_id": "1921",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Flora International. no. 120. (1994) p 57",
+            "machine_name": "flora_international_no_120_1994_p_57",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "chrysanthemum_cultivars_refocus",
+                "type": "variety",
+                "archival_data": [
+                    "1470549"
+                ]
+            },
+            "volume": null,
+            "page": "p 57",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1714742",
+                "legacy_id": "12170",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Flora International. no. 120. (1994) p 57",
+            "machine_name": "flora_international_no_120_1994_p_57",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hippeastrum_cultivars_vera",
+                "type": "variety",
+                "archival_data": [
+                    "1473355"
+                ]
+            },
+            "volume": null,
+            "page": "p 57",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1722846",
+                "legacy_id": "20789",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Flora International. no. 120. (1994) p 57",
+            "machine_name": "flora_international_no_120_1994_p_57",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "euphorbia_fulgens",
+                "type": "species",
+                "archival_data": [
+                    "1410642"
+                ]
+            },
+            "volume": null,
+            "page": "p 57",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1793753",
+                "legacy_id": "95644",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        }
+    ]
+}

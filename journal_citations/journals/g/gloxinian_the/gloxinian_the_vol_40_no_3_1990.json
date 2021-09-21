@@ -1,0 +1,143 @@
+{
+    "name": "Gloxinian, The. vol 40, no. 3. (1990)",
+    "machine_name": "gloxinian_the_vol_40_no_3_1990",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1990",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2109894",
+        "legacy_id": "3058",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Gloxinian, The. vol 40, no. 3. (1990) p 21",
+            "machine_name": "gloxinian_the_vol_40_no_3_1990_p_21",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "aeschynanthus_cultivars_big_apple",
+                "type": "variety",
+                "archival_data": [
+                    "1466399"
+                ]
+            },
+            "volume": null,
+            "page": "p 21",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1705782",
+                "legacy_id": "863",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Gloxinian, The. vol 40, no. 3. (1990) p cover",
+            "machine_name": "gloxinian_the_vol_40_no_3_1990_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "sinningia_verticillata",
+                "type": "species",
+                "archival_data": [
+                    "1430000"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1828075",
+                "legacy_id": "133816",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Gloxinian, The. vol 40, no. 3. (1990)  p 16",
+            "machine_name": "gloxinian_the_vol_40_no_3_1990_p_16",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "chirita_angustifolia",
+                "type": "species",
+                "archival_data": [
+                    "1406340"
+                ]
+            },
+            "volume": null,
+            "page": "p 16",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2571776",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1571403147"
+            }
+        }
+    ]
+}

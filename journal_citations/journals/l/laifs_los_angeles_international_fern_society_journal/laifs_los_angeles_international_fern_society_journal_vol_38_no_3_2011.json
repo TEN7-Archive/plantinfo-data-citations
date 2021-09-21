@@ -1,0 +1,184 @@
+{
+    "name": "LAIFS: Los Angeles International Fern Society, Journal. vol 38, no. 3. (2011)",
+    "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_38_no_3_2011",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2011",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2123889",
+        "legacy_id": "114409",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "LAIFS: Los Angeles International Fern Society, Journal. vol 38, no. 3. (2011) p cover",
+            "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_38_no_3_2011_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "doryopteris_ludens",
+                "type": "species",
+                "archival_data": [
+                    "1459569"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "2011",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2052344",
+                "legacy_id": "433672",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "LAIFS: Los Angeles International Fern Society, Journal. vol 38, no. 3. (2011) p 75",
+            "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_38_no_3_2011_p_75",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "nephrolepis_exaltata_pom_pom",
+                "type": "variety",
+                "archival_data": [
+                    "1596298"
+                ]
+            },
+            "volume": null,
+            "page": "p 75",
+            "year": "2011",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2052346",
+                "legacy_id": "433673",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "LAIFS: Los Angeles International Fern Society, Journal. vol 38, no. 3. (2011) p 86",
+            "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_38_no_3_2011_p_86",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "vanda_coerulea",
+                "type": "species",
+                "archival_data": [
+                    "1429021"
+                ]
+            },
+            "volume": null,
+            "page": "p 86",
+            "year": "2011",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2052347",
+                "legacy_id": "433674",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "LAIFS: Los Angeles International Fern Society, Journal. vol 38, no. 3. (2011) p backcover",
+            "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_38_no_3_2011_p_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "drynaria_rigidula_whitei",
+                "type": "variety",
+                "archival_data": [
+                    "1596299"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover",
+            "year": "2011",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2052348",
+                "legacy_id": "433675",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        }
+    ]
+}

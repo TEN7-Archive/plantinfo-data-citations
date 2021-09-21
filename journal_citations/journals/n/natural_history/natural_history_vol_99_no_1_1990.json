@@ -1,0 +1,61 @@
+{
+    "name": "Natural History. vol 99, no. 1. (1990)",
+    "machine_name": "natural_history_vol_99_no_1_1990",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1990",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114320",
+        "legacy_id": "4716",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Natural History. vol 99, no. 1. (1990) p 6",
+            "machine_name": "natural_history_vol_99_no_1_1990_p_6",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lodoicea_maldivica",
+                "type": "species",
+                "archival_data": [
+                    "1419241"
+                ]
+            },
+            "volume": null,
+            "page": "p 6",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1807376",
+                "legacy_id": "109880",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        }
+    ]
+}

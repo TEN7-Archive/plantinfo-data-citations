@@ -1,0 +1,102 @@
+{
+    "name": "American Peony Society, Bulletin. no. 322. (2002)",
+    "machine_name": "american_peony_society_bulletin_no_322_2002",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2002",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2117655",
+        "legacy_id": "37569",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "American Peony Society, Bulletin. no. 322. (2002) p cover",
+            "machine_name": "american_peony_society_bulletin_no_322_2002_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "paeonia_cultivars_ludovica",
+                "type": "variety",
+                "archival_data": [
+                    "1484908"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1894176",
+                "legacy_id": "232570",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "American Peony Society, Bulletin. no. 322. (2002) p backcover",
+            "machine_name": "american_peony_society_bulletin_no_322_2002_p_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "paeonia_cultivars_robert_w_auten",
+                "type": "variety",
+                "archival_data": [
+                    "1485191"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1894177",
+                "legacy_id": "232571",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        }
+    ]
+}

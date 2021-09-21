@@ -1,0 +1,102 @@
+{
+    "name": "American Vegetable Grower. vol 46, no. 3. (1998)",
+    "machine_name": "american_vegetable_grower_vol_46_no_3_1998",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1998",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2115686",
+        "legacy_id": "7446",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "American Vegetable Grower. vol 46, no. 3. (1998) p 32",
+            "machine_name": "american_vegetable_grower_vol_46_no_3_1998_p_32",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lycopersicon_cultivars_lynx",
+                "type": "variety",
+                "archival_data": [
+                    "1541763"
+                ]
+            },
+            "volume": null,
+            "page": "p 32",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1855741",
+                "legacy_id": "160476",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "American Vegetable Grower. vol 46, no. 3. (1998) p 50 (Adv.)",
+            "machine_name": "american_vegetable_grower_vol_46_no_3_1998_p_50_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lactuca_cultivars_ermosa",
+                "type": "variety",
+                "archival_data": [
+                    "1514838"
+                ]
+            },
+            "volume": null,
+            "page": "p 50 (Adv.)",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1855742",
+                "legacy_id": "160477",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        }
+    ]
+}

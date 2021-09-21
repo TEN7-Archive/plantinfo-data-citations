@@ -1,0 +1,102 @@
+{
+    "name": "Okika O Hawaii, Na. vol 19, no. 4. (1990)",
+    "machine_name": "okika_o_hawaii_na_vol_19_no_4_1990",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1990",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2110741",
+        "legacy_id": "4862",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Okika O Hawaii, Na. vol 19, no. 4. (1990) p cover",
+            "machine_name": "okika_o_hawaii_na_vol_19_no_4_1990_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "brassolaeliocattleya_cultivars_meditation_lipstick_2",
+                "type": "variety",
+                "archival_data": [
+                    "1465743"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1711165",
+                "legacy_id": "4478",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Okika O Hawaii, Na. vol 19, no. 4. (1990) p 2",
+            "machine_name": "okika_o_hawaii_na_vol_19_no_4_1990_p_2",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "liparis_viridiflora_dora",
+                "type": "variety",
+                "archival_data": [
+                    "1479622"
+                ]
+            },
+            "volume": null,
+            "page": "p 2",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1727518",
+                "legacy_id": "28379",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        }
+    ]
+}

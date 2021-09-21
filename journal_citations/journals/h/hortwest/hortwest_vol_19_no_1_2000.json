@@ -1,0 +1,61 @@
+{
+    "name": "HortWest. vol 19, no. 1. (2000)",
+    "machine_name": "hortwest_vol_19_no_1_2000",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2000",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2116146",
+        "legacy_id": "8058",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "HortWest. vol 19, no. 1. (2000) p 6 (Adv.)",
+            "machine_name": "hortwest_vol_19_no_1_2000_p_6_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cornus_kousa",
+                "type": "species",
+                "archival_data": [
+                    "1405323"
+                ]
+            },
+            "volume": null,
+            "page": "p 6 (Adv.)",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1864770",
+                "legacy_id": "167876",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        }
+    ]
+}

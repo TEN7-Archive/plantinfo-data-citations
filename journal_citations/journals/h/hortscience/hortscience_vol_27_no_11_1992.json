@@ -1,0 +1,102 @@
+{
+    "name": "HortScience. vol 27, no. 11. (1992)",
+    "machine_name": "hortscience_vol_27_no_11_1992",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1992",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2112907",
+        "legacy_id": "4074",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "HortScience. vol 27, no. 11. (1992) p 1230(a)",
+            "machine_name": "hortscience_vol_27_no_11_1992_p_1230_a",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rhodohypoxis_baurii_baurii",
+                "type": "variety",
+                "archival_data": [
+                    "1488265"
+                ]
+            },
+            "volume": null,
+            "page": "p 1230(a)",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1747808",
+                "legacy_id": "44068",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483154438"
+            }
+        },
+        {
+            "name": "HortScience. vol 27, no. 11. (1992) p 1230(b)",
+            "machine_name": "hortscience_vol_27_no_11_1992_p_1230_b",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rhodohypoxis_baurii_platypetala",
+                "type": "variety",
+                "archival_data": [
+                    "1488268"
+                ]
+            },
+            "volume": null,
+            "page": "p 1230(b)",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1747810",
+                "legacy_id": "44070",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483154438"
+            }
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "name": "Deutscher Gartenbau. vol 47, no. 51-52. (1993)",
+    "machine_name": "deutscher_gartenbau_vol_47_no_51_52_1993",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1993",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113703",
+        "legacy_id": "2339",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Deutscher Gartenbau. vol 47, no. 51-52. (1993) p 3159",
+            "machine_name": "deutscher_gartenbau_vol_47_no_51_52_1993_p_3159",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "asarina_barclaiana",
+                "type": "species",
+                "archival_data": [
+                    "1402935"
+                ]
+            },
+            "volume": null,
+            "page": "p 3159",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1772740",
+                "legacy_id": "73829",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Deutscher Gartenbau. vol 47, no. 51-52. (1993) p 3166",
+            "machine_name": "deutscher_gartenbau_vol_47_no_51_52_1993_p_3166",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "schlumbergera_truncata",
+                "type": "species",
+                "archival_data": [
+                    "1432900"
+                ]
+            },
+            "volume": null,
+            "page": "p 3166",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1827335",
+                "legacy_id": "132321",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        }
+    ]
+}

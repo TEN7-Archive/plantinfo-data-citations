@@ -1,0 +1,61 @@
+{
+    "name": "American Forests. vol 126, no. 1. (2020)",
+    "machine_name": "american_forests_vol_126_no_1_2020",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2020",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": "7",
+    "description": null,
+    "archival_data": {
+        "id": "2608171",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1582896011"
+    },
+    "citation_reference_items": [
+        {
+            "name": "American Forests. vol 126, no. 1. (2020)  p 13",
+            "machine_name": "american_forests_vol_126_no_1_2020_p_13",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pinus_rigida",
+                "type": "species",
+                "archival_data": [
+                    "1425614"
+                ]
+            },
+            "volume": null,
+            "page": "p 13",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2608176",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1582896081"
+            }
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "name": "Grounds Maintenance. vol 26, no. 7. (1991)",
+    "machine_name": "grounds_maintenance_vol_26_no_7_1991",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1991",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2110361",
+        "legacy_id": "3270",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grounds Maintenance. vol 26, no. 7. (1991) p cover| 12-13",
+            "machine_name": "grounds_maintenance_vol_26_no_7_1991_p_cover_12_13",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "catharanthus_roseus_pretty_series",
+                "type": "variety",
+                "archival_data": [
+                    "1470973"
+                ]
+            },
+            "volume": null,
+            "page": "p cover| 12-13",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1708015",
+                "legacy_id": "6406",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        }
+    ]
+}

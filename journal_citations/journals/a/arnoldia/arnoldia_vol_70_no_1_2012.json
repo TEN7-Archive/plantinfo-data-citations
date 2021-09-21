@@ -1,0 +1,1332 @@
+{
+    "name": "Arnoldia. vol 70, no. 1. (2012)",
+    "machine_name": "arnoldia_vol_70_no_1_2012",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2012",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2123863",
+        "legacy_id": "118990",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Arnoldia. vol 70, no. 1. (2012) p 30",
+            "machine_name": "arnoldia_vol_70_no_1_2012_p_30",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "tsuga_dumosa",
+                "type": "species",
+                "archival_data": [
+                    "1427539"
+                ]
+            },
+            "volume": null,
+            "page": "p 30",
+            "year": "2012",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2050424",
+                "legacy_id": "451266",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 70, no. 1. (2012) p 31",
+            "machine_name": "arnoldia_vol_70_no_1_2012_p_31",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pinus_lambertiana",
+                "type": "species",
+                "archival_data": [
+                    "1425302"
+                ]
+            },
+            "volume": null,
+            "page": "p 31",
+            "year": "2012",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2050425",
+                "legacy_id": "451267",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 70, no. 1. (2012) p inside backcover",
+            "machine_name": "arnoldia_vol_70_no_1_2012_p_inside_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "dipelta_floribunda",
+                "type": "species",
+                "archival_data": [
+                    "1409211"
+                ]
+            },
+            "volume": null,
+            "page": "p inside backcover",
+            "year": "2012",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2050426",
+                "legacy_id": "451268",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 70, no. 1. (2012) p backcover",
+            "machine_name": "arnoldia_vol_70_no_1_2012_p_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "metasequoia_glyptostroboides",
+                "type": "species",
+                "archival_data": [
+                    "1420066"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover",
+            "year": "2012",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2050427",
+                "legacy_id": "451269",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 70, no. 1. (2012) p cover",
+            "machine_name": "arnoldia_vol_70_no_1_2012_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "sarracenia_leucophylla",
+                "type": "species",
+                "archival_data": [
+                    "1431039"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "2012",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2055330",
+                "legacy_id": "451237",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 70, no. 1. (2012) p inside cover; 12",
+            "machine_name": "arnoldia_vol_70_no_1_2012_p_inside_cover_12",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "diervilla_sessilifolia",
+                "type": "species",
+                "archival_data": [
+                    "1408478"
+                ]
+            },
+            "volume": null,
+            "page": "p inside cover; 12",
+            "year": "2012",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2055331",
+                "legacy_id": "451238",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 70, no. 1. (2012) p 2",
+            "machine_name": "arnoldia_vol_70_no_1_2012_p_2",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "stenanthium_occidentale",
+                "type": "species",
+                "archival_data": [
+                    "1432694"
+                ]
+            },
+            "volume": null,
+            "page": "p 2",
+            "year": "2012",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2055332",
+                "legacy_id": "451239",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 70, no. 1. (2012) p 4",
+            "machine_name": "arnoldia_vol_70_no_1_2012_p_4",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "enemion_hallii",
+                "type": "species",
+                "archival_data": [
+                    "1459925"
+                ]
+            },
+            "volume": null,
+            "page": "p 4",
+            "year": "2012",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2055333",
+                "legacy_id": "451240",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 70, no. 1. (2012) p 4",
+            "machine_name": "arnoldia_vol_70_no_1_2012_p_4",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "olsynium_douglasii",
+                "type": "species",
+                "archival_data": [
+                    "1435714"
+                ]
+            },
+            "volume": null,
+            "page": "p 4",
+            "year": "2012",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2063802",
+                "legacy_id": "451241",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 70, no. 1. (2012) p 5",
+            "machine_name": "arnoldia_vol_70_no_1_2012_p_5",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lomatium_brandegeei",
+                "type": "species",
+                "archival_data": [
+                    "1443037"
+                ]
+            },
+            "volume": null,
+            "page": "p 5",
+            "year": "2012",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2063803",
+                "legacy_id": "451242",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 70, no. 1. (2012) p 5",
+            "machine_name": "arnoldia_vol_70_no_1_2012_p_5",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "parnassia_glauca",
+                "type": "species",
+                "archival_data": [
+                    "1425193"
+                ]
+            },
+            "volume": null,
+            "page": "p 5",
+            "year": "2012",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2063804",
+                "legacy_id": "451243",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 70, no. 1. (2012) p 6",
+            "machine_name": "arnoldia_vol_70_no_1_2012_p_6",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ceanothus_herbaceus",
+                "type": "species",
+                "archival_data": [
+                    "1456349"
+                ]
+            },
+            "volume": null,
+            "page": "p 6",
+            "year": "2012",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2063805",
+                "legacy_id": "451244",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 70, no. 1. (2012) p 8",
+            "machine_name": "arnoldia_vol_70_no_1_2012_p_8",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "clintonia_borealis",
+                "type": "species",
+                "archival_data": [
+                    "1409008"
+                ]
+            },
+            "volume": null,
+            "page": "p 8",
+            "year": "2012",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2063806",
+                "legacy_id": "451245",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 70, no. 1. (2012) p 8",
+            "machine_name": "arnoldia_vol_70_no_1_2012_p_8",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "clintonia_umbellulata",
+                "type": "species",
+                "archival_data": [
+                    "1409010"
+                ]
+            },
+            "volume": null,
+            "page": "p 8",
+            "year": "2012",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2063807",
+                "legacy_id": "451246",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 70, no. 1. (2012) p 8",
+            "machine_name": "arnoldia_vol_70_no_1_2012_p_8",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "clintonia_uniflora",
+                "type": "species",
+                "archival_data": [
+                    "1409011"
+                ]
+            },
+            "volume": null,
+            "page": "p 8",
+            "year": "2012",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2063808",
+                "legacy_id": "451247",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 70, no. 1. (2012) p 8",
+            "machine_name": "arnoldia_vol_70_no_1_2012_p_8",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "clintonia_andrewsiana",
+                "type": "species",
+                "archival_data": [
+                    "1409007"
+                ]
+            },
+            "volume": null,
+            "page": "p 8",
+            "year": "2012",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2063809",
+                "legacy_id": "451248",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 70, no. 1. (2012) p 9",
+            "machine_name": "arnoldia_vol_70_no_1_2012_p_9",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hemieva_ranunculifolia",
+                "type": "species",
+                "archival_data": [
+                    "1457377"
+                ]
+            },
+            "volume": null,
+            "page": "p 9",
+            "year": "2012",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2063810",
+                "legacy_id": "451249",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 70, no. 1. (2012) p 10",
+            "machine_name": "arnoldia_vol_70_no_1_2012_p_10",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "viburnum_rafinesquianum",
+                "type": "species",
+                "archival_data": [
+                    "1429802"
+                ]
+            },
+            "volume": null,
+            "page": "p 10",
+            "year": "2012",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2063811",
+                "legacy_id": "451250",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 70, no. 1. (2012) p 11",
+            "machine_name": "arnoldia_vol_70_no_1_2012_p_11",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "amelanchier_nantucketensis",
+                "type": "species",
+                "archival_data": [
+                    "1460534"
+                ]
+            },
+            "volume": null,
+            "page": "p 11",
+            "year": "2012",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2063812",
+                "legacy_id": "451251",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 70, no. 1. (2012) p 13; 16",
+            "machine_name": "arnoldia_vol_70_no_1_2012_p_13_16",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "fothergilla_major",
+                "type": "species",
+                "archival_data": [
+                    "1413757"
+                ]
+            },
+            "volume": null,
+            "page": "p 13; 16",
+            "year": "2012",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2063814",
+                "legacy_id": "451253",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 70, no. 1. (2012) p 17",
+            "machine_name": "arnoldia_vol_70_no_1_2012_p_17",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "abies_fraseri",
+                "type": "species",
+                "archival_data": [
+                    "1400830"
+                ]
+            },
+            "volume": null,
+            "page": "p 17",
+            "year": "2012",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2063815",
+                "legacy_id": "451254",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 70, no. 1. (2012) p 18",
+            "machine_name": "arnoldia_vol_70_no_1_2012_p_18",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ilex_collina",
+                "type": "species",
+                "archival_data": [
+                    "1416126"
+                ]
+            },
+            "volume": null,
+            "page": "p 18",
+            "year": "2012",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2063816",
+                "legacy_id": "451255",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 70, no. 1. (2012) p 19",
+            "machine_name": "arnoldia_vol_70_no_1_2012_p_19",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "magnolia_pyramidata",
+                "type": "species",
+                "archival_data": [
+                    "1421198"
+                ]
+            },
+            "volume": null,
+            "page": "p 19",
+            "year": "2012",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2063817",
+                "legacy_id": "451256",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 70, no. 1. (2012) p 20; 24",
+            "machine_name": "arnoldia_vol_70_no_1_2012_p_20_24",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rhododendron_vaseyi",
+                "type": "species",
+                "archival_data": [
+                    "1432435"
+                ]
+            },
+            "volume": null,
+            "page": "p 20; 24",
+            "year": "2012",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2063818",
+                "legacy_id": "451257",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 70, no. 1. (2012) p 21",
+            "machine_name": "arnoldia_vol_70_no_1_2012_p_21",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rhododendron_prunifolium",
+                "type": "species",
+                "archival_data": [
+                    "1431742"
+                ]
+            },
+            "volume": null,
+            "page": "p 21",
+            "year": "2012",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2063819",
+                "legacy_id": "451258",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 70, no. 1. (2012) p 22",
+            "machine_name": "arnoldia_vol_70_no_1_2012_p_22",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "torreya_taxifolia",
+                "type": "species",
+                "archival_data": [
+                    "1432338"
+                ]
+            },
+            "volume": null,
+            "page": "p 22",
+            "year": "2012",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2063820",
+                "legacy_id": "451259",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 70, no. 1. (2012) p 28",
+            "machine_name": "arnoldia_vol_70_no_1_2012_p_28",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "abies_pindrow",
+                "type": "species",
+                "archival_data": [
+                    "1400849"
+                ]
+            },
+            "volume": null,
+            "page": "p 28",
+            "year": "2012",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": true,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2063821",
+                "legacy_id": "451260",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 70, no. 1. (2012) p 28",
+            "machine_name": "arnoldia_vol_70_no_1_2012_p_28",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "larix_decidua_decidua",
+                "type": "variety",
+                "archival_data": [
+                    "1593651"
+                ]
+            },
+            "volume": null,
+            "page": "p 28",
+            "year": "2012",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": true,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2063822",
+                "legacy_id": "451261",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 70, no. 1. (2012) p 28",
+            "machine_name": "arnoldia_vol_70_no_1_2012_p_28",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "podocarpus_nivalis",
+                "type": "species",
+                "archival_data": [
+                    "1427125"
+                ]
+            },
+            "volume": null,
+            "page": "p 28",
+            "year": "2012",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": true,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2063823",
+                "legacy_id": "451262",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 70, no. 1. (2012) p 28",
+            "machine_name": "arnoldia_vol_70_no_1_2012_p_28",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "juniperus_deppeana_deppeana",
+                "type": "variety",
+                "archival_data": [
+                    "1593652"
+                ]
+            },
+            "volume": null,
+            "page": "p 28",
+            "year": "2012",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": true,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2063824",
+                "legacy_id": "451263",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 70, no. 1. (2012) p 29",
+            "machine_name": "arnoldia_vol_70_no_1_2012_p_29",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cupressus_arizonica_arizonica",
+                "type": "variety",
+                "archival_data": [
+                    "1501575"
+                ]
+            },
+            "volume": null,
+            "page": "p 29",
+            "year": "2012",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": true,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2063825",
+                "legacy_id": "451264",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 70, no. 1. (2012) p 29",
+            "machine_name": "arnoldia_vol_70_no_1_2012_p_29",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "juniperus_flaccida",
+                "type": "species",
+                "archival_data": [
+                    "1418820"
+                ]
+            },
+            "volume": null,
+            "page": "p 29",
+            "year": "2012",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2066412",
+                "legacy_id": "451265",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        }
+    ]
+}

@@ -1,0 +1,553 @@
+{
+    "name": "LAIFS: Los Angeles International Fern Society, Journal. vol 43, no. 6. (2016)",
+    "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_43_no_6_2016",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2016",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": "7",
+    "description": null,
+    "archival_data": {
+        "id": "2209446",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1516454675"
+    },
+    "citation_reference_items": [
+        {
+            "name": "LAIFS: Los Angeles International Fern Society, Journal. vol 43, no. 6. (2016) p cover; 158; 160",
+            "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_43_no_6_2016_p_cover_158_160",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lepisorus_thunbergianus",
+                "type": "species",
+                "archival_data": [
+                    "1451849"
+                ]
+            },
+            "volume": null,
+            "page": "p cover; 158; 160",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2209461",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1516455434"
+            }
+        },
+        {
+            "name": "LAIFS: Los Angeles International Fern Society, Journal. vol 43, no. 6. (2016) p 156",
+            "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_43_no_6_2016_p_156",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "microgramma_tecta",
+                "type": "species",
+                "archival_data": [
+                    "2209451"
+                ]
+            },
+            "volume": null,
+            "page": "p 156",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2209466",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1516455434"
+            }
+        },
+        {
+            "name": "LAIFS: Los Angeles International Fern Society, Journal. vol 43, no. 6. (2016) p 164",
+            "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_43_no_6_2016_p_164",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "adiantum_reniforme",
+                "type": "species",
+                "archival_data": [
+                    "1441293"
+                ]
+            },
+            "volume": null,
+            "page": "p 164",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2209471",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1516455434"
+            }
+        },
+        {
+            "name": "LAIFS: Los Angeles International Fern Society, Journal. vol 43, no. 6. (2016) p 165",
+            "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_43_no_6_2016_p_165",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "selaginella_kraussiana_aurea",
+                "type": "variety",
+                "archival_data": [
+                    "1542343"
+                ]
+            },
+            "volume": null,
+            "page": "p 165",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2209476",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1516455434"
+            }
+        },
+        {
+            "name": "LAIFS: Los Angeles International Fern Society, Journal. vol 43, no. 6. (2016) p 165",
+            "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_43_no_6_2016_p_165",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "selaginella_kraussiana",
+                "type": "species",
+                "archival_data": [
+                    "1441441"
+                ]
+            },
+            "volume": null,
+            "page": "p 165",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2209481",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1516455434"
+            }
+        },
+        {
+            "name": "LAIFS: Los Angeles International Fern Society, Journal. vol 43, no. 6. (2016) p 166",
+            "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_43_no_6_2016_p_166",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "selaginella_uncinata",
+                "type": "species",
+                "archival_data": [
+                    "1439313"
+                ]
+            },
+            "volume": null,
+            "page": "p 166",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2209486",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1516455434"
+            }
+        },
+        {
+            "name": "LAIFS: Los Angeles International Fern Society, Journal. vol 43, no. 6. (2016) p 167",
+            "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_43_no_6_2016_p_167",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "selaginella_kraussiana_brownii",
+                "type": "variety",
+                "archival_data": [
+                    "1551821"
+                ]
+            },
+            "volume": null,
+            "page": "p 167",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2209491",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1516455434"
+            }
+        },
+        {
+            "name": "LAIFS: Los Angeles International Fern Society, Journal. vol 43, no. 6. (2016) p 168",
+            "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_43_no_6_2016_p_168",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "selaginella_erythropus",
+                "type": "species",
+                "archival_data": [
+                    "1439309"
+                ]
+            },
+            "volume": null,
+            "page": "p 168",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2209496",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1516455434"
+            }
+        },
+        {
+            "name": "LAIFS: Los Angeles International Fern Society, Journal. vol 43, no. 6. (2016) p 178-79",
+            "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_43_no_6_2016_p_178_79",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ceratopteris_thalictroides_cornuta",
+                "type": "variety",
+                "archival_data": [
+                    "2209456"
+                ]
+            },
+            "volume": null,
+            "page": "p 178-79",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2209501",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1516455434"
+            }
+        },
+        {
+            "name": "LAIFS: Los Angeles International Fern Society, Journal. vol 43, no. 6. (2016) p 179-80",
+            "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_43_no_6_2016_p_179_80",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ceratopteris_thalictroides",
+                "type": "species",
+                "archival_data": [
+                    "1449464"
+                ]
+            },
+            "volume": null,
+            "page": "p 179-80",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2209506",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1516455434"
+            }
+        },
+        {
+            "name": "LAIFS: Los Angeles International Fern Society, Journal. vol 43, no. 6. (2016) p 183",
+            "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_43_no_6_2016_p_183",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "selaginella_pallescens",
+                "type": "species",
+                "archival_data": [
+                    "1442647"
+                ]
+            },
+            "volume": null,
+            "page": "p 183",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2209511",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1516455434"
+            }
+        },
+        {
+            "name": "LAIFS: Los Angeles International Fern Society, Journal. vol 43, no. 6. (2016) p 186; inside backcover",
+            "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_43_no_6_2016_p_186_inside_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lygodium_microphyllum",
+                "type": "species",
+                "archival_data": [
+                    "1441900"
+                ]
+            },
+            "volume": null,
+            "page": "p 186; inside backcover",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2209516",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1516455434"
+            }
+        },
+        {
+            "name": "LAIFS: Los Angeles International Fern Society, Journal. vol 43, no. 6. (2016) p inside backcover",
+            "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_43_no_6_2016_p_inside_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cheilanthes_bonariensis",
+                "type": "species",
+                "archival_data": [
+                    "1450363"
+                ]
+            },
+            "volume": null,
+            "page": "p inside backcover",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2209521",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1516455434"
+            }
+        }
+    ]
+}

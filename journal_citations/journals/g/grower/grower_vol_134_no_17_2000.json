@@ -1,0 +1,143 @@
+{
+    "name": "Grower. vol 134, no. 17. (2000)",
+    "machine_name": "grower_vol_134_no_17_2000",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2000",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2116675",
+        "legacy_id": "17609",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grower. vol 134, no. 17. (2000) p 5",
+            "machine_name": "grower_vol_134_no_17_2000_p_5",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "viola_cultivars_penny_series",
+                "type": "variety",
+                "archival_data": [
+                    "1499433"
+                ]
+            },
+            "volume": null,
+            "page": "p 5",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1875773",
+                "legacy_id": "200152",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Grower. vol 134, no. 17. (2000) p 8",
+            "machine_name": "grower_vol_134_no_17_2000_p_8",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "nerine_sarniensis",
+                "type": "species",
+                "archival_data": [
+                    "1417888"
+                ]
+            },
+            "volume": null,
+            "page": "p 8",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1875774",
+                "legacy_id": "200153",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Grower. vol 134, no. 17. (2000) p 13",
+            "machine_name": "grower_vol_134_no_17_2000_p_13",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "malus_a_cultivars_howgate_wonder",
+                "type": "variety",
+                "archival_data": [
+                    "1478498"
+                ]
+            },
+            "volume": null,
+            "page": "p 13",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1875775",
+                "legacy_id": "200154",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        }
+    ]
+}

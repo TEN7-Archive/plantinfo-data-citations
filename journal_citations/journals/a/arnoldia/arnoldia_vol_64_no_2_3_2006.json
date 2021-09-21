@@ -1,0 +1,143 @@
+{
+    "name": "Arnoldia. vol 64, no. 2-3. (2006)",
+    "machine_name": "arnoldia_vol_64_no_2_3_2006",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2006",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2120740",
+        "legacy_id": "74531",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Arnoldia. vol 64, no. 2-3. (2006) p inside backcover",
+            "machine_name": "arnoldia_vol_64_no_2_3_2006_p_inside_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "anemonopsis_macrophylla",
+                "type": "species",
+                "archival_data": [
+                    "1399468"
+                ]
+            },
+            "volume": null,
+            "page": "p inside backcover",
+            "year": "2006",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1966586",
+                "legacy_id": "324360",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 64, no. 2-3. (2006) p inside backcover",
+            "machine_name": "arnoldia_vol_64_no_2_3_2006_p_inside_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pteridophyllum_racemosum",
+                "type": "species",
+                "archival_data": [
+                    "1426076"
+                ]
+            },
+            "volume": null,
+            "page": "p inside backcover",
+            "year": "2006",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1966589",
+                "legacy_id": "324363",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 64, no. 2-3. (2006) p backcover",
+            "machine_name": "arnoldia_vol_64_no_2_3_2006_p_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "wisteria_multijuga",
+                "type": "species",
+                "archival_data": [
+                    "1437984"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover",
+            "year": "2006",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1966591",
+                "legacy_id": "324365",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        }
+    ]
+}

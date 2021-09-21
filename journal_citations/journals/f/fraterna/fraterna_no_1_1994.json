@@ -1,0 +1,102 @@
+{
+    "name": "Fraterna. no. 1. (1994)",
+    "machine_name": "fraterna_no_1_1994",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1994",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114133",
+        "legacy_id": "2675",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Fraterna. no. 1. (1994) p 10-11",
+            "machine_name": "fraterna_no_1_1994_p_10_11",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hoya_imbricata",
+                "type": "species",
+                "archival_data": [
+                    "1420552"
+                ]
+            },
+            "volume": null,
+            "page": "p 10-11",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1798093",
+                "legacy_id": "103369",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Fraterna. no. 1. (1994) p cover",
+            "machine_name": "fraterna_no_1_1994_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hoya_linearis",
+                "type": "species",
+                "archival_data": [
+                    "1420564"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1798117",
+                "legacy_id": "103393",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        }
+    ]
+}

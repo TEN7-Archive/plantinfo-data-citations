@@ -1,0 +1,102 @@
+{
+    "name": "Grounds Maintenance. vol 28, no. 11. (1993)",
+    "machine_name": "grounds_maintenance_vol_28_no_11_1993",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1993",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2109906",
+        "legacy_id": "3274",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grounds Maintenance. vol 28, no. 11. (1993) p 42",
+            "machine_name": "grounds_maintenance_vol_28_no_11_1993_p_42",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "agapanthus_cultivars_headbourne_series",
+                "type": "variety",
+                "archival_data": [
+                    "1466432"
+                ]
+            },
+            "volume": null,
+            "page": "p 42",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1705826",
+                "legacy_id": "908",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Grounds Maintenance. vol 28, no. 11. (1993) p 42",
+            "machine_name": "grounds_maintenance_vol_28_no_11_1993_p_42",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "crocosmia_cultivars_lucifer_series",
+                "type": "variety",
+                "archival_data": [
+                    "1467089"
+                ]
+            },
+            "volume": null,
+            "page": "p 42",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1707504",
+                "legacy_id": "9041",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        }
+    ]
+}

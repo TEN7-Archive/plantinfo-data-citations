@@ -1,0 +1,61 @@
+{
+    "name": "National Geographic. vol 185, no. 5. (1994)",
+    "machine_name": "national_geographic_vol_185_no_5_1994",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1994",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114365",
+        "legacy_id": "4581",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "National Geographic. vol 185, no. 5. (1994) p 58",
+            "machine_name": "national_geographic_vol_185_no_5_1994_p_58",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "oryza_sativa",
+                "type": "species",
+                "archival_data": [
+                    "1422920"
+                ]
+            },
+            "volume": null,
+            "page": "p 58",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": true,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1810762",
+                "legacy_id": "117392",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "name": "Agricultural Research. vol 46, no. 6. (1998)",
+    "machine_name": "agricultural_research_vol_46_no_6_1998",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1998",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114677",
+        "legacy_id": "6210",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Agricultural Research. vol 46, no. 6. (1998) p 14-15",
+            "machine_name": "agricultural_research_vol_46_no_6_1998_p_14_15",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "helianthus_annuus",
+                "type": "species",
+                "archival_data": [
+                    "1410907"
+                ]
+            },
+            "volume": null,
+            "page": "p 14-15",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1836625",
+                "legacy_id": "145398",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        }
+    ]
+}

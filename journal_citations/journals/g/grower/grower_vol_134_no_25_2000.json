@@ -1,0 +1,143 @@
+{
+    "name": "Grower. vol 134, no. 25. (2000)",
+    "machine_name": "grower_vol_134_no_25_2000",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2000",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2116564",
+        "legacy_id": "19295",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grower. vol 134, no. 25. (2000) p 9",
+            "machine_name": "grower_vol_134_no_25_2000_p_9",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "euphorbia_pulcherrima_winter_rose_series",
+                "type": "variety",
+                "archival_data": [
+                    "1537463"
+                ]
+            },
+            "volume": null,
+            "page": "p 9",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1873728",
+                "legacy_id": "203320",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Grower. vol 134, no. 25. (2000) p 9 (Adv.)",
+            "machine_name": "grower_vol_134_no_25_2000_p_9_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pelargonium_hortorum_maverick_series",
+                "type": "variety",
+                "archival_data": [
+                    "1484961"
+                ]
+            },
+            "volume": null,
+            "page": "p 9 (Adv.)",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1873729",
+                "legacy_id": "203321",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Grower. vol 134, no. 25. (2000) p 23",
+            "machine_name": "grower_vol_134_no_25_2000_p_23",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "petunia_cultivars_surfinia_series",
+                "type": "variety",
+                "archival_data": [
+                    "1481796"
+                ]
+            },
+            "volume": null,
+            "page": "p 23",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1873730",
+                "legacy_id": "203322",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "name": "P.H.M.-Revue Horticole. no. 357. (1995)",
+    "machine_name": "p_h_m_revue_horticole_no_357_1995",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1995",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2118810",
+        "legacy_id": "57613",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "P.H.M.-Revue Horticole. no. 357. (1995) p 52;55",
+            "machine_name": "p_h_m_revue_horticole_no_357_1995_p_52_55",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "protea_eximia",
+                "type": "species",
+                "archival_data": [
+                    "1424983"
+                ]
+            },
+            "volume": null,
+            "page": "p 52;55",
+            "year": "1995",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1917079",
+                "legacy_id": "276304",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "P.H.M.-Revue Horticole. no. 357. (1995) p 34",
+            "machine_name": "p_h_m_revue_horticole_no_357_1995_p_34",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_opalia",
+                "type": "variety",
+                "archival_data": [
+                    "1586067"
+                ]
+            },
+            "volume": null,
+            "page": "p 34",
+            "year": "1995",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1930982",
+                "legacy_id": "280055",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "P.H.M.-Revue Horticole. no. 357. (1995) p 56",
+            "machine_name": "p_h_m_revue_horticole_no_357_1995_p_56",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "protea_cultivars_cardinal",
+                "type": "variety",
+                "archival_data": [
+                    "1600300"
+                ]
+            },
+            "volume": null,
+            "page": "p 56",
+            "year": "1995",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1930983",
+                "legacy_id": "280056",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        }
+    ]
+}

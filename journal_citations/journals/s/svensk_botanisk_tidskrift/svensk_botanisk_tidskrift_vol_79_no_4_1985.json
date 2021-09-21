@@ -1,0 +1,102 @@
+{
+    "name": "Svensk Botanisk Tidskrift. vol 79, no. 4. (1985)",
+    "machine_name": "svensk_botanisk_tidskrift_vol_79_no_4_1985",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1985",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113225",
+        "legacy_id": "5704",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Svensk Botanisk Tidskrift. vol 79, no. 4. (1985) p cover",
+            "machine_name": "svensk_botanisk_tidskrift_vol_79_no_4_1985_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "viola_tricolor_tricolor",
+                "type": "variety",
+                "archival_data": [
+                    "1499714"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1985",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1761649",
+                "legacy_id": "59593",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Svensk Botanisk Tidskrift. vol 79, no. 4. (1985) p 275, Pl. 1.",
+            "machine_name": "svensk_botanisk_tidskrift_vol_79_no_4_1985_p_275_pl_1",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "centaurea_cyanus",
+                "type": "species",
+                "archival_data": [
+                    "1404407"
+                ]
+            },
+            "volume": null,
+            "page": "p 275, Pl. 1.",
+            "year": "1985",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1778453",
+                "legacy_id": "80723",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        }
+    ]
+}

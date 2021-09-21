@@ -1,0 +1,61 @@
+{
+    "name": "Gloxinian, The. vol 20, no. 5. (1970)",
+    "machine_name": "gloxinian_the_vol_20_no_5_1970",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1970",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": "7",
+    "description": null,
+    "archival_data": {
+        "id": "2579176",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1572438361"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Gloxinian, The. vol 20, no. 5. (1970)  p cover",
+            "machine_name": "gloxinian_the_vol_20_no_5_1970_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "streptocarpus_cultivars_netta_nymph",
+                "type": "variety",
+                "archival_data": [
+                    "2579181"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2579186",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1572438471"
+            }
+        }
+    ]
+}

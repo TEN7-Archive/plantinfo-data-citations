@@ -1,0 +1,963 @@
+{
+    "name": "Pacific Horticulture. vol 77, no. 4. (2016)",
+    "machine_name": "pacific_horticulture_vol_77_no_4_2016",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2016",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": "7",
+    "description": null,
+    "archival_data": {
+        "id": "2348796",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1531591367"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Pacific Horticulture. vol 77, no. 4. (2016) p cover",
+            "machine_name": "pacific_horticulture_vol_77_no_4_2016_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "salvia_clevelandii",
+                "type": "species",
+                "archival_data": [
+                    "1429925"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2348806",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1531592166"
+            }
+        },
+        {
+            "name": "Pacific Horticulture. vol 77, no. 4. (2016) p 12",
+            "machine_name": "pacific_horticulture_vol_77_no_4_2016_p_12",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "tecoma_smithii",
+                "type": "species",
+                "archival_data": [
+                    "1429344"
+                ]
+            },
+            "volume": null,
+            "page": "p 12",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2348811",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1531592166"
+            }
+        },
+        {
+            "name": "Pacific Horticulture. vol 77, no. 4. (2016) p 12",
+            "machine_name": "pacific_horticulture_vol_77_no_4_2016_p_12",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "decaisnea_fargesii",
+                "type": "species",
+                "archival_data": [
+                    "1405741"
+                ]
+            },
+            "volume": null,
+            "page": "p 12",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2348816",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1531592166"
+            }
+        },
+        {
+            "name": "Pacific Horticulture. vol 77, no. 4. (2016) p 13",
+            "machine_name": "pacific_horticulture_vol_77_no_4_2016_p_13",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "tweedia_caerulea",
+                "type": "species",
+                "archival_data": [
+                    "1427921"
+                ]
+            },
+            "volume": null,
+            "page": "p 13",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": true,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2348821",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1531592166"
+            }
+        },
+        {
+            "name": "Pacific Horticulture. vol 77, no. 4. (2016) p 13; backcover",
+            "machine_name": "pacific_horticulture_vol_77_no_4_2016_p_13_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "asclepias_curassavica",
+                "type": "species",
+                "archival_data": [
+                    "1402975"
+                ]
+            },
+            "volume": null,
+            "page": "p 13; backcover",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": true,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2348826",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1531592166"
+            }
+        },
+        {
+            "name": "Pacific Horticulture. vol 77, no. 4. (2016) p 13",
+            "machine_name": "pacific_horticulture_vol_77_no_4_2016_p_13",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "nigella_damascena",
+                "type": "species",
+                "archival_data": [
+                    "1417964"
+                ]
+            },
+            "volume": null,
+            "page": "p 13",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2348831",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1531592166"
+            }
+        },
+        {
+            "name": "Pacific Horticulture. vol 77, no. 4. (2016) p 14",
+            "machine_name": "pacific_horticulture_vol_77_no_4_2016_p_14",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cardiospermum_halicacabum",
+                "type": "species",
+                "archival_data": [
+                    "1407743"
+                ]
+            },
+            "volume": null,
+            "page": "p 14",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2348836",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1531592166"
+            }
+        },
+        {
+            "name": "Pacific Horticulture. vol 77, no. 4. (2016) p 14",
+            "machine_name": "pacific_horticulture_vol_77_no_4_2016_p_14",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "melaleuca_incana",
+                "type": "species",
+                "archival_data": [
+                    "1418977"
+                ]
+            },
+            "volume": null,
+            "page": "p 14",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2348841",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1531592166"
+            }
+        },
+        {
+            "name": "Pacific Horticulture. vol 77, no. 4. (2016) p 14",
+            "machine_name": "pacific_horticulture_vol_77_no_4_2016_p_14",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "physalis_alkekengi",
+                "type": "species",
+                "archival_data": [
+                    "1424169"
+                ]
+            },
+            "volume": null,
+            "page": "p 14",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2348846",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1531592166"
+            }
+        },
+        {
+            "name": "Pacific Horticulture. vol 77, no. 4. (2016) p 15",
+            "machine_name": "pacific_horticulture_vol_77_no_4_2016_p_15",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lunaria_annua",
+                "type": "species",
+                "archival_data": [
+                    "1420031"
+                ]
+            },
+            "volume": null,
+            "page": "p 15",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2348851",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1531592166"
+            }
+        },
+        {
+            "name": "Pacific Horticulture. vol 77, no. 4. (2016) p 15",
+            "machine_name": "pacific_horticulture_vol_77_no_4_2016_p_15",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ricinus_communis",
+                "type": "species",
+                "archival_data": [
+                    "1433174"
+                ]
+            },
+            "volume": null,
+            "page": "p 15",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2348856",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1531592166"
+            }
+        },
+        {
+            "name": "Pacific Horticulture. vol 77, no. 4. (2016) p 17",
+            "machine_name": "pacific_horticulture_vol_77_no_4_2016_p_17",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "epilobium_septentrionale",
+                "type": "species",
+                "archival_data": [
+                    "1414741"
+                ]
+            },
+            "volume": null,
+            "page": "p 17",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2348861",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1531592166"
+            }
+        },
+        {
+            "name": "Pacific Horticulture. vol 77, no. 4. (2016) p 19",
+            "machine_name": "pacific_horticulture_vol_77_no_4_2016_p_19",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "yucca_filamentosa_golden_sword",
+                "type": "variety",
+                "archival_data": [
+                    "1546804"
+                ]
+            },
+            "volume": null,
+            "page": "p 19",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2348866",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1531592166"
+            }
+        },
+        {
+            "name": "Pacific Horticulture. vol 77, no. 4. (2016) p 19",
+            "machine_name": "pacific_horticulture_vol_77_no_4_2016_p_19",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "grevillea_victoriae",
+                "type": "species",
+                "archival_data": [
+                    "1414187"
+                ]
+            },
+            "volume": null,
+            "page": "p 19",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2348871",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1531592166"
+            }
+        },
+        {
+            "name": "Pacific Horticulture. vol 77, no. 4. (2016) p 32",
+            "machine_name": "pacific_horticulture_vol_77_no_4_2016_p_32",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "isopogon_formosus",
+                "type": "species",
+                "archival_data": [
+                    "1417997"
+                ]
+            },
+            "volume": null,
+            "page": "p 32",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2348876",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1531592166"
+            }
+        },
+        {
+            "name": "Pacific Horticulture. vol 77, no. 4. (2016) p 32",
+            "machine_name": "pacific_horticulture_vol_77_no_4_2016_p_32",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "kunzea_pulchella",
+                "type": "species",
+                "archival_data": [
+                    "1419936"
+                ]
+            },
+            "volume": null,
+            "page": "p 32",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2348881",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1531592166"
+            }
+        },
+        {
+            "name": "Pacific Horticulture. vol 77, no. 4. (2016) p 32",
+            "machine_name": "pacific_horticulture_vol_77_no_4_2016_p_32",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "banksia_petiolaris",
+                "type": "species",
+                "archival_data": [
+                    "1399581"
+                ]
+            },
+            "volume": null,
+            "page": "p 32",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2348886",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1531592166"
+            }
+        },
+        {
+            "name": "Pacific Horticulture. vol 77, no. 4. (2016) p 33",
+            "machine_name": "pacific_horticulture_vol_77_no_4_2016_p_33",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hakea_brownii",
+                "type": "species",
+                "archival_data": [
+                    "2348801"
+                ]
+            },
+            "volume": null,
+            "page": "p 33",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2348891",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1531592166"
+            }
+        },
+        {
+            "name": "Pacific Horticulture. vol 77, no. 4. (2016) p 33",
+            "machine_name": "pacific_horticulture_vol_77_no_4_2016_p_33",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "banksia_repens",
+                "type": "species",
+                "archival_data": [
+                    "1399588"
+                ]
+            },
+            "volume": null,
+            "page": "p 33",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2348896",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1531592166"
+            }
+        },
+        {
+            "name": "Pacific Horticulture. vol 77, no. 4. (2016) p 33",
+            "machine_name": "pacific_horticulture_vol_77_no_4_2016_p_33",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "myoporum_floribundum",
+                "type": "species",
+                "archival_data": [
+                    "1416016"
+                ]
+            },
+            "volume": null,
+            "page": "p 33",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2348901",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1531592166"
+            }
+        },
+        {
+            "name": "Pacific Horticulture. vol 77, no. 4. (2016) p 37",
+            "machine_name": "pacific_horticulture_vol_77_no_4_2016_p_37",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "kalmiopsis_leachiana",
+                "type": "species",
+                "archival_data": [
+                    "1419500"
+                ]
+            },
+            "volume": null,
+            "page": "p 37",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2348906",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1531592451"
+            }
+        },
+        {
+            "name": "Pacific Horticulture. vol 77, no. 4. (2016) p 49",
+            "machine_name": "pacific_horticulture_vol_77_no_4_2016_p_49",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "penstemon_heterophyllus_margarita_bop",
+                "type": "variety",
+                "archival_data": [
+                    "1518559"
+                ]
+            },
+            "volume": null,
+            "page": "p 49",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2348911",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1531592451"
+            }
+        },
+        {
+            "name": "Pacific Horticulture. vol 77, no. 4. (2016) p inside backcover",
+            "machine_name": "pacific_horticulture_vol_77_no_4_2016_p_inside_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "madia_elegans",
+                "type": "species",
+                "archival_data": [
+                    "1442954"
+                ]
+            },
+            "volume": null,
+            "page": "p inside backcover",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2348916",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1531592451"
+            }
+        }
+    ]
+}

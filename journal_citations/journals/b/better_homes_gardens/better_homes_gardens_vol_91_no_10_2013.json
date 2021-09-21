@@ -1,0 +1,143 @@
+{
+    "name": "Better Homes & Gardens. vol 91, no. 10. (2013)",
+    "machine_name": "better_homes_gardens_vol_91_no_10_2013",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2013",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2122084",
+        "legacy_id": "122960",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Better Homes & Gardens. vol 91, no. 10. (2013) p 94",
+            "machine_name": "better_homes_gardens_vol_91_no_10_2013_p_94",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "heuchera_cultivars_berry_smoothie",
+                "type": "variety",
+                "archival_data": [
+                    "1618012"
+                ]
+            },
+            "volume": null,
+            "page": "p 94",
+            "year": "2013",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2000690",
+                "legacy_id": "468826",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "Better Homes & Gardens. vol 91, no. 10. (2013) p 97; 99",
+            "machine_name": "better_homes_gardens_vol_91_no_10_2013_p_97_99",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "heucherella_cultivars_stoplight",
+                "type": "variety",
+                "archival_data": [
+                    "1599567"
+                ]
+            },
+            "volume": null,
+            "page": "p 97; 99",
+            "year": "2013",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2006218",
+                "legacy_id": "468827",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "Better Homes & Gardens. vol 91, no. 10. (2013) p 109",
+            "machine_name": "better_homes_gardens_vol_91_no_10_2013_p_109",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "aronia_arbutifolia_brilliantissima",
+                "type": "variety",
+                "archival_data": [
+                    "1463932"
+                ]
+            },
+            "volume": null,
+            "page": "p 109",
+            "year": "2013",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2006219",
+                "legacy_id": "468828",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        }
+    ]
+}

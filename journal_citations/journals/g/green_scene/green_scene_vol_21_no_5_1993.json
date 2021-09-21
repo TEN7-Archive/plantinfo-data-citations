@@ -1,0 +1,430 @@
+{
+    "name": "Green Scene. vol 21, no. 5. (1993)",
+    "machine_name": "green_scene_vol_21_no_5_1993",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1993",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2109441",
+        "legacy_id": "3174",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Green Scene. vol 21, no. 5. (1993) p cover",
+            "machine_name": "green_scene_vol_21_no_5_1993_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "beta_vulgaris_c_ruby",
+                "type": "variety",
+                "archival_data": [
+                    "1464663"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1704045",
+                "legacy_id": "3443",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Green Scene. vol 21, no. 5. (1993) p 5",
+            "machine_name": "green_scene_vol_21_no_5_1993_p_5",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hydrangea_macrophylla_blue_wave",
+                "type": "variety",
+                "archival_data": [
+                    "1480951"
+                ]
+            },
+            "volume": null,
+            "page": "p 5",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1722608",
+                "legacy_id": "22005",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Green Scene. vol 21, no. 5. (1993) p 7",
+            "machine_name": "green_scene_vol_21_no_5_1993_p_7",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hydrangea_paniculata_tardiva",
+                "type": "variety",
+                "archival_data": [
+                    "1481236"
+                ]
+            },
+            "volume": null,
+            "page": "p 7",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1722966",
+                "legacy_id": "22123",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Green Scene. vol 21, no. 5. (1993) p 7",
+            "machine_name": "green_scene_vol_21_no_5_1993_p_7",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hydrangea_paniculata_unique",
+                "type": "variety",
+                "archival_data": [
+                    "1481237"
+                ]
+            },
+            "volume": null,
+            "page": "p 7",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1722973",
+                "legacy_id": "22130",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Green Scene. vol 21, no. 5. (1993) p 5",
+            "machine_name": "green_scene_vol_21_no_5_1993_p_5",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hydrangea_serrata_blue_billow",
+                "type": "variety",
+                "archival_data": [
+                    "1480948"
+                ]
+            },
+            "volume": null,
+            "page": "p 5",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1723229",
+                "legacy_id": "22147",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Green Scene. vol 21, no. 5. (1993) p 7",
+            "machine_name": "green_scene_vol_21_no_5_1993_p_7",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hydrangea_paniculata",
+                "type": "species",
+                "archival_data": [
+                    "1420974"
+                ]
+            },
+            "volume": null,
+            "page": "p 7",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1799094",
+                "legacy_id": "103649",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Green Scene. vol 21, no. 5. (1993) p 5",
+            "machine_name": "green_scene_vol_21_no_5_1993_p_5",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hydrangea_sargentiana",
+                "type": "species",
+                "archival_data": [
+                    "1420978"
+                ]
+            },
+            "volume": null,
+            "page": "p 5",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1799137",
+                "legacy_id": "103692",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Green Scene. vol 21, no. 5. (1993) p 17",
+            "machine_name": "green_scene_vol_21_no_5_1993_p_17",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pogostemon_cablin",
+                "type": "species",
+                "archival_data": [
+                    "1427161"
+                ]
+            },
+            "volume": null,
+            "page": "p 17",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1816984",
+                "legacy_id": "123019",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Green Scene. vol 21, no. 5. (1993) p 7",
+            "machine_name": "green_scene_vol_21_no_5_1993_p_7",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "schizophragma_hydrangeoides",
+                "type": "species",
+                "archival_data": [
+                    "1432888"
+                ]
+            },
+            "volume": null,
+            "page": "p 7",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1827045",
+                "legacy_id": "132276",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Green Scene. vol 21, no. 5. (1993) p 24",
+            "machine_name": "green_scene_vol_21_no_5_1993_p_24",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "carex_oshimensis_evergold",
+                "type": "variety",
+                "archival_data": [
+                    "1470679"
+                ]
+            },
+            "volume": null,
+            "page": "p 24",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1948602",
+                "legacy_id": "290697",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        }
+    ]
+}

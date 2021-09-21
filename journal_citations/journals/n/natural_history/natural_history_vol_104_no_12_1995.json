@@ -1,0 +1,61 @@
+{
+    "name": "Natural History. vol 104, no. 12. (1995)",
+    "machine_name": "natural_history_vol_104_no_12_1995",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1995",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114297",
+        "legacy_id": "4648",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Natural History. vol 104, no. 12. (1995) p 58",
+            "machine_name": "natural_history_vol_104_no_12_1995_p_58",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "metrosideros_polymorpha",
+                "type": "species",
+                "archival_data": [
+                    "1420077"
+                ]
+            },
+            "volume": null,
+            "page": "p 58",
+            "year": "1995",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1805626",
+                "legacy_id": "113361",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        }
+    ]
+}

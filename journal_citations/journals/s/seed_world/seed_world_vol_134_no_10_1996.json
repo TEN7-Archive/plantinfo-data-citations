@@ -1,0 +1,102 @@
+{
+    "name": "Seed World. vol 134, no. 10. (1996)",
+    "machine_name": "seed_world_vol_134_no_10_1996",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1996",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2109696",
+        "legacy_id": "5474",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Seed World. vol 134, no. 10. (1996) p 22",
+            "machine_name": "seed_world_vol_134_no_10_1996_p_22",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "brassica_oleracea_b_small_miracle",
+                "type": "variety",
+                "archival_data": [
+                    "1465025"
+                ]
+            },
+            "volume": null,
+            "page": "p 22",
+            "year": "1996",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1704888",
+                "legacy_id": "3867",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Seed World. vol 134, no. 10. (1996) p 23",
+            "machine_name": "seed_world_vol_134_no_10_1996_p_23",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lycopersicon_cultivars_italian_gold",
+                "type": "variety",
+                "archival_data": [
+                    "1481432"
+                ]
+            },
+            "volume": null,
+            "page": "p 23",
+            "year": "1996",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1732081",
+                "legacy_id": "29548",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        }
+    ]
+}

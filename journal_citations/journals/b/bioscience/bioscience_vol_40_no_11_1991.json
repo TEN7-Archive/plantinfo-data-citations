@@ -1,0 +1,61 @@
+{
+    "name": "BioScience. vol 40, no. 11. (1991)",
+    "machine_name": "bioscience_vol_40_no_11_1991",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1991",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114249",
+        "legacy_id": "1568",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "BioScience. vol 40, no. 11. (1991) p cover",
+            "machine_name": "bioscience_vol_40_no_11_1991_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "larix_occidentalis",
+                "type": "species",
+                "archival_data": [
+                    "1421035"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1803211",
+                "legacy_id": "107387",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        }
+    ]
+}

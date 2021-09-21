@@ -1,0 +1,143 @@
+{
+    "name": "American Nurseryman. vol 173, no. 1. (1991)",
+    "machine_name": "american_nurseryman_vol_173_no_1_1991",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1991",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2110558",
+        "legacy_id": "497",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "American Nurseryman. vol 173, no. 1. (1991) p 35 (Adv.)",
+            "machine_name": "american_nurseryman_vol_173_no_1_1991_p_35_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "canna_cultivars_black_knight",
+                "type": "variety",
+                "archival_data": [
+                    "1469448"
+                ]
+            },
+            "volume": null,
+            "page": "p 35 (Adv.)",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1709636",
+                "legacy_id": "5502",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "American Nurseryman. vol 173, no. 1. (1991) p 35 (Adv.)",
+            "machine_name": "american_nurseryman_vol_173_no_1_1991_p_35_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "canna_cultivars_richard_wallace",
+                "type": "variety",
+                "archival_data": [
+                    "1469472"
+                ]
+            },
+            "volume": null,
+            "page": "p 35 (Adv.)",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1709960",
+                "legacy_id": "5574",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "American Nurseryman. vol 173, no. 1. (1991) p 146",
+            "machine_name": "american_nurseryman_vol_173_no_1_1991_p_146",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "perovskia_atriplicifolia",
+                "type": "species",
+                "archival_data": [
+                    "1421920"
+                ]
+            },
+            "volume": null,
+            "page": "p 146",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1810616",
+                "legacy_id": "120097",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "name": "Grower. vol 133, no. 17. (2000)",
+    "machine_name": "grower_vol_133_no_17_2000",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2000",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2116421",
+        "legacy_id": "11370",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grower. vol 133, no. 17. (2000) p 23 (Adv.)",
+            "machine_name": "grower_vol_133_no_17_2000_p_23_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "brassica_oleracea_f_mexico",
+                "type": "variety",
+                "archival_data": [
+                    "1599644"
+                ]
+            },
+            "volume": null,
+            "page": "p 23 (Adv.)",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1870749",
+                "legacy_id": "182710",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Grower. vol 133, no. 17. (2000) p backcover (Adv.)",
+            "machine_name": "grower_vol_133_no_17_2000_p_backcover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "erysimum_cultivars_aida",
+                "type": "variety",
+                "archival_data": [
+                    "1551620"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover (Adv.)",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1870750",
+                "legacy_id": "182730",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        }
+    ]
+}

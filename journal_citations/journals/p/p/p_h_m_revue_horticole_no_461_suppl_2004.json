@@ -1,0 +1,102 @@
+{
+    "name": "P.H.M.-Revue Horticole. no. 461, Suppl. (2004)",
+    "machine_name": "p_h_m_revue_horticole_no_461_suppl_2004",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2004",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2120102",
+        "legacy_id": "61649",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "P.H.M.-Revue Horticole. no. 461, Suppl. (2004) p 7",
+            "machine_name": "p_h_m_revue_horticole_no_461_suppl_2004_p_7",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "zygophyllum_fabago",
+                "type": "species",
+                "archival_data": [
+                    "1439098"
+                ]
+            },
+            "volume": null,
+            "page": "p 7",
+            "year": "2004",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1949424",
+                "legacy_id": "289244",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "P.H.M.-Revue Horticole. no. 461, Suppl. (2004) p 8",
+            "machine_name": "p_h_m_revue_horticole_no_461_suppl_2004_p_8",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "convolvulus_althaeoides",
+                "type": "species",
+                "archival_data": [
+                    "1404546"
+                ]
+            },
+            "volume": null,
+            "page": "p 8",
+            "year": "2004",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1949425",
+                "legacy_id": "289245",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "name": "Orchids: Am. Orchid Soc. vol 84, no. 1. (2015)",
+    "machine_name": "orchids_am_orchid_soc_vol_84_no_1_2015",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": "2015",
+    "pulling_date": "7",
+    "description": null,
+    "archival_data": {
+        "id": "2100022",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1477579260"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Orchids: Am. Orchid Soc. vol 84, no. 1. ((2015)) p 19, Pl. 3",
+            "machine_name": "orchids_am_orchid_soc_vol_84_no_1_2015_p_19_pl_3",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "broughtonia_sanguinea_hamlyn_s_peachy",
+                "type": "variety",
+                "archival_data": [
+                    "1656646"
+                ]
+            },
+            "volume": null,
+            "page": "p 19, Pl. 3",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2100052",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1477584595"
+            }
+        },
+        {
+            "name": "Orchids: Am. Orchid Soc. vol 84, no. 1. ((2015)) p cover; 50",
+            "machine_name": "orchids_am_orchid_soc_vol_84_no_1_2015_p_cover_50",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cattleya_dowiana_carmoniana",
+                "type": "variety",
+                "archival_data": [
+                    "2100027"
+                ]
+            },
+            "volume": null,
+            "page": "p cover; 50",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2100057",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1477584595"
+            }
+        },
+        {
+            "name": "Orchids: Am. Orchid Soc. vol 84, no. 1. ((2015)) p 2 (Adv.)",
+            "machine_name": "orchids_am_orchid_soc_vol_84_no_1_2015_p_2_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rhyncanthe_cultivars_daffodil_equilab",
+                "type": "variety",
+                "archival_data": [
+                    "2100047"
+                ]
+            },
+            "volume": null,
+            "page": "p 2 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": true,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2100062",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1477584595"
+            }
+        }
+    ]
+}

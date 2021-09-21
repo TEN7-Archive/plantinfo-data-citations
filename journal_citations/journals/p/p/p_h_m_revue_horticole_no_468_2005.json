@@ -1,0 +1,102 @@
+{
+    "name": "P.H.M.-Revue Horticole. no. 468. (2005)",
+    "machine_name": "p_h_m_revue_horticole_no_468_2005",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2005",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2121250",
+        "legacy_id": "65391",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "P.H.M.-Revue Horticole. no. 468. (2005) p 49",
+            "machine_name": "p_h_m_revue_horticole_no_468_2005_p_49",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "tilia_euchlora",
+                "type": "species",
+                "archival_data": [
+                    "1431204"
+                ]
+            },
+            "volume": null,
+            "page": "p 49",
+            "year": "2005",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1979502",
+                "legacy_id": "299583",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        },
+        {
+            "name": "P.H.M.-Revue Horticole. no. 468. (2005) p 51",
+            "machine_name": "p_h_m_revue_horticole_no_468_2005_p_51",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "gleditsia_triacanthos_sunburst",
+                "type": "variety",
+                "archival_data": [
+                    "1508326"
+                ]
+            },
+            "volume": null,
+            "page": "p 51",
+            "year": "2005",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1979506",
+                "legacy_id": "299587",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        }
+    ]
+}

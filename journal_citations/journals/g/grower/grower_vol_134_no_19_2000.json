@@ -1,0 +1,143 @@
+{
+    "name": "Grower. vol 134, no. 19. (2000)",
+    "machine_name": "grower_vol_134_no_19_2000",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2000",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2116452",
+        "legacy_id": "17771",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grower. vol 134, no. 19. (2000) p 9",
+            "machine_name": "grower_vol_134_no_19_2000_p_9",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "chrysanthemum_cultivars_time_series",
+                "type": "variety",
+                "archival_data": [
+                    "1537621"
+                ]
+            },
+            "volume": null,
+            "page": "p 9",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1871438",
+                "legacy_id": "200465",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Grower. vol 134, no. 19. (2000) p 11 (Adv.)",
+            "machine_name": "grower_vol_134_no_19_2000_p_11_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "begonia_semperflorens_cultorum_devil_series",
+                "type": "variety",
+                "archival_data": [
+                    "1464515"
+                ]
+            },
+            "volume": null,
+            "page": "p 11 (Adv.)",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1871439",
+                "legacy_id": "200466",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Grower. vol 134, no. 19. (2000) p 13",
+            "machine_name": "grower_vol_134_no_19_2000_p_13",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "eriophorum_angustifolium",
+                "type": "species",
+                "archival_data": [
+                    "1412107"
+                ]
+            },
+            "volume": null,
+            "page": "p 13",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1871440",
+                "legacy_id": "200467",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        }
+    ]
+}

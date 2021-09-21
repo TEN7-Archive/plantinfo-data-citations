@@ -1,0 +1,102 @@
+{
+    "name": "Grounds Maintenance. vol 30, no. 4. (1995)",
+    "machine_name": "grounds_maintenance_vol_30_no_4_1995",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1995",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114571",
+        "legacy_id": "3282",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grounds Maintenance. vol 30, no. 4. (1995) p 32",
+            "machine_name": "grounds_maintenance_vol_30_no_4_1995_p_32",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "solanum_carolinense",
+                "type": "species",
+                "archival_data": [
+                    "1430412"
+                ]
+            },
+            "volume": null,
+            "page": "p 32",
+            "year": "1995",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1829055",
+                "legacy_id": "134069",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Grounds Maintenance. vol 30, no. 4. (1995) p 32",
+            "machine_name": "grounds_maintenance_vol_30_no_4_1995_p_32",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "tribulus_cistoides",
+                "type": "species",
+                "archival_data": [
+                    "1432721"
+                ]
+            },
+            "volume": null,
+            "page": "p 32",
+            "year": "1995",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1835142",
+                "legacy_id": "138329",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        }
+    ]
+}

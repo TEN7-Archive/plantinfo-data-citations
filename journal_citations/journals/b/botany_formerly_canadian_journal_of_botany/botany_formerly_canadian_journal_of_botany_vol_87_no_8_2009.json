@@ -1,0 +1,61 @@
+{
+    "name": "Botany (formerly: Canadian Journal of Botany). vol 87, no. 8. (2009)",
+    "machine_name": "botany_formerly_canadian_journal_of_botany_vol_87_no_8_2009",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2009",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2124010",
+        "legacy_id": "108841",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Botany (formerly: Canadian Journal of Botany). vol 87, no. 8. (2009) p 744, Pl. 1A-H",
+            "machine_name": "botany_formerly_canadian_journal_of_botany_vol_87_no_8_2009_p_744_pl_1a_h",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "aegilops_sharonensis",
+                "type": "species",
+                "archival_data": [
+                    "1448967"
+                ]
+            },
+            "volume": null,
+            "page": "p 744, Pl. 1A-H",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": true,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2060467",
+                "legacy_id": "413075",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        }
+    ]
+}

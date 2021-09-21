@@ -1,0 +1,471 @@
+{
+    "name": "HerbalGram. no. 105. (2015)",
+    "machine_name": "herbalgram_no_105_2015",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2015",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2124387",
+        "legacy_id": "126691",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "HerbalGram. no. 105. (2015) p 1",
+            "machine_name": "herbalgram_no_105_2015_p_1",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "andrographis_paniculata",
+                "type": "species",
+                "archival_data": [
+                    "1398715"
+                ]
+            },
+            "volume": null,
+            "page": "p 1",
+            "year": "2015",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2078868",
+                "legacy_id": "494583",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483209571"
+            }
+        },
+        {
+            "name": "HerbalGram. no. 105. (2015) p cover; 24",
+            "machine_name": "herbalgram_no_105_2015_p_cover_24",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "vitex_agnus_castus",
+                "type": "species",
+                "archival_data": [
+                    "1436931"
+                ]
+            },
+            "volume": null,
+            "page": "p cover; 24",
+            "year": "2015",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2078869",
+                "legacy_id": "494584",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483209571"
+            }
+        },
+        {
+            "name": "HerbalGram. no. 105. (2015) p 22 (Adv.); 25",
+            "machine_name": "herbalgram_no_105_2015_p_22_adv_25",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "vaccinium_macrocarpon",
+                "type": "species",
+                "archival_data": [
+                    "1428667"
+                ]
+            },
+            "volume": null,
+            "page": "p 22 (Adv.); 25",
+            "year": "2015",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2078870",
+                "legacy_id": "494585",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483209571"
+            }
+        },
+        {
+            "name": "HerbalGram. no. 105. (2015) p 27",
+            "machine_name": "herbalgram_no_105_2015_p_27",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "trigonella_foenum_graecum",
+                "type": "species",
+                "archival_data": [
+                    "1433446"
+                ]
+            },
+            "volume": null,
+            "page": "p 27",
+            "year": "2015",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": true,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2078871",
+                "legacy_id": "494586",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483209571"
+            }
+        },
+        {
+            "name": "HerbalGram. no. 105. (2015) p 28",
+            "machine_name": "herbalgram_no_105_2015_p_28",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "tripterygium_wilfordii",
+                "type": "species",
+                "archival_data": [
+                    "1445104"
+                ]
+            },
+            "volume": null,
+            "page": "p 28",
+            "year": "2015",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2078872",
+                "legacy_id": "494607",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483209571"
+            }
+        },
+        {
+            "name": "HerbalGram. no. 105. (2015) p 30",
+            "machine_name": "herbalgram_no_105_2015_p_30",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cucurbita_pepo",
+                "type": "species",
+                "archival_data": [
+                    "1408748"
+                ]
+            },
+            "volume": null,
+            "page": "p 30",
+            "year": "2015",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": true,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2078873",
+                "legacy_id": "494608",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483209571"
+            }
+        },
+        {
+            "name": "HerbalGram. no. 105. (2015) p 33",
+            "machine_name": "herbalgram_no_105_2015_p_33",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "panax_quinquefolius",
+                "type": "species",
+                "archival_data": [
+                    "1424081"
+                ]
+            },
+            "volume": null,
+            "page": "p 33",
+            "year": "2015",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2078874",
+                "legacy_id": "494609",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483209571"
+            }
+        },
+        {
+            "name": "HerbalGram. no. 105. (2015) p 34-35; 37; 39; 41; 43",
+            "machine_name": "herbalgram_no_105_2015_p_34_35_37_39_41_43",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "helichrysum_italicum",
+                "type": "species",
+                "archival_data": [
+                    "1411262"
+                ]
+            },
+            "volume": null,
+            "page": "p 34-35; 37; 39; 41; 43",
+            "year": "2015",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2078875",
+                "legacy_id": "494610",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483209571"
+            }
+        },
+        {
+            "name": "HerbalGram. no. 105. (2015) p 38",
+            "machine_name": "herbalgram_no_105_2015_p_38",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "helichrysum_italicum_microphyllum",
+                "type": "variety",
+                "archival_data": [
+                    "1563327"
+                ]
+            },
+            "volume": null,
+            "page": "p 38",
+            "year": "2015",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2078876",
+                "legacy_id": "494611",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483209571"
+            }
+        },
+        {
+            "name": "HerbalGram. no. 105. (2015) p 46; 49-51; 53",
+            "machine_name": "herbalgram_no_105_2015_p_46_49_51_53",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lepidium_meyenii",
+                "type": "species",
+                "archival_data": [
+                    "1449830"
+                ]
+            },
+            "volume": null,
+            "page": "p 46; 49-51; 53",
+            "year": "2015",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": true,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2084986",
+                "legacy_id": "494598",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483209571"
+            }
+        },
+        {
+            "name": "HerbalGram. no. 105. (2015) p 80",
+            "machine_name": "herbalgram_no_105_2015_p_80",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "sutherlandia_frutescens",
+                "type": "species",
+                "archival_data": [
+                    "1428139"
+                ]
+            },
+            "volume": null,
+            "page": "p 80",
+            "year": "2015",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2084987",
+                "legacy_id": "494599",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483209571"
+            }
+        }
+    ]
+}

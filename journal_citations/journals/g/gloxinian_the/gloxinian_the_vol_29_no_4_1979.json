@@ -1,0 +1,61 @@
+{
+    "name": "Gloxinian, The. vol 29, no. 4. (1979)",
+    "machine_name": "gloxinian_the_vol_29_no_4_1979",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1979",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": "7",
+    "description": null,
+    "archival_data": {
+        "id": "2576111",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1572014261"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Gloxinian, The. vol 29, no. 4. (1979)  p cover",
+            "machine_name": "gloxinian_the_vol_29_no_4_1979_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "streptocarpus_cultivars_network",
+                "type": "variety",
+                "archival_data": [
+                    "2576116"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2576121",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1572014344"
+            }
+        }
+    ]
+}

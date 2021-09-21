@@ -1,0 +1,61 @@
+{
+    "name": "Plant Systematics and Evolution. vol 237, no. 3-4. (2003)",
+    "machine_name": "plant_systematics_and_evolution_vol_237_no_3_4_2003",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2003",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2118046",
+        "legacy_id": "47614",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Plant Systematics and Evolution. vol 237, no. 3-4. (2003) p cover",
+            "machine_name": "plant_systematics_and_evolution_vol_237_no_3_4_2003_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "gentianella_amarella",
+                "type": "species",
+                "archival_data": [
+                    "1411149"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1902844",
+                "legacy_id": "256491",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        }
+    ]
+}

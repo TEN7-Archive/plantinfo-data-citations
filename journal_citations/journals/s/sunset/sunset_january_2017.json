@@ -1,0 +1,184 @@
+{
+    "name": "Sunset. January 2017.",
+    "machine_name": "sunset_january_2017",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": "7",
+    "description": null,
+    "archival_data": {
+        "id": "2220361",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1517154784"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Sunset. January 2017. p 43",
+            "machine_name": "sunset_january_2017_p_43",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "agave_attenuata_nova",
+                "type": "variety",
+                "archival_data": [
+                    "1466624"
+                ]
+            },
+            "volume": null,
+            "page": "p 43",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2220371",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1517155244"
+            }
+        },
+        {
+            "name": "Sunset. January 2017. p 44",
+            "machine_name": "sunset_january_2017_p_44",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "festuca_glauca_elijah_blue",
+                "type": "variety",
+                "archival_data": [
+                    "1505195"
+                ]
+            },
+            "volume": null,
+            "page": "p 44",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2220376",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1517155244"
+            }
+        },
+        {
+            "name": "Sunset. January 2017. p 44",
+            "machine_name": "sunset_january_2017_p_44",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "senecio_mandraliscae",
+                "type": "species",
+                "archival_data": [
+                    "1428800"
+                ]
+            },
+            "volume": null,
+            "page": "p 44",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2220381",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1517155244"
+            }
+        },
+        {
+            "name": "Sunset. January 2017. p 46",
+            "machine_name": "sunset_january_2017_p_46",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "aloe_cultivars_super_red",
+                "type": "variety",
+                "archival_data": [
+                    "2220366"
+                ]
+            },
+            "volume": null,
+            "page": "p 46",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2220386",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1517155244"
+            }
+        }
+    ]
+}

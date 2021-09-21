@@ -1,0 +1,102 @@
+{
+    "name": "Mammillaria Society, Journal. vol 38, no. 3. (1998)",
+    "machine_name": "mammillaria_society_journal_vol_38_no_3_1998",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1998",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2115418",
+        "legacy_id": "7105",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Mammillaria Society, Journal. vol 38, no. 3. (1998) p 33",
+            "machine_name": "mammillaria_society_journal_vol_38_no_3_1998_p_33",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "mammillaria_fraileana",
+                "type": "species",
+                "archival_data": [
+                    "1416337"
+                ]
+            },
+            "volume": null,
+            "page": "p 33",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1850758",
+                "legacy_id": "156608",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Mammillaria Society, Journal. vol 38, no. 3. (1998) p 33",
+            "machine_name": "mammillaria_society_journal_vol_38_no_3_1998_p_33",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "mammillaria_schumannii",
+                "type": "species",
+                "archival_data": [
+                    "1417067"
+                ]
+            },
+            "volume": null,
+            "page": "p 33",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1850759",
+                "legacy_id": "156609",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        }
+    ]
+}

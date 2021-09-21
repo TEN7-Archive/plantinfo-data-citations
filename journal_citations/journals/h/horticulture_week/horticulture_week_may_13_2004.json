@@ -1,0 +1,143 @@
+{
+    "name": "Horticulture Week. May 13, 2004.",
+    "machine_name": "horticulture_week_may_13_2004",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1688180",
+        "legacy_id": "58650",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Horticulture Week. May 13, 2004. p 3",
+            "machine_name": "horticulture_week_may_13_2004_p_3",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_royal_parks",
+                "type": "variety",
+                "archival_data": [
+                    "1586123"
+                ]
+            },
+            "volume": null,
+            "page": "p 3",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1934392",
+                "legacy_id": "279475",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "Horticulture Week. May 13, 2004. p 19",
+            "machine_name": "horticulture_week_may_13_2004_p_19",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "iris_laevigata",
+                "type": "species",
+                "archival_data": [
+                    "1417298"
+                ]
+            },
+            "volume": null,
+            "page": "p 19",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1934393",
+                "legacy_id": "279476",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "Horticulture Week. May 13, 2004. p 19",
+            "machine_name": "horticulture_week_may_13_2004_p_19",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "iris_sibirica",
+                "type": "species",
+                "archival_data": [
+                    "1417640"
+                ]
+            },
+            "volume": null,
+            "page": "p 19",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1934394",
+                "legacy_id": "279477",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        }
+    ]
+}

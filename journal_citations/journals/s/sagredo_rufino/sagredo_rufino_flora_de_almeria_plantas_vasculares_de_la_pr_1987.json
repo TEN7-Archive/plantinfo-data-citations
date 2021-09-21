@@ -1,0 +1,922 @@
+{
+    "name": "Sagredo, Rufino. Flora de Almeria: Plantas Vasculares de la Pr. (1987)",
+    "machine_name": "sagredo_rufino_flora_de_almeria_plantas_vasculares_de_la_pr_1987",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1987",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2112342",
+        "legacy_id": "5389",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Sagredo, Rufino. Flora de Almeria: Plantas Vasculares de la Pr. (1987) p 208",
+            "machine_name": "sagredo_rufino_flora_de_almeria_plantas_vasculares_de_la_pr_1987_p_208",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "olea_europaea_sativa",
+                "type": "variety",
+                "archival_data": [
+                    "1482513"
+                ]
+            },
+            "volume": null,
+            "page": "p 208",
+            "year": "1987",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1736367",
+                "legacy_id": "34579",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Sagredo, Rufino. Flora de Almeria: Plantas Vasculares de la Pr. (1987) p xxvi",
+            "machine_name": "sagredo_rufino_flora_de_almeria_plantas_vasculares_de_la_pr_1987_p_xxvi",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "arenaria_tomentosa",
+                "type": "species",
+                "archival_data": [
+                    "1401455"
+                ]
+            },
+            "volume": null,
+            "page": "p xxvi",
+            "year": "1987",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1764484",
+                "legacy_id": "73076",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Sagredo, Rufino. Flora de Almeria: Plantas Vasculares de la Pr. (1987) p 16",
+            "machine_name": "sagredo_rufino_flora_de_almeria_plantas_vasculares_de_la_pr_1987_p_16",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "androcymbium_europaeum",
+                "type": "species",
+                "archival_data": [
+                    "1398712"
+                ]
+            },
+            "volume": null,
+            "page": "p 16",
+            "year": "1987",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1768628",
+                "legacy_id": "71379",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Sagredo, Rufino. Flora de Almeria: Plantas Vasculares de la Pr. (1987) p 208",
+            "machine_name": "sagredo_rufino_flora_de_almeria_plantas_vasculares_de_la_pr_1987_p_208",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "araucaria_columnaris",
+                "type": "species",
+                "archival_data": [
+                    "1401041"
+                ]
+            },
+            "volume": null,
+            "page": "p 208",
+            "year": "1987",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": true,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1768697",
+                "legacy_id": "72727",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Sagredo, Rufino. Flora de Almeria: Plantas Vasculares de la Pr. (1987) p 224",
+            "machine_name": "sagredo_rufino_flora_de_almeria_plantas_vasculares_de_la_pr_1987_p_224",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "calotropis_procera",
+                "type": "species",
+                "archival_data": [
+                    "1399638"
+                ]
+            },
+            "volume": null,
+            "page": "p 224",
+            "year": "1987",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1769484",
+                "legacy_id": "78471",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Sagredo, Rufino. Flora de Almeria: Plantas Vasculares de la Pr. (1987) p xxvi",
+            "machine_name": "sagredo_rufino_flora_de_almeria_plantas_vasculares_de_la_pr_1987_p_xxvi",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "astragalus_tremolsianus",
+                "type": "species",
+                "archival_data": [
+                    "1398383"
+                ]
+            },
+            "volume": null,
+            "page": "p xxvi",
+            "year": "1987",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1770196",
+                "legacy_id": "74518",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Sagredo, Rufino. Flora de Almeria: Plantas Vasculares de la Pr. (1987) p 208",
+            "machine_name": "sagredo_rufino_flora_de_almeria_plantas_vasculares_de_la_pr_1987_p_208",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "casuarina_cunninghamiana",
+                "type": "species",
+                "archival_data": [
+                    "1409337"
+                ]
+            },
+            "volume": null,
+            "page": "p 208",
+            "year": "1987",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": true,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1775836",
+                "legacy_id": "80077",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Sagredo, Rufino. Flora de Almeria: Plantas Vasculares de la Pr. (1987) p 16",
+            "machine_name": "sagredo_rufino_flora_de_almeria_plantas_vasculares_de_la_pr_1987_p_16",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "caralluma_europaea",
+                "type": "species",
+                "archival_data": [
+                    "1407381"
+                ]
+            },
+            "volume": null,
+            "page": "p 16",
+            "year": "1987",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1778031",
+                "legacy_id": "79268",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Sagredo, Rufino. Flora de Almeria: Plantas Vasculares de la Pr. (1987) p 208",
+            "machine_name": "sagredo_rufino_flora_de_almeria_plantas_vasculares_de_la_pr_1987_p_208",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ceratonia_siliqua",
+                "type": "species",
+                "archival_data": [
+                    "1404843"
+                ]
+            },
+            "volume": null,
+            "page": "p 208",
+            "year": "1987",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": true,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1779780",
+                "legacy_id": "81066",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Sagredo, Rufino. Flora de Almeria: Plantas Vasculares de la Pr. (1987) p 208",
+            "machine_name": "sagredo_rufino_flora_de_almeria_plantas_vasculares_de_la_pr_1987_p_208",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "dracaena_draco",
+                "type": "species",
+                "archival_data": [
+                    "1404302"
+                ]
+            },
+            "volume": null,
+            "page": "p 208",
+            "year": "1987",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1788788",
+                "legacy_id": "90224",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Sagredo, Rufino. Flora de Almeria: Plantas Vasculares de la Pr. (1987) p 208",
+            "machine_name": "sagredo_rufino_flora_de_almeria_plantas_vasculares_de_la_pr_1987_p_208",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "eucalyptus_camaldulensis",
+                "type": "species",
+                "archival_data": [
+                    "1413620"
+                ]
+            },
+            "volume": null,
+            "page": "p 208",
+            "year": "1987",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": true,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1793300",
+                "legacy_id": "94240",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Sagredo, Rufino. Flora de Almeria: Plantas Vasculares de la Pr. (1987) p 224",
+            "machine_name": "sagredo_rufino_flora_de_almeria_plantas_vasculares_de_la_pr_1987_p_224",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "grevillea_robusta",
+                "type": "species",
+                "archival_data": [
+                    "1413875"
+                ]
+            },
+            "volume": null,
+            "page": "p 224",
+            "year": "1987",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1796645",
+                "legacy_id": "100377",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Sagredo, Rufino. Flora de Almeria: Plantas Vasculares de la Pr. (1987) p 16",
+            "machine_name": "sagredo_rufino_flora_de_almeria_plantas_vasculares_de_la_pr_1987_p_16",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lactuca_grosii",
+                "type": "species",
+                "archival_data": [
+                    "1420267"
+                ]
+            },
+            "volume": null,
+            "page": "p 16",
+            "year": "1987",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1800973",
+                "legacy_id": "106845",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Sagredo, Rufino. Flora de Almeria: Plantas Vasculares de la Pr. (1987) p 224",
+            "machine_name": "sagredo_rufino_flora_de_almeria_plantas_vasculares_de_la_pr_1987_p_224",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "paulownia_tomentosa",
+                "type": "species",
+                "archival_data": [
+                    "1426262"
+                ]
+            },
+            "volume": null,
+            "page": "p 224",
+            "year": "1987",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1813131",
+                "legacy_id": "119312",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Sagredo, Rufino. Flora de Almeria: Plantas Vasculares de la Pr. (1987) p 16",
+            "machine_name": "sagredo_rufino_flora_de_almeria_plantas_vasculares_de_la_pr_1987_p_16",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pinus_halepensis",
+                "type": "species",
+                "archival_data": [
+                    "1425293"
+                ]
+            },
+            "volume": null,
+            "page": "p 16",
+            "year": "1987",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": true,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1817528",
+                "legacy_id": "121831",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Sagredo, Rufino. Flora de Almeria: Plantas Vasculares de la Pr. (1987) p 208",
+            "machine_name": "sagredo_rufino_flora_de_almeria_plantas_vasculares_de_la_pr_1987_p_208",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pinus_pinea",
+                "type": "species",
+                "archival_data": [
+                    "1425606"
+                ]
+            },
+            "volume": null,
+            "page": "p 208",
+            "year": "1987",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": true,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1817915",
+                "legacy_id": "121977",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Sagredo, Rufino. Flora de Almeria: Plantas Vasculares de la Pr. (1987) p 16",
+            "machine_name": "sagredo_rufino_flora_de_almeria_plantas_vasculares_de_la_pr_1987_p_16",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "quercus_ilex",
+                "type": "species",
+                "archival_data": [
+                    "1421708"
+                ]
+            },
+            "volume": null,
+            "page": "p 16",
+            "year": "1987",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1823338",
+                "legacy_id": "125979",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Sagredo, Rufino. Flora de Almeria: Plantas Vasculares de la Pr. (1987) p xxvi",
+            "machine_name": "sagredo_rufino_flora_de_almeria_plantas_vasculares_de_la_pr_1987_p_xxvi",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "sideritis_stachydioides",
+                "type": "species",
+                "archival_data": [
+                    "1429580"
+                ]
+            },
+            "volume": null,
+            "page": "p xxvi",
+            "year": "1987",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1826803",
+                "legacy_id": "133518",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Sagredo, Rufino. Flora de Almeria: Plantas Vasculares de la Pr. (1987) p 224",
+            "machine_name": "sagredo_rufino_flora_de_almeria_plantas_vasculares_de_la_pr_1987_p_224",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "simmondsia_chinensis",
+                "type": "species",
+                "archival_data": [
+                    "1429976"
+                ]
+            },
+            "volume": null,
+            "page": "p 224",
+            "year": "1987",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1827775",
+                "legacy_id": "133756",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Sagredo, Rufino. Flora de Almeria: Plantas Vasculares de la Pr. (1987) p 224",
+            "machine_name": "sagredo_rufino_flora_de_almeria_plantas_vasculares_de_la_pr_1987_p_224",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "tetraclinis_articulata",
+                "type": "species",
+                "archival_data": [
+                    "1429708"
+                ]
+            },
+            "volume": null,
+            "page": "p 224",
+            "year": "1987",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1834426",
+                "legacy_id": "136853",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Sagredo, Rufino. Flora de Almeria: Plantas Vasculares de la Pr. (1987) p 16",
+            "machine_name": "sagredo_rufino_flora_de_almeria_plantas_vasculares_de_la_pr_1987_p_16",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ulmus_minor",
+                "type": "species",
+                "archival_data": [
+                    "1428257"
+                ]
+            },
+            "volume": null,
+            "page": "p 16",
+            "year": "1987",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1834916",
+                "legacy_id": "139601",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Sagredo, Rufino. Flora de Almeria: Plantas Vasculares de la Pr. (1987) p 16",
+            "machine_name": "sagredo_rufino_flora_de_almeria_plantas_vasculares_de_la_pr_1987_p_16",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "castanea_sativa",
+                "type": "species",
+                "archival_data": [
+                    "1409286"
+                ]
+            },
+            "volume": null,
+            "page": "p 16",
+            "year": "1987",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1965247",
+                "legacy_id": "294417",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        }
+    ]
+}

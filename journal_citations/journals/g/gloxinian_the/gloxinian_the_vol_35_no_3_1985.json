@@ -1,0 +1,143 @@
+{
+    "name": "Gloxinian, The. vol 35, no. 3. (1985)",
+    "machine_name": "gloxinian_the_vol_35_no_3_1985",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1985",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2109899",
+        "legacy_id": "3115",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Gloxinian, The. vol 35, no. 3. (1985) p 19",
+            "machine_name": "gloxinian_the_vol_35_no_3_1985_p_19",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "aeschynanthus_cultivars_red_cascade",
+                "type": "variety",
+                "archival_data": [
+                    "1466403"
+                ]
+            },
+            "volume": null,
+            "page": "p 19",
+            "year": "1985",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1705788",
+                "legacy_id": "869",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Gloxinian, The. vol 35, no. 3. (1985) p cover",
+            "machine_name": "gloxinian_the_vol_35_no_3_1985_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "aeschynanthus_evrardii",
+                "type": "species",
+                "archival_data": [
+                    "1400193"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1985",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1764939",
+                "legacy_id": "69099",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Gloxinian, The. vol 35, no. 3. (1985) p 18",
+            "machine_name": "gloxinian_the_vol_35_no_3_1985_p_18",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "aeschynanthus_praelongus",
+                "type": "species",
+                "archival_data": [
+                    "1400505"
+                ]
+            },
+            "volume": null,
+            "page": "p 18",
+            "year": "1985",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1765204",
+                "legacy_id": "69114",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        }
+    ]
+}

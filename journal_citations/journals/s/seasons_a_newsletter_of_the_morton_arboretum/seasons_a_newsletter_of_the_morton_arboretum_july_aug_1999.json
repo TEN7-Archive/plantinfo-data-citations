@@ -1,0 +1,102 @@
+{
+    "name": "Seasons: A Newsletter of The Morton Arboretum. July\/Aug 1999.",
+    "machine_name": "seasons_a_newsletter_of_the_morton_arboretum_july_aug_1999",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1685586",
+        "legacy_id": "16229",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Seasons: A Newsletter of The Morton Arboretum. July\/Aug 1999. p 8-9",
+            "machine_name": "seasons_a_newsletter_of_the_morton_arboretum_july_aug_1999_p_8_9",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hosta_plantaginea",
+                "type": "species",
+                "archival_data": [
+                    "1420175"
+                ]
+            },
+            "volume": null,
+            "page": "p 8-9",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1875108",
+                "legacy_id": "197730",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Seasons: A Newsletter of The Morton Arboretum. July\/Aug 1999. p 13",
+            "machine_name": "seasons_a_newsletter_of_the_morton_arboretum_july_aug_1999_p_13",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "dodecatheon_meadia",
+                "type": "species",
+                "archival_data": [
+                    "1403528"
+                ]
+            },
+            "volume": null,
+            "page": "p 13",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1875109",
+                "legacy_id": "197731",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        }
+    ]
+}

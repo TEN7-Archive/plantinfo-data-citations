@@ -1,0 +1,143 @@
+{
+    "name": "Svensk Botanisk Tidskrift. vol 85, no. 2. (1991)",
+    "machine_name": "svensk_botanisk_tidskrift_vol_85_no_2_1991",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1991",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113411",
+        "legacy_id": "5729",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Svensk Botanisk Tidskrift. vol 85, no. 2. (1991) p 119, Pl. 2.",
+            "machine_name": "svensk_botanisk_tidskrift_vol_85_no_2_1991_p_119_pl_2",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "anemone_nemorosa",
+                "type": "species",
+                "archival_data": [
+                    "1399429"
+                ]
+            },
+            "volume": null,
+            "page": "p 119, Pl. 2.",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1764731",
+                "legacy_id": "71706",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Svensk Botanisk Tidskrift. vol 85, no. 2. (1991) p 79, Pl. 5.",
+            "machine_name": "svensk_botanisk_tidskrift_vol_85_no_2_1991_p_79_pl_5",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rhododendron_lapponicum",
+                "type": "species",
+                "archival_data": [
+                    "1431313"
+                ]
+            },
+            "volume": null,
+            "page": "p 79, Pl. 5.",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1820894",
+                "legacy_id": "127979",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Svensk Botanisk Tidskrift. vol 85, no. 2. (1991) p 123, Pl. 3.",
+            "machine_name": "svensk_botanisk_tidskrift_vol_85_no_2_1991_p_123_pl_3",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "viscum_album",
+                "type": "species",
+                "archival_data": [
+                    "1436924"
+                ]
+            },
+            "volume": null,
+            "page": "p 123, Pl. 3.",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1831167",
+                "legacy_id": "141374",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        }
+    ]
+}

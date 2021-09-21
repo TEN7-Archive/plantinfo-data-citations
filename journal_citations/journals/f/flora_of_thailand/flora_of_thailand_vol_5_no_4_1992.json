@@ -1,0 +1,553 @@
+{
+    "name": "Flora of Thailand. vol 5, no. 4. (1992)",
+    "machine_name": "flora_of_thailand_vol_5_no_4_1992",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1992",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2108730",
+        "legacy_id": "2586",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Flora of Thailand. vol 5, no. 4. (1992) p 470, Pl. XXVII(36)",
+            "machine_name": "flora_of_thailand_vol_5_no_4_1992_p_470_pl_xxvii_36",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "amaranthus_caudatus_viridis",
+                "type": "variety",
+                "archival_data": [
+                    "1466055"
+                ]
+            },
+            "volume": null,
+            "page": "p 470, Pl. XXVII(36)",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1702421",
+                "legacy_id": "1554",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Flora of Thailand. vol 5, no. 4. (1992) p 470, Pl. XXV(32)",
+            "machine_name": "flora_of_thailand_vol_5_no_4_1992_p_470_pl_xxv_32",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "alternanthera_pungens",
+                "type": "species",
+                "archival_data": [
+                    "1397897"
+                ]
+            },
+            "volume": null,
+            "page": "p 470, Pl. XXV(32)",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1766602",
+                "legacy_id": "70813",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Flora of Thailand. vol 5, no. 4. (1992) p 470, Pl. XXV(33)",
+            "machine_name": "flora_of_thailand_vol_5_no_4_1992_p_470_pl_xxv_33",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "alternanthera_sessilis",
+                "type": "species",
+                "archival_data": [
+                    "1397898"
+                ]
+            },
+            "volume": null,
+            "page": "p 470, Pl. XXV(33)",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1766606",
+                "legacy_id": "70817",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Flora of Thailand. vol 5, no. 4. (1992) p 470, Pl. XXVI(34)",
+            "machine_name": "flora_of_thailand_vol_5_no_4_1992_p_470_pl_xxvi_34",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "amaranthus_hybridus",
+                "type": "species",
+                "archival_data": [
+                    "1397946"
+                ]
+            },
+            "volume": null,
+            "page": "p 470, Pl. XXVI(34)",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1766962",
+                "legacy_id": "70931",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Flora of Thailand. vol 5, no. 4. (1992) p 470, Pl. XXVII(35)",
+            "machine_name": "flora_of_thailand_vol_5_no_4_1992_p_470_pl_xxvii_35",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "amaranthus_spinosus",
+                "type": "species",
+                "archival_data": [
+                    "1398243"
+                ]
+            },
+            "volume": null,
+            "page": "p 470, Pl. XXVII(35)",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1766982",
+                "legacy_id": "70959",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Flora of Thailand. vol 5, no. 4. (1992) p 470, Pl. XXVII(37)",
+            "machine_name": "flora_of_thailand_vol_5_no_4_1992_p_470_pl_xxvii_37",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "celosia_argentea",
+                "type": "species",
+                "archival_data": [
+                    "1404076"
+                ]
+            },
+            "volume": null,
+            "page": "p 470, Pl. XXVII(37)",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1778096",
+                "legacy_id": "80613",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Flora of Thailand. vol 5, no. 4. (1992) p 470, Pl. XXVIII(39-40)",
+            "machine_name": "flora_of_thailand_vol_5_no_4_1992_p_470_pl_xxviii_39_40",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "crypteronia_paniculata",
+                "type": "species",
+                "archival_data": [
+                    "1408411"
+                ]
+            },
+            "volume": null,
+            "page": "p 470, Pl. XXVIII(39-40)",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1783351",
+                "legacy_id": "86056",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Flora of Thailand. vol 5, no. 4. (1992) p cover|470, Pl. XXVIII(41)",
+            "machine_name": "flora_of_thailand_vol_5_no_4_1992_p_cover_470_pl_xxviii_41",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "duabanga_grandiflora",
+                "type": "species",
+                "archival_data": [
+                    "1406240"
+                ]
+            },
+            "volume": null,
+            "page": "p cover|470, Pl. XXVIII(41)",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1788429",
+                "legacy_id": "90777",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Flora of Thailand. vol 5, no. 4. (1992) p 470, Pl. XXVII(38)",
+            "machine_name": "flora_of_thailand_vol_5_no_4_1992_p_470_pl_xxvii_38",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "gomphrena_celosioides",
+                "type": "species",
+                "archival_data": [
+                    "1413029"
+                ]
+            },
+            "volume": null,
+            "page": "p 470, Pl. XXVII(38)",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1794676",
+                "legacy_id": "99857",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Flora of Thailand. vol 5, no. 4. (1992) p 470, Pl. XXIX(42-45)",
+            "machine_name": "flora_of_thailand_vol_5_no_4_1992_p_470_pl_xxix_42_45",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "sonneratia_alba",
+                "type": "species",
+                "archival_data": [
+                    "1431105"
+                ]
+            },
+            "volume": null,
+            "page": "p 470, Pl. XXIX(42-45)",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1830349",
+                "legacy_id": "134405",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Flora of Thailand. vol 5, no. 4. (1992) p 470, Pl. XXX(46-49)",
+            "machine_name": "flora_of_thailand_vol_5_no_4_1992_p_470_pl_xxx_46_49",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "sonneratia_caseolaris",
+                "type": "species",
+                "archival_data": [
+                    "1431106"
+                ]
+            },
+            "volume": null,
+            "page": "p 470, Pl. XXX(46-49)",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1830352",
+                "legacy_id": "134408",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Flora of Thailand. vol 5, no. 4. (1992) p 470, Pl. XXXI(50-53)",
+            "machine_name": "flora_of_thailand_vol_5_no_4_1992_p_470_pl_xxxi_50_53",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "sonneratia_griffithii",
+                "type": "species",
+                "archival_data": [
+                    "1431107"
+                ]
+            },
+            "volume": null,
+            "page": "p 470, Pl. XXXI(50-53)",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1830355",
+                "legacy_id": "134411",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Flora of Thailand. vol 5, no. 4. (1992) p 470, Pl. XXXII(54-55)",
+            "machine_name": "flora_of_thailand_vol_5_no_4_1992_p_470_pl_xxxii_54_55",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "sonneratia_ovata",
+                "type": "species",
+                "archival_data": [
+                    "1431108"
+                ]
+            },
+            "volume": null,
+            "page": "p 470, Pl. XXXII(54-55)",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1830356",
+                "legacy_id": "134412",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        }
+    ]
+}

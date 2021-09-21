@@ -1,0 +1,61 @@
+{
+    "name": "American Dahlia Society, Bulletin. vol 90, no. 3. (2003)",
+    "machine_name": "american_dahlia_society_bulletin_vol_90_no_3_2003",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2003",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2118250",
+        "legacy_id": "49610",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "American Dahlia Society, Bulletin. vol 90, no. 3. (2003) p backcover",
+            "machine_name": "american_dahlia_society_bulletin_vol_90_no_3_2003_p_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "dahlia_cultivars_proud_amy_k",
+                "type": "variety",
+                "archival_data": [
+                    "1582168"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1907899",
+                "legacy_id": "261678",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        }
+    ]
+}

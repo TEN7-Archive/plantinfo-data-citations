@@ -1,0 +1,143 @@
+{
+    "name": "Sunset. November 2000.",
+    "machine_name": "sunset_november_2000",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1684886",
+        "legacy_id": "28209",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Sunset. November 2000. p 85",
+            "machine_name": "sunset_november_2000_p_85",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_gertrude_jekyll",
+                "type": "variety",
+                "archival_data": [
+                    "1493371"
+                ]
+            },
+            "volume": null,
+            "page": "p 85",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1881462",
+                "legacy_id": "218872",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Sunset. November 2000. p 96",
+            "machine_name": "sunset_november_2000_p_96",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_sun_sprinkles",
+                "type": "variety",
+                "archival_data": [
+                    "1555291"
+                ]
+            },
+            "volume": null,
+            "page": "p 96",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1881463",
+                "legacy_id": "218873",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Sunset. November 2000. p 98-99",
+            "machine_name": "sunset_november_2000_p_98_99",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "narcissus_cultivars_king_alfred_series",
+                "type": "variety",
+                "archival_data": [
+                    "1519012"
+                ]
+            },
+            "volume": null,
+            "page": "p 98-99",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1881464",
+                "legacy_id": "218874",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        }
+    ]
+}

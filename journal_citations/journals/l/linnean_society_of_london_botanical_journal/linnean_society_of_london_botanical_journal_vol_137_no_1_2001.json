@@ -1,0 +1,143 @@
+{
+    "name": "Linnean Society of London, Botanical Journal. vol 137, no. 1. (2001)",
+    "machine_name": "linnean_society_of_london_botanical_journal_vol_137_no_1_2001",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2001",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2117185",
+        "legacy_id": "27789",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Linnean Society of London, Botanical Journal. vol 137, no. 1. (2001) p 103, Pl. 2.",
+            "machine_name": "linnean_society_of_london_botanical_journal_vol_137_no_1_2001_p_103_pl_2",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ceropegia_yemenensis",
+                "type": "species",
+                "archival_data": [
+                    "1449363"
+                ]
+            },
+            "volume": null,
+            "page": "p 103, Pl. 2.",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1885185",
+                "legacy_id": "218190",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Linnean Society of London, Botanical Journal. vol 137, no. 1. (2001) p 103, Pl. 3-4.",
+            "machine_name": "linnean_society_of_london_botanical_journal_vol_137_no_1_2001_p_103_pl_3_4",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ceropegia_arabica",
+                "type": "species",
+                "archival_data": [
+                    "1449361"
+                ]
+            },
+            "volume": null,
+            "page": "p 103, Pl. 3-4.",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1885186",
+                "legacy_id": "218191",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Linnean Society of London, Botanical Journal. vol 137, no. 1. (2001) p 103, Pl. 5.",
+            "machine_name": "linnean_society_of_london_botanical_journal_vol_137_no_1_2001_p_103_pl_5",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ceropegia_powysii",
+                "type": "species",
+                "archival_data": [
+                    "1449362"
+                ]
+            },
+            "volume": null,
+            "page": "p 103, Pl. 5.",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1885187",
+                "legacy_id": "218192",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        }
+    ]
+}

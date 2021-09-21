@@ -1,0 +1,102 @@
+{
+    "name": "Grower, The. vol 29, no. 4. (1996)",
+    "machine_name": "grower_the_vol_29_no_4_1996",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1996",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2112163",
+        "legacy_id": "3396",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grower, The. vol 29, no. 4. (1996) p 22",
+            "machine_name": "grower_the_vol_29_no_4_1996_p_22",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "malus_a_cultivars_lucky_rose",
+                "type": "variety",
+                "archival_data": [
+                    "1483825"
+                ]
+            },
+            "volume": null,
+            "page": "p 22",
+            "year": "1996",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1733539",
+                "legacy_id": "31241",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Grower, The. vol 29, no. 4. (1996) p 23",
+            "machine_name": "grower_the_vol_29_no_4_1996_p_23",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "malus_a_cultivars_cameo",
+                "type": "variety",
+                "archival_data": [
+                    "1478792"
+                ]
+            },
+            "volume": null,
+            "page": "p 23",
+            "year": "1996",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1737126",
+                "legacy_id": "30838",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        }
+    ]
+}

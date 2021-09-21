@@ -1,0 +1,102 @@
+{
+    "name": "Herb Companion, The. vol 21, no. 5. (2009)",
+    "machine_name": "herb_companion_the_vol_21_no_5_2009",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2009",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2121387",
+        "legacy_id": "102689",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Herb Companion, The. vol 21, no. 5. (2009) p 10",
+            "machine_name": "herb_companion_the_vol_21_no_5_2009_p_10",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "croton_lechleri",
+                "type": "species",
+                "archival_data": [
+                    "1439932"
+                ]
+            },
+            "volume": null,
+            "page": "p 10",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1983698",
+                "legacy_id": "395382",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Herb Companion, The. vol 21, no. 5. (2009) p 34",
+            "machine_name": "herb_companion_the_vol_21_no_5_2009_p_34",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "mentha_piperita",
+                "type": "species",
+                "archival_data": [
+                    "1419702"
+                ]
+            },
+            "volume": null,
+            "page": "p 34",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1983699",
+                "legacy_id": "395383",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        }
+    ]
+}

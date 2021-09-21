@@ -1,0 +1,61 @@
+{
+    "name": "Horticulture Week. vol 208, no. 22. (1990)",
+    "machine_name": "horticulture_week_vol_208_no_22_1990",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1990",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114123",
+        "legacy_id": "3784",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Horticulture Week. vol 208, no. 22. (1990) p 24",
+            "machine_name": "horticulture_week_vol_208_no_22_1990_p_24",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ginkgo_biloba",
+                "type": "species",
+                "archival_data": [
+                    "1411935"
+                ]
+            },
+            "volume": null,
+            "page": "p 24",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1797903",
+                "legacy_id": "99420",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        }
+    ]
+}

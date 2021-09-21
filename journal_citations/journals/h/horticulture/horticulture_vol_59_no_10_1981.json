@@ -1,0 +1,143 @@
+{
+    "name": "Horticulture. vol 59, no. 10. (1981)",
+    "machine_name": "horticulture_vol_59_no_10_1981",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1981",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": "7",
+    "description": null,
+    "archival_data": {
+        "id": "2522711",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1559464099"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Horticulture. vol 59, no. 10. (1981) p 42",
+            "machine_name": "horticulture_vol_59_no_10_1981_p_42",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "malus_toringoides",
+                "type": "species",
+                "archival_data": [
+                    "1437561"
+                ]
+            },
+            "volume": null,
+            "page": "p 42",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2522716",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1559464282"
+            }
+        },
+        {
+            "name": "Horticulture. vol 59, no. 10. (1981) p 43",
+            "machine_name": "horticulture_vol_59_no_10_1981_p_43",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "malus_ioensis_plena",
+                "type": "variety",
+                "archival_data": [
+                    "1477875"
+                ]
+            },
+            "volume": null,
+            "page": "p 43",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2522721",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1559464282"
+            }
+        },
+        {
+            "name": "Horticulture. vol 59, no. 10. (1981) p 43",
+            "machine_name": "horticulture_vol_59_no_10_1981_p_43",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "malus_c_cultivars_red_jade",
+                "type": "variety",
+                "archival_data": [
+                    "1485313"
+                ]
+            },
+            "volume": null,
+            "page": "p 43",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2522726",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1559464282"
+            }
+        }
+    ]
+}

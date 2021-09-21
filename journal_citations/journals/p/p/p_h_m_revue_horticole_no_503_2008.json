@@ -1,0 +1,102 @@
+{
+    "name": "P.H.M.-Revue Horticole. no. 503. (2008)",
+    "machine_name": "p_h_m_revue_horticole_no_503_2008",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2008",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2119235",
+        "legacy_id": "94971",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "P.H.M.-Revue Horticole. no. 503. (2008) p 28, Pl. 2",
+            "machine_name": "p_h_m_revue_horticole_no_503_2008_p_28_pl_2",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "quercus_palustris",
+                "type": "species",
+                "archival_data": [
+                    "1421746"
+                ]
+            },
+            "volume": null,
+            "page": "p 28, Pl. 2",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1926572",
+                "legacy_id": "374933",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "P.H.M.-Revue Horticole. no. 503. (2008) p 36-37",
+            "machine_name": "p_h_m_revue_horticole_no_503_2008_p_36_37",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "quercus_suber",
+                "type": "species",
+                "archival_data": [
+                    "1422046"
+                ]
+            },
+            "volume": null,
+            "page": "p 36-37",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": true,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1926573",
+                "legacy_id": "374934",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        }
+    ]
+}

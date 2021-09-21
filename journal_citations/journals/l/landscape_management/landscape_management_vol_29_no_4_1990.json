@@ -1,0 +1,61 @@
+{
+    "name": "Landscape Management. vol 29, no. 4. (1990)",
+    "machine_name": "landscape_management_vol_29_no_4_1990",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1990",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2112553",
+        "legacy_id": "4284",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Landscape Management. vol 29, no. 4. (1990) p 33 (Adv.)",
+            "machine_name": "landscape_management_vol_29_no_4_1990_p_33_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "poa_pratensis_classic",
+                "type": "variety",
+                "archival_data": [
+                    "1486614"
+                ]
+            },
+            "volume": null,
+            "page": "p 33 (Adv.)",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1741002",
+                "legacy_id": "39722",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483154438"
+            }
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "name": "Chrysanthemum, The. vol 69, no. 1. (2013)",
+    "machine_name": "chrysanthemum_the_vol_69_no_1_2013",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2013",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2123705",
+        "legacy_id": "121895",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Chrysanthemum, The. vol 69, no. 1. (2013) p cover",
+            "machine_name": "chrysanthemum_the_vol_69_no_1_2013_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "chrysanthemum_cultivars_alfred_salter",
+                "type": "variety",
+                "archival_data": [
+                    "1598972"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "2013",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2039469",
+                "legacy_id": "460804",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        }
+    ]
+}

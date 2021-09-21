@@ -1,0 +1,61 @@
+{
+    "name": "Nature. vol 448, no. 7157. (2007)",
+    "machine_name": "nature_vol_448_no_7157_2007",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2007",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2120266",
+        "legacy_id": "86329",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Nature. vol 448, no. 7157. (2007) p 994",
+            "machine_name": "nature_vol_448_no_7157_2007_p_994",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "elaeis_guineensis",
+                "type": "species",
+                "archival_data": [
+                    "1413165"
+                ]
+            },
+            "volume": null,
+            "page": "p 994",
+            "year": "2007",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1953483",
+                "legacy_id": "352272",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        }
+    ]
+}

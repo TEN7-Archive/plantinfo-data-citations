@@ -1,0 +1,102 @@
+{
+    "name": "Grounds Maintenance. vol 32, no. 2. (1997)",
+    "machine_name": "grounds_maintenance_vol_32_no_2_1997",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1997",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2118494",
+        "legacy_id": "51529",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grounds Maintenance. vol 32, no. 2. (1997) p G6",
+            "machine_name": "grounds_maintenance_vol_32_no_2_1997_p_g6",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pinus_densiflora",
+                "type": "species",
+                "archival_data": [
+                    "1425283"
+                ]
+            },
+            "volume": null,
+            "page": "p G6",
+            "year": "1997",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1912311",
+                "legacy_id": "265891",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Grounds Maintenance. vol 32, no. 2. (1997) p 45 (Adv.)",
+            "machine_name": "grounds_maintenance_vol_32_no_2_1997_p_45_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "festuca_elatior_turf_type",
+                "type": "variety",
+                "archival_data": [
+                    "1542835"
+                ]
+            },
+            "volume": null,
+            "page": "p 45 (Adv.)",
+            "year": "1997",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1912312",
+                "legacy_id": "265893",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        }
+    ]
+}

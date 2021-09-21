@@ -1,0 +1,102 @@
+{
+    "name": "Landscape Management. vol 29, no. 10. (1990)",
+    "machine_name": "landscape_management_vol_29_no_10_1990",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1990",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114606",
+        "legacy_id": "4280",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Landscape Management. vol 29, no. 10. (1990) p 50",
+            "machine_name": "landscape_management_vol_29_no_10_1990_p_50",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "verbena_rigida",
+                "type": "species",
+                "archival_data": [
+                    "1430209"
+                ]
+            },
+            "volume": null,
+            "page": "p 50",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1832725",
+                "legacy_id": "140387",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Landscape Management. vol 29, no. 10. (1990) p 50",
+            "machine_name": "landscape_management_vol_29_no_10_1990_p_50",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "verbena_tenuisecta",
+                "type": "species",
+                "archival_data": [
+                    "1430214"
+                ]
+            },
+            "volume": null,
+            "page": "p 50",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1832741",
+                "legacy_id": "140403",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        }
+    ]
+}

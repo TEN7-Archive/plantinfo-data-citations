@@ -1,0 +1,881 @@
+{
+    "name": "Herb Companion, The. vol 12, no. 3. (2000)",
+    "machine_name": "herb_companion_the_vol_12_no_3_2000",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2000",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2116166",
+        "legacy_id": "8073",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Herb Companion, The. vol 12, no. 3. (2000) p 16",
+            "machine_name": "herb_companion_the_vol_12_no_3_2000_p_16",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "primula_veris",
+                "type": "species",
+                "archival_data": [
+                    "1424584"
+                ]
+            },
+            "volume": null,
+            "page": "p 16",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1865342",
+                "legacy_id": "167972",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Herb Companion, The. vol 12, no. 3. (2000) p 25",
+            "machine_name": "herb_companion_the_vol_12_no_3_2000_p_25",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "juniperus_communis",
+                "type": "species",
+                "archival_data": [
+                    "1418814"
+                ]
+            },
+            "volume": null,
+            "page": "p 25",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1865343",
+                "legacy_id": "167973",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Herb Companion, The. vol 12, no. 3. (2000) p 25",
+            "machine_name": "herb_companion_the_vol_12_no_3_2000_p_25",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "theobroma_cacao",
+                "type": "species",
+                "archival_data": [
+                    "1430447"
+                ]
+            },
+            "volume": null,
+            "page": "p 25",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1865344",
+                "legacy_id": "167974",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Herb Companion, The. vol 12, no. 3. (2000) p 29",
+            "machine_name": "herb_companion_the_vol_12_no_3_2000_p_29",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ilex_paraguariensis",
+                "type": "species",
+                "archival_data": [
+                    "1416156"
+                ]
+            },
+            "volume": null,
+            "page": "p 29",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1865345",
+                "legacy_id": "167975",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Herb Companion, The. vol 12, no. 3. (2000) p 51",
+            "machine_name": "herb_companion_the_vol_12_no_3_2000_p_51",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosmarinus_cultivars_silver_spires",
+                "type": "variety",
+                "archival_data": [
+                    "1531910"
+                ]
+            },
+            "volume": null,
+            "page": "p 51",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1865346",
+                "legacy_id": "167976",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Herb Companion, The. vol 12, no. 3. (2000) p 51",
+            "machine_name": "herb_companion_the_vol_12_no_3_2000_p_51",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosmarinus_officinalis_majorca_pink",
+                "type": "variety",
+                "archival_data": [
+                    "1493550"
+                ]
+            },
+            "volume": null,
+            "page": "p 51",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1865347",
+                "legacy_id": "167977",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Herb Companion, The. vol 12, no. 3. (2000) p 51",
+            "machine_name": "herb_companion_the_vol_12_no_3_2000_p_51",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosmarinus_officinalis_arp",
+                "type": "variety",
+                "archival_data": [
+                    "1493536"
+                ]
+            },
+            "volume": null,
+            "page": "p 51",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1865348",
+                "legacy_id": "167978",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Herb Companion, The. vol 12, no. 3. (2000) p 51",
+            "machine_name": "herb_companion_the_vol_12_no_3_2000_p_51",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosmarinus_officinalis_gorizia",
+                "type": "variety",
+                "archival_data": [
+                    "1493543"
+                ]
+            },
+            "volume": null,
+            "page": "p 51",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1865349",
+                "legacy_id": "167979",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Herb Companion, The. vol 12, no. 3. (2000) p 51",
+            "machine_name": "herb_companion_the_vol_12_no_3_2000_p_51",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosmarinus_officinalis_herb_cottage",
+                "type": "variety",
+                "archival_data": [
+                    "1493544"
+                ]
+            },
+            "volume": null,
+            "page": "p 51",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1865350",
+                "legacy_id": "167980",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Herb Companion, The. vol 12, no. 3. (2000) p 51",
+            "machine_name": "herb_companion_the_vol_12_no_3_2000_p_51",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosmarinus_officinalis_tuscan_blue",
+                "type": "variety",
+                "archival_data": [
+                    "1493559"
+                ]
+            },
+            "volume": null,
+            "page": "p 51",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1865351",
+                "legacy_id": "167981",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Herb Companion, The. vol 12, no. 3. (2000) p 51",
+            "machine_name": "herb_companion_the_vol_12_no_3_2000_p_51",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosmarinus_officinalis_severn_sea",
+                "type": "variety",
+                "archival_data": [
+                    "1493556"
+                ]
+            },
+            "volume": null,
+            "page": "p 51",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1865352",
+                "legacy_id": "167982",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Herb Companion, The. vol 12, no. 3. (2000) p 51",
+            "machine_name": "herb_companion_the_vol_12_no_3_2000_p_51",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosmarinus_officinalis_golden_rain",
+                "type": "variety",
+                "archival_data": [
+                    "1523467"
+                ]
+            },
+            "volume": null,
+            "page": "p 51",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1865353",
+                "legacy_id": "167983",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Herb Companion, The. vol 12, no. 3. (2000) p 51",
+            "machine_name": "herb_companion_the_vol_12_no_3_2000_p_51",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosmarinus_officinalis_dancing_waters",
+                "type": "variety",
+                "archival_data": [
+                    "1493542"
+                ]
+            },
+            "volume": null,
+            "page": "p 51",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1865354",
+                "legacy_id": "167984",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Herb Companion, The. vol 12, no. 3. (2000) p 51",
+            "machine_name": "herb_companion_the_vol_12_no_3_2000_p_51",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosmarinus_officinalis_benenden_blue",
+                "type": "variety",
+                "archival_data": [
+                    "1493537"
+                ]
+            },
+            "volume": null,
+            "page": "p 51",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1865355",
+                "legacy_id": "167985",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Herb Companion, The. vol 12, no. 3. (2000) p 52",
+            "machine_name": "herb_companion_the_vol_12_no_3_2000_p_52",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosmarinus_officinalis",
+                "type": "species",
+                "archival_data": [
+                    "1428018"
+                ]
+            },
+            "volume": null,
+            "page": "p 52",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1865356",
+                "legacy_id": "167986",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Herb Companion, The. vol 12, no. 3. (2000) p 55",
+            "machine_name": "herb_companion_the_vol_12_no_3_2000_p_55",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "achillea_cultivars_coronation_gold",
+                "type": "variety",
+                "archival_data": [
+                    "1463668"
+                ]
+            },
+            "volume": null,
+            "page": "p 55",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1865357",
+                "legacy_id": "167987",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Herb Companion, The. vol 12, no. 3. (2000) p 57",
+            "machine_name": "herb_companion_the_vol_12_no_3_2000_p_57",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lunaria_annua",
+                "type": "species",
+                "archival_data": [
+                    "1420031"
+                ]
+            },
+            "volume": null,
+            "page": "p 57",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1865358",
+                "legacy_id": "167988",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Herb Companion, The. vol 12, no. 3. (2000) p 71",
+            "machine_name": "herb_companion_the_vol_12_no_3_2000_p_71",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "thymus_vulgaris",
+                "type": "species",
+                "archival_data": [
+                    "1430876"
+                ]
+            },
+            "volume": null,
+            "page": "p 71",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1865359",
+                "legacy_id": "167989",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Herb Companion, The. vol 12, no. 3. (2000) p 73",
+            "machine_name": "herb_companion_the_vol_12_no_3_2000_p_73",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "althaea_officinalis",
+                "type": "species",
+                "archival_data": [
+                    "1397901"
+                ]
+            },
+            "volume": null,
+            "page": "p 73",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1865360",
+                "legacy_id": "167990",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Herb Companion, The. vol 12, no. 3. (2000) p 74",
+            "machine_name": "herb_companion_the_vol_12_no_3_2000_p_74",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "foeniculum_vulgare",
+                "type": "species",
+                "archival_data": [
+                    "1413724"
+                ]
+            },
+            "volume": null,
+            "page": "p 74",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1865361",
+                "legacy_id": "167991",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Herb Companion, The. vol 12, no. 3. (2000) p 75",
+            "machine_name": "herb_companion_the_vol_12_no_3_2000_p_75",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "oenothera_biennis",
+                "type": "species",
+                "archival_data": [
+                    "1426165"
+                ]
+            },
+            "volume": null,
+            "page": "p 75",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1865362",
+                "legacy_id": "167992",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        }
+    ]
+}

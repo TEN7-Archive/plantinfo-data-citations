@@ -1,0 +1,184 @@
+{
+    "name": "Audubon. vol 101, no. 3. (1999)",
+    "machine_name": "audubon_vol_101_no_3_1999",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1999",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2115574",
+        "legacy_id": "7397",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Audubon. vol 101, no. 3. (1999) p 72",
+            "machine_name": "audubon_vol_101_no_3_1999_p_72",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "euphorbia_esula",
+                "type": "species",
+                "archival_data": [
+                    "1410332"
+                ]
+            },
+            "volume": null,
+            "page": "p 72",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": true,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1853526",
+                "legacy_id": "159889",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Audubon. vol 101, no. 3. (1999) p 74",
+            "machine_name": "audubon_vol_101_no_3_1999_p_74",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pueraria_lobata",
+                "type": "species",
+                "archival_data": [
+                    "1426504"
+                ]
+            },
+            "volume": null,
+            "page": "p 74",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1853527",
+                "legacy_id": "159890",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Audubon. vol 101, no. 3. (1999) p 75",
+            "machine_name": "audubon_vol_101_no_3_1999_p_75",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lygodium_microphyllum",
+                "type": "species",
+                "archival_data": [
+                    "1441900"
+                ]
+            },
+            "volume": null,
+            "page": "p 75",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1853528",
+                "legacy_id": "159891",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Audubon. vol 101, no. 3. (1999) p 76",
+            "machine_name": "audubon_vol_101_no_3_1999_p_76",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lythrum_salicaria",
+                "type": "species",
+                "archival_data": [
+                    "1420804"
+                ]
+            },
+            "volume": null,
+            "page": "p 76",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": true,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1853529",
+                "legacy_id": "159892",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        }
+    ]
+}

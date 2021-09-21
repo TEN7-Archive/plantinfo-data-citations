@@ -1,0 +1,61 @@
+{
+    "name": "Grounds Maintenance. vol 41, no. 2. (2006)",
+    "machine_name": "grounds_maintenance_vol_41_no_2_2006",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2006",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2119643",
+        "legacy_id": "70810",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grounds Maintenance. vol 41, no. 2. (2006) p 7 (Adv.)",
+            "machine_name": "grounds_maintenance_vol_41_no_2_2006_p_7_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "poa_annua",
+                "type": "species",
+                "archival_data": [
+                    "1427088"
+                ]
+            },
+            "volume": null,
+            "page": "p 7 (Adv.)",
+            "year": "2006",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1936415",
+                "legacy_id": "314730",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        }
+    ]
+}

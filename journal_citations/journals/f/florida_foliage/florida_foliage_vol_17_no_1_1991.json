@@ -1,0 +1,102 @@
+{
+    "name": "Florida Foliage. vol 17, no. 1. (1991)",
+    "machine_name": "florida_foliage_vol_17_no_1_1991",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1991",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2109042",
+        "legacy_id": "2611",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Florida Foliage. vol 17, no. 1. (1991) p backcover (Adv.)",
+            "machine_name": "florida_foliage_vol_17_no_1_1991_p_backcover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "anthurium_cultivars_lady_jane",
+                "type": "variety",
+                "archival_data": [
+                    "1466753"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover (Adv.)",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1702949",
+                "legacy_id": "1914",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Florida Foliage. vol 17, no. 1. (1991) p 8",
+            "machine_name": "florida_foliage_vol_17_no_1_1991_p_8",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "croton_cultivars_petra",
+                "type": "variety",
+                "archival_data": [
+                    "1467406"
+                ]
+            },
+            "volume": null,
+            "page": "p 8",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1707823",
+                "legacy_id": "9188",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        }
+    ]
+}

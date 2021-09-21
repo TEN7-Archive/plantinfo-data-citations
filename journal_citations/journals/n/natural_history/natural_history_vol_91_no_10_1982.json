@@ -1,0 +1,102 @@
+{
+    "name": "Natural History. vol 91, no. 10. (1982)",
+    "machine_name": "natural_history_vol_91_no_10_1982",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1982",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114536",
+        "legacy_id": "4658",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Natural History. vol 91, no. 10. (1982) p 54-55",
+            "machine_name": "natural_history_vol_91_no_10_1982_p_54_55",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "sequoia_sempervirens",
+                "type": "species",
+                "archival_data": [
+                    "1428874"
+                ]
+            },
+            "volume": null,
+            "page": "p 54-55",
+            "year": "1982",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": true,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1825788",
+                "legacy_id": "133230",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Natural History. vol 91, no. 10. (1982) p 58",
+            "machine_name": "natural_history_vol_91_no_10_1982_p_58",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "thuja_plicata",
+                "type": "species",
+                "archival_data": [
+                    "1430813"
+                ]
+            },
+            "volume": null,
+            "page": "p 58",
+            "year": "1982",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1830973",
+                "legacy_id": "137311",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        }
+    ]
+}

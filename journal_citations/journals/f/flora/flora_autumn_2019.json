@@ -1,0 +1,225 @@
+{
+    "name": "Flora. Autumn 2019.",
+    "machine_name": "flora_autumn_2019",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": "7",
+    "description": null,
+    "archival_data": {
+        "id": "2561386",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1569088194"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Flora. Autumn 2019.  p 24",
+            "machine_name": "flora_autumn_2019_p_24",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "euonymus_europaeus",
+                "type": "species",
+                "archival_data": [
+                    "1415592"
+                ]
+            },
+            "volume": null,
+            "page": "p 24",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2561391",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1569088498"
+            }
+        },
+        {
+            "name": "Flora. Autumn 2019.  p 25",
+            "machine_name": "flora_autumn_2019_p_25",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "fagus_sylvatica",
+                "type": "species",
+                "archival_data": [
+                    "1412575"
+                ]
+            },
+            "volume": null,
+            "page": "p 25",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2561396",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1569088498"
+            }
+        },
+        {
+            "name": "Flora. Autumn 2019.  p 25",
+            "machine_name": "flora_autumn_2019_p_25",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lunaria_annua",
+                "type": "species",
+                "archival_data": [
+                    "1420031"
+                ]
+            },
+            "volume": null,
+            "page": "p 25",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2561401",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1569088498"
+            }
+        },
+        {
+            "name": "Flora. Autumn 2019.  p 25",
+            "machine_name": "flora_autumn_2019_p_25",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "dipsacus_fullonum",
+                "type": "species",
+                "archival_data": [
+                    "1409251"
+                ]
+            },
+            "volume": null,
+            "page": "p 25",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2561406",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1569088498"
+            }
+        },
+        {
+            "name": "Flora. Autumn 2019.  p 40",
+            "machine_name": "flora_autumn_2019_p_40",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "helianthus_annuus_teddy_bear",
+                "type": "variety",
+                "archival_data": [
+                    "1474716"
+                ]
+            },
+            "volume": null,
+            "page": "p 40",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2561411",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1569088498"
+            }
+        }
+    ]
+}

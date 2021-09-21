@@ -1,0 +1,225 @@
+{
+    "name": "P.H.M.-Revue Horticole. no. 505. (2008)",
+    "machine_name": "p_h_m_revue_horticole_no_505_2008",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2008",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2121482",
+        "legacy_id": "96689",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "P.H.M.-Revue Horticole. no. 505. (2008) p 18, Pl. 3",
+            "machine_name": "p_h_m_revue_horticole_no_505_2008_p_18_pl_3",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "craspedia_globosa",
+                "type": "species",
+                "archival_data": [
+                    "1407167"
+                ]
+            },
+            "volume": null,
+            "page": "p 18, Pl. 3",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1986823",
+                "legacy_id": "380433",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "P.H.M.-Revue Horticole. no. 505. (2008) p 17, Pl. 1",
+            "machine_name": "p_h_m_revue_horticole_no_505_2008_p_17_pl_1",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "brachychiton_bidwillii",
+                "type": "species",
+                "archival_data": [
+                    "1402701"
+                ]
+            },
+            "volume": null,
+            "page": "p 17, Pl. 1",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": true,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": true,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1988926",
+                "legacy_id": "379572",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "P.H.M.-Revue Horticole. no. 505. (2008) p 18, Pl. 2",
+            "machine_name": "p_h_m_revue_horticole_no_505_2008_p_18_pl_2",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "berkheya_purpurea",
+                "type": "species",
+                "archival_data": [
+                    "1401149"
+                ]
+            },
+            "volume": null,
+            "page": "p 18, Pl. 2",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1988927",
+                "legacy_id": "379573",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "P.H.M.-Revue Horticole. no. 505. (2008) p 32-33",
+            "machine_name": "p_h_m_revue_horticole_no_505_2008_p_32_33",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rhaphiolepis_umbellata",
+                "type": "species",
+                "archival_data": [
+                    "1424386"
+                ]
+            },
+            "volume": null,
+            "page": "p 32-33",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1988928",
+                "legacy_id": "379574",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "P.H.M.-Revue Horticole. no. 505. (2008) p 32",
+            "machine_name": "p_h_m_revue_horticole_no_505_2008_p_32",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rhaphiolepis_indica_springtime",
+                "type": "variety",
+                "archival_data": [
+                    "1486947"
+                ]
+            },
+            "volume": null,
+            "page": "p 32",
+            "year": "2008",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1988929",
+                "legacy_id": "379575",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        }
+    ]
+}

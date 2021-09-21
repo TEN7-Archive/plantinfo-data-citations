@@ -1,0 +1,102 @@
+{
+    "name": "P.H.M.-Revue Horticole. no. 445. (2003)",
+    "machine_name": "p_h_m_revue_horticole_no_445_2003",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2003",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2118365",
+        "legacy_id": "47829",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "P.H.M.-Revue Horticole. no. 445. (2003) p 31 (Adv.)",
+            "machine_name": "p_h_m_revue_horticole_no_445_2003_p_31_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "fragaria_ananassa_mara_des_bois",
+                "type": "variety",
+                "archival_data": [
+                    "1573131"
+                ]
+            },
+            "volume": null,
+            "page": "p 31 (Adv.)",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1910177",
+                "legacy_id": "257182",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "P.H.M.-Revue Horticole. no. 445. (2003) p 32",
+            "machine_name": "p_h_m_revue_horticole_no_445_2003_p_32",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "fragaria_ananassa_darselect",
+                "type": "variety",
+                "archival_data": [
+                    "1529025"
+                ]
+            },
+            "volume": null,
+            "page": "p 32",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1910178",
+                "legacy_id": "257183",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        }
+    ]
+}

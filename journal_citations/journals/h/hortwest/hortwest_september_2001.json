@@ -1,0 +1,61 @@
+{
+    "name": "HortWest. September 2001.",
+    "machine_name": "hortwest_september_2001",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1684858",
+        "legacy_id": "27851",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "HortWest. September 2001. p 15",
+            "machine_name": "hortwest_september_2001_p_15",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rudbeckia_hirta_cherokee_sunset",
+                "type": "variety",
+                "archival_data": [
+                    "1561636"
+                ]
+            },
+            "volume": null,
+            "page": "p 15",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1885486",
+                "legacy_id": "218303",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        }
+    ]
+}

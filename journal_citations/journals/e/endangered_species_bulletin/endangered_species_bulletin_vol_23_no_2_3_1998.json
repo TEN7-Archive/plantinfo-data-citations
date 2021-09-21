@@ -1,0 +1,184 @@
+{
+    "name": "Endangered Species Bulletin. vol 23, no. 2-3. (1998)",
+    "machine_name": "endangered_species_bulletin_vol_23_no_2_3_1998",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1998",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114685",
+        "legacy_id": "6253",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Endangered Species Bulletin. vol 23, no. 2-3. (1998) p 37",
+            "machine_name": "endangered_species_bulletin_vol_23_no_2_3_1998_p_37",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "amaranthus_pumilus",
+                "type": "species",
+                "archival_data": [
+                    "1439641"
+                ]
+            },
+            "volume": null,
+            "page": "p 37",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1836694",
+                "legacy_id": "146751",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Endangered Species Bulletin. vol 23, no. 2-3. (1998) p 9",
+            "machine_name": "endangered_species_bulletin_vol_23_no_2_3_1998_p_9",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pediocactus_knowltonii",
+                "type": "species",
+                "archival_data": [
+                    "1426626"
+                ]
+            },
+            "volume": null,
+            "page": "p 9",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1838792",
+                "legacy_id": "145917",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Endangered Species Bulletin. vol 23, no. 2-3. (1998) p 21-22;25",
+            "machine_name": "endangered_species_bulletin_vol_23_no_2_3_1998_p_21_22_25",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "argyroxiphium_sandwicense_sandwicense",
+                "type": "variety",
+                "archival_data": [
+                    "1535487"
+                ]
+            },
+            "volume": null,
+            "page": "p 21-22;25",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": true,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1838793",
+                "legacy_id": "145918",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Endangered Species Bulletin. vol 23, no. 2-3. (1998) p 42",
+            "machine_name": "endangered_species_bulletin_vol_23_no_2_3_1998_p_42",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "erigeron_decumbens",
+                "type": "species",
+                "archival_data": [
+                    "1411731"
+                ]
+            },
+            "volume": null,
+            "page": "p 42",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1838794",
+                "legacy_id": "145919",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        }
+    ]
+}

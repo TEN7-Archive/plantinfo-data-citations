@@ -1,0 +1,102 @@
+{
+    "name": "American Dahlia Society, Bulletin. vol 104, no. 2. (2017)",
+    "machine_name": "american_dahlia_society_bulletin_vol_104_no_2_2017",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2017",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": "7",
+    "description": null,
+    "archival_data": {
+        "id": "2210071",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1516477697"
+    },
+    "citation_reference_items": [
+        {
+            "name": "American Dahlia Society, Bulletin. vol 104, no. 2. (2017) p inside cover",
+            "machine_name": "american_dahlia_society_bulletin_vol_104_no_2_2017_p_inside_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "dahlia_cultivars_mercella_louise",
+                "type": "variety",
+                "archival_data": [
+                    "2210076"
+                ]
+            },
+            "volume": null,
+            "page": "p inside cover",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2210081",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1516477838"
+            }
+        },
+        {
+            "name": "American Dahlia Society, Bulletin. vol 104, no. 2. (2017) p inside backcover",
+            "machine_name": "american_dahlia_society_bulletin_vol_104_no_2_2017_p_inside_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "dahlia_cultivars_ac_cj",
+                "type": "variety",
+                "archival_data": [
+                    "1653949"
+                ]
+            },
+            "volume": null,
+            "page": "p inside backcover",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2210086",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1516477838"
+            }
+        }
+    ]
+}

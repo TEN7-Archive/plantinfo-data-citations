@@ -1,0 +1,143 @@
+{
+    "name": "Daffodil Journal, The. vol 21, no. 4. (1985)",
+    "machine_name": "daffodil_journal_the_vol_21_no_4_1985",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1985",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2112102",
+        "legacy_id": "2049",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Daffodil Journal, The. vol 21, no. 4. (1985) p 252",
+            "machine_name": "daffodil_journal_the_vol_21_no_4_1985_p_252",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "narcissus_cantabricus_petunioides",
+                "type": "variety",
+                "archival_data": [
+                    "1484800"
+                ]
+            },
+            "volume": null,
+            "page": "p 252",
+            "year": "1985",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1732712",
+                "legacy_id": "33657",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Daffodil Journal, The. vol 21, no. 4. (1985) p 198",
+            "machine_name": "daffodil_journal_the_vol_21_no_4_1985_p_198",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "narcissus_cultivars_little_soldier",
+                "type": "variety",
+                "archival_data": [
+                    "1483625"
+                ]
+            },
+            "volume": null,
+            "page": "p 198",
+            "year": "1985",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1735961",
+                "legacy_id": "33164",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Daffodil Journal, The. vol 21, no. 4. (1985) p 253",
+            "machine_name": "daffodil_journal_the_vol_21_no_4_1985_p_253",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "narcissus_assoanus",
+                "type": "species",
+                "archival_data": [
+                    "1416438"
+                ]
+            },
+            "volume": null,
+            "page": "p 253",
+            "year": "1985",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1805670",
+                "legacy_id": "114756",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        }
+    ]
+}

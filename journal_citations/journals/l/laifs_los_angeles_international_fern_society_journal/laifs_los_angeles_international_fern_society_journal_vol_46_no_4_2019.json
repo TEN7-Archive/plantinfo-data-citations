@@ -1,0 +1,102 @@
+{
+    "name": "LAIFS: Los Angeles International Fern Society, Journal. vol 46, no. 4. (2019)",
+    "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_46_no_4_2019",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2019",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": "7",
+    "description": null,
+    "archival_data": {
+        "id": "2603871",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1581605292"
+    },
+    "citation_reference_items": [
+        {
+            "name": "LAIFS: Los Angeles International Fern Society, Journal. vol 46, no. 4. (2019)  p cover; 92-93; 95",
+            "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_46_no_4_2019_p_cover_92_93_95",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "davallia_fejeensis",
+                "type": "species",
+                "archival_data": [
+                    "1440485"
+                ]
+            },
+            "volume": null,
+            "page": "p cover; 92-93; 95",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2603876",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1581605466"
+            }
+        },
+        {
+            "name": "LAIFS: Los Angeles International Fern Society, Journal. vol 46, no. 4. (2019)  p 119",
+            "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_46_no_4_2019_p_119",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "begonia_cultivars_buttercup",
+                "type": "variety",
+                "archival_data": [
+                    "1464325"
+                ]
+            },
+            "volume": null,
+            "page": "p 119",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2603881",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1581605466"
+            }
+        }
+    ]
+}

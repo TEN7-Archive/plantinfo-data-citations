@@ -1,0 +1,307 @@
+{
+    "name": "Svensk Botanisk Tidskrift. vol 83, no. 3. (1989)",
+    "machine_name": "svensk_botanisk_tidskrift_vol_83_no_3_1989",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1989",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2112739",
+        "legacy_id": "5725",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Svensk Botanisk Tidskrift. vol 83, no. 3. (1989) p 139, Pl. 2d",
+            "machine_name": "svensk_botanisk_tidskrift_vol_83_no_3_1989_p_139_pl_2d",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_alba_maxima",
+                "type": "variety",
+                "archival_data": [
+                    "1488886"
+                ]
+            },
+            "volume": null,
+            "page": "p 139, Pl. 2d",
+            "year": "1989",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1743926",
+                "legacy_id": "44398",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483154438"
+            }
+        },
+        {
+            "name": "Svensk Botanisk Tidskrift. vol 83, no. 3. (1989) p 139, Pl. 2a-b",
+            "machine_name": "svensk_botanisk_tidskrift_vol_83_no_3_1989_p_139_pl_2a_b",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_gallica_officinalis",
+                "type": "variety",
+                "archival_data": [
+                    "1493252"
+                ]
+            },
+            "volume": null,
+            "page": "p 139, Pl. 2a-b",
+            "year": "1989",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1745315",
+                "legacy_id": "44799",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483154438"
+            }
+        },
+        {
+            "name": "Svensk Botanisk Tidskrift. vol 83, no. 3. (1989) p 139, Pl. 2c",
+            "machine_name": "svensk_botanisk_tidskrift_vol_83_no_3_1989_p_139_pl_2c",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_rosa_mundi",
+                "type": "variety",
+                "archival_data": [
+                    "1494639"
+                ]
+            },
+            "volume": null,
+            "page": "p 139, Pl. 2c",
+            "year": "1989",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1753733",
+                "legacy_id": "52316",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483154438"
+            }
+        },
+        {
+            "name": "Svensk Botanisk Tidskrift. vol 83, no. 3. (1989) p cover",
+            "machine_name": "svensk_botanisk_tidskrift_vol_83_no_3_1989_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lathyrus_heterophyllus",
+                "type": "species",
+                "archival_data": [
+                    "1421083"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1989",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1803551",
+                "legacy_id": "107482",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Svensk Botanisk Tidskrift. vol 83, no. 3. (1989) p cover",
+            "machine_name": "svensk_botanisk_tidskrift_vol_83_no_3_1989_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lathyrus_sylvestris",
+                "type": "species",
+                "archival_data": [
+                    "1421397"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1989",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1803888",
+                "legacy_id": "107572",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Svensk Botanisk Tidskrift. vol 83, no. 3. (1989) p 151, Pl. 1",
+            "machine_name": "svensk_botanisk_tidskrift_vol_83_no_3_1989_p_151_pl_1",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "peucedanum_ostruthium",
+                "type": "species",
+                "archival_data": [
+                    "1422630"
+                ]
+            },
+            "volume": null,
+            "page": "p 151, Pl. 1",
+            "year": "1989",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1812228",
+                "legacy_id": "120327",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Svensk Botanisk Tidskrift. vol 83, no. 3. (1989) p 142, Pl. 2",
+            "machine_name": "svensk_botanisk_tidskrift_vol_83_no_3_1989_p_142_pl_2",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "utricularia_ochroleuca",
+                "type": "species",
+                "archival_data": [
+                    "1428629"
+                ]
+            },
+            "volume": null,
+            "page": "p 142, Pl. 2",
+            "year": "1989",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1835588",
+                "legacy_id": "139792",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        }
+    ]
+}

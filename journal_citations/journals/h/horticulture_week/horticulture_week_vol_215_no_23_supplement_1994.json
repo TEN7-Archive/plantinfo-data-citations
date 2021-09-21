@@ -1,0 +1,102 @@
+{
+    "name": "Horticulture Week. vol 215, no. 23 (supplement). (1994)",
+    "machine_name": "horticulture_week_vol_215_no_23_supplement_1994",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1994",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113316",
+        "legacy_id": "3871",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Horticulture Week. vol 215, no. 23 (supplement). (1994) p inside backcover (Adv.)",
+            "machine_name": "horticulture_week_vol_215_no_23_supplement_1994_p_inside_backcover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "viola_wittrockiana_skyline_series",
+                "type": "variety",
+                "archival_data": [
+                    "1500004"
+                ]
+            },
+            "volume": null,
+            "page": "p inside backcover (Adv.)",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1763011",
+                "legacy_id": "59968",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Horticulture Week. vol 215, no. 23 (supplement). (1994) p inside cover (Adv.)",
+            "machine_name": "horticulture_week_vol_215_no_23_supplement_1994_p_inside_cover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "viola_wittrockiana_turbo_series",
+                "type": "variety",
+                "archival_data": [
+                    "1500010"
+                ]
+            },
+            "volume": null,
+            "page": "p inside cover (Adv.)",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1763290",
+                "legacy_id": "59999",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        }
+    ]
+}

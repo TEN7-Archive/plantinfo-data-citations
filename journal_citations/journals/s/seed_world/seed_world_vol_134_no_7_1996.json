@@ -1,0 +1,61 @@
+{
+    "name": "Seed World. vol 134, no. 7. (1996)",
+    "machine_name": "seed_world_vol_134_no_7_1996",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1996",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113352",
+        "legacy_id": "5481",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Seed World. vol 134, no. 7. (1996) p 33",
+            "machine_name": "seed_world_vol_134_no_7_1996_p_33",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "tagetes_cultivars_troubadour_series",
+                "type": "variety",
+                "archival_data": [
+                    "1491013"
+                ]
+            },
+            "volume": null,
+            "page": "p 33",
+            "year": "1996",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1763837",
+                "legacy_id": "57570",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        }
+    ]
+}

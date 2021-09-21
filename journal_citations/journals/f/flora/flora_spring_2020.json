@@ -1,0 +1,799 @@
+{
+    "name": "Flora. Spring 2020.",
+    "machine_name": "flora_spring_2020",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": "7",
+    "description": null,
+    "archival_data": {
+        "id": "2611161",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1584018126"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Flora. Spring 2020.  p 8-9",
+            "machine_name": "flora_spring_2020_p_8_9",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "phlebodium_aureum",
+                "type": "species",
+                "archival_data": [
+                    "1457535"
+                ]
+            },
+            "volume": null,
+            "page": "p 8-9",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2611191",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1584019070"
+            }
+        },
+        {
+            "name": "Flora. Spring 2020.  p 12",
+            "machine_name": "flora_spring_2020_p_12",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "fritillaria_meleagris",
+                "type": "species",
+                "archival_data": [
+                    "1414470"
+                ]
+            },
+            "volume": null,
+            "page": "p 12",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2611196",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1584019070"
+            }
+        },
+        {
+            "name": "Flora. Spring 2020.  p 43",
+            "machine_name": "flora_spring_2020_p_43",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cananga_odorata",
+                "type": "species",
+                "archival_data": [
+                    "1407017"
+                ]
+            },
+            "volume": null,
+            "page": "p 43",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2611201",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1584019070"
+            }
+        },
+        {
+            "name": "Flora. Spring 2020.  p 43",
+            "machine_name": "flora_spring_2020_p_43",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "polianthes_tuberosa",
+                "type": "species",
+                "archival_data": [
+                    "1421955"
+                ]
+            },
+            "volume": null,
+            "page": "p 43",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2611206",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1584019070"
+            }
+        },
+        {
+            "name": "Flora. Spring 2020.  p 45",
+            "machine_name": "flora_spring_2020_p_45",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_sahara_sensation",
+                "type": "variety",
+                "archival_data": [
+                    "2611166"
+                ]
+            },
+            "volume": null,
+            "page": "p 45",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2611211",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1584019070"
+            }
+        },
+        {
+            "name": "Flora. Spring 2020.  p 50-51",
+            "machine_name": "flora_spring_2020_p_50_51",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "echeveria_cultivars_fabiola",
+                "type": "variety",
+                "archival_data": [
+                    "2611171"
+                ]
+            },
+            "volume": null,
+            "page": "p 50-51",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2611216",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1584019070"
+            }
+        },
+        {
+            "name": "Flora. Spring 2020.  p 50",
+            "machine_name": "flora_spring_2020_p_50",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "echeveria_cultivars_pearl_von_nurnberg",
+                "type": "variety",
+                "archival_data": [
+                    "2611176"
+                ]
+            },
+            "volume": null,
+            "page": "p 50",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2611221",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1584019070"
+            }
+        },
+        {
+            "name": "Flora. Spring 2020.  p 50",
+            "machine_name": "flora_spring_2020_p_50",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "echeveria_cultivars_zonnestraal",
+                "type": "variety",
+                "archival_data": [
+                    "2611181"
+                ]
+            },
+            "volume": null,
+            "page": "p 50",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2611226",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1584019070"
+            }
+        },
+        {
+            "name": "Flora. Spring 2020.  p 50",
+            "machine_name": "flora_spring_2020_p_50",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "aeonium_cultivars_kiwi",
+                "type": "variety",
+                "archival_data": [
+                    "1565784"
+                ]
+            },
+            "volume": null,
+            "page": "p 50",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2611231",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1584019070"
+            }
+        },
+        {
+            "name": "Flora. Spring 2020.  p 51",
+            "machine_name": "flora_spring_2020_p_51",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "kalanchoe_cultivars_patridge",
+                "type": "variety",
+                "archival_data": [
+                    "2611186"
+                ]
+            },
+            "volume": null,
+            "page": "p 51",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2611236",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1584019070"
+            }
+        },
+        {
+            "name": "Flora. Spring 2020.  p 51",
+            "machine_name": "flora_spring_2020_p_51",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "kalanchoe_tomentosa",
+                "type": "species",
+                "archival_data": [
+                    "1419204"
+                ]
+            },
+            "volume": null,
+            "page": "p 51",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2611241",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1584019070"
+            }
+        },
+        {
+            "name": "Flora. Spring 2020.  p 51",
+            "machine_name": "flora_spring_2020_p_51",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rhipsalis_pilocarpa",
+                "type": "species",
+                "archival_data": [
+                    "1423615"
+                ]
+            },
+            "volume": null,
+            "page": "p 51",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2611246",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1584019070"
+            }
+        },
+        {
+            "name": "Flora. Spring 2020.  p 51",
+            "machine_name": "flora_spring_2020_p_51",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "crassula_argentea_sunset",
+                "type": "variety",
+                "archival_data": [
+                    "1566418"
+                ]
+            },
+            "volume": null,
+            "page": "p 51",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2611251",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1584019070"
+            }
+        },
+        {
+            "name": "Flora. Spring 2020.  p 58",
+            "machine_name": "flora_spring_2020_p_58",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pentaglottis_sempervirens",
+                "type": "species",
+                "archival_data": [
+                    "1427426"
+                ]
+            },
+            "volume": null,
+            "page": "p 58",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2611256",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1584019070"
+            }
+        },
+        {
+            "name": "Flora. Spring 2020.  p 60",
+            "machine_name": "flora_spring_2020_p_60",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "leucanthemum_vulgare",
+                "type": "species",
+                "archival_data": [
+                    "1416621"
+                ]
+            },
+            "volume": null,
+            "page": "p 60",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2611261",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1584019070"
+            }
+        },
+        {
+            "name": "Flora. Spring 2020.  p 60",
+            "machine_name": "flora_spring_2020_p_60",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "chamaenerion_angustifolium",
+                "type": "species",
+                "archival_data": [
+                    "1460800"
+                ]
+            },
+            "volume": null,
+            "page": "p 60",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2611266",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1584019070"
+            }
+        },
+        {
+            "name": "Flora. Spring 2020.  p 60",
+            "machine_name": "flora_spring_2020_p_60",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "geranium_robertianum",
+                "type": "species",
+                "archival_data": [
+                    "1411557"
+                ]
+            },
+            "volume": null,
+            "page": "p 60",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2611271",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1584019070"
+            }
+        },
+        {
+            "name": "Flora. Spring 2020.  p 60",
+            "machine_name": "flora_spring_2020_p_60",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lychnis_flos_cuculi",
+                "type": "species",
+                "archival_data": [
+                    "1420425"
+                ]
+            },
+            "volume": null,
+            "page": "p 60",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2611276",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1584019070"
+            }
+        },
+        {
+            "name": "Flora. Spring 2020.  p 60",
+            "machine_name": "flora_spring_2020_p_60",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "arum_italicum",
+                "type": "species",
+                "archival_data": [
+                    "1402621"
+                ]
+            },
+            "volume": null,
+            "page": "p 60",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2611281",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1584019070"
+            }
+        }
+    ]
+}

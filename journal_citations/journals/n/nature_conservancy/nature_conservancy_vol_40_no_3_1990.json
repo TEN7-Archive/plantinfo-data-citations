@@ -1,0 +1,102 @@
+{
+    "name": "Nature Conservancy. vol 40, no. 3. (1990)",
+    "machine_name": "nature_conservancy_vol_40_no_3_1990",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1990",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113778",
+        "legacy_id": "4729",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Nature Conservancy. vol 40, no. 3. (1990) p 26",
+            "machine_name": "nature_conservancy_vol_40_no_3_1990_p_26",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "castilleja_coccinea",
+                "type": "species",
+                "archival_data": [
+                    "1409304"
+                ]
+            },
+            "volume": null,
+            "page": "p 26",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1775784",
+                "legacy_id": "80022",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Nature Conservancy. vol 40, no. 3. (1990) p cover",
+            "machine_name": "nature_conservancy_vol_40_no_3_1990_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "echinacea_purpurea",
+                "type": "species",
+                "archival_data": [
+                    "1405525"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1785539",
+                "legacy_id": "91034",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        }
+    ]
+}

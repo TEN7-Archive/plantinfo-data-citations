@@ -1,0 +1,143 @@
+{
+    "name": "Endangered Species Bulletin. vol 35, no. 2. (2010)",
+    "machine_name": "endangered_species_bulletin_vol_35_no_2_2010",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2010",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2122479",
+        "legacy_id": "124937",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Endangered Species Bulletin. vol 35, no. 2. (2010) p 28",
+            "machine_name": "endangered_species_bulletin_vol_35_no_2_2010_p_28",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "damasonium_californicum",
+                "type": "species",
+                "archival_data": [
+                    "1404997"
+                ]
+            },
+            "volume": null,
+            "page": "p 28",
+            "year": "2010",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2005958",
+                "legacy_id": "478964",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "Endangered Species Bulletin. vol 35, no. 2. (2010) p 40",
+            "machine_name": "endangered_species_bulletin_vol_35_no_2_2010_p_40",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "charpentiera_densiflora",
+                "type": "species",
+                "archival_data": [
+                    "1461084"
+                ]
+            },
+            "volume": null,
+            "page": "p 40",
+            "year": "2010",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2005959",
+                "legacy_id": "478966",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "Endangered Species Bulletin. vol 35, no. 2. (2010) p 31",
+            "machine_name": "endangered_species_bulletin_vol_35_no_2_2010_p_31",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "downingia_insignis",
+                "type": "species",
+                "archival_data": [
+                    "1461152"
+                ]
+            },
+            "volume": null,
+            "page": "p 31",
+            "year": "2010",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2030563",
+                "legacy_id": "478965",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        }
+    ]
+}

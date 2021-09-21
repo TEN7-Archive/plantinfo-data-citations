@@ -1,0 +1,61 @@
+{
+    "name": "American Vegetable Grower. vol 41, no. 5. (1993)",
+    "machine_name": "american_vegetable_grower_vol_41_no_5_1993",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1993",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2117175",
+        "legacy_id": "30450",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "American Vegetable Grower. vol 41, no. 5. (1993) p backcover (Adv.)",
+            "machine_name": "american_vegetable_grower_vol_41_no_5_1993_p_backcover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "zea_c_cultivars_challenger",
+                "type": "variety",
+                "archival_data": [
+                    "1496356"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover (Adv.)",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1885013",
+                "legacy_id": "222430",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        }
+    ]
+}

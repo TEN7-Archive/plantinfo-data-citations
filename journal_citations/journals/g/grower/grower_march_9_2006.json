@@ -1,0 +1,143 @@
+{
+    "name": "Grower. March 9, 2006.",
+    "machine_name": "grower_march_9_2006",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1690876",
+        "legacy_id": "71311",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grower. March 9, 2006. p 15",
+            "machine_name": "grower_march_9_2006_p_15",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "petunia_cultivars_hulahoop_series",
+                "type": "variety",
+                "archival_data": [
+                    "1481533"
+                ]
+            },
+            "volume": null,
+            "page": "p 15",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1939913",
+                "legacy_id": "316012",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "Grower. March 9, 2006. p 15",
+            "machine_name": "grower_march_9_2006_p_15",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "viola_wittrockiana_power_series",
+                "type": "variety",
+                "archival_data": [
+                    "1566195"
+                ]
+            },
+            "volume": null,
+            "page": "p 15",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1939914",
+                "legacy_id": "316013",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "Grower. March 9, 2006. p 15",
+            "machine_name": "grower_march_9_2006_p_15",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "viola_cultivars_venus_series",
+                "type": "variety",
+                "archival_data": [
+                    "1601657"
+                ]
+            },
+            "volume": null,
+            "page": "p 15",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1939915",
+                "legacy_id": "316014",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        }
+    ]
+}

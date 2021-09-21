@@ -1,0 +1,143 @@
+{
+    "name": "Edinburgh Journal of Botany. vol 56, no. 1. (1999)",
+    "machine_name": "edinburgh_journal_of_botany_vol_56_no_1_1999",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1999",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2119395",
+        "legacy_id": "58975",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Edinburgh Journal of Botany. vol 56, no. 1. (1999) p 118, Pl. a",
+            "machine_name": "edinburgh_journal_of_botany_vol_56_no_1_1999_p_118_pl_a",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "colchicum_speciosum",
+                "type": "species",
+                "archival_data": [
+                    "1403717"
+                ]
+            },
+            "volume": null,
+            "page": "p 118, Pl. a",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1930974",
+                "legacy_id": "280030",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "Edinburgh Journal of Botany. vol 56, no. 1. (1999) p 118, Pl. b",
+            "machine_name": "edinburgh_journal_of_botany_vol_56_no_1_1999_p_118_pl_b",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "colchicum_cilicicum",
+                "type": "species",
+                "archival_data": [
+                    "1409468"
+                ]
+            },
+            "volume": null,
+            "page": "p 118, Pl. b",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1930975",
+                "legacy_id": "280031",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "Edinburgh Journal of Botany. vol 56, no. 1. (1999) p 118, Pl. c,e",
+            "machine_name": "edinburgh_journal_of_botany_vol_56_no_1_1999_p_118_pl_c_e",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "colchicum_davisii",
+                "type": "species",
+                "archival_data": [
+                    "1439997"
+                ]
+            },
+            "volume": null,
+            "page": "p 118, Pl. c,e",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1930976",
+                "legacy_id": "280032",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        }
+    ]
+}

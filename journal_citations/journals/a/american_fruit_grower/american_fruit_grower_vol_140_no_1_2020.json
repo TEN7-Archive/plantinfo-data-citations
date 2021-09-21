@@ -1,0 +1,102 @@
+{
+    "name": "American Fruit Grower. vol 140, no. 1. (2020)",
+    "machine_name": "american_fruit_grower_vol_140_no_1_2020",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2020",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": "7",
+    "description": null,
+    "archival_data": {
+        "id": "2596236",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1578921880"
+    },
+    "citation_reference_items": [
+        {
+            "name": "American Fruit Grower. vol 140, no. 1. (2020)  p 19 (Adv.)",
+            "machine_name": "american_fruit_grower_vol_140_no_1_2020_p_19_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "malus_a_cultivars_premier_honeycrisp",
+                "type": "variety",
+                "archival_data": [
+                    "1670434"
+                ]
+            },
+            "volume": null,
+            "page": "p 19 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2596241",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1578921999"
+            }
+        },
+        {
+            "name": "American Fruit Grower. vol 140, no. 1. (2020)  p backcover (Adv.)",
+            "machine_name": "american_fruit_grower_vol_140_no_1_2020_p_backcover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "malus_a_cultivars_honeycrisp",
+                "type": "variety",
+                "archival_data": [
+                    "1478493"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2596246",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1578921999"
+            }
+        }
+    ]
+}

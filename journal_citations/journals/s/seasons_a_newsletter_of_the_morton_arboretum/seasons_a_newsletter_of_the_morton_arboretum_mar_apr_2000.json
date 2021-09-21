@@ -1,0 +1,102 @@
+{
+    "name": "Seasons: A Newsletter of The Morton Arboretum. Mar\/Apr 2000.",
+    "machine_name": "seasons_a_newsletter_of_the_morton_arboretum_mar_apr_2000",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1679671",
+        "legacy_id": "11510",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Seasons: A Newsletter of The Morton Arboretum. Mar\/Apr 2000. p cover",
+            "machine_name": "seasons_a_newsletter_of_the_morton_arboretum_mar_apr_2000_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "magnolia_stellata",
+                "type": "species",
+                "archival_data": [
+                    "1421492"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1871085",
+                "legacy_id": "183110",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Seasons: A Newsletter of The Morton Arboretum. Mar\/Apr 2000. p 8-9",
+            "machine_name": "seasons_a_newsletter_of_the_morton_arboretum_mar_apr_2000_p_8_9",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "amelanchier_grandiflora",
+                "type": "species",
+                "archival_data": [
+                    "1398278"
+                ]
+            },
+            "volume": null,
+            "page": "p 8-9",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1871086",
+                "legacy_id": "183111",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        }
+    ]
+}

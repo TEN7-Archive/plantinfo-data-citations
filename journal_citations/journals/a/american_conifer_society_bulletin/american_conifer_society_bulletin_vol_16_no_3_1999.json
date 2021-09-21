@@ -1,0 +1,143 @@
+{
+    "name": "American Conifer Society, Bulletin. vol 16, no. 3. (1999)",
+    "machine_name": "american_conifer_society_bulletin_vol_16_no_3_1999",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1999",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2115807",
+        "legacy_id": "7668",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "American Conifer Society, Bulletin. vol 16, no. 3. (1999) p cover",
+            "machine_name": "american_conifer_society_bulletin_vol_16_no_3_1999_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "tsuga_canadensis_betty_rose",
+                "type": "variety",
+                "archival_data": [
+                    "1546051"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1857837",
+                "legacy_id": "163540",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "American Conifer Society, Bulletin. vol 16, no. 3. (1999) p inside cover",
+            "machine_name": "american_conifer_society_bulletin_vol_16_no_3_1999_p_inside_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pseudolarix_amabilis",
+                "type": "species",
+                "archival_data": [
+                    "1425716"
+                ]
+            },
+            "volume": null,
+            "page": "p inside cover",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1857838",
+                "legacy_id": "163541",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "American Conifer Society, Bulletin. vol 16, no. 3. (1999) p inside backcover",
+            "machine_name": "american_conifer_society_bulletin_vol_16_no_3_1999_p_inside_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pinus_densiflora_jane_kluis",
+                "type": "variety",
+                "archival_data": [
+                    "1521993"
+                ]
+            },
+            "volume": null,
+            "page": "p inside backcover",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1857839",
+                "legacy_id": "163542",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        }
+    ]
+}

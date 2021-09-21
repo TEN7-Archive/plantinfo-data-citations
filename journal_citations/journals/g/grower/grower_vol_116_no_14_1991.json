@@ -1,0 +1,61 @@
+{
+    "name": "Grower. vol 116, no. 14. (1991)",
+    "machine_name": "grower_vol_116_no_14_1991",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1991",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2110982",
+        "legacy_id": "3457",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grower. vol 116, no. 14. (1991) p backcover (Adv.)",
+            "machine_name": "grower_vol_116_no_14_1991_p_backcover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "dianthus_barbatus_barbarella",
+                "type": "variety",
+                "archival_data": [
+                    "1467886"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover (Adv.)",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1713102",
+                "legacy_id": "13050",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        }
+    ]
+}

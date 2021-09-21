@@ -1,0 +1,61 @@
+{
+    "name": "Smithsonian. vol 40, no. 8. (2009)",
+    "machine_name": "smithsonian_vol_40_no_8_2009",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2009",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2121978",
+        "legacy_id": "106009",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Smithsonian. vol 40, no. 8. (2009) p 6",
+            "machine_name": "smithsonian_vol_40_no_8_2009_p_6",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "artocarpus_altilis",
+                "type": "species",
+                "archival_data": [
+                    "1402607"
+                ]
+            },
+            "volume": null,
+            "page": "p 6",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1999554",
+                "legacy_id": "402892",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "name": "Horticulture Week. September 26, 2002.",
+    "machine_name": "horticulture_week_september_26_2002",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1684462",
+        "legacy_id": "44115",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Horticulture Week. September 26, 2002. p 8",
+            "machine_name": "horticulture_week_september_26_2002_p_8",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "passiflora_cultivars_eden",
+                "type": "variety",
+                "archival_data": [
+                    "1571360"
+                ]
+            },
+            "volume": null,
+            "page": "p 8",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1897363",
+                "legacy_id": "244975",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Horticulture Week. September 26, 2002. p 19",
+            "machine_name": "horticulture_week_september_26_2002_p_19",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "amelanchier_lamarckii",
+                "type": "species",
+                "archival_data": [
+                    "1398281"
+                ]
+            },
+            "volume": null,
+            "page": "p 19",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1897364",
+                "legacy_id": "244977",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Horticulture Week. September 26, 2002. p 19",
+            "machine_name": "horticulture_week_september_26_2002_p_19",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "stewartia_monadelpha",
+                "type": "species",
+                "archival_data": [
+                    "1433059"
+                ]
+            },
+            "volume": null,
+            "page": "p 19",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1897365",
+                "legacy_id": "244978",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        }
+    ]
+}

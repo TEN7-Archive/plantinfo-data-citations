@@ -1,0 +1,61 @@
+{
+    "name": "Grower. vol 135, no. 8. (2001)",
+    "machine_name": "grower_vol_135_no_8_2001",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2001",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2116916",
+        "legacy_id": "21091",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grower. vol 135, no. 8. (2001) p 15 (Adv.)",
+            "machine_name": "grower_vol_135_no_8_2001_p_15_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "dahlia_cultivars_sombrero_series",
+                "type": "variety",
+                "archival_data": [
+                    "1560077"
+                ]
+            },
+            "volume": null,
+            "page": "p 15 (Adv.)",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1880463",
+                "legacy_id": "206295",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        }
+    ]
+}

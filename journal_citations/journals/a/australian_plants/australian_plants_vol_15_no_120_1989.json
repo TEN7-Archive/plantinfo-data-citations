@@ -1,0 +1,717 @@
+{
+    "name": "Australian Plants. vol 15, no. 120. (1989)",
+    "machine_name": "australian_plants_vol_15_no_120_1989",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1989",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2111277",
+        "legacy_id": "1357",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Australian Plants. vol 15, no. 120. (1989) p 160",
+            "machine_name": "australian_plants_vol_15_no_120_1989_p_160",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "eremophila_maculata_nyngan_form",
+                "type": "variety",
+                "archival_data": [
+                    "1475438"
+                ]
+            },
+            "volume": null,
+            "page": "p 160",
+            "year": "1989",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1716461",
+                "legacy_id": "13893",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 15, no. 120. (1989) p 172",
+            "machine_name": "australian_plants_vol_15_no_120_1989_p_172",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "acacia_intricata",
+                "type": "species",
+                "archival_data": [
+                    "1401648"
+                ]
+            },
+            "volume": null,
+            "page": "p 172",
+            "year": "1989",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1759229",
+                "legacy_id": "67608",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 15, no. 120. (1989) p 144",
+            "machine_name": "australian_plants_vol_15_no_120_1989_p_144",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "eremophila_bowmanii",
+                "type": "species",
+                "archival_data": [
+                    "1415422"
+                ]
+            },
+            "volume": null,
+            "page": "p 144",
+            "year": "1989",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1786507",
+                "legacy_id": "92543",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 15, no. 120. (1989) p 165",
+            "machine_name": "australian_plants_vol_15_no_120_1989_p_165",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "eremophila_fraseri",
+                "type": "species",
+                "archival_data": [
+                    "1415435"
+                ]
+            },
+            "volume": null,
+            "page": "p 165",
+            "year": "1989",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1786519",
+                "legacy_id": "92555",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 15, no. 120. (1989) p cover",
+            "machine_name": "australian_plants_vol_15_no_120_1989_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "eremophila_gilesii",
+                "type": "species",
+                "archival_data": [
+                    "1415439"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1989",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1786523",
+                "legacy_id": "92559",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 15, no. 120. (1989) p 157",
+            "machine_name": "australian_plants_vol_15_no_120_1989_p_157",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "eremophila_laanii",
+                "type": "species",
+                "archival_data": [
+                    "1415445"
+                ]
+            },
+            "volume": null,
+            "page": "p 157",
+            "year": "1989",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1786533",
+                "legacy_id": "92569",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 15, no. 120. (1989) p 148",
+            "machine_name": "australian_plants_vol_15_no_120_1989_p_148",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "eremophila_longifolia",
+                "type": "species",
+                "archival_data": [
+                    "1415448"
+                ]
+            },
+            "volume": null,
+            "page": "p 148",
+            "year": "1989",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1786539",
+                "legacy_id": "92575",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 15, no. 120. (1989) p 165",
+            "machine_name": "australian_plants_vol_15_no_120_1989_p_165",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "eremophila_macdonellii",
+                "type": "species",
+                "archival_data": [
+                    "1415449"
+                ]
+            },
+            "volume": null,
+            "page": "p 165",
+            "year": "1989",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1786543",
+                "legacy_id": "92579",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 15, no. 120. (1989) p 144",
+            "machine_name": "australian_plants_vol_15_no_120_1989_p_144",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "eremophila_mackinlayi",
+                "type": "species",
+                "archival_data": [
+                    "1415450"
+                ]
+            },
+            "volume": null,
+            "page": "p 144",
+            "year": "1989",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1786544",
+                "legacy_id": "92580",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 15, no. 120. (1989) p 145",
+            "machine_name": "australian_plants_vol_15_no_120_1989_p_145",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "eremophila_obovata",
+                "type": "species",
+                "archival_data": [
+                    "1415457"
+                ]
+            },
+            "volume": null,
+            "page": "p 145",
+            "year": "1989",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1786556",
+                "legacy_id": "92592",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 15, no. 120. (1989) p 169",
+            "machine_name": "australian_plants_vol_15_no_120_1989_p_169",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "petalostylis_labicheoides",
+                "type": "species",
+                "archival_data": [
+                    "1422273"
+                ]
+            },
+            "volume": null,
+            "page": "p 169",
+            "year": "1989",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1810920",
+                "legacy_id": "120158",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 15, no. 120. (1989) p 184",
+            "machine_name": "australian_plants_vol_15_no_120_1989_p_184",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pultenaea_calycina",
+                "type": "species",
+                "archival_data": [
+                    "1426829"
+                ]
+            },
+            "volume": null,
+            "page": "p 184",
+            "year": "1989",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1816191",
+                "legacy_id": "125538",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 15, no. 120. (1989) p 181",
+            "machine_name": "australian_plants_vol_15_no_120_1989_p_181",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pultenaea_daphnoides",
+                "type": "species",
+                "archival_data": [
+                    "1426838"
+                ]
+            },
+            "volume": null,
+            "page": "p 181",
+            "year": "1989",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1816200",
+                "legacy_id": "125547",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 15, no. 120. (1989) p 181",
+            "machine_name": "australian_plants_vol_15_no_120_1989_p_181",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pultenaea_rotundifolia",
+                "type": "species",
+                "archival_data": [
+                    "1426870"
+                ]
+            },
+            "volume": null,
+            "page": "p 181",
+            "year": "1989",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1816487",
+                "legacy_id": "125590",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 15, no. 120. (1989) p 184",
+            "machine_name": "australian_plants_vol_15_no_120_1989_p_184",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pultenaea_tenella",
+                "type": "species",
+                "archival_data": [
+                    "1426875"
+                ]
+            },
+            "volume": null,
+            "page": "p 184",
+            "year": "1989",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1816498",
+                "legacy_id": "125601",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 15, no. 120. (1989) p backcover",
+            "machine_name": "australian_plants_vol_15_no_120_1989_p_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "thelymitra_ixioides",
+                "type": "species",
+                "archival_data": [
+                    "1430433"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover",
+            "year": "1989",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "1835426",
+                "legacy_id": "137120",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 15, no. 120. (1989) p 168",
+            "machine_name": "australian_plants_vol_15_no_120_1989_p_168",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "mirbelia_pungens",
+                "type": "species",
+                "archival_data": [
+                    "1420855"
+                ]
+            },
+            "volume": null,
+            "page": "p 168",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2359516",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1532977465"
+            }
+        }
+    ]
+}

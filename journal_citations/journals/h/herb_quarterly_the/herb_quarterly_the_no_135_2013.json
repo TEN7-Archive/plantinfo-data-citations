@@ -1,0 +1,102 @@
+{
+    "name": "Herb Quarterly, The. no. 135. (2013)",
+    "machine_name": "herb_quarterly_the_no_135_2013",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2013",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2124456",
+        "legacy_id": "130191",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Herb Quarterly, The. no. 135. (2013) p 8 (Adv.)",
+            "machine_name": "herb_quarterly_the_no_135_2013_p_8_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ocimum_basilicum_african_blue",
+                "type": "variety",
+                "archival_data": [
+                    "1481950"
+                ]
+            },
+            "volume": null,
+            "page": "p 8 (Adv.)",
+            "year": "2013",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2085632",
+                "legacy_id": "505856",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483209571"
+            }
+        },
+        {
+            "name": "Herb Quarterly, The. no. 135. (2013) p 43",
+            "machine_name": "herb_quarterly_the_no_135_2013_p_43",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lepidium_meyenii",
+                "type": "species",
+                "archival_data": [
+                    "1449830"
+                ]
+            },
+            "volume": null,
+            "page": "p 43",
+            "year": "2013",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": true,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2085633",
+                "legacy_id": "505857",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483209571"
+            }
+        }
+    ]
+}

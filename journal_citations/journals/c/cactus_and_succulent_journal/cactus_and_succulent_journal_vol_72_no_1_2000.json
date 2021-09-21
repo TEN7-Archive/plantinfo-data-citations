@@ -1,0 +1,1250 @@
+{
+    "name": "Cactus and Succulent Journal. vol 72, no. 1. (2000)",
+    "machine_name": "cactus_and_succulent_journal_vol_72_no_1_2000",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2000",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2116389",
+        "legacy_id": "12649",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Cactus and Succulent Journal. vol 72, no. 1. (2000) p cover",
+            "machine_name": "cactus_and_succulent_journal_vol_72_no_1_2000_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pediocactus_winkleri",
+                "type": "species",
+                "archival_data": [
+                    "1426633"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1870212",
+                "legacy_id": "187010",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 72, no. 1. (2000) p 7, Pl. 7-8.",
+            "machine_name": "cactus_and_succulent_journal_vol_72_no_1_2000_p_7_pl_7_8",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "gymnocalycium_cultivars_kaio_maru",
+                "type": "variety",
+                "archival_data": [
+                    "1554756"
+                ]
+            },
+            "volume": null,
+            "page": "p 7, Pl. 7-8.",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1870213",
+                "legacy_id": "187011",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 72, no. 1. (2000) p 8, Pl. 12.",
+            "machine_name": "cactus_and_succulent_journal_vol_72_no_1_2000_p_8_pl_12",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "orostachys_iwarenge_kinsei",
+                "type": "variety",
+                "archival_data": [
+                    "1554759"
+                ]
+            },
+            "volume": null,
+            "page": "p 8, Pl. 12.",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1870214",
+                "legacy_id": "187012",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 72, no. 1. (2000) p 8, Pl. 11.",
+            "machine_name": "cactus_and_succulent_journal_vol_72_no_1_2000_p_8_pl_11",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "orostachys_iwarenge_ho_oh",
+                "type": "variety",
+                "archival_data": [
+                    "1554758"
+                ]
+            },
+            "volume": null,
+            "page": "p 8, Pl. 11.",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1870215",
+                "legacy_id": "187013",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 72, no. 1. (2000) p 8, Pl. 10.",
+            "machine_name": "cactus_and_succulent_journal_vol_72_no_1_2000_p_8_pl_10",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "orostachys_iwarenge_fuji",
+                "type": "variety",
+                "archival_data": [
+                    "1554757"
+                ]
+            },
+            "volume": null,
+            "page": "p 8, Pl. 10.",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1870216",
+                "legacy_id": "187014",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 72, no. 1. (2000) p 9, Pl. 14.",
+            "machine_name": "cactus_and_succulent_journal_vol_72_no_1_2000_p_9_pl_14",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "gasteria_cultivars_zouge_kodakara",
+                "type": "variety",
+                "archival_data": [
+                    "1554761"
+                ]
+            },
+            "volume": null,
+            "page": "p 9, Pl. 14.",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1870217",
+                "legacy_id": "187015",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 72, no. 1. (2000) p 9, Pl. 13.",
+            "machine_name": "cactus_and_succulent_journal_vol_72_no_1_2000_p_9_pl_13",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "gasteria_cultivars_cream_kodakara",
+                "type": "variety",
+                "archival_data": [
+                    "1554760"
+                ]
+            },
+            "volume": null,
+            "page": "p 9, Pl. 13.",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1870218",
+                "legacy_id": "187016",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 72, no. 1. (2000) p 10, Pl. 15.",
+            "machine_name": "cactus_and_succulent_journal_vol_72_no_1_2000_p_10_pl_15",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "gasteria_cultivars_satsusatsu_no_matsu",
+                "type": "variety",
+                "archival_data": [
+                    "1554762"
+                ]
+            },
+            "volume": null,
+            "page": "p 10, Pl. 15.",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1870219",
+                "legacy_id": "187017",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 72, no. 1. (2000) p 10, Pl. 16.",
+            "machine_name": "cactus_and_succulent_journal_vol_72_no_1_2000_p_10_pl_16",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "gasteria_cultivars_isomatsu_nishiki",
+                "type": "variety",
+                "archival_data": [
+                    "1554763"
+                ]
+            },
+            "volume": null,
+            "page": "p 10, Pl. 16.",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1870220",
+                "legacy_id": "187018",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 72, no. 1. (2000) p 11, Pl. 17.",
+            "machine_name": "cactus_and_succulent_journal_vol_72_no_1_2000_p_11_pl_17",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "gasteria_cultivars_beni_surusumi_kodakara_nishiki",
+                "type": "variety",
+                "archival_data": [
+                    "1554764"
+                ]
+            },
+            "volume": null,
+            "page": "p 11, Pl. 17.",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1870221",
+                "legacy_id": "187019",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 72, no. 1. (2000) p 11, Pl. 18.",
+            "machine_name": "cactus_and_succulent_journal_vol_72_no_1_2000_p_11_pl_18",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "gasteria_cultivars_seiha_nishiki",
+                "type": "variety",
+                "archival_data": [
+                    "1554765"
+                ]
+            },
+            "volume": null,
+            "page": "p 11, Pl. 18.",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1870222",
+                "legacy_id": "187020",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 72, no. 1. (2000) p 12, Pl. 19.",
+            "machine_name": "cactus_and_succulent_journal_vol_72_no_1_2000_p_12_pl_19",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "gasteria_cultivars_sakura_fuji",
+                "type": "variety",
+                "archival_data": [
+                    "1554766"
+                ]
+            },
+            "volume": null,
+            "page": "p 12, Pl. 19.",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1870223",
+                "legacy_id": "187021",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 72, no. 1. (2000) p 12, Pl. 20.",
+            "machine_name": "cactus_and_succulent_journal_vol_72_no_1_2000_p_12_pl_20",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "gasteria_cultivars_hakuba_no_kagayaki",
+                "type": "variety",
+                "archival_data": [
+                    "1554767"
+                ]
+            },
+            "volume": null,
+            "page": "p 12, Pl. 20.",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1870224",
+                "legacy_id": "187022",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 72, no. 1. (2000) p 17-18, Pl. 1-3.",
+            "machine_name": "cactus_and_succulent_journal_vol_72_no_1_2000_p_17_18_pl_1_3",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "aloe_pseudorubroviolacea",
+                "type": "species",
+                "archival_data": [
+                    "1443758"
+                ]
+            },
+            "volume": null,
+            "page": "p 17-18, Pl. 1-3.",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1871163",
+                "legacy_id": "187850",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 72, no. 1. (2000) p 19, Pl. 4-5.",
+            "machine_name": "cactus_and_succulent_journal_vol_72_no_1_2000_p_19_pl_4_5",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "aloe_porphyrostachys",
+                "type": "species",
+                "archival_data": [
+                    "1443759"
+                ]
+            },
+            "volume": null,
+            "page": "p 19, Pl. 4-5.",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1871164",
+                "legacy_id": "187851",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 72, no. 1. (2000) p 20, Pl. 6-7.",
+            "machine_name": "cactus_and_succulent_journal_vol_72_no_1_2000_p_20_pl_6_7",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "aloe_cephalophora",
+                "type": "species",
+                "archival_data": [
+                    "1443760"
+                ]
+            },
+            "volume": null,
+            "page": "p 20, Pl. 6-7.",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1871165",
+                "legacy_id": "187852",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 72, no. 1. (2000) p 21, Pl. 8-9.",
+            "machine_name": "cactus_and_succulent_journal_vol_72_no_1_2000_p_21_pl_8_9",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "aloe_parvicoma",
+                "type": "species",
+                "archival_data": [
+                    "1443761"
+                ]
+            },
+            "volume": null,
+            "page": "p 21, Pl. 8-9.",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1871166",
+                "legacy_id": "187853",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 72, no. 1. (2000) p 21-22, Pl. 10-12.",
+            "machine_name": "cactus_and_succulent_journal_vol_72_no_1_2000_p_21_22_pl_10_12",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "aloe_armatissima",
+                "type": "species",
+                "archival_data": [
+                    "1443762"
+                ]
+            },
+            "volume": null,
+            "page": "p 21-22, Pl. 10-12.",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1871167",
+                "legacy_id": "187854",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 72, no. 1. (2000) p 23, Pl. 13-14.",
+            "machine_name": "cactus_and_succulent_journal_vol_72_no_1_2000_p_23_pl_13_14",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "aloe_hijazensis",
+                "type": "species",
+                "archival_data": [
+                    "1443763"
+                ]
+            },
+            "volume": null,
+            "page": "p 23, Pl. 13-14.",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1871168",
+                "legacy_id": "187855",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 72, no. 1. (2000) p 29-30, Pl. 2-3.",
+            "machine_name": "cactus_and_succulent_journal_vol_72_no_1_2000_p_29_30_pl_2_3",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "melocactus_praerupticola",
+                "type": "species",
+                "archival_data": [
+                    "1443764"
+                ]
+            },
+            "volume": null,
+            "page": "p 29-30, Pl. 2-3.",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1871169",
+                "legacy_id": "187856",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 72, no. 1. (2000) p 31, Pl. 1.",
+            "machine_name": "cactus_and_succulent_journal_vol_72_no_1_2000_p_31_pl_1",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "sansevieria_masoniana",
+                "type": "species",
+                "archival_data": [
+                    "1443765"
+                ]
+            },
+            "volume": null,
+            "page": "p 31, Pl. 1.",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1871170",
+                "legacy_id": "187857",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 72, no. 1. (2000) p 34",
+            "machine_name": "cactus_and_succulent_journal_vol_72_no_1_2000_p_34",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "echinocereus_nivosus",
+                "type": "species",
+                "archival_data": [
+                    "1405863"
+                ]
+            },
+            "volume": null,
+            "page": "p 34",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1871171",
+                "legacy_id": "187858",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 72, no. 1. (2000) p 34",
+            "machine_name": "cactus_and_succulent_journal_vol_72_no_1_2000_p_34",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "frailea_castanea",
+                "type": "species",
+                "archival_data": [
+                    "1413780"
+                ]
+            },
+            "volume": null,
+            "page": "p 34",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1871172",
+                "legacy_id": "187859",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 72, no. 1. (2000) p 34",
+            "machine_name": "cactus_and_succulent_journal_vol_72_no_1_2000_p_34",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rebutia_heliosa_cajasensis",
+                "type": "variety",
+                "archival_data": [
+                    "1486656"
+                ]
+            },
+            "volume": null,
+            "page": "p 34",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1871173",
+                "legacy_id": "187860",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 72, no. 1. (2000) p 35",
+            "machine_name": "cactus_and_succulent_journal_vol_72_no_1_2000_p_35",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "haworthia_semiviva",
+                "type": "species",
+                "archival_data": [
+                    "1410454"
+                ]
+            },
+            "volume": null,
+            "page": "p 35",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1871174",
+                "legacy_id": "187861",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 72, no. 1. (2000) p 37-39, Pl. 1-4.",
+            "machine_name": "cactus_and_succulent_journal_vol_72_no_1_2000_p_37_39_pl_1_4",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "eulychnia_castanea",
+                "type": "species",
+                "archival_data": [
+                    "1442590"
+                ]
+            },
+            "volume": null,
+            "page": "p 37-39, Pl. 1-4.",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1871175",
+                "legacy_id": "187862",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 72, no. 1. (2000) p 35",
+            "machine_name": "cactus_and_succulent_journal_vol_72_no_1_2000_p_35",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "euphorbia_tulearensis",
+                "type": "species",
+                "archival_data": [
+                    "1443783"
+                ]
+            },
+            "volume": null,
+            "page": "p 35",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1871176",
+                "legacy_id": "187870",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 72, no. 1. (2000) p 35",
+            "machine_name": "cactus_and_succulent_journal_vol_72_no_1_2000_p_35",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "dyckia_cultivars_greystone",
+                "type": "variety",
+                "archival_data": [
+                    "1555114"
+                ]
+            },
+            "volume": null,
+            "page": "p 35",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1871177",
+                "legacy_id": "187871",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 72, no. 1. (2000) p 43-44, Pl. 2-4.",
+            "machine_name": "cactus_and_succulent_journal_vol_72_no_1_2000_p_43_44_pl_2_4",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "consolea_picardae",
+                "type": "species",
+                "archival_data": [
+                    "1443784"
+                ]
+            },
+            "volume": null,
+            "page": "p 43-44, Pl. 2-4.",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1871178",
+                "legacy_id": "187890",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 72, no. 1. (2000) p 46, Pl. 1.",
+            "machine_name": "cactus_and_succulent_journal_vol_72_no_1_2000_p_46_pl_1",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "batis_maritima",
+                "type": "species",
+                "archival_data": [
+                    "1399976"
+                ]
+            },
+            "volume": null,
+            "page": "p 46, Pl. 1.",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1871179",
+                "legacy_id": "187891",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "name": "Horticulture Week. vol 214, no. 21. (i.e., vol 214, no. 22.?) (1993)",
+    "machine_name": "horticulture_week_vol_214_no_21_i_e_vol_214_no_22_1993",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1993",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2111027",
+        "legacy_id": "3857",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Horticulture Week. vol 214, no. 21. (i.e., vol 214, no. 22.?) (1993) p backcover (Adv.)",
+            "machine_name": "horticulture_week_vol_214_no_21_i_e_vol_214_no_22_1993_p_backcover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "dianthus_caryophyllus_monarch_series",
+                "type": "variety",
+                "archival_data": [
+                    "1467917"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover (Adv.)",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1713404",
+                "legacy_id": "13098",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Horticulture Week. vol 214, no. 21. (i.e., vol 214, no. 22.?) (1993) p 21",
+            "machine_name": "horticulture_week_vol_214_no_21_i_e_vol_214_no_22_1993_p_21",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "impatiens_cultivars_papete",
+                "type": "variety",
+                "archival_data": [
+                    "1477661"
+                ]
+            },
+            "volume": null,
+            "page": "p 21",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1726479",
+                "legacy_id": "23005",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        }
+    ]
+}

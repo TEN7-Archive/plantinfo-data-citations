@@ -1,0 +1,61 @@
+{
+    "name": "Seasons: A Newsletter of The Morton Arboretum. Jul\/Aug 2002.",
+    "machine_name": "seasons_a_newsletter_of_the_morton_arboretum_jul_aug_2002",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1685012",
+        "legacy_id": "44974",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Seasons: A Newsletter of The Morton Arboretum. Jul\/Aug 2002. p 4",
+            "machine_name": "seasons_a_newsletter_of_the_morton_arboretum_jul_aug_2002_p_4",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "clematis_cultivars_nelly_moser",
+                "type": "variety",
+                "archival_data": [
+                    "1469544"
+                ]
+            },
+            "volume": null,
+            "page": "p 4",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1899365",
+                "legacy_id": "247169",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "name": "Trends in Plant Science. vol 9, no. 2. (2004)",
+    "machine_name": "trends_in_plant_science_vol_9_no_2_2004",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2004",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2119547",
+        "legacy_id": "58755",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Trends in Plant Science. vol 9, no. 2. (2004) p 62, Pl. 1a",
+            "machine_name": "trends_in_plant_science_vol_9_no_2_2004_p_62_pl_1a",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "nicotiana_tabacum",
+                "type": "species",
+                "archival_data": [
+                    "1417936"
+                ]
+            },
+            "volume": null,
+            "page": "p 62, Pl. 1a",
+            "year": "2004",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1934368",
+                "legacy_id": "279434",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "Trends in Plant Science. vol 9, no. 2. (2004) p 62, Pl. 1c",
+            "machine_name": "trends_in_plant_science_vol_9_no_2_2004_p_62_pl_1c",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "daucus_carota_sativus",
+                "type": "variety",
+                "archival_data": [
+                    "1469075"
+                ]
+            },
+            "volume": null,
+            "page": "p 62, Pl. 1c",
+            "year": "2004",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1934369",
+                "legacy_id": "279435",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        }
+    ]
+}

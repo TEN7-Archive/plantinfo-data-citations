@@ -1,0 +1,143 @@
+{
+    "name": "Siberian Iris, The. vol 10, no. 8. (2004)",
+    "machine_name": "siberian_iris_the_vol_10_no_8_2004",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2004",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2120253",
+        "legacy_id": "62431",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Siberian Iris, The. vol 10, no. 8. (2004) p cover",
+            "machine_name": "siberian_iris_the_vol_10_no_8_2004_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "iris_cultivars_blueberry_fair",
+                "type": "variety",
+                "archival_data": [
+                    "1550485"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "2004",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1953102",
+                "legacy_id": "292003",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "Siberian Iris, The. vol 10, no. 8. (2004) p inside cover",
+            "machine_name": "siberian_iris_the_vol_10_no_8_2004_p_inside_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "iris_cultivars_roaring_jelly",
+                "type": "variety",
+                "archival_data": [
+                    "1477142"
+                ]
+            },
+            "volume": null,
+            "page": "p inside cover",
+            "year": "2004",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1953103",
+                "legacy_id": "292004",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "Siberian Iris, The. vol 10, no. 8. (2004) p inside backcover",
+            "machine_name": "siberian_iris_the_vol_10_no_8_2004_p_inside_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "iris_cultivars_sultan_s_ruby",
+                "type": "variety",
+                "archival_data": [
+                    "1478007"
+                ]
+            },
+            "volume": null,
+            "page": "p inside backcover",
+            "year": "2004",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1953104",
+                "legacy_id": "292005",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        }
+    ]
+}

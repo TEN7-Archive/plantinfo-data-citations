@@ -1,0 +1,102 @@
+{
+    "name": "HortScience. vol 32, no. 6. (1997)",
+    "machine_name": "hortscience_vol_32_no_6_1997",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1997",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2119393",
+        "legacy_id": "58956",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "HortScience. vol 32, no. 6. (1997) p 1132",
+            "machine_name": "hortscience_vol_32_no_6_1997_p_1132",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "fragaria_ananassa_sweet_charlie",
+                "type": "variety",
+                "archival_data": [
+                    "1474014"
+                ]
+            },
+            "volume": null,
+            "page": "p 1132",
+            "year": "1997",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1930971",
+                "legacy_id": "279993",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "HortScience. vol 32, no. 6. (1997) p 1132",
+            "machine_name": "hortscience_vol_32_no_6_1997_p_1132",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "fragaria_ananassa_rosalinda",
+                "type": "variety",
+                "archival_data": [
+                    "1547319"
+                ]
+            },
+            "volume": null,
+            "page": "p 1132",
+            "year": "1997",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1930972",
+                "legacy_id": "279994",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        }
+    ]
+}

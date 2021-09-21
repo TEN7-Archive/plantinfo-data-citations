@@ -1,0 +1,102 @@
+{
+    "name": "Nature. vol 377, no. 6549. (1995)",
+    "machine_name": "nature_vol_377_no_6549_1995",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1995",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2118506",
+        "legacy_id": "53593",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Nature. vol 377, no. 6549. (1995) p 496, Pl. 1(a, right);523,Pl. 1(a-b)",
+            "machine_name": "nature_vol_377_no_6549_1995_p_496_pl_1_a_right_523_pl_1_a_b",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "arabidopsis_thaliana",
+                "type": "species",
+                "archival_data": [
+                    "1400989"
+                ]
+            },
+            "volume": null,
+            "page": "p 496, Pl. 1(a, right);523,Pl. 1(a-b)",
+            "year": "1995",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1912373",
+                "legacy_id": "268650",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Nature. vol 377, no. 6549. (1995) p 497, Pl. 3(d-e)",
+            "machine_name": "nature_vol_377_no_6549_1995_p_497_pl_3_d_e",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "populus_tremula",
+                "type": "species",
+                "archival_data": [
+                    "1422778"
+                ]
+            },
+            "volume": null,
+            "page": "p 497, Pl. 3(d-e)",
+            "year": "1995",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1912374",
+                "legacy_id": "268651",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        }
+    ]
+}

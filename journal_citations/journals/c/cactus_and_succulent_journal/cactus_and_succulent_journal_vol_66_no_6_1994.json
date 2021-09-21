@@ -1,0 +1,143 @@
+{
+    "name": "Cactus and Succulent Journal. vol 66, no. 6. (1994)",
+    "machine_name": "cactus_and_succulent_journal_vol_66_no_6_1994",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1994",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2111924",
+        "legacy_id": "1879",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Cactus and Succulent Journal. vol 66, no. 6. (1994) p 275",
+            "machine_name": "cactus_and_succulent_journal_vol_66_no_6_1994_p_275",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lithops_optica_rubra",
+                "type": "variety",
+                "archival_data": [
+                    "1479934"
+                ]
+            },
+            "volume": null,
+            "page": "p 275",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1728134",
+                "legacy_id": "28516",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 66, no. 6. (1994) p 270",
+            "machine_name": "cactus_and_succulent_journal_vol_66_no_6_1994_p_270",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "claytonia_megarhiza",
+                "type": "species",
+                "archival_data": [
+                    "1407897"
+                ]
+            },
+            "volume": null,
+            "page": "p 270",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1775305",
+                "legacy_id": "82590",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Cactus and Succulent Journal. vol 66, no. 6. (1994) p 282",
+            "machine_name": "cactus_and_succulent_journal_vol_66_no_6_1994_p_282",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "haworthia_magnifica",
+                "type": "species",
+                "archival_data": [
+                    "1410442"
+                ]
+            },
+            "volume": null,
+            "page": "p 282",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1795141",
+                "legacy_id": "101339",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        }
+    ]
+}

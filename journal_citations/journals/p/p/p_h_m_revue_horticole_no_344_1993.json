@@ -1,0 +1,143 @@
+{
+    "name": "P.H.M.-Revue Horticole. no. 344. (1993)",
+    "machine_name": "p_h_m_revue_horticole_no_344_1993",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1993",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2118798",
+        "legacy_id": "57451",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "P.H.M.-Revue Horticole. no. 344. (1993) p cover",
+            "machine_name": "p_h_m_revue_horticole_no_344_1993_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lilium_cultivars_aubade",
+                "type": "variety",
+                "archival_data": [
+                    "1547188"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1916914",
+                "legacy_id": "275995",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "P.H.M.-Revue Horticole. no. 344. (1993) p 27 (Adv.)",
+            "machine_name": "p_h_m_revue_horticole_no_344_1993_p_27_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "gerbera_cultivars_festival_series",
+                "type": "variety",
+                "archival_data": [
+                    "1476417"
+                ]
+            },
+            "volume": null,
+            "page": "p 27 (Adv.)",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1931287",
+                "legacy_id": "280218",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "P.H.M.-Revue Horticole. no. 344. (1993) p 29",
+            "machine_name": "p_h_m_revue_horticole_no_344_1993_p_29",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "fragaria_ananassa_darline",
+                "type": "variety",
+                "archival_data": [
+                    "1600848"
+                ]
+            },
+            "volume": null,
+            "page": "p 29",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1931288",
+                "legacy_id": "280219",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        }
+    ]
+}

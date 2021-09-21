@@ -1,0 +1,61 @@
+{
+    "name": "Horticulture Week. vol 209, no. 2. (1991)",
+    "machine_name": "horticulture_week_vol_209_no_2_1991",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1991",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2112482",
+        "legacy_id": "3796",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Horticulture Week. vol 209, no. 2. (1991) p 19 (Adv.)",
+            "machine_name": "horticulture_week_vol_209_no_2_1991_p_19_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pelargonium_hortorum_century_series",
+                "type": "variety",
+                "archival_data": [
+                    "1484645"
+                ]
+            },
+            "volume": null,
+            "page": "p 19 (Adv.)",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1738881",
+                "legacy_id": "36595",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        }
+    ]
+}

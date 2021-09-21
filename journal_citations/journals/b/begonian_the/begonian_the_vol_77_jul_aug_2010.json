@@ -1,0 +1,922 @@
+{
+    "name": "Begonian, The. vol 77. Jul\/Aug. (2010)",
+    "machine_name": "begonian_the_vol_77_jul_aug_2010",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2010",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2123595",
+        "legacy_id": "109392",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Begonian, The. vol 77. Jul\/Aug. (2010) p cover",
+            "machine_name": "begonian_the_vol_77_jul_aug_2010_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "begonia_letouzeyi",
+                "type": "species",
+                "archival_data": [
+                    "1457233"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "2010",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2035097",
+                "legacy_id": "415577",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        },
+        {
+            "name": "Begonian, The. vol 77. Jul\/Aug. (2010) p inside cover",
+            "machine_name": "begonian_the_vol_77_jul_aug_2010_p_inside_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "begonia_sizemoreae",
+                "type": "species",
+                "archival_data": [
+                    "1447483"
+                ]
+            },
+            "volume": null,
+            "page": "p inside cover",
+            "year": "2010",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2035098",
+                "legacy_id": "415578",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        },
+        {
+            "name": "Begonian, The. vol 77. Jul\/Aug. (2010) p 125",
+            "machine_name": "begonian_the_vol_77_jul_aug_2010_p_125",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "begonia_chlorosticta",
+                "type": "species",
+                "archival_data": [
+                    "1400352"
+                ]
+            },
+            "volume": null,
+            "page": "p 125",
+            "year": "2010",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2035099",
+                "legacy_id": "415579",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        },
+        {
+            "name": "Begonian, The. vol 77. Jul\/Aug. (2010) p 130",
+            "machine_name": "begonian_the_vol_77_jul_aug_2010_p_130",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "begonia_tenera",
+                "type": "species",
+                "archival_data": [
+                    "1400745"
+                ]
+            },
+            "volume": null,
+            "page": "p 130",
+            "year": "2010",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2035100",
+                "legacy_id": "415580",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        },
+        {
+            "name": "Begonian, The. vol 77. Jul\/Aug. (2010) p 134",
+            "machine_name": "begonian_the_vol_77_jul_aug_2010_p_134",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "begonia_richmondensis",
+                "type": "species",
+                "archival_data": [
+                    "1457234"
+                ]
+            },
+            "volume": null,
+            "page": "p 134",
+            "year": "2010",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2035101",
+                "legacy_id": "415581",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        },
+        {
+            "name": "Begonian, The. vol 77. Jul\/Aug. (2010) p 137",
+            "machine_name": "begonian_the_vol_77_jul_aug_2010_p_137",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "begonia_cultivars_shaun_s_fantasy",
+                "type": "variety",
+                "archival_data": [
+                    "1612356"
+                ]
+            },
+            "volume": null,
+            "page": "p 137",
+            "year": "2010",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2035102",
+                "legacy_id": "415582",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        },
+        {
+            "name": "Begonian, The. vol 77. Jul\/Aug. (2010) p 138; 140-42",
+            "machine_name": "begonian_the_vol_77_jul_aug_2010_p_138_140_42",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "begonia_palmata",
+                "type": "species",
+                "archival_data": [
+                    "1447176"
+                ]
+            },
+            "volume": null,
+            "page": "p 138; 140-42",
+            "year": "2010",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2035103",
+                "legacy_id": "415583",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        },
+        {
+            "name": "Begonian, The. vol 77. Jul\/Aug. (2010) p 140-41",
+            "machine_name": "begonian_the_vol_77_jul_aug_2010_p_140_41",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "begonia_palmata_khasiana",
+                "type": "variety",
+                "archival_data": [
+                    "1622644"
+                ]
+            },
+            "volume": null,
+            "page": "p 140-41",
+            "year": "2010",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2035104",
+                "legacy_id": "415584",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        },
+        {
+            "name": "Begonian, The. vol 77. Jul\/Aug. (2010) p 144-45; 154; backcover",
+            "machine_name": "begonian_the_vol_77_jul_aug_2010_p_144_45_154_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "begonia_opuliflora",
+                "type": "species",
+                "archival_data": [
+                    "1457235"
+                ]
+            },
+            "volume": null,
+            "page": "p 144-45; 154; backcover",
+            "year": "2010",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2035105",
+                "legacy_id": "415585",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        },
+        {
+            "name": "Begonian, The. vol 77. Jul\/Aug. (2010) p 146",
+            "machine_name": "begonian_the_vol_77_jul_aug_2010_p_146",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "begonia_cultivars_paper_snowflakes",
+                "type": "variety",
+                "archival_data": [
+                    "1617797"
+                ]
+            },
+            "volume": null,
+            "page": "p 146",
+            "year": "2010",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2035106",
+                "legacy_id": "415586",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        },
+        {
+            "name": "Begonian, The. vol 77. Jul\/Aug. (2010) p 147",
+            "machine_name": "begonian_the_vol_77_jul_aug_2010_p_147",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "begonia_cultivars_irene_nuss",
+                "type": "variety",
+                "archival_data": [
+                    "1464377"
+                ]
+            },
+            "volume": null,
+            "page": "p 147",
+            "year": "2010",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2035107",
+                "legacy_id": "415587",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        },
+        {
+            "name": "Begonian, The. vol 77. Jul\/Aug. (2010) p 147",
+            "machine_name": "begonian_the_vol_77_jul_aug_2010_p_147",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "begonia_cultivars_andromeda",
+                "type": "variety",
+                "archival_data": [
+                    "1622645"
+                ]
+            },
+            "volume": null,
+            "page": "p 147",
+            "year": "2010",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2035108",
+                "legacy_id": "415588",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        },
+        {
+            "name": "Begonian, The. vol 77. Jul\/Aug. (2010) p 148",
+            "machine_name": "begonian_the_vol_77_jul_aug_2010_p_148",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "begonia_cultivars_f_m_donovan",
+                "type": "variety",
+                "archival_data": [
+                    "1617786"
+                ]
+            },
+            "volume": null,
+            "page": "p 148",
+            "year": "2010",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2035344",
+                "legacy_id": "415589",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        },
+        {
+            "name": "Begonian, The. vol 77. Jul\/Aug. (2010) p 148",
+            "machine_name": "begonian_the_vol_77_jul_aug_2010_p_148",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "begonia_cultivars_pink_taffeta",
+                "type": "variety",
+                "archival_data": [
+                    "1534588"
+                ]
+            },
+            "volume": null,
+            "page": "p 148",
+            "year": "2010",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2035345",
+                "legacy_id": "415590",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        },
+        {
+            "name": "Begonian, The. vol 77. Jul\/Aug. (2010) p 148",
+            "machine_name": "begonian_the_vol_77_jul_aug_2010_p_148",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "begonia_cultivars_lady_vanderwilt",
+                "type": "variety",
+                "archival_data": [
+                    "1622646"
+                ]
+            },
+            "volume": null,
+            "page": "p 148",
+            "year": "2010",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2035346",
+                "legacy_id": "415591",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        },
+        {
+            "name": "Begonian, The. vol 77. Jul\/Aug. (2010) p 148",
+            "machine_name": "begonian_the_vol_77_jul_aug_2010_p_148",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "begonia_cultivars_lomita_lady",
+                "type": "variety",
+                "archival_data": [
+                    "1617795"
+                ]
+            },
+            "volume": null,
+            "page": "p 148",
+            "year": "2010",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2035347",
+                "legacy_id": "415592",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        },
+        {
+            "name": "Begonian, The. vol 77. Jul\/Aug. (2010) p 149",
+            "machine_name": "begonian_the_vol_77_jul_aug_2010_p_149",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "begonia_hiemalis_bolero",
+                "type": "variety",
+                "archival_data": [
+                    "1500148"
+                ]
+            },
+            "volume": null,
+            "page": "p 149",
+            "year": "2010",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2035348",
+                "legacy_id": "415593",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        },
+        {
+            "name": "Begonian, The. vol 77. Jul\/Aug. (2010) p 150-51",
+            "machine_name": "begonian_the_vol_77_jul_aug_2010_p_150_51",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "begonia_venosa",
+                "type": "species",
+                "archival_data": [
+                    "1400755"
+                ]
+            },
+            "volume": null,
+            "page": "p 150-51",
+            "year": "2010",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2035349",
+                "legacy_id": "415594",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        },
+        {
+            "name": "Begonian, The. vol 77. Jul\/Aug. (2010) p 153",
+            "machine_name": "begonian_the_vol_77_jul_aug_2010_p_153",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "zygopetalum_cultivars_rhein_blue",
+                "type": "variety",
+                "archival_data": [
+                    "1622647"
+                ]
+            },
+            "volume": null,
+            "page": "p 153",
+            "year": "2010",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2035350",
+                "legacy_id": "415595",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        },
+        {
+            "name": "Begonian, The. vol 77. Jul\/Aug. (2010) p 153",
+            "machine_name": "begonian_the_vol_77_jul_aug_2010_p_153",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "begonia_cultivars_grey_feather",
+                "type": "variety",
+                "archival_data": [
+                    "1579324"
+                ]
+            },
+            "volume": null,
+            "page": "p 153",
+            "year": "2010",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2035351",
+                "legacy_id": "415596",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        },
+        {
+            "name": "Begonian, The. vol 77. Jul\/Aug. (2010) p 158",
+            "machine_name": "begonian_the_vol_77_jul_aug_2010_p_158",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "begonia_cultivars_lady_mcelderry",
+                "type": "variety",
+                "archival_data": [
+                    "1617790"
+                ]
+            },
+            "volume": null,
+            "page": "p 158",
+            "year": "2010",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2035352",
+                "legacy_id": "415597",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        },
+        {
+            "name": "Begonian, The. vol 77. Jul\/Aug. (2010) p inside backcover (Adv.)",
+            "machine_name": "begonian_the_vol_77_jul_aug_2010_p_inside_backcover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "begonia_goegoensis",
+                "type": "species",
+                "archival_data": [
+                    "1400378"
+                ]
+            },
+            "volume": null,
+            "page": "p inside backcover (Adv.)",
+            "year": "2010",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2035353",
+                "legacy_id": "415598",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        }
+    ]
+}

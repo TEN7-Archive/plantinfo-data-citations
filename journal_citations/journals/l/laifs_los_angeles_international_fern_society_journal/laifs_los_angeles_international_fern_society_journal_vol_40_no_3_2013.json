@@ -1,0 +1,102 @@
+{
+    "name": "LAIFS: Los Angeles International Fern Society, Journal. vol 40, no. 3. (2013)",
+    "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_40_no_3_2013",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2013",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2124104",
+        "legacy_id": "122776",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "LAIFS: Los Angeles International Fern Society, Journal. vol 40, no. 3. (2013) p cover; 69",
+            "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_40_no_3_2013_p_cover_69",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "astrolepis_sinuata",
+                "type": "species",
+                "archival_data": [
+                    "1460102"
+                ]
+            },
+            "volume": null,
+            "page": "p cover; 69",
+            "year": "2013",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2070296",
+                "legacy_id": "465945",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "LAIFS: Los Angeles International Fern Society, Journal. vol 40, no. 3. (2013) p backcover",
+            "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_40_no_3_2013_p_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "platycerium_superbum",
+                "type": "species",
+                "archival_data": [
+                    "1440219"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover",
+            "year": "2013",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2070297",
+                "legacy_id": "465946",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "name": "American Forests. vol 111, no. 3. (2005)",
+    "machine_name": "american_forests_vol_111_no_3_2005",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2005",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2121666",
+        "legacy_id": "68493",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "American Forests. vol 111, no. 3. (2005) p 16",
+            "machine_name": "american_forests_vol_111_no_3_2005_p_16",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "prunus_avium",
+                "type": "species",
+                "archival_data": [
+                    "1425039"
+                ]
+            },
+            "volume": null,
+            "page": "p 16",
+            "year": "2005",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1992498",
+                "legacy_id": "308076",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        }
+    ]
+}

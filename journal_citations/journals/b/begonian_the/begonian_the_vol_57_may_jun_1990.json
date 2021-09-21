@@ -1,0 +1,61 @@
+{
+    "name": "Begonian, The. vol 57, May\/Jun. (1990)",
+    "machine_name": "begonian_the_vol_57_may_jun_1990",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1990",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113737",
+        "legacy_id": "1470",
+        "author": "oitadmin",
+        "created": "1473951060"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Begonian, The. vol 57, May-June. (1990) p cover",
+            "machine_name": "begonian_the_vol_57_may_june_1990_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "begonia_burbidgei",
+                "type": "species",
+                "archival_data": [
+                    "1400344"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1990",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "1774462",
+                "legacy_id": "75593",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        }
+    ]
+}

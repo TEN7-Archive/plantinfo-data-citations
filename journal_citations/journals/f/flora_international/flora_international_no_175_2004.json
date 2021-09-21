@@ -1,0 +1,102 @@
+{
+    "name": "Flora International. no. 175. (2004)",
+    "machine_name": "flora_international_no_175_2004",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2004",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2119504",
+        "legacy_id": "59290",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Flora International. no. 175. (2004) p 56",
+            "machine_name": "flora_international_no_175_2004_p_56",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "erythronium_revolutum",
+                "type": "species",
+                "archival_data": [
+                    "1412897"
+                ]
+            },
+            "volume": null,
+            "page": "p 56",
+            "year": "2004",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1933525",
+                "legacy_id": "280888",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "Flora International. no. 175. (2004) p 56",
+            "machine_name": "flora_international_no_175_2004_p_56",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "viola_wittrockiana_red_leopard",
+                "type": "variety",
+                "archival_data": [
+                    "1601795"
+                ]
+            },
+            "volume": null,
+            "page": "p 56",
+            "year": "2004",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1933526",
+                "legacy_id": "280889",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "name": "Plant Systematics and Evolution. vol 244, no. 1-2. (2004)",
+    "machine_name": "plant_systematics_and_evolution_vol_244_no_1_2_2004",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2004",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2118741",
+        "legacy_id": "56790",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Plant Systematics and Evolution. vol 244, no. 1-2. (2004) p cover",
+            "machine_name": "plant_systematics_and_evolution_vol_244_no_1_2_2004_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "diplotaxis_catholica",
+                "type": "species",
+                "archival_data": [
+                    "1448161"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "2004",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1916375",
+                "legacy_id": "274583",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        }
+    ]
+}

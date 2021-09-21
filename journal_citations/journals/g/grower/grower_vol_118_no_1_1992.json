@@ -1,0 +1,102 @@
+{
+    "name": "Grower. vol 118, no. 1. (1992)",
+    "machine_name": "grower_vol_118_no_1_1992",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1992",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2112516",
+        "legacy_id": "3487",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grower. vol 118, no. 1. (1992) p 33",
+            "machine_name": "grower_vol_118_no_1_1992_p_33",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "petunia_cultivars_surfinia_series",
+                "type": "variety",
+                "archival_data": [
+                    "1481796"
+                ]
+            },
+            "volume": null,
+            "page": "p 33",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1739582",
+                "legacy_id": "38029",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483154438"
+            }
+        },
+        {
+            "name": "Grower. vol 118, no. 1. (1992) p 33",
+            "machine_name": "grower_vol_118_no_1_1992_p_33",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pelargonium_peltatum_the_crocodile",
+                "type": "variety",
+                "archival_data": [
+                    "1485531"
+                ]
+            },
+            "volume": null,
+            "page": "p 33",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1741154",
+                "legacy_id": "37149",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483154438"
+            }
+        }
+    ]
+}

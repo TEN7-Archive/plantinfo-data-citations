@@ -1,0 +1,61 @@
+{
+    "name": "Advances in Strawberry Research. vol 18. (1999)",
+    "machine_name": "advances_in_strawberry_research_vol_18_1999",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1999",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2116854",
+        "legacy_id": "22331",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Advances in Strawberry Research. vol 18. (1999) p cover",
+            "machine_name": "advances_in_strawberry_research_vol_18_1999_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "fragaria_ananassa_chandler",
+                "type": "variety",
+                "archival_data": [
+                    "1473738"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1879288",
+                "legacy_id": "208050",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        }
+    ]
+}

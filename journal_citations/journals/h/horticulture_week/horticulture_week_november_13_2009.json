@@ -1,0 +1,102 @@
+{
+    "name": "Horticulture Week. November 13, 2009.",
+    "machine_name": "horticulture_week_november_13_2009",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1692607",
+        "legacy_id": "106469",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Horticulture Week. November 13, 2009. p 14, Pl. 1",
+            "machine_name": "horticulture_week_november_13_2009_p_14_pl_1",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cyclamen_coum",
+                "type": "species",
+                "archival_data": [
+                    "1409166"
+                ]
+            },
+            "volume": null,
+            "page": "p 14, Pl. 1",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1997531",
+                "legacy_id": "404612",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Horticulture Week. November 13, 2009. p 15, Pl. 2",
+            "machine_name": "horticulture_week_november_13_2009_p_15_pl_2",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cyclamen_persicum",
+                "type": "species",
+                "archival_data": [
+                    "1409177"
+                ]
+            },
+            "volume": null,
+            "page": "p 15, Pl. 2",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1997532",
+                "legacy_id": "404613",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        }
+    ]
+}

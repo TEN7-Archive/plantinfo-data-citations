@@ -1,0 +1,143 @@
+{
+    "name": "American Forests. vol 113, no. 3. (2007)",
+    "machine_name": "american_forests_vol_113_no_3_2007",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2007",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2120279",
+        "legacy_id": "87729",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "American Forests. vol 113, no. 3. (2007) p 16",
+            "machine_name": "american_forests_vol_113_no_3_2007_p_16",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "castanea_dentata",
+                "type": "species",
+                "archival_data": [
+                    "1409281"
+                ]
+            },
+            "volume": null,
+            "page": "p 16",
+            "year": "2007",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1953900",
+                "legacy_id": "356672",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "American Forests. vol 113, no. 3. (2007) p 28-31",
+            "machine_name": "american_forests_vol_113_no_3_2007_p_28_31",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pinus_edulis",
+                "type": "species",
+                "archival_data": [
+                    "1425286"
+                ]
+            },
+            "volume": null,
+            "page": "p 28-31",
+            "year": "2007",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": true,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1953901",
+                "legacy_id": "356692",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "American Forests. vol 113, no. 3. (2007) p 44-45",
+            "machine_name": "american_forests_vol_113_no_3_2007_p_44_45",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "aesculus_glabra",
+                "type": "species",
+                "archival_data": [
+                    "1400525"
+                ]
+            },
+            "volume": null,
+            "page": "p 44-45",
+            "year": "2007",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1953902",
+                "legacy_id": "356712",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        }
+    ]
+}

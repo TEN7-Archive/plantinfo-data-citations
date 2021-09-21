@@ -1,0 +1,61 @@
+{
+    "name": "McVaugh, Rogers. Flora Novo-Galiciana. vol. 16 (1985)",
+    "machine_name": "mcvaugh_rogers_flora_novo_galiciana_vol_16_1985",
+    "type": "journal_book",
+    "volume": "16",
+    "number": null,
+    "year": "1985",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113927",
+        "legacy_id": "4434",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "McVaugh, Rogers. Flora Novo-Galiciana. vol. 16 (1985) 16 p frontispiece",
+            "machine_name": "mcvaugh_rogers_flora_novo_galiciana_vol_16_1985_16_p_frontispiece",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cypripedium_irapeanum",
+                "type": "species",
+                "archival_data": [
+                    "1404227"
+                ]
+            },
+            "volume": "16",
+            "page": "p frontispiece",
+            "year": "1985",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": true,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1782166",
+                "legacy_id": "87100",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483346299"
+            }
+        }
+    ]
+}

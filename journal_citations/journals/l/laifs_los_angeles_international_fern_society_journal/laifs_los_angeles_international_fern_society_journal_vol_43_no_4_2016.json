@@ -1,0 +1,512 @@
+{
+    "name": "LAIFS: Los Angeles International Fern Society, Journal. vol 43, no. 4. (2016)",
+    "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_43_no_4_2016",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2016",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": "7",
+    "description": null,
+    "archival_data": {
+        "id": "2209316",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1516453190"
+    },
+    "citation_reference_items": [
+        {
+            "name": "LAIFS: Los Angeles International Fern Society, Journal. vol 43, no. 4. (2016) p cover; 97-100; 104",
+            "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_43_no_4_2016_p_cover_97_100_104",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "selliguea_feei",
+                "type": "species",
+                "archival_data": [
+                    "1457128"
+                ]
+            },
+            "volume": null,
+            "page": "p cover; 97-100; 104",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2209326",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1516453497"
+            }
+        },
+        {
+            "name": "LAIFS: Los Angeles International Fern Society, Journal. vol 43, no. 4. (2016) p 93",
+            "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_43_no_4_2016_p_93",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "equisetum_scirpoides",
+                "type": "species",
+                "archival_data": [
+                    "1439298"
+                ]
+            },
+            "volume": null,
+            "page": "p 93",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2209331",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1516453497"
+            }
+        },
+        {
+            "name": "LAIFS: Los Angeles International Fern Society, Journal. vol 43, no. 4. (2016) p 94",
+            "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_43_no_4_2016_p_94",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "equisetum_pretense",
+                "type": "species",
+                "archival_data": [
+                    "2209321"
+                ]
+            },
+            "volume": null,
+            "page": "p 94",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2209336",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1516453497"
+            }
+        },
+        {
+            "name": "LAIFS: Los Angeles International Fern Society, Journal. vol 43, no. 4. (2016) p 95",
+            "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_43_no_4_2016_p_95",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "equisetum_hyemale",
+                "type": "species",
+                "archival_data": [
+                    "1444226"
+                ]
+            },
+            "volume": null,
+            "page": "p 95",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2209341",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1516453497"
+            }
+        },
+        {
+            "name": "LAIFS: Los Angeles International Fern Society, Journal. vol 43, no. 4. (2016) p 103",
+            "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_43_no_4_2016_p_103",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "begonia_paulensis",
+                "type": "species",
+                "archival_data": [
+                    "1400712"
+                ]
+            },
+            "volume": null,
+            "page": "p 103",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2209346",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1516453497"
+            }
+        },
+        {
+            "name": "LAIFS: Los Angeles International Fern Society, Journal. vol 43, no. 4. (2016) p 105",
+            "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_43_no_4_2016_p_105",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "aglaonema_cultivars_ruby_sunset",
+                "type": "variety",
+                "archival_data": [
+                    "1638414"
+                ]
+            },
+            "volume": null,
+            "page": "p 105",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2209351",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1516453800"
+            }
+        },
+        {
+            "name": "LAIFS: Los Angeles International Fern Society, Journal. vol 43, no. 4. (2016) p 105",
+            "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_43_no_4_2016_p_105",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "peperomia_dahlstedtii",
+                "type": "species",
+                "archival_data": [
+                    "1443601"
+                ]
+            },
+            "volume": null,
+            "page": "p 105",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2209356",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1516453800"
+            }
+        },
+        {
+            "name": "LAIFS: Los Angeles International Fern Society, Journal. vol 43, no. 4. (2016) p 106",
+            "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_43_no_4_2016_p_106",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hoya_wayetii",
+                "type": "species",
+                "archival_data": [
+                    "1448700"
+                ]
+            },
+            "volume": null,
+            "page": "p 106",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2209361",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1516453800"
+            }
+        },
+        {
+            "name": "LAIFS: Los Angeles International Fern Society, Journal. vol 43, no. 4. (2016) p 107",
+            "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_43_no_4_2016_p_107",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hoya_polyneura",
+                "type": "species",
+                "archival_data": [
+                    "1420595"
+                ]
+            },
+            "volume": null,
+            "page": "p 107",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2209366",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1516453800"
+            }
+        },
+        {
+            "name": "LAIFS: Los Angeles International Fern Society, Journal. vol 43, no. 4. (2016) p 108",
+            "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_43_no_4_2016_p_108",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rhipsalis_clavata",
+                "type": "species",
+                "archival_data": [
+                    "1423598"
+                ]
+            },
+            "volume": null,
+            "page": "p 108",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2209371",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1516453800"
+            }
+        },
+        {
+            "name": "LAIFS: Los Angeles International Fern Society, Journal. vol 43, no. 4. (2016) p 109",
+            "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_43_no_4_2016_p_109",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "peperomia_polybotrya",
+                "type": "species",
+                "archival_data": [
+                    "1443604"
+                ]
+            },
+            "volume": null,
+            "page": "p 109",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2209376",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1516453800"
+            }
+        },
+        {
+            "name": "LAIFS: Los Angeles International Fern Society, Journal. vol 43, no. 4. (2016) p 110",
+            "machine_name": "laifs_los_angeles_international_fern_society_journal_vol_43_no_4_2016_p_110",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "anacampseros_rufescens",
+                "type": "species",
+                "archival_data": [
+                    "1398655"
+                ]
+            },
+            "volume": null,
+            "page": "p 110",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2209381",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1516453800"
+            }
+        }
+    ]
+}

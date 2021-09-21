@@ -1,0 +1,143 @@
+{
+    "name": "Begonian, The. vol 60. Nov\/Dec. (1993)",
+    "machine_name": "begonian_the_vol_60_nov_dec_1993",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1993",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2109562",
+        "legacy_id": "1490",
+        "author": "oitadmin",
+        "created": "1473951060"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Begonian, The. vol 60. Nov-Dec. (1993) p cover",
+            "machine_name": "begonian_the_vol_60_nov_dec_1993_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "begonia_cultivars_christmas_candle",
+                "type": "variety",
+                "archival_data": [
+                    "1464331"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1704423",
+                "legacy_id": "2972",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Begonian, The. vol 60. Nov-Dec. (1993) p 189",
+            "machine_name": "begonian_the_vol_60_nov_dec_1993_p_189",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "begonia_cultivars_magic_lace",
+                "type": "variety",
+                "archival_data": [
+                    "1464399"
+                ]
+            },
+            "volume": null,
+            "page": "p 189",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1704593",
+                "legacy_id": "3058",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Begonian, The. vol 60. Nov-Dec. (1993) p backcover",
+            "machine_name": "begonian_the_vol_60_nov_dec_1993_p_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "begonia_cultivars_maurice_amey",
+                "type": "variety",
+                "archival_data": [
+                    "1464405"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1704599",
+                "legacy_id": "3064",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        }
+    ]
+}

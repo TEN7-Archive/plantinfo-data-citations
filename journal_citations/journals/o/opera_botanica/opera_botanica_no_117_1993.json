@@ -1,0 +1,102 @@
+{
+    "name": "Opera Botanica. no. 117. (1993)",
+    "machine_name": "opera_botanica_no_117_1993",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1993",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114485",
+        "legacy_id": "4885",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Opera Botanica. no. 117. (1993) p 62, Pl. 2.",
+            "machine_name": "opera_botanica_no_117_1993_p_62_pl_2",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pteroceras_leopardinum",
+                "type": "species",
+                "archival_data": [
+                    "1426101"
+                ]
+            },
+            "volume": null,
+            "page": "p 62, Pl. 2.",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1820336",
+                "legacy_id": "125178",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Opera Botanica. no. 117. (1993) p 62, Pl. 2.",
+            "machine_name": "opera_botanica_no_117_1993_p_62_pl_2",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pteroceras_teres",
+                "type": "species",
+                "archival_data": [
+                    "1426106"
+                ]
+            },
+            "volume": null,
+            "page": "p 62, Pl. 2.",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1820339",
+                "legacy_id": "125182",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        }
+    ]
+}

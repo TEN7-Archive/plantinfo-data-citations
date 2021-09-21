@@ -1,0 +1,143 @@
+{
+    "name": "Endangered Species Bulletin. vol 44, no. 1. (i.e., vol 34, no. 1) (2009)",
+    "machine_name": "endangered_species_bulletin_vol_44_no_1_i_e_vol_34_no_1_2009",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2009",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2121404",
+        "legacy_id": "103511",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Endangered Species Bulletin. vol 44, no. 1. (i.e., vol 34, no. 1) (2009) p 9",
+            "machine_name": "endangered_species_bulletin_vol_44_no_1_i_e_vol_34_no_1_2009_p_9",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "phlox_hirsuta",
+                "type": "species",
+                "archival_data": [
+                    "1423421"
+                ]
+            },
+            "volume": null,
+            "page": "p 9",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1984084",
+                "legacy_id": "397212",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Endangered Species Bulletin. vol 44, no. 1. (i.e., vol 34, no. 1) (2009) p 18-19",
+            "machine_name": "endangered_species_bulletin_vol_44_no_1_i_e_vol_34_no_1_2009_p_18_19",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "trifolium_stoloniferum",
+                "type": "species",
+                "archival_data": [
+                    "1433147"
+                ]
+            },
+            "volume": null,
+            "page": "p 18-19",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1984085",
+                "legacy_id": "397213",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Endangered Species Bulletin. vol 44, no. 1. (i.e., vol 34, no. 1) (2009) p 46-47",
+            "machine_name": "endangered_species_bulletin_vol_44_no_1_i_e_vol_34_no_1_2009_p_46_47",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "trifolium_amoenum",
+                "type": "species",
+                "archival_data": [
+                    "1450590"
+                ]
+            },
+            "volume": null,
+            "page": "p 46-47",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1984086",
+                "legacy_id": "397214",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        }
+    ]
+}

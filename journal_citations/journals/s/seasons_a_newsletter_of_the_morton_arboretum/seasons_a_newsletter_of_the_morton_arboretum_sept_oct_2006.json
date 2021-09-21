@@ -1,0 +1,61 @@
+{
+    "name": "Seasons: A Newsletter of The Morton Arboretum. Sept\/Oct 2006.",
+    "machine_name": "seasons_a_newsletter_of_the_morton_arboretum_sept_oct_2006",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1688269",
+        "legacy_id": "74850",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Seasons: A Newsletter of The Morton Arboretum. Sept\/Oct 2006. p cover",
+            "machine_name": "seasons_a_newsletter_of_the_morton_arboretum_sept_oct_2006_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "acer_freemanii",
+                "type": "species",
+                "archival_data": [
+                    "1403133"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1969440",
+                "legacy_id": "325345",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483193355"
+            }
+        }
+    ]
+}

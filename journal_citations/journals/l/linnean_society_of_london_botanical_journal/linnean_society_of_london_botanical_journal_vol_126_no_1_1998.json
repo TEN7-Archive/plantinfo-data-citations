@@ -1,0 +1,61 @@
+{
+    "name": "Linnean Society of London, Botanical Journal. vol 126, no. 1. (1998)",
+    "machine_name": "linnean_society_of_london_botanical_journal_vol_126_no_1_1998",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1998",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2117248",
+        "legacy_id": "31930",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Linnean Society of London, Botanical Journal. vol 126, no. 1. (1998) p 1",
+            "machine_name": "linnean_society_of_london_botanical_journal_vol_126_no_1_1998_p_1",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ophrys_sphegodes",
+                "type": "species",
+                "archival_data": [
+                    "1427347"
+                ]
+            },
+            "volume": null,
+            "page": "p 1",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1886403",
+                "legacy_id": "225070",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        }
+    ]
+}

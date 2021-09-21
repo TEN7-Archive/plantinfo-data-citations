@@ -1,0 +1,61 @@
+{
+    "name": "Landscape Management. vol 37, no. 5. (1998)",
+    "machine_name": "landscape_management_vol_37_no_5_1998",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1998",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2115286",
+        "legacy_id": "7176",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Landscape Management. vol 37, no. 5. (1998) p 62",
+            "machine_name": "landscape_management_vol_37_no_5_1998_p_62",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "prunus_cultivars_okame",
+                "type": "variety",
+                "archival_data": [
+                    "1488676"
+                ]
+            },
+            "volume": null,
+            "page": "p 62",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1848366",
+                "legacy_id": "157200",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        }
+    ]
+}

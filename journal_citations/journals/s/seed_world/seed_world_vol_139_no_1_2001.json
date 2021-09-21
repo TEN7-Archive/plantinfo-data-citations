@@ -1,0 +1,963 @@
+{
+    "name": "Seed World. vol 139, no. 1. (2001)",
+    "machine_name": "seed_world_vol_139_no_1_2001",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2001",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2116614",
+        "legacy_id": "19631",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Seed World. vol 139, no. 1. (2001) p cover",
+            "machine_name": "seed_world_vol_139_no_1_2001_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cucurbita_s_cultivars_bush_delicata",
+                "type": "variety",
+                "archival_data": [
+                    "1563389"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1874716",
+                "legacy_id": "203830",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Seed World. vol 139, no. 1. (2001) p 10",
+            "machine_name": "seed_world_vol_139_no_1_2001_p_10",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "petunia_cultivars_wave_series",
+                "type": "variety",
+                "archival_data": [
+                    "1481801"
+                ]
+            },
+            "volume": null,
+            "page": "p 10",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1874717",
+                "legacy_id": "203831",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Seed World. vol 139, no. 1. (2001) p 10",
+            "machine_name": "seed_world_vol_139_no_1_2001_p_10",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "viola_wittrockiana_ultima_series",
+                "type": "variety",
+                "archival_data": [
+                    "1500011"
+                ]
+            },
+            "volume": null,
+            "page": "p 10",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1874718",
+                "legacy_id": "203832",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Seed World. vol 139, no. 1. (2001) p 10",
+            "machine_name": "seed_world_vol_139_no_1_2001_p_10",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cleome_cultivars_sparkler_series",
+                "type": "variety",
+                "archival_data": [
+                    "1563623"
+                ]
+            },
+            "volume": null,
+            "page": "p 10",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1874719",
+                "legacy_id": "203833",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Seed World. vol 139, no. 1. (2001) p 30",
+            "machine_name": "seed_world_vol_139_no_1_2001_p_30",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "catharanthus_roseus_jaio_series",
+                "type": "variety",
+                "archival_data": [
+                    "1561414"
+                ]
+            },
+            "volume": null,
+            "page": "p 30",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1874720",
+                "legacy_id": "203834",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Seed World. vol 139, no. 1. (2001) p 30",
+            "machine_name": "seed_world_vol_139_no_1_2001_p_30",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cucumis_sativus_diva",
+                "type": "variety",
+                "archival_data": [
+                    "1563624"
+                ]
+            },
+            "volume": null,
+            "page": "p 30",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1874721",
+                "legacy_id": "203835",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Seed World. vol 139, no. 1. (2001) p 30",
+            "machine_name": "seed_world_vol_139_no_1_2001_p_30",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cucurbita_p_cultivars_orange_smoothie",
+                "type": "variety",
+                "archival_data": [
+                    "1563625"
+                ]
+            },
+            "volume": null,
+            "page": "p 30",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1874722",
+                "legacy_id": "203836",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Seed World. vol 139, no. 1. (2001) p 31; 2 (Adv.)",
+            "machine_name": "seed_world_vol_139_no_1_2001_p_31_2_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "capsicum_h_cultivars_el_rey",
+                "type": "variety",
+                "archival_data": [
+                    "1555814"
+                ]
+            },
+            "volume": null,
+            "page": "p 31; 2 (Adv.)",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1874723",
+                "legacy_id": "203837",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Seed World. vol 139, no. 1. (2001) p 31; 2 (Adv.)",
+            "machine_name": "seed_world_vol_139_no_1_2001_p_31_2_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cucumis_melo_guerrero",
+                "type": "variety",
+                "archival_data": [
+                    "1547010"
+                ]
+            },
+            "volume": null,
+            "page": "p 31; 2 (Adv.)",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1874724",
+                "legacy_id": "203838",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Seed World. vol 139, no. 1. (2001) p 31",
+            "machine_name": "seed_world_vol_139_no_1_2001_p_31",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lycopersicon_cultivars_health_kick",
+                "type": "variety",
+                "archival_data": [
+                    "1563626"
+                ]
+            },
+            "volume": null,
+            "page": "p 31",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1874960",
+                "legacy_id": "203839",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Seed World. vol 139, no. 1. (2001) p 2 (Adv.)",
+            "machine_name": "seed_world_vol_139_no_1_2001_p_2_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "brassica_oleracea_c_fast_vantage",
+                "type": "variety",
+                "archival_data": [
+                    "1555813"
+                ]
+            },
+            "volume": null,
+            "page": "p 2 (Adv.)",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1874961",
+                "legacy_id": "203840",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Seed World. vol 139, no. 1. (2001) p 2 (Adv.)",
+            "machine_name": "seed_world_vol_139_no_1_2001_p_2_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "brassica_rapa_t_royal_crown",
+                "type": "variety",
+                "archival_data": [
+                    "1497991"
+                ]
+            },
+            "volume": null,
+            "page": "p 2 (Adv.)",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": true,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1874962",
+                "legacy_id": "203841",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Seed World. vol 139, no. 1. (2001) p 2 (Adv.)",
+            "machine_name": "seed_world_vol_139_no_1_2001_p_2_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "citrullus_lanatus_swt_8705",
+                "type": "variety",
+                "archival_data": [
+                    "1557388"
+                ]
+            },
+            "volume": null,
+            "page": "p 2 (Adv.)",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1874963",
+                "legacy_id": "203842",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Seed World. vol 139, no. 1. (2001) p 2 (Adv.)",
+            "machine_name": "seed_world_vol_139_no_1_2001_p_2_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "daucus_carota_pacific_gold",
+                "type": "variety",
+                "archival_data": [
+                    "1555812"
+                ]
+            },
+            "volume": null,
+            "page": "p 2 (Adv.)",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": true,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1874964",
+                "legacy_id": "203843",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Seed World. vol 139, no. 1. (2001) p 2 (Adv.)",
+            "machine_name": "seed_world_vol_139_no_1_2001_p_2_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cucumis_melo_megabrew",
+                "type": "variety",
+                "archival_data": [
+                    "1538702"
+                ]
+            },
+            "volume": null,
+            "page": "p 2 (Adv.)",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1874965",
+                "legacy_id": "203844",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Seed World. vol 139, no. 1. (2001) p 2 (Adv.)",
+            "machine_name": "seed_world_vol_139_no_1_2001_p_2_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cucumis_sativus_slice_max",
+                "type": "variety",
+                "archival_data": [
+                    "1555816"
+                ]
+            },
+            "volume": null,
+            "page": "p 2 (Adv.)",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1874966",
+                "legacy_id": "203845",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Seed World. vol 139, no. 1. (2001) p 2 (Adv.)",
+            "machine_name": "seed_world_vol_139_no_1_2001_p_2_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "brassica_oleracea_f_white_magic",
+                "type": "variety",
+                "archival_data": [
+                    "1614705"
+                ]
+            },
+            "volume": null,
+            "page": "p 2 (Adv.)",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1874967",
+                "legacy_id": "203846",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Seed World. vol 139, no. 1. (2001) p 2 (Adv.)",
+            "machine_name": "seed_world_vol_139_no_1_2001_p_2_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "capsicum_s_cultivars_spp_6112",
+                "type": "variety",
+                "archival_data": [
+                    "1550375"
+                ]
+            },
+            "volume": null,
+            "page": "p 2 (Adv.)",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1874968",
+                "legacy_id": "203847",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Seed World. vol 139, no. 1. (2001) p 2 (Adv.)",
+            "machine_name": "seed_world_vol_139_no_1_2001_p_2_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "capsicum_h_cultivars_spp_7501",
+                "type": "variety",
+                "archival_data": [
+                    "1555815"
+                ]
+            },
+            "volume": null,
+            "page": "p 2 (Adv.)",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1874969",
+                "legacy_id": "203848",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Seed World. vol 139, no. 1. (2001) p 2 (Adv.)",
+            "machine_name": "seed_world_vol_139_no_1_2001_p_2_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "brassica_oleracea_l_top_bunch",
+                "type": "variety",
+                "archival_data": [
+                    "1497926"
+                ]
+            },
+            "volume": null,
+            "page": "p 2 (Adv.)",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1874970",
+                "legacy_id": "203849",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Seed World. vol 139, no. 1. (2001) p 2 (Adv.)",
+            "machine_name": "seed_world_vol_139_no_1_2001_p_2_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lycopersicon_cultivars_monica",
+                "type": "variety",
+                "archival_data": [
+                    "1557300"
+                ]
+            },
+            "volume": null,
+            "page": "p 2 (Adv.)",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1874971",
+                "legacy_id": "203850",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Seed World. vol 139, no. 1. (2001) p 2 (Adv.)",
+            "machine_name": "seed_world_vol_139_no_1_2001_p_2_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "brassica_oleracea_b_marathon",
+                "type": "variety",
+                "archival_data": [
+                    "1465009"
+                ]
+            },
+            "volume": null,
+            "page": "p 2 (Adv.)",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1874972",
+                "legacy_id": "203852",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Seed World. vol 139, no. 1. (2001) p 2 (Adv.)",
+            "machine_name": "seed_world_vol_139_no_1_2001_p_2_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "raphanus_sativus_crunchy_royale",
+                "type": "variety",
+                "archival_data": [
+                    "1547978"
+                ]
+            },
+            "volume": null,
+            "page": "p 2 (Adv.)",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": true,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1874973",
+                "legacy_id": "203853",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        }
+    ]
+}

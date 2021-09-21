@@ -1,0 +1,61 @@
+{
+    "name": "Begonian, The. vol 58. May\/Jun. (1991)",
+    "machine_name": "begonian_the_vol_58_may_jun_1991",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1991",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2109547",
+        "legacy_id": "1479",
+        "author": "oitadmin",
+        "created": "1473951060"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Begonian, The. vol 58. May-June. (1991) p backcover",
+            "machine_name": "begonian_the_vol_58_may_june_1991_p_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "begonia_cultivars_brown_jewel",
+                "type": "variety",
+                "archival_data": [
+                    "1464322"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1704325",
+                "legacy_id": "2959",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        }
+    ]
+}

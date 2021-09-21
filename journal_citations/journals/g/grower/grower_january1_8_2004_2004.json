@@ -1,0 +1,102 @@
+{
+    "name": "Grower. January1\/8, 2004. (2004)",
+    "machine_name": "grower_january1_8_2004_2004",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2004",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2118540",
+        "legacy_id": "54329",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grower. January1\/8, 2004. (2004) p 7 (Adv.)",
+            "machine_name": "grower_january1_8_2004_2004_p_7_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "verbena_cultivars_aztec_series",
+                "type": "variety",
+                "archival_data": [
+                    "1541813"
+                ]
+            },
+            "volume": null,
+            "page": "p 7 (Adv.)",
+            "year": "2004",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1913009",
+                "legacy_id": "269090",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Grower. January1\/8, 2004. (2004) p 15",
+            "machine_name": "grower_january1_8_2004_2004_p_15",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_sweet_chariot",
+                "type": "variety",
+                "archival_data": [
+                    "1491751"
+                ]
+            },
+            "volume": null,
+            "page": "p 15",
+            "year": "2004",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1913010",
+                "legacy_id": "269091",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        }
+    ]
+}

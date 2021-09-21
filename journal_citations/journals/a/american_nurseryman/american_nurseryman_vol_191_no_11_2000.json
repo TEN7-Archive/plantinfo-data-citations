@@ -1,0 +1,143 @@
+{
+    "name": "American Nurseryman. vol 191, no. 11. (2000)",
+    "machine_name": "american_nurseryman_vol_191_no_11_2000",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2000",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2116362",
+        "legacy_id": "12429",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "American Nurseryman. vol 191, no. 11. (2000) p 53",
+            "machine_name": "american_nurseryman_vol_191_no_11_2000_p_53",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hedera_helix_treetop",
+                "type": "variety",
+                "archival_data": [
+                    "1474135"
+                ]
+            },
+            "volume": null,
+            "page": "p 53",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1869566",
+                "legacy_id": "186530",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "American Nurseryman. vol 191, no. 11. (2000) p 54",
+            "machine_name": "american_nurseryman_vol_191_no_11_2000_p_54",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hedera_rhombea_creme_de_menthe",
+                "type": "variety",
+                "archival_data": [
+                    "1554474"
+                ]
+            },
+            "volume": null,
+            "page": "p 54",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1869567",
+                "legacy_id": "186531",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "American Nurseryman. vol 191, no. 11. (2000) p 86",
+            "machine_name": "american_nurseryman_vol_191_no_11_2000_p_86",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "sorbus_hybrida",
+                "type": "species",
+                "archival_data": [
+                    "1431169"
+                ]
+            },
+            "volume": null,
+            "page": "p 86",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1869568",
+                "legacy_id": "186532",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "name": "Herb Quarterly, The. no. 59. (1993)",
+    "machine_name": "herb_quarterly_the_no_59_1993",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1993",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113893",
+        "legacy_id": "3679",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Herb Quarterly, The. no. 59. (1993) p 22|25",
+            "machine_name": "herb_quarterly_the_no_59_1993_p_22_25",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "digitalis_purpurea",
+                "type": "species",
+                "archival_data": [
+                    "1408501"
+                ]
+            },
+            "volume": null,
+            "page": "p 22|25",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1780373",
+                "legacy_id": "89344",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Herb Quarterly, The. no. 59. (1993) p 21",
+            "machine_name": "herb_quarterly_the_no_59_1993_p_21",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "stachys_officinalis",
+                "type": "species",
+                "archival_data": [
+                    "1432279"
+                ]
+            },
+            "volume": null,
+            "page": "p 21",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1827856",
+                "legacy_id": "135109",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        }
+    ]
+}

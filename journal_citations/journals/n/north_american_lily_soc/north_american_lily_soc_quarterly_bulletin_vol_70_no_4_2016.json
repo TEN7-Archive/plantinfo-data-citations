@@ -1,0 +1,61 @@
+{
+    "name": "North American Lily Soc., Quarterly Bulletin. vol 70, no. 4. (2016)",
+    "machine_name": "north_american_lily_soc_quarterly_bulletin_vol_70_no_4_2016",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2016",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": "7",
+    "description": null,
+    "archival_data": {
+        "id": "2198311",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1515591784"
+    },
+    "citation_reference_items": [
+        {
+            "name": "North American Lily Soc., Quarterly Bulletin. vol 70, no. 4. (2016) p cover",
+            "machine_name": "north_american_lily_soc_quarterly_bulletin_vol_70_no_4_2016_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lilium_cultivars_casa_blanca",
+                "type": "variety",
+                "archival_data": [
+                    "1478387"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2198316",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1515591873"
+            }
+        }
+    ]
+}

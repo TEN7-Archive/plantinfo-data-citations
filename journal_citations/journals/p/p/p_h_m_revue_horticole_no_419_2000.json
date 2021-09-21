@@ -1,0 +1,102 @@
+{
+    "name": "P.H.M.-Revue Horticole. no. 419. (2000)",
+    "machine_name": "p_h_m_revue_horticole_no_419_2000",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2000",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2116563",
+        "legacy_id": "19049",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "P.H.M.-Revue Horticole. no. 419. (2000) p 11",
+            "machine_name": "p_h_m_revue_horticole_no_419_2000_p_11",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_francoise_gaujard",
+                "type": "variety",
+                "archival_data": [
+                    "1557390"
+                ]
+            },
+            "volume": null,
+            "page": "p 11",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1873719",
+                "legacy_id": "203311",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "P.H.M.-Revue Horticole. no. 419. (2000) p 31",
+            "machine_name": "p_h_m_revue_horticole_no_419_2000_p_31",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lonicera_nitida_maigruen_maygreen",
+                "type": "variety",
+                "archival_data": [
+                    "1515998"
+                ]
+            },
+            "volume": null,
+            "page": "p 31",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1873720",
+                "legacy_id": "203312",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        }
+    ]
+}

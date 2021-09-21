@@ -1,0 +1,881 @@
+{
+    "name": "Australian Plants. vol 13, no. 106. (1986)",
+    "machine_name": "australian_plants_vol_13_no_106_1986",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1986",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2111194",
+        "legacy_id": "1343",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Australian Plants. vol 13, no. 106. (1986) p 277",
+            "machine_name": "australian_plants_vol_13_no_106_1986_p_277",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "dendrobium_cultivars_aussie_ira",
+                "type": "variety",
+                "archival_data": [
+                    "1470872"
+                ]
+            },
+            "volume": null,
+            "page": "p 277",
+            "year": "1986",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1715364",
+                "legacy_id": "12300",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 13, no. 106. (1986) p 277",
+            "machine_name": "australian_plants_vol_13_no_106_1986_p_277",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "dendrobium_cultivars_hilda_poxon",
+                "type": "variety",
+                "archival_data": [
+                    "1471132"
+                ]
+            },
+            "volume": null,
+            "page": "p 277",
+            "year": "1986",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1715659",
+                "legacy_id": "12347",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 13, no. 106. (1986) p 280",
+            "machine_name": "australian_plants_vol_13_no_106_1986_p_280",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "grevillea_cultivars_winpara_gem",
+                "type": "variety",
+                "archival_data": [
+                    "1472858"
+                ]
+            },
+            "volume": null,
+            "page": "p 280",
+            "year": "1986",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1718351",
+                "legacy_id": "17024",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 13, no. 106. (1986) p 269",
+            "machine_name": "australian_plants_vol_13_no_106_1986_p_269",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "acacia_adunca",
+                "type": "species",
+                "archival_data": [
+                    "1401215"
+                ]
+            },
+            "volume": null,
+            "page": "p 269",
+            "year": "1986",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "1764045",
+                "legacy_id": "67409",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 13, no. 106. (1986) p backcover",
+            "machine_name": "australian_plants_vol_13_no_106_1986_p_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "boronia_pinnata",
+                "type": "species",
+                "archival_data": [
+                    "1402313"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover",
+            "year": "1986",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1772898",
+                "legacy_id": "76532",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 13, no. 106. (1986) p 241",
+            "machine_name": "australian_plants_vol_13_no_106_1986_p_241",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "conospermum_taxifolium",
+                "type": "species",
+                "archival_data": [
+                    "1404512"
+                ]
+            },
+            "volume": null,
+            "page": "p 241",
+            "year": "1986",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1774729",
+                "legacy_id": "83874",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 13, no. 106. (1986) p 269",
+            "machine_name": "australian_plants_vol_13_no_106_1986_p_269",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lechenaultia_formosa",
+                "type": "species",
+                "archival_data": [
+                    "1421458"
+                ]
+            },
+            "volume": null,
+            "page": "p 269",
+            "year": "1986",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1799710",
+                "legacy_id": "107795",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 13, no. 106. (1986) p cover",
+            "machine_name": "australian_plants_vol_13_no_106_1986_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lambertia_formosa",
+                "type": "species",
+                "archival_data": [
+                    "1420673"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1986",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1801979",
+                "legacy_id": "107124",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 13, no. 106. (1986) p 240",
+            "machine_name": "australian_plants_vol_13_no_106_1986_p_240",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "macadamia_tetraphylla",
+                "type": "species",
+                "archival_data": [
+                    "1420812"
+                ]
+            },
+            "volume": null,
+            "page": "p 240",
+            "year": "1986",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1806099",
+                "legacy_id": "110840",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 13, no. 106. (1986) p 273",
+            "machine_name": "australian_plants_vol_13_no_106_1986_p_273",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pterostylis_vittata",
+                "type": "species",
+                "archival_data": [
+                    "1426445"
+                ]
+            },
+            "volume": null,
+            "page": "p 273",
+            "year": "1986",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1815216",
+                "legacy_id": "125296",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 13, no. 106. (1986) p 252",
+            "machine_name": "australian_plants_vol_13_no_106_1986_p_252",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pultenaea_quadricolor",
+                "type": "species",
+                "archival_data": [
+                    "1426866"
+                ]
+            },
+            "volume": null,
+            "page": "p 252",
+            "year": "1986",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1816485",
+                "legacy_id": "125588",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 13, no. 106. (1986) p 249",
+            "machine_name": "australian_plants_vol_13_no_106_1986_p_249",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pultenaea_subspicata",
+                "type": "species",
+                "archival_data": [
+                    "1426874"
+                ]
+            },
+            "volume": null,
+            "page": "p 249",
+            "year": "1986",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1816496",
+                "legacy_id": "125599",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 13, no. 106. (1986) p 244",
+            "machine_name": "australian_plants_vol_13_no_106_1986_p_244",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "persoonia_chamaepitys",
+                "type": "species",
+                "archival_data": [
+                    "1421941"
+                ]
+            },
+            "volume": null,
+            "page": "p 244",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2357086",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1532691756"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 13, no. 106. (1986) p 245",
+            "machine_name": "australian_plants_vol_13_no_106_1986_p_245",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "persoonia_pinifolia",
+                "type": "species",
+                "archival_data": [
+                    "1422254"
+                ]
+            },
+            "volume": null,
+            "page": "p 245",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2357091",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1532691756"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 13, no. 106. (1986) p 245",
+            "machine_name": "australian_plants_vol_13_no_106_1986_p_245",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "persoonia_levis",
+                "type": "species",
+                "archival_data": [
+                    "1422244"
+                ]
+            },
+            "volume": null,
+            "page": "p 245",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2357096",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1532691756"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 13, no. 106. (1986) p 249",
+            "machine_name": "australian_plants_vol_13_no_106_1986_p_249",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pultenaea_capitata",
+                "type": "species",
+                "archival_data": [
+                    "1426833"
+                ]
+            },
+            "volume": null,
+            "page": "p 249",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2357101",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1532691756"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 13, no. 106. (1986) p 253",
+            "machine_name": "australian_plants_vol_13_no_106_1986_p_253",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pultenaea_canescens",
+                "type": "species",
+                "archival_data": [
+                    "1426832"
+                ]
+            },
+            "volume": null,
+            "page": "p 253",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2357106",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1532691756"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 13, no. 106. (1986) p 281",
+            "machine_name": "australian_plants_vol_13_no_106_1986_p_281",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hibiscus_meraukensis",
+                "type": "species",
+                "archival_data": [
+                    "1459838"
+                ]
+            },
+            "volume": null,
+            "page": "p 281",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2357111",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1532691756"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 13, no. 106. (1986) p 281",
+            "machine_name": "australian_plants_vol_13_no_106_1986_p_281",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "banksia_serrata",
+                "type": "species",
+                "archival_data": [
+                    "1399595"
+                ]
+            },
+            "volume": null,
+            "page": "p 281",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2357116",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1532691756"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 13, no. 106. (1986) p 281",
+            "machine_name": "australian_plants_vol_13_no_106_1986_p_281",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "dillenia_alata",
+                "type": "species",
+                "archival_data": [
+                    "1408515"
+                ]
+            },
+            "volume": null,
+            "page": "p 281",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2357121",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1532691756"
+            }
+        },
+        {
+            "name": "Australian Plants. vol 13, no. 106. (1986) p 281",
+            "machine_name": "australian_plants_vol_13_no_106_1986_p_281",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "correa_reflexa",
+                "type": "species",
+                "archival_data": [
+                    "1405655"
+                ]
+            },
+            "volume": null,
+            "page": "p 281",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": true,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2357126",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1532691756"
+            }
+        }
+    ]
+}

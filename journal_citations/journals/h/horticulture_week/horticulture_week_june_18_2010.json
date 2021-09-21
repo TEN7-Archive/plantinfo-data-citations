@@ -1,0 +1,143 @@
+{
+    "name": "Horticulture Week. June 18, 2010.",
+    "machine_name": "horticulture_week_june_18_2010",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1691853",
+        "legacy_id": "109430",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Horticulture Week. June 18, 2010. p 10. Pl. 7-8",
+            "machine_name": "horticulture_week_june_18_2010_p_10_pl_7_8",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "petunia_cultivars_veranda_series",
+                "type": "variety",
+                "archival_data": [
+                    "1603339"
+                ]
+            },
+            "volume": null,
+            "page": "p 10. Pl. 7-8",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2054788",
+                "legacy_id": "415678",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Horticulture Week. June 18, 2010. p 13",
+            "machine_name": "horticulture_week_june_18_2010_p_13",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "streptocarpus_cultivars_harlequin_blue",
+                "type": "variety",
+                "archival_data": [
+                    "1652876"
+                ]
+            },
+            "volume": null,
+            "page": "p 13",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2064724",
+                "legacy_id": "416232",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Horticulture Week. June 18, 2010. p 18, Pl. 1",
+            "machine_name": "horticulture_week_june_18_2010_p_18_pl_1",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "physocarpus_opulifolius_diablo",
+                "type": "variety",
+                "archival_data": [
+                    "1539747"
+                ]
+            },
+            "volume": null,
+            "page": "p 18, Pl. 1",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2070159",
+                "legacy_id": "416233",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        }
+    ]
+}

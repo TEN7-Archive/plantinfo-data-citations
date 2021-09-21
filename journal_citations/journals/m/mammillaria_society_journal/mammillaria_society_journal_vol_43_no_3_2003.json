@@ -1,0 +1,61 @@
+{
+    "name": "Mammillaria Society, Journal. vol 43, no. 3. (2003)",
+    "machine_name": "mammillaria_society_journal_vol_43_no_3_2003",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2003",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2118280",
+        "legacy_id": "49635",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Mammillaria Society, Journal. vol 43, no. 3. (2003) p 28",
+            "machine_name": "mammillaria_society_journal_vol_43_no_3_2003_p_28",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "mammillaria_saetigera",
+                "type": "species",
+                "archival_data": [
+                    "1417062"
+                ]
+            },
+            "volume": null,
+            "page": "p 28",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1908183",
+                "legacy_id": "261731",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        }
+    ]
+}

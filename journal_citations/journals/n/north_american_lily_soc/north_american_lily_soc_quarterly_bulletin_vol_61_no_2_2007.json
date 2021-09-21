@@ -1,0 +1,102 @@
+{
+    "name": "North American Lily Soc., Quarterly Bulletin. vol 61, no. 2. (2007)",
+    "machine_name": "north_american_lily_soc_quarterly_bulletin_vol_61_no_2_2007",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2007",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2119298",
+        "legacy_id": "94330",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "North American Lily Soc., Quarterly Bulletin. vol 61, no. 2. (2007) p cover",
+            "machine_name": "north_american_lily_soc_quarterly_bulletin_vol_61_no_2_2007_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lilium_cultivars_iowa_rose",
+                "type": "variety",
+                "archival_data": [
+                    "1517644"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "2007",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1928426",
+                "legacy_id": "373663",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "North American Lily Soc., Quarterly Bulletin. vol 61, no. 2. (2007) p 16",
+            "machine_name": "north_american_lily_soc_quarterly_bulletin_vol_61_no_2_2007_p_16",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lilium_cultivars_lady_tulare",
+                "type": "variety",
+                "archival_data": [
+                    "1590790"
+                ]
+            },
+            "volume": null,
+            "page": "p 16",
+            "year": "2007",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1928427",
+                "legacy_id": "373664",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        }
+    ]
+}

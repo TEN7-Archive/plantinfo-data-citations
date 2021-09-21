@@ -1,0 +1,1250 @@
+{
+    "name": "Flora of Thailand. vol 7, pt. 1. (1999)",
+    "machine_name": "flora_of_thailand_vol_7_pt_1_1999",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1999",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2117537",
+        "legacy_id": "40609",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Flora of Thailand. vol 7, pt. 1. (1999) p 250, Pl. III(1);backcover.",
+            "machine_name": "flora_of_thailand_vol_7_pt_1_1999_p_250_pl_iii_1_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "kopsia_fruticosa",
+                "type": "species",
+                "archival_data": [
+                    "1419909"
+                ]
+            },
+            "volume": null,
+            "page": "p 250, Pl. III(1);backcover.",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1891477",
+                "legacy_id": "236790",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Flora of Thailand. vol 7, pt. 1. (1999) p 250, Pl. I(1).",
+            "machine_name": "flora_of_thailand_vol_7_pt_1_1999_p_250_pl_i_1",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "melodinus_cambodiensis",
+                "type": "species",
+                "archival_data": [
+                    "1448746"
+                ]
+            },
+            "volume": null,
+            "page": "p 250, Pl. I(1).",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1891478",
+                "legacy_id": "236810",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Flora of Thailand. vol 7, pt. 1. (1999) p 250, Pl. I(2).",
+            "machine_name": "flora_of_thailand_vol_7_pt_1_1999_p_250_pl_i_2",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "willughbeia_edulis",
+                "type": "species",
+                "archival_data": [
+                    "1448747"
+                ]
+            },
+            "volume": null,
+            "page": "p 250, Pl. I(2).",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": true,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1891479",
+                "legacy_id": "236830",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Flora of Thailand. vol 7, pt. 1. (1999) p 250, Pl. I(3).",
+            "machine_name": "flora_of_thailand_vol_7_pt_1_1999_p_250_pl_i_3",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "tabernaemontana_bufalina",
+                "type": "species",
+                "archival_data": [
+                    "1448748"
+                ]
+            },
+            "volume": null,
+            "page": "p 250, Pl. I(3).",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": true,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1891480",
+                "legacy_id": "236850",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Flora of Thailand. vol 7, pt. 1. (1999) p 250, Pl. I(4).",
+            "machine_name": "flora_of_thailand_vol_7_pt_1_1999_p_250_pl_i_4",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "tabernaemontana_pandacaqui",
+                "type": "species",
+                "archival_data": [
+                    "1448749"
+                ]
+            },
+            "volume": null,
+            "page": "p 250, Pl. I(4).",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1891481",
+                "legacy_id": "236851",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Flora of Thailand. vol 7, pt. 1. (1999) p 250, Pl. II(1-2).",
+            "machine_name": "flora_of_thailand_vol_7_pt_1_1999_p_250_pl_ii_1_2",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "alstonia_macrophylla",
+                "type": "species",
+                "archival_data": [
+                    "1397868"
+                ]
+            },
+            "volume": null,
+            "page": "p 250, Pl. II(1-2).",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": true,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1891482",
+                "legacy_id": "236852",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Flora of Thailand. vol 7, pt. 1. (1999) p 250, Pl. II(3).",
+            "machine_name": "flora_of_thailand_vol_7_pt_1_1999_p_250_pl_ii_3",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rauvolfia_serpentina",
+                "type": "species",
+                "archival_data": [
+                    "1422867"
+                ]
+            },
+            "volume": null,
+            "page": "p 250, Pl. II(3).",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1891483",
+                "legacy_id": "236853",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Flora of Thailand. vol 7, pt. 1. (1999) p 250, Pl. II(4).",
+            "machine_name": "flora_of_thailand_vol_7_pt_1_1999_p_250_pl_ii_4",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rauvolfia_sumatrana",
+                "type": "species",
+                "archival_data": [
+                    "1448750"
+                ]
+            },
+            "volume": null,
+            "page": "p 250, Pl. II(4).",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1891484",
+                "legacy_id": "236854",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Flora of Thailand. vol 7, pt. 1. (1999) p 250, Pl. III(2).",
+            "machine_name": "flora_of_thailand_vol_7_pt_1_1999_p_250_pl_iii_2",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cerbera_manghas",
+                "type": "species",
+                "archival_data": [
+                    "1405163"
+                ]
+            },
+            "volume": null,
+            "page": "p 250, Pl. III(2).",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1891485",
+                "legacy_id": "236855",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Flora of Thailand. vol 7, pt. 1. (1999) p 250, Pl. III(3-4).",
+            "machine_name": "flora_of_thailand_vol_7_pt_1_1999_p_250_pl_iii_3_4",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cerbera_odollam",
+                "type": "species",
+                "archival_data": [
+                    "1405164"
+                ]
+            },
+            "volume": null,
+            "page": "p 250, Pl. III(3-4).",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1891486",
+                "legacy_id": "236856",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Flora of Thailand. vol 7, pt. 1. (1999) p 250, Pl. IV(2).",
+            "machine_name": "flora_of_thailand_vol_7_pt_1_1999_p_250_pl_iv_2",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "holarrhena_pubescens",
+                "type": "species",
+                "archival_data": [
+                    "1444666"
+                ]
+            },
+            "volume": null,
+            "page": "p 250, Pl. IV(2).",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1891487",
+                "legacy_id": "236857",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Flora of Thailand. vol 7, pt. 1. (1999) p 250, Pl. IV(1).",
+            "machine_name": "flora_of_thailand_vol_7_pt_1_1999_p_250_pl_iv_1",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "holarrhena_curtisii",
+                "type": "species",
+                "archival_data": [
+                    "1448751"
+                ]
+            },
+            "volume": null,
+            "page": "p 250, Pl. IV(1).",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1891488",
+                "legacy_id": "236870",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Flora of Thailand. vol 7, pt. 1. (1999) p 250, Pl. IV(3).",
+            "machine_name": "flora_of_thailand_vol_7_pt_1_1999_p_250_pl_iv_3",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "spirolobium_cambodianum",
+                "type": "species",
+                "archival_data": [
+                    "1448752"
+                ]
+            },
+            "volume": null,
+            "page": "p 250, Pl. IV(3).",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1891775",
+                "legacy_id": "236970",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Flora of Thailand. vol 7, pt. 1. (1999) p 250, Pl. IV(4).",
+            "machine_name": "flora_of_thailand_vol_7_pt_1_1999_p_250_pl_iv_4",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "strophanthus_wallichii",
+                "type": "species",
+                "archival_data": [
+                    "1448753"
+                ]
+            },
+            "volume": null,
+            "page": "p 250, Pl. IV(4).",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1891776",
+                "legacy_id": "236971",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Flora of Thailand. vol 7, pt. 1. (1999) p 250, Pl. V(1).",
+            "machine_name": "flora_of_thailand_vol_7_pt_1_1999_p_250_pl_v_1",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "wrightia_dubia",
+                "type": "species",
+                "archival_data": [
+                    "1438002"
+                ]
+            },
+            "volume": null,
+            "page": "p 250, Pl. V(1).",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1891777",
+                "legacy_id": "236972",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Flora of Thailand. vol 7, pt. 1. (1999) p 250, Pl. V(3).",
+            "machine_name": "flora_of_thailand_vol_7_pt_1_1999_p_250_pl_v_3",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "wrightia_pubescens",
+                "type": "species",
+                "archival_data": [
+                    "1438003"
+                ]
+            },
+            "volume": null,
+            "page": "p 250, Pl. V(3).",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1891778",
+                "legacy_id": "236973",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Flora of Thailand. vol 7, pt. 1. (1999) p 250, Pl. V(4).",
+            "machine_name": "flora_of_thailand_vol_7_pt_1_1999_p_250_pl_v_4",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "wrightia_viridiflora",
+                "type": "species",
+                "archival_data": [
+                    "1448755"
+                ]
+            },
+            "volume": null,
+            "page": "p 250, Pl. V(4).",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1891779",
+                "legacy_id": "236974",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Flora of Thailand. vol 7, pt. 1. (1999) p 250, Pl. V(2).",
+            "machine_name": "flora_of_thailand_vol_7_pt_1_1999_p_250_pl_v_2",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "wrightia_lanceolata",
+                "type": "species",
+                "archival_data": [
+                    "1448754"
+                ]
+            },
+            "volume": null,
+            "page": "p 250, Pl. V(2).",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1891780",
+                "legacy_id": "236975",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Flora of Thailand. vol 7, pt. 1. (1999) p 250, Pl. VI(1).",
+            "machine_name": "flora_of_thailand_vol_7_pt_1_1999_p_250_pl_vi_1",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "beaumontia_multiflora",
+                "type": "species",
+                "archival_data": [
+                    "1449024"
+                ]
+            },
+            "volume": null,
+            "page": "p 250, Pl. VI(1).",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1891781",
+                "legacy_id": "236990",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Flora of Thailand. vol 7, pt. 1. (1999) p 250, Pl. VI(2).",
+            "machine_name": "flora_of_thailand_vol_7_pt_1_1999_p_250_pl_vi_2",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "aganosma_cymosa",
+                "type": "species",
+                "archival_data": [
+                    "1449025"
+                ]
+            },
+            "volume": null,
+            "page": "p 250, Pl. VI(2).",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": true,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1891782",
+                "legacy_id": "236991",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Flora of Thailand. vol 7, pt. 1. (1999) p 250, Pl. VI(3).",
+            "machine_name": "flora_of_thailand_vol_7_pt_1_1999_p_250_pl_vi_3",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "chonemorpha_fragrans",
+                "type": "species",
+                "archival_data": [
+                    "1406679"
+                ]
+            },
+            "volume": null,
+            "page": "p 250, Pl. VI(3).",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1891783",
+                "legacy_id": "236992",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Flora of Thailand. vol 7, pt. 1. (1999) p 250, Pl. VI(4).",
+            "machine_name": "flora_of_thailand_vol_7_pt_1_1999_p_250_pl_vi_4",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "parameria_laevigata",
+                "type": "species",
+                "archival_data": [
+                    "1449026"
+                ]
+            },
+            "volume": null,
+            "page": "p 250, Pl. VI(4).",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1891784",
+                "legacy_id": "236993",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Flora of Thailand. vol 7, pt. 1. (1999) p 250, Pl. VII(2).",
+            "machine_name": "flora_of_thailand_vol_7_pt_1_1999_p_250_pl_vii_2",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "dodonaea_viscosa",
+                "type": "species",
+                "archival_data": [
+                    "1403568"
+                ]
+            },
+            "volume": null,
+            "page": "p 250, Pl. VII(2).",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1891785",
+                "legacy_id": "236994",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Flora of Thailand. vol 7, pt. 1. (1999) p 250, Pl. VII(3).",
+            "machine_name": "flora_of_thailand_vol_7_pt_1_1999_p_250_pl_vii_3",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lepisanthes_rubiginosa",
+                "type": "species",
+                "archival_data": [
+                    "1449027"
+                ]
+            },
+            "volume": null,
+            "page": "p 250, Pl. VII(3).",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1891786",
+                "legacy_id": "236995",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Flora of Thailand. vol 7, pt. 1. (1999) p 250, Pl. VII(4).",
+            "machine_name": "flora_of_thailand_vol_7_pt_1_1999_p_250_pl_vii_4",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lepisanthes_senegalensis",
+                "type": "species",
+                "archival_data": [
+                    "1449029"
+                ]
+            },
+            "volume": null,
+            "page": "p 250, Pl. VII(4).",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1891787",
+                "legacy_id": "236996",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Flora of Thailand. vol 7, pt. 1. (1999) p 250, Pl. VII(1).",
+            "machine_name": "flora_of_thailand_vol_7_pt_1_1999_p_250_pl_vii_1",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "primula_siamensis",
+                "type": "species",
+                "archival_data": [
+                    "1449028"
+                ]
+            },
+            "volume": null,
+            "page": "p 250, Pl. VII(1).",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1891788",
+                "legacy_id": "236997",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Flora of Thailand. vol 7, pt. 1. (1999) p 250, Pl. VIII(2).",
+            "machine_name": "flora_of_thailand_vol_7_pt_1_1999_p_250_pl_viii_2",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "nephelium_hypoleucum",
+                "type": "species",
+                "archival_data": [
+                    "1449030"
+                ]
+            },
+            "volume": null,
+            "page": "p 250, Pl. VIII(2).",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": true,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1891790",
+                "legacy_id": "236999",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Flora of Thailand. vol 7, pt. 1. (1999) p 250, Pl. VIII(3).",
+            "machine_name": "flora_of_thailand_vol_7_pt_1_1999_p_250_pl_viii_3",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "xerospermum_noronhianum",
+                "type": "species",
+                "archival_data": [
+                    "1449031"
+                ]
+            },
+            "volume": null,
+            "page": "p 250, Pl. VIII(3).",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1891791",
+                "legacy_id": "237010",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Flora of Thailand. vol 7, pt. 1. (1999) p 250, Pl. VIII(1).",
+            "machine_name": "flora_of_thailand_vol_7_pt_1_1999_p_250_pl_viii_1",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "dimocarpus_longan_obtusus",
+                "type": "variety",
+                "archival_data": [
+                    "1570054"
+                ]
+            },
+            "volume": null,
+            "page": "p 250, Pl. VIII(1).",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": true,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1891792",
+                "legacy_id": "237011",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Flora of Thailand. vol 7, pt. 1. (1999) p 250, Pl. VIII(4).",
+            "machine_name": "flora_of_thailand_vol_7_pt_1_1999_p_250_pl_viii_4",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "arfeuillea_arborescens",
+                "type": "species",
+                "archival_data": [
+                    "1449032"
+                ]
+            },
+            "volume": null,
+            "page": "p 250, Pl. VIII(4).",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": true,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": true,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1891793",
+                "legacy_id": "237012",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        }
+    ]
+}

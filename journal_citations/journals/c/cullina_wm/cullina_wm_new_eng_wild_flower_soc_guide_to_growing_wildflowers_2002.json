@@ -1,0 +1,61 @@
+{
+    "name": "Cullina, Wm. New Eng. Wild Flower Soc. Guide to Growing...Wildflowers. (2002)",
+    "machine_name": "cullina_wm_new_eng_wild_flower_soc_guide_to_growing_wildflowers_2002",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2002",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2117698",
+        "legacy_id": "38329",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Cullina, Wm. New Eng. Wild Flower Soc. Guide to Growing...Wildflowers. (2002) p 119",
+            "machine_name": "cullina_wm_new_eng_wild_flower_soc_guide_to_growing_wildflowers_2002_p_119",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "asarum_minus",
+                "type": "species",
+                "archival_data": [
+                    "1437689"
+                ]
+            },
+            "volume": null,
+            "page": "p 119",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1895511",
+                "legacy_id": "235670",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "name": "Audubon. vol 109, no. 2. (2007)",
+    "machine_name": "audubon_vol_109_no_2_2007",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2007",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2119028",
+        "legacy_id": "80156",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Audubon. vol 109, no. 2. (2007) p 84",
+            "machine_name": "audubon_vol_109_no_2_2007_p_84",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lactuca_cultivars_eirsalat",
+                "type": "variety",
+                "archival_data": [
+                    "1606702"
+                ]
+            },
+            "volume": null,
+            "page": "p 84",
+            "year": "2007",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1921419",
+                "legacy_id": "338527",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "Audubon. vol 109, no. 2. (2007) p 91",
+            "machine_name": "audubon_vol_109_no_2_2007_p_91",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_glauca",
+                "type": "species",
+                "archival_data": [
+                    "1427622"
+                ]
+            },
+            "volume": null,
+            "page": "p 91",
+            "year": "2007",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1921420",
+                "legacy_id": "338528",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        },
+        {
+            "name": "Audubon. vol 109, no. 2. (2007) p 91",
+            "machine_name": "audubon_vol_109_no_2_2007_p_91",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lycopersicon_cultivars_millie_s_best",
+                "type": "variety",
+                "archival_data": [
+                    "1606704"
+                ]
+            },
+            "volume": null,
+            "page": "p 91",
+            "year": "2007",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1921421",
+                "legacy_id": "338529",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483186869"
+            }
+        }
+    ]
+}

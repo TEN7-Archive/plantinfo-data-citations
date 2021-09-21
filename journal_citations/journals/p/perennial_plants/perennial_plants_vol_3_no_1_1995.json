@@ -1,0 +1,61 @@
+{
+    "name": "Perennial Plants. vol 3, no. 1. (1995)",
+    "machine_name": "perennial_plants_vol_3_no_1_1995",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1995",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114574",
+        "legacy_id": "5135",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Perennial Plants. vol 3, no. 1. (1995) p cover",
+            "machine_name": "perennial_plants_vol_3_no_1_1995_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "sasa_veitchii",
+                "type": "species",
+                "archival_data": [
+                    "1431057"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1995",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1829216",
+                "legacy_id": "131500",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        }
+    ]
+}

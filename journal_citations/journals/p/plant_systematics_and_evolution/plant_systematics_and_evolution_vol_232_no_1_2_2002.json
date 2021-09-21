@@ -1,0 +1,102 @@
+{
+    "name": "Plant Systematics and Evolution. vol 232, no. 1-2. (2002)",
+    "machine_name": "plant_systematics_and_evolution_vol_232_no_1_2_2002",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2002",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2117738",
+        "legacy_id": "41589",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Plant Systematics and Evolution. vol 232, no. 1-2. (2002) p cover",
+            "machine_name": "plant_systematics_and_evolution_vol_232_no_1_2_2002_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "alpinia_hainanensis",
+                "type": "species",
+                "archival_data": [
+                    "1449771"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1896206",
+                "legacy_id": "239950",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Plant Systematics and Evolution. vol 232, no. 1-2. (2002) p 128, Pl. 1-6.",
+            "machine_name": "plant_systematics_and_evolution_vol_232_no_1_2_2002_p_128_pl_1_6",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "alpinia_kwangsiensis",
+                "type": "species",
+                "archival_data": [
+                    "1441332"
+                ]
+            },
+            "volume": null,
+            "page": "p 128, Pl. 1-6.",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1896207",
+                "legacy_id": "239951",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        }
+    ]
+}

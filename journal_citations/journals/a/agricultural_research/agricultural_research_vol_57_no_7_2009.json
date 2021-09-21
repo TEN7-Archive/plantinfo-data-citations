@@ -1,0 +1,61 @@
+{
+    "name": "Agricultural Research. vol 57, no. 7. (2009)",
+    "machine_name": "agricultural_research_vol_57_no_7_2009",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2009",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2121462",
+        "legacy_id": "104450",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Agricultural Research. vol 57, no. 7. (2009) p 4-5",
+            "machine_name": "agricultural_research_vol_57_no_7_2009_p_4_5",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lupinus_caudatus",
+                "type": "species",
+                "archival_data": [
+                    "1434857"
+                ]
+            },
+            "volume": null,
+            "page": "p 4-5",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1986035",
+                "legacy_id": "399683",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        }
+    ]
+}

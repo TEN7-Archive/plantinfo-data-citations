@@ -1,0 +1,61 @@
+{
+    "name": "HortScience. vol 34, no. 6. (1999)",
+    "machine_name": "hortscience_vol_34_no_6_1999",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1999",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2116103",
+        "legacy_id": "8020",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "HortScience. vol 34, no. 6. (1999) p cover",
+            "machine_name": "hortscience_vol_34_no_6_1999_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "prunus_pl_cultivars_bluebyrd",
+                "type": "variety",
+                "archival_data": [
+                    "1543003"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1863758",
+                "legacy_id": "167587",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        }
+    ]
+}

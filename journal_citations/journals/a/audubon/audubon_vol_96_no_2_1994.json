@@ -1,0 +1,102 @@
+{
+    "name": "Audubon. vol 96, no. 2. (1994)",
+    "machine_name": "audubon_vol_96_no_2_1994",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1994",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113903",
+        "legacy_id": "1223",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Audubon. vol 96, no. 2. (1994) p 16",
+            "machine_name": "audubon_vol_96_no_2_1994_p_16",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "dionaea_muscipula",
+                "type": "species",
+                "archival_data": [
+                    "1408837"
+                ]
+            },
+            "volume": null,
+            "page": "p 16",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1780713",
+                "legacy_id": "89444",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Audubon. vol 96, no. 2. (1994) p 22",
+            "machine_name": "audubon_vol_96_no_2_1994_p_22",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hibiscus_cannabinus",
+                "type": "species",
+                "archival_data": [
+                    "1419061"
+                ]
+            },
+            "volume": null,
+            "page": "p 22",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1795206",
+                "legacy_id": "102659",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        }
+    ]
+}

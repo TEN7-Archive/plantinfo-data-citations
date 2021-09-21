@@ -1,0 +1,61 @@
+{
+    "name": "Nature. vol 406, no. 6799. (2000)",
+    "machine_name": "nature_vol_406_no_6799_2000",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2000",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2118610",
+        "legacy_id": "52249",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Nature. vol 406, no. 6799. (2000) p 944",
+            "machine_name": "nature_vol_406_no_6799_2000_p_944",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "veratrum_californicum",
+                "type": "species",
+                "archival_data": [
+                    "1430158"
+                ]
+            },
+            "volume": null,
+            "page": "p 944",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1914203",
+                "legacy_id": "267019",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        }
+    ]
+}

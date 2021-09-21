@@ -1,0 +1,102 @@
+{
+    "name": "American Vegetable Grower. vol 49, no. 4. (2001)",
+    "machine_name": "american_vegetable_grower_vol_49_no_4_2001",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2001",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2116855",
+        "legacy_id": "22350",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "American Vegetable Grower. vol 49, no. 4. (2001) p 9",
+            "machine_name": "american_vegetable_grower_vol_49_no_4_2001_p_9",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ambrosia_artemisiifolia",
+                "type": "species",
+                "archival_data": [
+                    "1398259"
+                ]
+            },
+            "volume": null,
+            "page": "p 9",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1879289",
+                "legacy_id": "208070",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "American Vegetable Grower. vol 49, no. 4. (2001) p 52",
+            "machine_name": "american_vegetable_grower_vol_49_no_4_2001_p_52",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "zea_c_cultivars_candy_corner",
+                "type": "variety",
+                "archival_data": [
+                    "1496355"
+                ]
+            },
+            "volume": null,
+            "page": "p 52",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1879290",
+                "legacy_id": "208090",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        }
+    ]
+}

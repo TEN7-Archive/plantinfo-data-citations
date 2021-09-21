@@ -1,0 +1,61 @@
+{
+    "name": "Flora of Ecuador. no. 9. (1978)",
+    "machine_name": "flora_of_ecuador_no_9_1978",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1978",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114471",
+        "legacy_id": "2580",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Flora of Ecuador. no. 9. (1978) p frontispiece",
+            "machine_name": "flora_of_ecuador_no_9_1978_p_frontispiece",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "porphyrostachys_pilifera",
+                "type": "species",
+                "archival_data": [
+                    "1423079"
+                ]
+            },
+            "volume": null,
+            "page": "p frontispiece",
+            "year": "1978",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1818914",
+                "legacy_id": "123487",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        }
+    ]
+}

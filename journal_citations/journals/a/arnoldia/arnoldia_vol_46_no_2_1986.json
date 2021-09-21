@@ -1,0 +1,102 @@
+{
+    "name": "Arnoldia. vol 46, no. 2. (1986)",
+    "machine_name": "arnoldia_vol_46_no_2_1986",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1986",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113784",
+        "legacy_id": "1178",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Arnoldia. vol 46, no. 2. (1986) p cover",
+            "machine_name": "arnoldia_vol_46_no_2_1986_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "catalpa_speciosa",
+                "type": "species",
+                "archival_data": [
+                    "1409354"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1986",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1776136",
+                "legacy_id": "80132",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Arnoldia. vol 46, no. 2. (1986) p backcover",
+            "machine_name": "arnoldia_vol_46_no_2_1986_p_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "prunus_maackii",
+                "type": "species",
+                "archival_data": [
+                    "1425353"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover",
+            "year": "1986",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1818736",
+                "legacy_id": "124798",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        }
+    ]
+}

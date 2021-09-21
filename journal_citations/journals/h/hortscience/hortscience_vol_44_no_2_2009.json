@@ -1,0 +1,61 @@
+{
+    "name": "HortScience. vol 44, no. 2. (2009)",
+    "machine_name": "hortscience_vol_44_no_2_2009",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2009",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2119871",
+        "legacy_id": "101809",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "HortScience. vol 44, no. 2. (2009) p 474",
+            "machine_name": "hortscience_vol_44_no_2_2009_p_474",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lysimachia_christiniae_zixin",
+                "type": "variety",
+                "archival_data": [
+                    "1621476"
+                ]
+            },
+            "volume": null,
+            "page": "p 474",
+            "year": "2009",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1942645",
+                "legacy_id": "393512",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        }
+    ]
+}

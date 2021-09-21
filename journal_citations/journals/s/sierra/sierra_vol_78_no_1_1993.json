@@ -1,0 +1,102 @@
+{
+    "name": "Sierra. vol 78, no. 1. (1993)",
+    "machine_name": "sierra_vol_78_no_1_1993",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1993",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113993",
+        "legacy_id": "5508",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Sierra. vol 78, no. 1. (1993) p 70",
+            "machine_name": "sierra_vol_78_no_1_1993_p_70",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "chamerion_angustifolium",
+                "type": "species",
+                "archival_data": [
+                    "1405924"
+                ]
+            },
+            "volume": null,
+            "page": "p 70",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1786189",
+                "legacy_id": "92216",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Sierra. vol 78, no. 1. (1993) p 44",
+            "machine_name": "sierra_vol_78_no_1_1993_p_44",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "tillandsia_cyanea",
+                "type": "species",
+                "archival_data": [
+                    "1431266"
+                ]
+            },
+            "volume": null,
+            "page": "p 44",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1832862",
+                "legacy_id": "137751",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        }
+    ]
+}

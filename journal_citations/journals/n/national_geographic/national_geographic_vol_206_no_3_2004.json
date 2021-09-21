@@ -1,0 +1,61 @@
+{
+    "name": "National Geographic. vol 206, no. 3. (2004)",
+    "machine_name": "national_geographic_vol_206_no_3_2004",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": "2004",
+    "pulling_date": "7",
+    "description": null,
+    "archival_data": {
+        "id": "2629441",
+        "legacy_id": null,
+        "author": "kallen",
+        "created": "1613327383"
+    },
+    "citation_reference_items": [
+        {
+            "name": "National Geographic. vol 206, no. 3. (2004) p 39",
+            "machine_name": "national_geographic_vol_206_no_3_2004_p_39",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "helianthemum_alpestre",
+                "type": "species",
+                "archival_data": [
+                    "1434104"
+                ]
+            },
+            "volume": null,
+            "page": "p 39",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2629446",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "kallen",
+                "created": "1613327456"
+            }
+        }
+    ]
+}

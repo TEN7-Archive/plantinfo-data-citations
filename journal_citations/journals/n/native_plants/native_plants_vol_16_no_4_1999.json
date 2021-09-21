@@ -1,0 +1,102 @@
+{
+    "name": "Native Plants. vol 16, no. 4. (1999)",
+    "machine_name": "native_plants_vol_16_no_4_1999",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1999",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2115976",
+        "legacy_id": "7857",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Native Plants. vol 16, no. 4. (1999) p cover;2",
+            "machine_name": "native_plants_vol_16_no_4_1999_p_cover_2",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "ulmus_crassifolia",
+                "type": "species",
+                "archival_data": [
+                    "1428249"
+                ]
+            },
+            "volume": null,
+            "page": "p cover;2",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1860809",
+                "legacy_id": "165584",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Native Plants. vol 16, no. 4. (1999) p 11",
+            "machine_name": "native_plants_vol_16_no_4_1999_p_11",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "opuntia_ficus_indica",
+                "type": "species",
+                "archival_data": [
+                    "1421798"
+                ]
+            },
+            "volume": null,
+            "page": "p 11",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1860810",
+                "legacy_id": "165585",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        }
+    ]
+}

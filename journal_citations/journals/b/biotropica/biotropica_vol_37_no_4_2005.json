@@ -1,0 +1,61 @@
+{
+    "name": "Biotropica. vol 37, no. 4. (2005)",
+    "machine_name": "biotropica_vol_37_no_4_2005",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2005",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2121671",
+        "legacy_id": "69649",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Biotropica. vol 37, no. 4. (2005) p 651, Pl. 1a-d",
+            "machine_name": "biotropica_vol_37_no_4_2005_p_651_pl_1a_d",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "xanthosoma_daguense",
+                "type": "species",
+                "archival_data": [
+                    "1453979"
+                ]
+            },
+            "volume": null,
+            "page": "p 651, Pl. 1a-d",
+            "year": "2005",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1992589",
+                "legacy_id": "311470",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        }
+    ]
+}

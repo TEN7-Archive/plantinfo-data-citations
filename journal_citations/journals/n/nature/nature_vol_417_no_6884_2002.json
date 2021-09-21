@@ -1,0 +1,61 @@
+{
+    "name": "Nature. vol 417, no. 6884. (2002)",
+    "machine_name": "nature_vol_417_no_6884_2002",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2002",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2117348",
+        "legacy_id": "37169",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Nature. vol 417, no. 6884. (2002) p 32",
+            "machine_name": "nature_vol_417_no_6884_2002_p_32",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "plectritis_congesta",
+                "type": "species",
+                "archival_data": [
+                    "1426433"
+                ]
+            },
+            "volume": null,
+            "page": "p 32",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1887928",
+                "legacy_id": "232106",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        }
+    ]
+}

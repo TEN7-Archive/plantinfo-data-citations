@@ -1,0 +1,184 @@
+{
+    "name": "Grower. vol 131, no. 16. (1999)",
+    "machine_name": "grower_vol_131_no_16_1999",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1999",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2115986",
+        "legacy_id": "7624",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grower. vol 131, no. 16. (1999) p 10",
+            "machine_name": "grower_vol_131_no_16_1999_p_10",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "prunus_pl_cultivars_opal",
+                "type": "variety",
+                "archival_data": [
+                    "1489886"
+                ]
+            },
+            "volume": null,
+            "page": "p 10",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1860942",
+                "legacy_id": "163100",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Grower. vol 131, no. 16. (1999) p 18 (Adv.)",
+            "machine_name": "grower_vol_131_no_16_1999_p_18_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "brassica_oleracea_f_memphis",
+                "type": "variety",
+                "archival_data": [
+                    "1599643"
+                ]
+            },
+            "volume": null,
+            "page": "p 18 (Adv.)",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1860943",
+                "legacy_id": "163101",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Grower. vol 131, no. 16. (1999) p 19",
+            "machine_name": "grower_vol_131_no_16_1999_p_19",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "brassica_oleracea_f_minneapolis",
+                "type": "variety",
+                "archival_data": [
+                    "1599646"
+                ]
+            },
+            "volume": null,
+            "page": "p 19",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1860944",
+                "legacy_id": "163102",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Grower. vol 131, no. 16. (1999) p 21 (Adv.)",
+            "machine_name": "grower_vol_131_no_16_1999_p_21_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "brassica_oleracea_c_tundra",
+                "type": "variety",
+                "archival_data": [
+                    "1497669"
+                ]
+            },
+            "volume": null,
+            "page": "p 21 (Adv.)",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1860945",
+                "legacy_id": "163103",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        }
+    ]
+}

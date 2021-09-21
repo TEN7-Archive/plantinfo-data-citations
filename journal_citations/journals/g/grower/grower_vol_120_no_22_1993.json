@@ -1,0 +1,143 @@
+{
+    "name": "Grower. vol 120, no. 22. (1993)",
+    "machine_name": "grower_vol_120_no_22_1993",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1993",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2110920",
+        "legacy_id": "3540",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grower. vol 120, no. 22. (1993) p 19 (Adv.)",
+            "machine_name": "grower_vol_120_no_22_1993_p_19_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "dianthus_cultivars_princess_series",
+                "type": "variety",
+                "archival_data": [
+                    "1467574"
+                ]
+            },
+            "volume": null,
+            "page": "p 19 (Adv.)",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1712738",
+                "legacy_id": "12931",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Grower. vol 120, no. 22. (1993) p 15",
+            "machine_name": "grower_vol_120_no_22_1993_p_15",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "chrysanthemum_cultivars_about_time_series",
+                "type": "variety",
+                "archival_data": [
+                    "1469650"
+                ]
+            },
+            "volume": null,
+            "page": "p 15",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1713673",
+                "legacy_id": "11853",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Grower. vol 120, no. 22. (1993) p 16",
+            "machine_name": "grower_vol_120_no_22_1993_p_16",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "chrysanthemum_cultivars_bronze_majesty",
+                "type": "variety",
+                "archival_data": [
+                    "1469678"
+                ]
+            },
+            "volume": null,
+            "page": "p 16",
+            "year": "1993",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1713715",
+                "legacy_id": "11895",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        }
+    ]
+}

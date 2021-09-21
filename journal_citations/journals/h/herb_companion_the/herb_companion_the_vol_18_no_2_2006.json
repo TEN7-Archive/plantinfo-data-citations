@@ -1,0 +1,225 @@
+{
+    "name": "Herb Companion, The. vol 18, no. 2. (2006)",
+    "machine_name": "herb_companion_the_vol_18_no_2_2006",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2006",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2121790",
+        "legacy_id": "68950",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Herb Companion, The. vol 18, no. 2. (2006) p 17 (Adv.)",
+            "machine_name": "herb_companion_the_vol_18_no_2_2006_p_17_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lycopersicon_cultivars_fresh_salsa",
+                "type": "variety",
+                "archival_data": [
+                    "1598984"
+                ]
+            },
+            "volume": null,
+            "page": "p 17 (Adv.)",
+            "year": "2006",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1995929",
+                "legacy_id": "309385",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Herb Companion, The. vol 18, no. 2. (2006) p 27-28",
+            "machine_name": "herb_companion_the_vol_18_no_2_2006_p_27_28",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cuminum_cyminum",
+                "type": "species",
+                "archival_data": [
+                    "1408755"
+                ]
+            },
+            "volume": null,
+            "page": "p 27-28",
+            "year": "2006",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": true,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1995930",
+                "legacy_id": "309386",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Herb Companion, The. vol 18, no. 2. (2006) p 51",
+            "machine_name": "herb_companion_the_vol_18_no_2_2006_p_51",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "eruca_sativa",
+                "type": "species",
+                "archival_data": [
+                    "1412484"
+                ]
+            },
+            "volume": null,
+            "page": "p 51",
+            "year": "2006",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1995931",
+                "legacy_id": "309387",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Herb Companion, The. vol 18, no. 2. (2006) p 52",
+            "machine_name": "herb_companion_the_vol_18_no_2_2006_p_52",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "akebia_quinata",
+                "type": "species",
+                "archival_data": [
+                    "1401352"
+                ]
+            },
+            "volume": null,
+            "page": "p 52",
+            "year": "2006",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1995932",
+                "legacy_id": "309388",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Herb Companion, The. vol 18, no. 2. (2006) p 52",
+            "machine_name": "herb_companion_the_vol_18_no_2_2006_p_52",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "agastache_foeniculum",
+                "type": "species",
+                "archival_data": [
+                    "1400909"
+                ]
+            },
+            "volume": null,
+            "page": "p 52",
+            "year": "2006",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1995933",
+                "legacy_id": "309389",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        }
+    ]
+}

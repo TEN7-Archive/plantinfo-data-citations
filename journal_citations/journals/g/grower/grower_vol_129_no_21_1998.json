@@ -1,0 +1,184 @@
+{
+    "name": "Grower. vol 129, no. 21. (1998)",
+    "machine_name": "grower_vol_129_no_21_1998",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1998",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114748",
+        "legacy_id": "6226",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grower. vol 129, no. 21. (1998) p 9",
+            "machine_name": "grower_vol_129_no_21_1998_p_9",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "veronica_cultivars_pershores_gold",
+                "type": "variety",
+                "archival_data": [
+                    "1534827"
+                ]
+            },
+            "volume": null,
+            "page": "p 9",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1837842",
+                "legacy_id": "145673",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Grower. vol 129, no. 21. (1998) p 14",
+            "machine_name": "grower_vol_129_no_21_1998_p_14",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "fragaria_ananassa_korona",
+                "type": "variety",
+                "archival_data": [
+                    "1473759"
+                ]
+            },
+            "volume": null,
+            "page": "p 14",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1837843",
+                "legacy_id": "145674",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Grower. vol 129, no. 21. (1998) p 27 (Adv.)",
+            "machine_name": "grower_vol_129_no_21_1998_p_27_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "primula_vulgaris_quantum_series",
+                "type": "variety",
+                "archival_data": [
+                    "1519747"
+                ]
+            },
+            "volume": null,
+            "page": "p 27 (Adv.)",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1837844",
+                "legacy_id": "145675",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Grower. vol 129, no. 21. (1998) p 28",
+            "machine_name": "grower_vol_129_no_21_1998_p_28",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "alstroemeria_cultivars_little_princess_series",
+                "type": "variety",
+                "archival_data": [
+                    "1466018"
+                ]
+            },
+            "volume": null,
+            "page": "p 28",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1837845",
+                "legacy_id": "145676",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        }
+    ]
+}

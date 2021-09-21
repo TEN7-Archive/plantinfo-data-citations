@@ -1,0 +1,143 @@
+{
+    "name": "Sunset. September 2010.",
+    "machine_name": "sunset_september_2010",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1692134",
+        "legacy_id": "110450",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Sunset. September 2010. p 50",
+            "machine_name": "sunset_september_2010_p_50",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "arctostaphylos_uva_ursi",
+                "type": "species",
+                "archival_data": [
+                    "1401391"
+                ]
+            },
+            "volume": null,
+            "page": "p 50",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2005755",
+                "legacy_id": "419704",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "Sunset. September 2010. p 51",
+            "machine_name": "sunset_september_2010_p_51",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "mahonia_repens",
+                "type": "species",
+                "archival_data": [
+                    "1421519"
+                ]
+            },
+            "volume": null,
+            "page": "p 51",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2005756",
+                "legacy_id": "419705",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "Sunset. September 2010. p 51",
+            "machine_name": "sunset_september_2010_p_51",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lavandula_dentata",
+                "type": "species",
+                "archival_data": [
+                    "1421413"
+                ]
+            },
+            "volume": null,
+            "page": "p 51",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2005757",
+                "legacy_id": "419706",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        }
+    ]
+}

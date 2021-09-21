@@ -1,0 +1,102 @@
+{
+    "name": "American Forests. vol 101, no. 5-6. (1995)",
+    "machine_name": "american_forests_vol_101_no_5_6_1995",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1995",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114166",
+        "legacy_id": "210",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "American Forests. vol 101, no. 5-6. (1995) p inside cover (Adv.)",
+            "machine_name": "american_forests_vol_101_no_5_6_1995_p_inside_cover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "liriodendron_tulipifera",
+                "type": "species",
+                "archival_data": [
+                    "1418461"
+                ]
+            },
+            "volume": null,
+            "page": "p inside cover (Adv.)",
+            "year": "1995",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1800482",
+                "legacy_id": "109424",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        },
+        {
+            "name": "American Forests. vol 101, no. 5-6. (1995) p 48",
+            "machine_name": "american_forests_vol_101_no_5_6_1995_p_48",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "platanus_occidentalis",
+                "type": "species",
+                "archival_data": [
+                    "1426368"
+                ]
+            },
+            "volume": null,
+            "page": "p 48",
+            "year": "1995",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1820152",
+                "legacy_id": "122503",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        }
+    ]
+}

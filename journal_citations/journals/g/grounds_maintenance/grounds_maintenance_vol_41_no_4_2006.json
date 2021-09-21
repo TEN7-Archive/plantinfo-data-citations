@@ -1,0 +1,102 @@
+{
+    "name": "Grounds Maintenance. vol 41, no. 4. (2006)",
+    "machine_name": "grounds_maintenance_vol_41_no_4_2006",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2006",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2119679",
+        "legacy_id": "72429",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grounds Maintenance. vol 41, no. 4. (2006) p C2",
+            "machine_name": "grounds_maintenance_vol_41_no_4_2006_p_c2",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cynodon_dactylon",
+                "type": "species",
+                "archival_data": [
+                    "1403811"
+                ]
+            },
+            "volume": null,
+            "page": "p C2",
+            "year": "2006",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1937172",
+                "legacy_id": "318813",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "Grounds Maintenance. vol 41, no. 4. (2006) p C8;C16",
+            "machine_name": "grounds_maintenance_vol_41_no_4_2006_p_c8_c16",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "festuca_elatior",
+                "type": "species",
+                "archival_data": [
+                    "1412953"
+                ]
+            },
+            "volume": null,
+            "page": "p C8;C16",
+            "year": "2006",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1939390",
+                "legacy_id": "319613",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        }
+    ]
+}

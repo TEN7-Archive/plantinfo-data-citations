@@ -1,0 +1,512 @@
+{
+    "name": "Australian Horticulture. April 2010.",
+    "machine_name": "australian_horticulture_april_2010",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1694845",
+        "legacy_id": "108710",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Australian Horticulture. April 2010. p 19 (Adv.)",
+            "machine_name": "australian_horticulture_april_2010_p_19_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "corymbia_ficifolia_calypso",
+                "type": "variety",
+                "archival_data": [
+                    "1647197"
+                ]
+            },
+            "volume": null,
+            "page": "p 19 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1998142",
+                "legacy_id": "412517",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Australian Horticulture. April 2010. p backcover (Adv.)",
+            "machine_name": "australian_horticulture_april_2010_p_backcover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pyrus_calleryana_chanticleer",
+                "type": "variety",
+                "archival_data": [
+                    "1490811"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2007923",
+                "legacy_id": "412519",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "Australian Horticulture. April 2010. p backcover (Adv.)",
+            "machine_name": "australian_horticulture_april_2010_p_backcover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "malus_a_cultivars_ballerina",
+                "type": "variety",
+                "archival_data": [
+                    "1477904"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2014913",
+                "legacy_id": "412522",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "Australian Horticulture. April 2010. p backcover (Adv.)",
+            "machine_name": "australian_horticulture_april_2010_p_backcover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "prunus_p_cultivars_pix_zee",
+                "type": "variety",
+                "archival_data": [
+                    "1525638"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2014914",
+                "legacy_id": "412523",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "Australian Horticulture. April 2010. p 20",
+            "machine_name": "australian_horticulture_april_2010_p_20",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "callistemon_cultivars_mary_mackillop",
+                "type": "variety",
+                "archival_data": [
+                    "1646465"
+                ]
+            },
+            "volume": null,
+            "page": "p 20",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2015302",
+                "legacy_id": "412518",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "Australian Horticulture. April 2010. p backcover (Adv.)",
+            "machine_name": "australian_horticulture_april_2010_p_backcover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "prunus_cerasifera_oakville_crimson_spire",
+                "type": "variety",
+                "archival_data": [
+                    "1581151"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2015303",
+                "legacy_id": "412520",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "Australian Horticulture. April 2010. p cover;6-8",
+            "machine_name": "australian_horticulture_april_2010_p_cover_6_8",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "brachychiton_rupestris",
+                "type": "species",
+                "archival_data": [
+                    "1441100"
+                ]
+            },
+            "volume": null,
+            "page": "p cover;6-8",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2064578",
+                "legacy_id": "412512",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Australian Horticulture. April 2010. p 11",
+            "machine_name": "australian_horticulture_april_2010_p_11",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "thomasia_pygmaea",
+                "type": "species",
+                "archival_data": [
+                    "1430495"
+                ]
+            },
+            "volume": null,
+            "page": "p 11",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2064579",
+                "legacy_id": "412514",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Australian Horticulture. April 2010. p 13",
+            "machine_name": "australian_horticulture_april_2010_p_13",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "oenothera_lindheimeri",
+                "type": "species",
+                "archival_data": [
+                    "1462927"
+                ]
+            },
+            "volume": null,
+            "page": "p 13",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2064580",
+                "legacy_id": "412515",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Australian Horticulture. April 2010. p 17",
+            "machine_name": "australian_horticulture_april_2010_p_17",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "phoenix_dactylifera",
+                "type": "species",
+                "archival_data": [
+                    "1423733"
+                ]
+            },
+            "volume": null,
+            "page": "p 17",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2064581",
+                "legacy_id": "412516",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Australian Horticulture. April 2010. p 10",
+            "machine_name": "australian_horticulture_april_2010_p_10",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "acer_sikkimense",
+                "type": "species",
+                "archival_data": [
+                    "1449283"
+                ]
+            },
+            "volume": null,
+            "page": "p 10",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2068047",
+                "legacy_id": "412513",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Australian Horticulture. April 2010. p backcover (Adv.)",
+            "machine_name": "australian_horticulture_april_2010_p_backcover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "prunus_incisa_snow_fountains",
+                "type": "variety",
+                "archival_data": [
+                    "1580205"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2068048",
+                "legacy_id": "412521",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        }
+    ]
+}

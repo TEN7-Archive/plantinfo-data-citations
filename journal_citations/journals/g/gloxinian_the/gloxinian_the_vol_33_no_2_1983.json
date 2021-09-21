@@ -1,0 +1,143 @@
+{
+    "name": "Gloxinian, The. vol 33, no. 2. (1983)",
+    "machine_name": "gloxinian_the_vol_33_no_2_1983",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1983",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114298",
+        "legacy_id": "3102",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Gloxinian, The. vol 33, no. 2. (1983) p 19",
+            "machine_name": "gloxinian_the_vol_33_no_2_1983_p_19",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lysionotus_serrata",
+                "type": "species",
+                "archival_data": [
+                    "1420793"
+                ]
+            },
+            "volume": null,
+            "page": "p 19",
+            "year": "1983",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1805809",
+                "legacy_id": "110791",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        },
+        {
+            "name": "Gloxinian, The. vol 33, no. 2. (1983) p 18",
+            "machine_name": "gloxinian_the_vol_33_no_2_1983_p_18",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "titanotrichum_oldhamii",
+                "type": "species",
+                "archival_data": [
+                    "1432001"
+                ]
+            },
+            "volume": null,
+            "page": "p 18",
+            "year": "1983",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1833870",
+                "legacy_id": "138026",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        },
+        {
+            "name": "Gloxinian, The. vol 33, no. 2. (1983)  p cover",
+            "machine_name": "gloxinian_the_vol_33_no_2_1983_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rhynchoglossum_gardneri",
+                "type": "species",
+                "archival_data": [
+                    "1432808"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "2573751",
+                "legacy_id": null,
+                "AD": null,
+                "fpi_pub_issue": null,
+                "pullingdat": null,
+                "active": null,
+                "author": "r-isaa",
+                "created": "1571845838"
+            }
+        }
+    ]
+}

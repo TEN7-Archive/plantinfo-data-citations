@@ -1,0 +1,184 @@
+{
+    "name": "Grower. vol 121, no. 8. (1994)",
+    "machine_name": "grower_vol_121_no_8_1994",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1994",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2111029",
+        "legacy_id": "3570",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Grower. vol 121, no. 8. (1994) p 28",
+            "machine_name": "grower_vol_121_no_8_1994_p_28",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "dianthus_caryophyllus_scarletta",
+                "type": "variety",
+                "archival_data": [
+                    "1468164"
+                ]
+            },
+            "volume": null,
+            "page": "p 28",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1713419",
+                "legacy_id": "13113",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Grower. vol 121, no. 8. (1994) p backcover (Adv.)",
+            "machine_name": "grower_vol_121_no_8_1994_p_backcover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lactuca_cultivars_challenge",
+                "type": "variety",
+                "archival_data": [
+                    "1480481"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover (Adv.)",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1731282",
+                "legacy_id": "26772",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Grower. vol 121, no. 8. (1994) p 29|31 (Adv.)",
+            "machine_name": "grower_vol_121_no_8_1994_p_29_31_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "petunia_cultivars_express_series",
+                "type": "variety",
+                "archival_data": [
+                    "1481513"
+                ]
+            },
+            "volume": null,
+            "page": "p 29|31 (Adv.)",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1737999",
+                "legacy_id": "37684",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Grower. vol 121, no. 8. (1994) p 6",
+            "machine_name": "grower_vol_121_no_8_1994_p_6",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "primula_auricula_regency_series",
+                "type": "variety",
+                "archival_data": [
+                    "1487763"
+                ]
+            },
+            "volume": null,
+            "page": "p 6",
+            "year": "1994",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1742617",
+                "legacy_id": "40106",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483154438"
+            }
+        }
+    ]
+}

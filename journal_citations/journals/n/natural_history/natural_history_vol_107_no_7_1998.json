@@ -1,0 +1,102 @@
+{
+    "name": "Natural History. vol 107, no. 7. (1998)",
+    "machine_name": "natural_history_vol_107_no_7_1998",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1998",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114891",
+        "legacy_id": "6506",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Natural History. vol 107, no. 7. (1998) p cover",
+            "machine_name": "natural_history_vol_107_no_7_1998_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "adansonia_digitata",
+                "type": "species",
+                "archival_data": [
+                    "1398931"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1841550",
+                "legacy_id": "149202",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Natural History. vol 107, no. 7. (1998) p 82-83",
+            "machine_name": "natural_history_vol_107_no_7_1998_p_82_83",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "zizania_palustris",
+                "type": "species",
+                "archival_data": [
+                    "1439065"
+                ]
+            },
+            "volume": null,
+            "page": "p 82-83",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": true,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1841551",
+                "legacy_id": "149203",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        }
+    ]
+}

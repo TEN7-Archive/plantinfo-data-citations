@@ -1,0 +1,184 @@
+{
+    "name": "American Fruit Grower. vol 116, no. 4. (1996)",
+    "machine_name": "american_fruit_grower_vol_116_no_4_1996",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1996",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2112493",
+        "legacy_id": "272",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "American Fruit Grower. vol 116, no. 4. (1996) p 28",
+            "machine_name": "american_fruit_grower_vol_116_no_4_1996_p_28",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "prunus_p_cultivars_fireprince",
+                "type": "variety",
+                "archival_data": [
+                    "1489309"
+                ]
+            },
+            "volume": null,
+            "page": "p 28",
+            "year": "1996",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1739084",
+                "legacy_id": "40584",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "American Fruit Grower. vol 116, no. 4. (1996) p cover",
+            "machine_name": "american_fruit_grower_vol_116_no_4_1996_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "prunus_pl_cultivars_castleton",
+                "type": "variety",
+                "archival_data": [
+                    "1489593"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "1996",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1739413",
+                "legacy_id": "40670",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "American Fruit Grower. vol 116, no. 4. (1996) p 7",
+            "machine_name": "american_fruit_grower_vol_116_no_4_1996_p_7",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "prunus_pl_cultivars_v72511",
+                "type": "variety",
+                "archival_data": [
+                    "1490163"
+                ]
+            },
+            "volume": null,
+            "page": "p 7",
+            "year": "1996",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1739806",
+                "legacy_id": "40818",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483154438"
+            }
+        },
+        {
+            "name": "American Fruit Grower. vol 116, no. 4. (1996) p 7",
+            "machine_name": "american_fruit_grower_vol_116_no_4_1996_p_7",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "prunus_pl_cultivars_victory",
+                "type": "variety",
+                "archival_data": [
+                    "1490167"
+                ]
+            },
+            "volume": null,
+            "page": "p 7",
+            "year": "1996",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1740058",
+                "legacy_id": "40825",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483154438"
+            }
+        }
+    ]
+}

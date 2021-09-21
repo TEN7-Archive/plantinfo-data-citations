@@ -1,0 +1,184 @@
+{
+    "name": "Canadian Rosarian. vol 43. (2005)",
+    "machine_name": "canadian_rosarian_vol_43_2005",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2005",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2121773",
+        "legacy_id": "69969",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Canadian Rosarian. vol 43. (2005) p cover",
+            "machine_name": "canadian_rosarian_vol_43_2005_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_armada",
+                "type": "variety",
+                "archival_data": [
+                    "1489472"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "2005",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1995174",
+                "legacy_id": "312313",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Canadian Rosarian. vol 43. (2005) p 25",
+            "machine_name": "canadian_rosarian_vol_43_2005_p_25",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_peace",
+                "type": "variety",
+                "archival_data": [
+                    "1493200"
+                ]
+            },
+            "volume": null,
+            "page": "p 25",
+            "year": "2005",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1995175",
+                "legacy_id": "312314",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Canadian Rosarian. vol 43. (2005) p 26",
+            "machine_name": "canadian_rosarian_vol_43_2005_p_26",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_hansa",
+                "type": "variety",
+                "archival_data": [
+                    "1493976"
+                ]
+            },
+            "volume": null,
+            "page": "p 26",
+            "year": "2005",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1995176",
+                "legacy_id": "312315",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Canadian Rosarian. vol 43. (2005) p 28",
+            "machine_name": "canadian_rosarian_vol_43_2005_p_28",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_rosy_vision",
+                "type": "variety",
+                "archival_data": [
+                    "1631449"
+                ]
+            },
+            "volume": null,
+            "page": "p 28",
+            "year": "2005",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1995177",
+                "legacy_id": "312316",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        }
+    ]
+}

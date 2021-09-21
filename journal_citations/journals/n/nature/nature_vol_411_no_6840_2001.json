@@ -1,0 +1,61 @@
+{
+    "name": "Nature. vol 411, no. 6840. (2001)",
+    "machine_name": "nature_vol_411_no_6840_2001",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2001",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2116701",
+        "legacy_id": "25569",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Nature. vol 411, no. 6840. (2001) p 878",
+            "machine_name": "nature_vol_411_no_6840_2001_p_878",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "zea_f_cultivars_starlink",
+                "type": "variety",
+                "archival_data": [
+                    "1565075"
+                ]
+            },
+            "volume": null,
+            "page": "p 878",
+            "year": "2001",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": true,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": true
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1876321",
+                "legacy_id": "213632",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        }
+    ]
+}

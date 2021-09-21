@@ -1,0 +1,61 @@
+{
+    "name": "Nature. vol 484, no. 7395. (2012)",
+    "machine_name": "nature_vol_484_no_7395_2012",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2012",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2123913",
+        "legacy_id": "117929",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Nature. vol 484, no. 7395. (2012) p 437",
+            "machine_name": "nature_vol_484_no_7395_2012_p_437",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "aechmea_bromeliifolia",
+                "type": "species",
+                "archival_data": [
+                    "1399393"
+                ]
+            },
+            "volume": null,
+            "page": "p 437",
+            "year": "2012",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2053778",
+                "legacy_id": "446852",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        }
+    ]
+}

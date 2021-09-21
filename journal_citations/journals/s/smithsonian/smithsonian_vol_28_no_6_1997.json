@@ -1,0 +1,143 @@
+{
+    "name": "Smithsonian. vol 28, no. 6. (1997)",
+    "machine_name": "smithsonian_vol_28_no_6_1997",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1997",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2115223",
+        "legacy_id": "7000",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Smithsonian. vol 28, no. 6. (1997) p 96",
+            "machine_name": "smithsonian_vol_28_no_6_1997_p_96",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "magnolia_virginiana",
+                "type": "species",
+                "archival_data": [
+                    "1421498"
+                ]
+            },
+            "volume": null,
+            "page": "p 96",
+            "year": "1997",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": true,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": true,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1847295",
+                "legacy_id": "155734",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Smithsonian. vol 28, no. 6. (1997) p 99",
+            "machine_name": "smithsonian_vol_28_no_6_1997_p_99",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "robinia_pseudoacacia",
+                "type": "species",
+                "archival_data": [
+                    "1433196"
+                ]
+            },
+            "volume": null,
+            "page": "p 99",
+            "year": "1997",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1847296",
+                "legacy_id": "155735",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Smithsonian. vol 28, no. 6. (1997) p 103",
+            "machine_name": "smithsonian_vol_28_no_6_1997_p_103",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lilium_catesbaei",
+                "type": "species",
+                "archival_data": [
+                    "1417375"
+                ]
+            },
+            "volume": null,
+            "page": "p 103",
+            "year": "1997",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1847297",
+                "legacy_id": "155736",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        }
+    ]
+}

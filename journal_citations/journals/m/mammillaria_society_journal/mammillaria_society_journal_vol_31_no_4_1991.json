@@ -1,0 +1,102 @@
+{
+    "name": "Mammillaria Society, Journal. vol 31, no. 4. (1991)",
+    "machine_name": "mammillaria_society_journal_vol_31_no_4_1991",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1991",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2112335",
+        "legacy_id": "4397",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Mammillaria Society, Journal. vol 31, no. 4. (1991) p 47",
+            "machine_name": "mammillaria_society_journal_vol_31_no_4_1991_p_47",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "mammillaria_haageana_longicaudata",
+                "type": "variety",
+                "archival_data": [
+                    "1485365"
+                ]
+            },
+            "volume": null,
+            "page": "p 47",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1736245",
+                "legacy_id": "31951",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Mammillaria Society, Journal. vol 31, no. 4. (1991) p 47",
+            "machine_name": "mammillaria_society_journal_vol_31_no_4_1991_p_47",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "mammillaria_noureddineana",
+                "type": "species",
+                "archival_data": [
+                    "1416731"
+                ]
+            },
+            "volume": null,
+            "page": "p 47",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": true,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1804846",
+                "legacy_id": "111824",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        }
+    ]
+}

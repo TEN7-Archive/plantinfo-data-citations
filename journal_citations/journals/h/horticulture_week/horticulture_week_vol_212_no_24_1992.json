@@ -1,0 +1,61 @@
+{
+    "name": "Horticulture Week. vol 212, no. 24. (1992)",
+    "machine_name": "horticulture_week_vol_212_no_24_1992",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1992",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2117992",
+        "legacy_id": "3831",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Horticulture Week. vol 212, no. 24. (1992) p backcover (Adv.)",
+            "machine_name": "horticulture_week_vol_212_no_24_1992_p_backcover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "begonia_semperflorens_cultorum_devil_series",
+                "type": "variety",
+                "archival_data": [
+                    "1464515"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover (Adv.)",
+            "year": "1992",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1901504",
+                "legacy_id": "254208",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        }
+    ]
+}

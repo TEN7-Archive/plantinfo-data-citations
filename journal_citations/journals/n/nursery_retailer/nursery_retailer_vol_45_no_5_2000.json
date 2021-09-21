@@ -1,0 +1,512 @@
+{
+    "name": "Nursery Retailer. vol 45, no. 5. (2000)",
+    "machine_name": "nursery_retailer_vol_45_no_5_2000",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2000",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2116677",
+        "legacy_id": "17630",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Nursery Retailer. vol 45, no. 5. (2000) p 3 (Adv.);85 (Adv.)",
+            "machine_name": "nursery_retailer_vol_45_no_5_2000_p_3_adv_85_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_dream_series",
+                "type": "variety",
+                "archival_data": [
+                    "1545238"
+                ]
+            },
+            "volume": null,
+            "page": "p 3 (Adv.);85 (Adv.)",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1875784",
+                "legacy_id": "200197",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Nursery Retailer. vol 45, no. 5. (2000) p 3 (Adv.)",
+            "machine_name": "nursery_retailer_vol_45_no_5_2000_p_3_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_flower_carpet_series",
+                "type": "variety",
+                "archival_data": [
+                    "1487746"
+                ]
+            },
+            "volume": null,
+            "page": "p 3 (Adv.)",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1875785",
+                "legacy_id": "200198",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Nursery Retailer. vol 45, no. 5. (2000) p 3 (Adv.)",
+            "machine_name": "nursery_retailer_vol_45_no_5_2000_p_3_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "canna_cultivars_tropicanna_series",
+                "type": "variety",
+                "archival_data": [
+                    "1469476"
+                ]
+            },
+            "volume": null,
+            "page": "p 3 (Adv.)",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1875786",
+                "legacy_id": "200199",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Nursery Retailer. vol 45, no. 5. (2000) p 7 (Adv.)",
+            "machine_name": "nursery_retailer_vol_45_no_5_2000_p_7_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "sutera_cultivars_candy_series",
+                "type": "variety",
+                "archival_data": [
+                    "1555146"
+                ]
+            },
+            "volume": null,
+            "page": "p 7 (Adv.)",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1875787",
+                "legacy_id": "200200",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Nursery Retailer. vol 45, no. 5. (2000) p 17 (Adv.)",
+            "machine_name": "nursery_retailer_vol_45_no_5_2000_p_17_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "iris_cultivars_chasing_rainbows",
+                "type": "variety",
+                "archival_data": [
+                    "1529335"
+                ]
+            },
+            "volume": null,
+            "page": "p 17 (Adv.)",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1875788",
+                "legacy_id": "200201",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Nursery Retailer. vol 45, no. 5. (2000) p 17 (Adv.)",
+            "machine_name": "nursery_retailer_vol_45_no_5_2000_p_17_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "iris_cultivars_firebreather",
+                "type": "variety",
+                "archival_data": [
+                    "1479777"
+                ]
+            },
+            "volume": null,
+            "page": "p 17 (Adv.)",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1875789",
+                "legacy_id": "200202",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Nursery Retailer. vol 45, no. 5. (2000) p 17 (Adv.)",
+            "machine_name": "nursery_retailer_vol_45_no_5_2000_p_17_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "iris_cultivars_honky_tonk_blues",
+                "type": "variety",
+                "archival_data": [
+                    "1533937"
+                ]
+            },
+            "volume": null,
+            "page": "p 17 (Adv.)",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1875790",
+                "legacy_id": "200203",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Nursery Retailer. vol 45, no. 5. (2000) p 80",
+            "machine_name": "nursery_retailer_vol_45_no_5_2000_p_80",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "sansevieria_trifasciata",
+                "type": "species",
+                "archival_data": [
+                    "1430653"
+                ]
+            },
+            "volume": null,
+            "page": "p 80",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1875791",
+                "legacy_id": "200204",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Nursery Retailer. vol 45, no. 5. (2000) p 83 (Adv.)",
+            "machine_name": "nursery_retailer_vol_45_no_5_2000_p_83_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "syringa_cultivars_tinkerbelle",
+                "type": "variety",
+                "archival_data": [
+                    "1542757"
+                ]
+            },
+            "volume": null,
+            "page": "p 83 (Adv.)",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1875792",
+                "legacy_id": "200205",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Nursery Retailer. vol 45, no. 5. (2000) p 129",
+            "machine_name": "nursery_retailer_vol_45_no_5_2000_p_129",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "dahlia_cultivars_longlife_dwarf_series",
+                "type": "variety",
+                "archival_data": [
+                    "1547103"
+                ]
+            },
+            "volume": null,
+            "page": "p 129",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1875793",
+                "legacy_id": "200206",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Nursery Retailer. vol 45, no. 5. (2000) p inside backcover (Adv.)",
+            "machine_name": "nursery_retailer_vol_45_no_5_2000_p_inside_backcover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "bouvardia_cultivars_bloom_rite_series",
+                "type": "variety",
+                "archival_data": [
+                    "1557277"
+                ]
+            },
+            "volume": null,
+            "page": "p inside backcover (Adv.)",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1875794",
+                "legacy_id": "200207",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Nursery Retailer. vol 45, no. 5. (2000) p 128",
+            "machine_name": "nursery_retailer_vol_45_no_5_2000_p_128",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_barbra_streisand",
+                "type": "variety",
+                "archival_data": [
+                    "1552340"
+                ]
+            },
+            "volume": null,
+            "page": "p 128",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1875795",
+                "legacy_id": "200208",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        }
+    ]
+}

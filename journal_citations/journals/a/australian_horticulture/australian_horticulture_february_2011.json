@@ -1,0 +1,922 @@
+{
+    "name": "Australian Horticulture. February 2011.",
+    "machine_name": "australian_horticulture_february_2011",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1693018",
+        "legacy_id": "113214",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Australian Horticulture. February 2011. p 7 (Adv.)",
+            "machine_name": "australian_horticulture_february_2011_p_7_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "portulaca_cultivars_portogrande_series",
+                "type": "variety",
+                "archival_data": [
+                    "1620724"
+                ]
+            },
+            "volume": null,
+            "page": "p 7 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2005906",
+                "legacy_id": "429784",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "Australian Horticulture. February 2011. p 7 (Adv.)",
+            "machine_name": "australian_horticulture_february_2011_p_7_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "osteospermum_cultivars_flowerpower_series",
+                "type": "variety",
+                "archival_data": [
+                    "1583631"
+                ]
+            },
+            "volume": null,
+            "page": "p 7 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2005907",
+                "legacy_id": "429785",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "Australian Horticulture. February 2011. p 17",
+            "machine_name": "australian_horticulture_february_2011_p_17",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "chaenomeles_speciosa_peach_melba",
+                "type": "variety",
+                "archival_data": [
+                    "1648998"
+                ]
+            },
+            "volume": null,
+            "page": "p 17",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2013151",
+                "legacy_id": "429792",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "Australian Horticulture. February 2011. p 18",
+            "machine_name": "australian_horticulture_february_2011_p_18",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "boronia_heterophylla_blue_waves",
+                "type": "variety",
+                "archival_data": [
+                    "1648999"
+                ]
+            },
+            "volume": null,
+            "page": "p 18",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2013152",
+                "legacy_id": "429793",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "Australian Horticulture. February 2011. p 18",
+            "machine_name": "australian_horticulture_february_2011_p_18",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "carex_cultivars_goldy_locks",
+                "type": "variety",
+                "archival_data": [
+                    "1625140"
+                ]
+            },
+            "volume": null,
+            "page": "p 18",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2013153",
+                "legacy_id": "429794",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "Australian Horticulture. February 2011. p 18",
+            "machine_name": "australian_horticulture_february_2011_p_18",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "euphorbia_cultivars_lipstick",
+                "type": "variety",
+                "archival_data": [
+                    "1649000"
+                ]
+            },
+            "volume": null,
+            "page": "p 18",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2013154",
+                "legacy_id": "429795",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "Australian Horticulture. February 2011. p 18",
+            "machine_name": "australian_horticulture_february_2011_p_18",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "laurus_nobilis_tuscan_treasure",
+                "type": "variety",
+                "archival_data": [
+                    "1649001"
+                ]
+            },
+            "volume": null,
+            "page": "p 18",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2013155",
+                "legacy_id": "429796",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "Australian Horticulture. February 2011. p 18",
+            "machine_name": "australian_horticulture_february_2011_p_18",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "kunzea_baxteri_mandy_s_surprise",
+                "type": "variety",
+                "archival_data": [
+                    "1649002"
+                ]
+            },
+            "volume": null,
+            "page": "p 18",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2013156",
+                "legacy_id": "429797",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "Australian Horticulture. February 2011. p 24 (Adv.)",
+            "machine_name": "australian_horticulture_february_2011_p_24_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "viola_wittrockiana_matrix_series",
+                "type": "variety",
+                "archival_data": [
+                    "1615385"
+                ]
+            },
+            "volume": null,
+            "page": "p 24 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2013159",
+                "legacy_id": "430974",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "Australian Horticulture. February 2011. p 37",
+            "machine_name": "australian_horticulture_february_2011_p_37",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "alyogyne_huegelii",
+                "type": "species",
+                "archival_data": [
+                    "1397911"
+                ]
+            },
+            "volume": null,
+            "page": "p 37",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2013160",
+                "legacy_id": "430976",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "Australian Horticulture. February 2011. p 13 (Adv.)",
+            "machine_name": "australian_horticulture_february_2011_p_13_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "brachyscome_angustifolia_magenta_series",
+                "type": "variety",
+                "archival_data": [
+                    "1609707"
+                ]
+            },
+            "volume": null,
+            "page": "p 13 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2014665",
+                "legacy_id": "429787",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "Australian Horticulture. February 2011. p 11",
+            "machine_name": "australian_horticulture_february_2011_p_11",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pseudopanax_crassifolius",
+                "type": "species",
+                "archival_data": [
+                    "1446449"
+                ]
+            },
+            "volume": null,
+            "page": "p 11",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2017540",
+                "legacy_id": "429786",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "Australian Horticulture. February 2011. p 16",
+            "machine_name": "australian_horticulture_february_2011_p_16",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "petunia_cultivars_surfinia_series",
+                "type": "variety",
+                "archival_data": [
+                    "1481796"
+                ]
+            },
+            "volume": null,
+            "page": "p 16",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2017541",
+                "legacy_id": "429789",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483199841"
+            }
+        },
+        {
+            "name": "Australian Horticulture. February 2011. p 16",
+            "machine_name": "australian_horticulture_february_2011_p_16",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "calibrachoa_cultivars_million_bells_series",
+                "type": "variety",
+                "archival_data": [
+                    "1532851"
+                ]
+            },
+            "volume": null,
+            "page": "p 16",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2028749",
+                "legacy_id": "429788",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        },
+        {
+            "name": "Australian Horticulture. February 2011. p 5 (Adv.)",
+            "machine_name": "australian_horticulture_february_2011_p_5_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "acacia_cognata_dazzler",
+                "type": "variety",
+                "archival_data": [
+                    "1609336"
+                ]
+            },
+            "volume": null,
+            "page": "p 5 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2030738",
+                "legacy_id": "429920",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        },
+        {
+            "name": "Australian Horticulture. February 2011. p 32",
+            "machine_name": "australian_horticulture_february_2011_p_32",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_pope_john_paul_ii",
+                "type": "variety",
+                "archival_data": [
+                    "1605091"
+                ]
+            },
+            "volume": null,
+            "page": "p 32",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2035818",
+                "legacy_id": "430975",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        },
+        {
+            "name": "Australian Horticulture. February 2011. p 23",
+            "machine_name": "australian_horticulture_february_2011_p_23",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "pinus_pinaster",
+                "type": "species",
+                "archival_data": [
+                    "1425605"
+                ]
+            },
+            "volume": null,
+            "page": "p 23",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": true,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2045311",
+                "legacy_id": "430973",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        },
+        {
+            "name": "Australian Horticulture. February 2011. p 17",
+            "machine_name": "australian_horticulture_february_2011_p_17",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "viola_cultivars_friolina_series",
+                "type": "variety",
+                "archival_data": [
+                    "1658832"
+                ]
+            },
+            "volume": null,
+            "page": "p 17",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2047656",
+                "legacy_id": "429790",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Australian Horticulture. February 2011. p 17",
+            "machine_name": "australian_horticulture_february_2011_p_17",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "mandevilla_cultivars_sun_parasol_series",
+                "type": "variety",
+                "archival_data": [
+                    "1537972"
+                ]
+            },
+            "volume": null,
+            "page": "p 17",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2047657",
+                "legacy_id": "429791",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Australian Horticulture. February 2011. p 20",
+            "machine_name": "australian_horticulture_february_2011_p_20",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "liriope_muscari_amethyst",
+                "type": "variety",
+                "archival_data": [
+                    "1588251"
+                ]
+            },
+            "volume": null,
+            "page": "p 20",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2060601",
+                "legacy_id": "429798",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Australian Horticulture. February 2011. p inside cover (Adv.)",
+            "machine_name": "australian_horticulture_february_2011_p_inside_cover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "tradescantia_cultivars_stars_n_stripes",
+                "type": "variety",
+                "archival_data": [
+                    "1653539"
+                ]
+            },
+            "volume": null,
+            "page": "p inside cover (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2072204",
+                "legacy_id": "429782",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        },
+        {
+            "name": "Australian Horticulture. February 2011. p 5",
+            "machine_name": "australian_horticulture_february_2011_p_5",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "osteospermum_cultivars_voltage_series",
+                "type": "variety",
+                "archival_data": [
+                    "1619458"
+                ]
+            },
+            "volume": null,
+            "page": "p 5",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2072205",
+                "legacy_id": "429783",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483206328"
+            }
+        }
+    ]
+}

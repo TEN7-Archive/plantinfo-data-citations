@@ -1,0 +1,143 @@
+{
+    "name": "Plant Cell, The. vol 11, no. 8. (1999)",
+    "machine_name": "plant_cell_the_vol_11_no_8_1999",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1999",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2115791",
+        "legacy_id": "7762",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Plant Cell, The. vol 11, no. 8. (1999) p 1434, Pl. 1(b).",
+            "machine_name": "plant_cell_the_vol_11_no_8_1999_p_1434_pl_1_b",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "petunia_axillaris_axillaris",
+                "type": "variety",
+                "archival_data": [
+                    "1549059"
+                ]
+            },
+            "volume": null,
+            "page": "p 1434, Pl. 1(b).",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1857625",
+                "legacy_id": "164749",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Plant Cell, The. vol 11, no. 8. (1999) p 1434, Pl. 1(a).",
+            "machine_name": "plant_cell_the_vol_11_no_8_1999_p_1434_pl_1_a",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "petunia_integrifolia",
+                "type": "species",
+                "archival_data": [
+                    "1422616"
+                ]
+            },
+            "volume": null,
+            "page": "p 1434, Pl. 1(a).",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1857626",
+                "legacy_id": "164750",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Plant Cell, The. vol 11, no. 8. (1999) p 1434, Pl. 1(c-d).",
+            "machine_name": "plant_cell_the_vol_11_no_8_1999_p_1434_pl_1_c_d",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "petunia_hybrida",
+                "type": "species",
+                "archival_data": [
+                    "1422615"
+                ]
+            },
+            "volume": null,
+            "page": "p 1434, Pl. 1(c-d).",
+            "year": "1999",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1857627",
+                "legacy_id": "164751",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        }
+    ]
+}

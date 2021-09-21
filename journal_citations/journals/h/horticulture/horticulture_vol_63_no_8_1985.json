@@ -1,0 +1,102 @@
+{
+    "name": "Horticulture. vol 63, no. 8 (1985)",
+    "machine_name": "horticulture_vol_63_no_8_1985",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1985",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113969",
+        "legacy_id": "3939",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Horticulture. vol 63, no. 8 (1985) p 14",
+            "machine_name": "horticulture_vol_63_no_8_1985_p_14",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "daucus_carota",
+                "type": "species",
+                "archival_data": [
+                    "1405427"
+                ]
+            },
+            "volume": null,
+            "page": "p 14",
+            "year": "1985",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1784742",
+                "legacy_id": "87730",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483160925"
+            }
+        },
+        {
+            "name": "Horticulture. vol 63, no. 8 (1985) p 73 (Adv.)",
+            "machine_name": "horticulture_vol_63_no_8_1985_p_73_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "jasminum_polyanthum",
+                "type": "species",
+                "archival_data": [
+                    "1418409"
+                ]
+            },
+            "volume": null,
+            "page": "p inside backcover (Adv.)",
+            "year": "1985",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": true
+            },
+            "archival_data": {
+                "id": "1802163",
+                "legacy_id": "105821",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483164168"
+            }
+        }
+    ]
+}

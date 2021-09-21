@@ -1,0 +1,102 @@
+{
+    "name": "Glad World. N.A. Gladiolus Council. no. 232. (2002)",
+    "machine_name": "glad_world_n_a_gladiolus_council_no_232_2002",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2002",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2117933",
+        "legacy_id": "44630",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Glad World. N.A. Gladiolus Council. no. 232. (2002) p cover",
+            "machine_name": "glad_world_n_a_gladiolus_council_no_232_2002_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "gladiolus_cultivars_orange_splendor",
+                "type": "variety",
+                "archival_data": [
+                    "1571978"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1899975",
+                "legacy_id": "245940",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Glad World. N.A. Gladiolus Council. no. 232. (2002) p backcover (Adv.)",
+            "machine_name": "glad_world_n_a_gladiolus_council_no_232_2002_p_backcover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "gladiolus_cultivars_huron_dancer",
+                "type": "variety",
+                "archival_data": [
+                    "1573815"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover (Adv.)",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1899976",
+                "legacy_id": "245941",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        }
+    ]
+}

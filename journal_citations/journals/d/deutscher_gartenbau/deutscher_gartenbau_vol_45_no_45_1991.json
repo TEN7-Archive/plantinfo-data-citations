@@ -1,0 +1,102 @@
+{
+    "name": "Deutscher Gartenbau. vol 45, no. 45. (1991)",
+    "machine_name": "deutscher_gartenbau_vol_45_no_45_1991",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1991",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2110900",
+        "legacy_id": "2263",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Deutscher Gartenbau. vol 45, no. 45. (1991) p 2819",
+            "machine_name": "deutscher_gartenbau_vol_45_no_45_1991_p_2819",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "dianthus_cultivars_nova_series",
+                "type": "variety",
+                "archival_data": [
+                    "1467546"
+                ]
+            },
+            "volume": null,
+            "page": "p 2819",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1712449",
+                "legacy_id": "12883",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "Deutscher Gartenbau. vol 45, no. 45. (1991) p 2835 (Adv.)",
+            "machine_name": "deutscher_gartenbau_vol_45_no_45_1991_p_2835_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "impatiens_cultivars_expo_series",
+                "type": "variety",
+                "archival_data": [
+                    "1477610"
+                ]
+            },
+            "volume": null,
+            "page": "p 2835 (Adv.)",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1725831",
+                "legacy_id": "22840",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        }
+    ]
+}

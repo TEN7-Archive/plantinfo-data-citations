@@ -1,0 +1,143 @@
+{
+    "name": "Begonian, The. vol 70, Nov\/Dec. (2003)",
+    "machine_name": "begonian_the_vol_70_nov_dec_2003",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2003",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2118235",
+        "legacy_id": "50234",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Begonian, The. vol 70, Nov\/Dec. (2003) p 235",
+            "machine_name": "begonian_the_vol_70_nov_dec_2003_p_235",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "begonia_brevirimosa",
+                "type": "species",
+                "archival_data": [
+                    "1437829"
+                ]
+            },
+            "volume": null,
+            "page": "p 235",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1907652",
+                "legacy_id": "263355",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Begonian, The. vol 70, Nov\/Dec. (2003) p backcover",
+            "machine_name": "begonian_the_vol_70_nov_dec_2003_p_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "begonia_crassicaulis",
+                "type": "species",
+                "archival_data": [
+                    "1400358"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1907653",
+                "legacy_id": "263356",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        },
+        {
+            "name": "Begonian, The. vol 70, Nov\/Dec. (2003) p 234",
+            "machine_name": "begonian_the_vol_70_nov_dec_2003_p_234",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "begonia_oxyloba",
+                "type": "species",
+                "archival_data": [
+                    "1445184"
+                ]
+            },
+            "volume": null,
+            "page": "p 234",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1907928",
+                "legacy_id": "263490",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        }
+    ]
+}

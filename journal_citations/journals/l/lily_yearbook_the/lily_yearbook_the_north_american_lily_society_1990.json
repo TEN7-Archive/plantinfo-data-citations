@@ -1,0 +1,143 @@
+{
+    "name": "Lily Yearbook, The. North American Lily Society. 1990.",
+    "machine_name": "lily_yearbook_the_north_american_lily_society_1990",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1678524",
+        "legacy_id": "6804",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Lily Yearbook, The. North American Lily Society. 1990. p 8",
+            "machine_name": "lily_yearbook_the_north_american_lily_society_1990_p_8",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lilium_cultivars_stargazer_series",
+                "type": "variety",
+                "archival_data": [
+                    "1529790"
+                ]
+            },
+            "volume": null,
+            "page": "p 8",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1846238",
+                "legacy_id": "153002",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Lily Yearbook, The. North American Lily Society. 1990. p 16",
+            "machine_name": "lily_yearbook_the_north_american_lily_society_1990_p_16",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lilium_cultivars_orlito",
+                "type": "variety",
+                "archival_data": [
+                    "1540370"
+                ]
+            },
+            "volume": null,
+            "page": "p 16",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1846239",
+                "legacy_id": "153003",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Lily Yearbook, The. North American Lily Society. 1990. p 17",
+            "machine_name": "lily_yearbook_the_north_american_lily_society_1990_p_17",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lilium_cultivars_puchanta",
+                "type": "variety",
+                "archival_data": [
+                    "1540371"
+                ]
+            },
+            "volume": null,
+            "page": "p 17",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1846240",
+                "legacy_id": "153004",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        }
+    ]
+}

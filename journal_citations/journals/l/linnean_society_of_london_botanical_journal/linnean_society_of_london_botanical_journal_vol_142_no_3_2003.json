@@ -1,0 +1,61 @@
+{
+    "name": "Linnean Society of London, Botanical Journal. vol 142, no. 3. (2003)",
+    "machine_name": "linnean_society_of_london_botanical_journal_vol_142_no_3_2003",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2003",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2118383",
+        "legacy_id": "48469",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Linnean Society of London, Botanical Journal. vol 142, no. 3. (2003) p 302, Pl. 1; 303, Pl. 3.",
+            "machine_name": "linnean_society_of_london_botanical_journal_vol_142_no_3_2003_p_302_pl_1_303_pl_3",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "gunnera_manicata",
+                "type": "species",
+                "archival_data": [
+                    "1414252"
+                ]
+            },
+            "volume": null,
+            "page": "p 302, Pl. 1; 303, Pl. 3.",
+            "year": "2003",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1910579",
+                "legacy_id": "259110",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483183626"
+            }
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "name": "Maple Society Newsletter. vol 15, no. 2. (2005)",
+    "machine_name": "maple_society_newsletter_vol_15_no_2_2005",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2005",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2121290",
+        "legacy_id": "66609",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Maple Society Newsletter. vol 15, no. 2. (2005) p cover",
+            "machine_name": "maple_society_newsletter_vol_15_no_2_2005_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "acer_palmatum_reticulatum_como",
+                "type": "variety",
+                "archival_data": [
+                    "1615229"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "2005",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1980614",
+                "legacy_id": "303310",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Maple Society Newsletter. vol 15, no. 2. (2005) p cover",
+            "machine_name": "maple_society_newsletter_vol_15_no_2_2005_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "acer_palmatum_sister_ghost",
+                "type": "variety",
+                "archival_data": [
+                    "1599977"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "2005",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1980615",
+                "legacy_id": "303311",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        }
+    ]
+}

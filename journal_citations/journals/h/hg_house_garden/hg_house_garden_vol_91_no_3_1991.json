@@ -1,0 +1,102 @@
+{
+    "name": "HG: House & Garden. vol 91, no. 3. (1991)",
+    "machine_name": "hg_house_garden_vol_91_no_3_1991",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1991",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2113478",
+        "legacy_id": "3741",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "HG: House & Garden. vol 91, no. 3. (1991) p 78",
+            "machine_name": "hg_house_garden_vol_91_no_3_1991_p_78",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "agave_americana",
+                "type": "species",
+                "archival_data": [
+                    "1400923"
+                ]
+            },
+            "volume": null,
+            "page": "p 78",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1765935",
+                "legacy_id": "69358",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483157682"
+            }
+        },
+        {
+            "name": "HG: House & Garden. vol 91, no. 3. (1991) p 78",
+            "machine_name": "hg_house_garden_vol_91_no_3_1991_p_78",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "onopordum_acanthium",
+                "type": "species",
+                "archival_data": [
+                    "1426978"
+                ]
+            },
+            "volume": null,
+            "page": "p 78",
+            "year": "1991",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1813293",
+                "legacy_id": "116697",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483167411"
+            }
+        }
+    ]
+}

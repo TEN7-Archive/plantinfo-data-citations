@@ -1,0 +1,61 @@
+{
+    "name": "Nature. vol 393, no. 6682. (1998)",
+    "machine_name": "nature_vol_393_no_6682_1998",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1998",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2114747",
+        "legacy_id": "6225",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Nature. vol 393, no. 6682. (1998) p 260",
+            "machine_name": "nature_vol_393_no_6682_1998_p_260",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "eleusine_indica",
+                "type": "species",
+                "archival_data": [
+                    "1413506"
+                ]
+            },
+            "volume": null,
+            "page": "p 260",
+            "year": "1998",
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1837841",
+                "legacy_id": "145672",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483170654"
+            }
+        }
+    ]
+}

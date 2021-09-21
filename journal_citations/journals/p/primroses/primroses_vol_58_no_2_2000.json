@@ -1,0 +1,143 @@
+{
+    "name": "Primroses. vol 58, no. 2. (2000)",
+    "machine_name": "primroses_vol_58_no_2_2000",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2000",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2116401",
+        "legacy_id": "15190",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Primroses. vol 58, no. 2. (2000) p 14",
+            "machine_name": "primroses_vol_58_no_2_2000_p_14",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "primula_kisoana",
+                "type": "species",
+                "archival_data": [
+                    "1424207"
+                ]
+            },
+            "volume": null,
+            "page": "p 14",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1870358",
+                "legacy_id": "195571",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Primroses. vol 58, no. 2. (2000) p 14",
+            "machine_name": "primroses_vol_58_no_2_2000_p_14",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "primula_cultivars_miss_indigo",
+                "type": "variety",
+                "archival_data": [
+                    "1487516"
+                ]
+            },
+            "volume": null,
+            "page": "p 14",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1870359",
+                "legacy_id": "195572",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        },
+        {
+            "name": "Primroses. vol 58, no. 2. (2000) p 15",
+            "machine_name": "primroses_vol_58_no_2_2000_p_15",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "primula_auricula_city_of_juneau",
+                "type": "variety",
+                "archival_data": [
+                    "1552480"
+                ]
+            },
+            "volume": null,
+            "page": "p 15",
+            "year": "2000",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1870360",
+                "legacy_id": "195573",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483177140"
+            }
+        }
+    ]
+}

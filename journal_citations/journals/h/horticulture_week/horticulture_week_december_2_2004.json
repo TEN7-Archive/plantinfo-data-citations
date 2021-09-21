@@ -1,0 +1,102 @@
+{
+    "name": "Horticulture Week. December 2, 2004.",
+    "machine_name": "horticulture_week_december_2_2004",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1690788",
+        "legacy_id": "62310",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Horticulture Week. December 2, 2004. p 15",
+            "machine_name": "horticulture_week_december_2_2004_p_15",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cymbidium_cultivars_sussex_moor",
+                "type": "variety",
+                "archival_data": [
+                    "1598072"
+                ]
+            },
+            "volume": null,
+            "page": "p 15",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1946479",
+                "legacy_id": "291519",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        },
+        {
+            "name": "Horticulture Week. December 2, 2004. p 15",
+            "machine_name": "horticulture_week_december_2_2004_p_15",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "cymbidium_cultivars_baltic_snow_molly",
+                "type": "variety",
+                "archival_data": [
+                    "1598071"
+                ]
+            },
+            "volume": null,
+            "page": "p 15",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1946480",
+                "legacy_id": "291520",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483190112"
+            }
+        }
+    ]
+}

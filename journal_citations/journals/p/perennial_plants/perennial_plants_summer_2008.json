@@ -1,0 +1,922 @@
+{
+    "name": "Perennial Plants. Summer 2008.",
+    "machine_name": "perennial_plants_summer_2008",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1693309",
+        "legacy_id": "97449",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Perennial Plants. Summer 2008. p 5 (Adv.)",
+            "machine_name": "perennial_plants_summer_2008_p_5_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "geranium_cultivars_rozanne",
+                "type": "variety",
+                "archival_data": [
+                    "1551641"
+                ]
+            },
+            "volume": null,
+            "page": "p 5 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1989642",
+                "legacy_id": "381631",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Perennial Plants. Summer 2008. p 5 (Adv.)",
+            "machine_name": "perennial_plants_summer_2008_p_5_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "helleborus_cultivars_hgc_josef_lemper",
+                "type": "variety",
+                "archival_data": [
+                    "1591238"
+                ]
+            },
+            "volume": null,
+            "page": "p 5 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1989643",
+                "legacy_id": "381632",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Perennial Plants. Summer 2008. p 5 (Adv.)",
+            "machine_name": "perennial_plants_summer_2008_p_5_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "achillea_cultivars_tutti_frutti_series",
+                "type": "variety",
+                "archival_data": [
+                    "1641584"
+                ]
+            },
+            "volume": null,
+            "page": "p 5 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1989644",
+                "legacy_id": "381633",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Perennial Plants. Summer 2008. p 5 (Adv.)",
+            "machine_name": "perennial_plants_summer_2008_p_5_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "dianthus_cultivars_raspberry_swirl",
+                "type": "variety",
+                "archival_data": [
+                    "1633541"
+                ]
+            },
+            "volume": null,
+            "page": "p 5 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1989645",
+                "legacy_id": "381634",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Perennial Plants. Summer 2008. p 9-11",
+            "machine_name": "perennial_plants_summer_2008_p_9_11",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hakonechloa_macra_aureola",
+                "type": "variety",
+                "archival_data": [
+                    "1473214"
+                ]
+            },
+            "volume": null,
+            "page": "p 9-11",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1989646",
+                "legacy_id": "381635",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Perennial Plants. Summer 2008. p 39 (Adv.)",
+            "machine_name": "perennial_plants_summer_2008_p_39_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "echinacea_cultivars_coconut_lime",
+                "type": "variety",
+                "archival_data": [
+                    "1605408"
+                ]
+            },
+            "volume": null,
+            "page": "p 39 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1989647",
+                "legacy_id": "381636",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Perennial Plants. Summer 2008. p 39 (Adv.)",
+            "machine_name": "perennial_plants_summer_2008_p_39_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "echinacea_cultivars_hot_papaya",
+                "type": "variety",
+                "archival_data": [
+                    "1639137"
+                ]
+            },
+            "volume": null,
+            "page": "p 39 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1989648",
+                "legacy_id": "381637",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Perennial Plants. Summer 2008. p 39 (Adv.)",
+            "machine_name": "perennial_plants_summer_2008_p_39_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "echinacea_cultivars_pink_double_delight",
+                "type": "variety",
+                "archival_data": [
+                    "1658839"
+                ]
+            },
+            "volume": null,
+            "page": "p 39 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1989649",
+                "legacy_id": "381638",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Perennial Plants. Summer 2008. p 39 (Adv.)",
+            "machine_name": "perennial_plants_summer_2008_p_39_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hydrangea_macrophylla_kiyosumi",
+                "type": "variety",
+                "archival_data": [
+                    "1550420"
+                ]
+            },
+            "volume": null,
+            "page": "p 39 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1989650",
+                "legacy_id": "381639",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Perennial Plants. Summer 2008. p 50",
+            "machine_name": "perennial_plants_summer_2008_p_50",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "astilbe_cultivars_younique_series",
+                "type": "variety",
+                "archival_data": [
+                    "1640339"
+                ]
+            },
+            "volume": null,
+            "page": "p 50",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1989651",
+                "legacy_id": "381640",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Perennial Plants. Summer 2008. p 51",
+            "machine_name": "perennial_plants_summer_2008_p_51",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "geranium_cultivars_lavender_pinwheel",
+                "type": "variety",
+                "archival_data": [
+                    "1639138"
+                ]
+            },
+            "volume": null,
+            "page": "p 51",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1989652",
+                "legacy_id": "381641",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Perennial Plants. Summer 2008. p 51",
+            "machine_name": "perennial_plants_summer_2008_p_51",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "iris_ensata_freckled_geisha",
+                "type": "variety",
+                "archival_data": [
+                    "1479797"
+                ]
+            },
+            "volume": null,
+            "page": "p 51",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1989653",
+                "legacy_id": "381642",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Perennial Plants. Summer 2008. p 52",
+            "machine_name": "perennial_plants_summer_2008_p_52",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "echinacea_purpurea_green_envy",
+                "type": "variety",
+                "archival_data": [
+                    "1628533"
+                ]
+            },
+            "volume": null,
+            "page": "p 52",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1989654",
+                "legacy_id": "381643",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Perennial Plants. Summer 2008. p 53",
+            "machine_name": "perennial_plants_summer_2008_p_53",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "carex_buchananii_green_twist",
+                "type": "variety",
+                "archival_data": [
+                    "1590716"
+                ]
+            },
+            "volume": null,
+            "page": "p 53",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1989655",
+                "legacy_id": "381644",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Perennial Plants. Summer 2008. p 54",
+            "machine_name": "perennial_plants_summer_2008_p_54",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "oenothera_lindheimeri_summer_breeze",
+                "type": "variety",
+                "archival_data": [
+                    "1592273"
+                ]
+            },
+            "volume": null,
+            "page": "p 54",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1989656",
+                "legacy_id": "381645",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Perennial Plants. Summer 2008. p 55",
+            "machine_name": "perennial_plants_summer_2008_p_55",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rudbeckia_grandiflora_sundance",
+                "type": "variety",
+                "archival_data": [
+                    "1639939"
+                ]
+            },
+            "volume": null,
+            "page": "p 55",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1989657",
+                "legacy_id": "381646",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Perennial Plants. Summer 2008. p 56",
+            "machine_name": "perennial_plants_summer_2008_p_56",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hibiscus_cultivars_jazzberry_jam",
+                "type": "variety",
+                "archival_data": [
+                    "1637833"
+                ]
+            },
+            "volume": null,
+            "page": "p 56",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1989658",
+                "legacy_id": "381647",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Perennial Plants. Summer 2008. p 57",
+            "machine_name": "perennial_plants_summer_2008_p_57",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "brunnera_cultivars_king_s_ransom",
+                "type": "variety",
+                "archival_data": [
+                    "1637834"
+                ]
+            },
+            "volume": null,
+            "page": "p 57",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1989659",
+                "legacy_id": "381648",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Perennial Plants. Summer 2008. p 58",
+            "machine_name": "perennial_plants_summer_2008_p_58",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "dianthus_cultivars_coconut_punch",
+                "type": "variety",
+                "archival_data": [
+                    "1639139"
+                ]
+            },
+            "volume": null,
+            "page": "p 58",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1989660",
+                "legacy_id": "381649",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Perennial Plants. Summer 2008. p 59",
+            "machine_name": "perennial_plants_summer_2008_p_59",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "delphinium_elatum_black_eyed_angels",
+                "type": "variety",
+                "archival_data": [
+                    "1639140"
+                ]
+            },
+            "volume": null,
+            "page": "p 59",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1989661",
+                "legacy_id": "381650",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Perennial Plants. Summer 2008. p 60",
+            "machine_name": "perennial_plants_summer_2008_p_60",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "helleborus_cultivars_golden_sunrise",
+                "type": "variety",
+                "archival_data": [
+                    "1637835"
+                ]
+            },
+            "volume": null,
+            "page": "p 60",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1989662",
+                "legacy_id": "381651",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Perennial Plants. Summer 2008. p 61",
+            "machine_name": "perennial_plants_summer_2008_p_61",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "hosta_cultivars_empress_wu",
+                "type": "variety",
+                "archival_data": [
+                    "1592236"
+                ]
+            },
+            "volume": null,
+            "page": "p 61",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": false,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": true,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1989663",
+                "legacy_id": "381652",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        }
+    ]
+}

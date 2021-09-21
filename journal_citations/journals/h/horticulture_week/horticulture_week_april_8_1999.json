@@ -1,0 +1,102 @@
+{
+    "name": "Horticulture Week. April 8, 1999.",
+    "machine_name": "horticulture_week_april_8_1999",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1680697",
+        "legacy_id": "7353",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Horticulture Week. April 8, 1999. p 5",
+            "machine_name": "horticulture_week_april_8_1999_p_5",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lagerstroemia_cultivars_seminole",
+                "type": "variety",
+                "archival_data": [
+                    "1477168"
+                ]
+            },
+            "volume": null,
+            "page": "p 5",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": true,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1851645",
+                "legacy_id": "159412",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        },
+        {
+            "name": "Horticulture Week. April 8, 1999. p 32 (Adv.)",
+            "machine_name": "horticulture_week_april_8_1999_p_32_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "primula_cultivars_danova_series",
+                "type": "variety",
+                "archival_data": [
+                    "1488370"
+                ]
+            },
+            "volume": null,
+            "page": "p 32 (Adv.)",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1851646",
+                "legacy_id": "159413",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483173897"
+            }
+        }
+    ]
+}

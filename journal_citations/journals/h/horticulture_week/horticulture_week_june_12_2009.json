@@ -1,0 +1,102 @@
+{
+    "name": "Horticulture Week. June 12, 2009.",
+    "machine_name": "horticulture_week_june_12_2009",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "1691694",
+        "legacy_id": "103251",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Horticulture Week. June 12, 2009. p 10",
+            "machine_name": "horticulture_week_june_12_2009_p_10",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "rosa_cultivars_celebration_time",
+                "type": "variety",
+                "archival_data": [
+                    "1620617"
+                ]
+            },
+            "volume": null,
+            "page": "p 10",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1982182",
+                "legacy_id": "396642",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        },
+        {
+            "name": "Horticulture Week. June 12, 2009. p 10",
+            "machine_name": "horticulture_week_june_12_2009_p_10",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "saxifraga_cultivars_nicholas",
+                "type": "variety",
+                "archival_data": [
+                    "1620618"
+                ]
+            },
+            "volume": null,
+            "page": "p 10",
+            "year": null,
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1982183",
+                "legacy_id": "396643",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483196598"
+            }
+        }
+    ]
+}

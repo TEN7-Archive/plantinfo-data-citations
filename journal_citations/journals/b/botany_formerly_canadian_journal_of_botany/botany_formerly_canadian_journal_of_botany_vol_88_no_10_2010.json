@@ -1,0 +1,61 @@
+{
+    "name": "Botany (formerly: Canadian Journal of Botany). vol 88, no. 10. (2010)",
+    "machine_name": "botany_formerly_canadian_journal_of_botany_vol_88_no_10_2010",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2010",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2123682",
+        "legacy_id": "111349",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Botany (formerly: Canadian Journal of Botany). vol 88, no. 10. (2010) p 876, Pl. 1c",
+            "machine_name": "botany_formerly_canadian_journal_of_botany_vol_88_no_10_2010_p_876_pl_1c",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "silene_latifolia",
+                "type": "species",
+                "archival_data": [
+                    "1429637"
+                ]
+            },
+            "volume": null,
+            "page": "p 876, Pl. 1c",
+            "year": "2010",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "2038839",
+                "legacy_id": "422532",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483203084"
+            }
+        }
+    ]
+}

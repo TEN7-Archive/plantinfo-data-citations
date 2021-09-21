@@ -1,0 +1,102 @@
+{
+    "name": "Lilacs. vol 31, no. 1. (2002)",
+    "machine_name": "lilacs_vol_31_no_1_2002",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2002",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2117497",
+        "legacy_id": "33409",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "Lilacs. vol 31, no. 1. (2002) p cover",
+            "machine_name": "lilacs_vol_31_no_1_2002_p_cover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "syringa_vulgaris_mrs_w_e_marshall",
+                "type": "variety",
+                "archival_data": [
+                    "1529127"
+                ]
+            },
+            "volume": null,
+            "page": "p cover",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1890585",
+                "legacy_id": "226770",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        },
+        {
+            "name": "Lilacs. vol 31, no. 1. (2002) p backcover",
+            "machine_name": "lilacs_vol_31_no_1_2002_p_backcover",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "syringa_swegiflexa_fountain",
+                "type": "variety",
+                "archival_data": [
+                    "1566580"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover",
+            "year": "2002",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1890586",
+                "legacy_id": "226771",
+                "AD": false,
+                "fpi_pub_issue": null,
+                "pullingdat": "7",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483180383"
+            }
+        }
+    ]
+}

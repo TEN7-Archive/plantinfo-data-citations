@@ -1,0 +1,102 @@
+{
+    "name": "North American Lily Soc., Quarterly Bulletin. vol 49, no. 1. (1995)",
+    "machine_name": "north_american_lily_soc_quarterly_bulletin_vol_49_no_1_1995",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1995",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+        "id": "2112049",
+        "legacy_id": "4795",
+        "author": "oitadmin",
+        "created": "1473951107"
+    },
+    "citation_reference_items": [
+        {
+            "name": "North American Lily Soc., Quarterly Bulletin. vol 49, no. 1. (1995) p backcover (Adv.)",
+            "machine_name": "north_american_lily_soc_quarterly_bulletin_vol_49_no_1_1995_p_backcover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lilium_cultivars_purple_reign",
+                "type": "variety",
+                "archival_data": [
+                    "1479002"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover (Adv.)",
+            "year": "1995",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1731632",
+                "legacy_id": "28109",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        },
+        {
+            "name": "North American Lily Soc., Quarterly Bulletin. vol 49, no. 1. (1995) p backcover (Adv.)",
+            "machine_name": "north_american_lily_soc_quarterly_bulletin_vol_49_no_1_1995_p_backcover_adv",
+            "type": "citation_reference",
+            "plant": {
+                "machine_name": "lilium_cultivars_starburst_sensation",
+                "type": "variety",
+                "archival_data": [
+                    "1479039"
+                ]
+            },
+            "volume": null,
+            "page": "p backcover (Adv.)",
+            "year": "1995",
+            "notes": null,
+            "parts_shown": {
+                "Flower": true,
+                "Seed": false,
+                "Fruit": false,
+                "Bark": false,
+                "Root": false,
+                "Habit": false,
+                "Leaf": false,
+                "Twig": false,
+                "Unclear": false
+            },
+            "citation_type": {
+                "Art": false,
+                "Photo": false
+            },
+            "archival_data": {
+                "id": "1731691",
+                "legacy_id": "28168",
+                "AD": true,
+                "fpi_pub_issue": null,
+                "pullingdat": "1",
+                "active": true,
+                "author": "oitadmin",
+                "created": "1483151195"
+            }
+        }
+    ]
+}
