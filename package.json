@@ -4,6 +4,7 @@
   "description": "Plantinfo Data - Citations",
   "main": "index.js",
   "scripts": {
+    "combine": "node combine.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,6 +19,7 @@
   },
   "homepage": "https://github.com/ten7/plantinfo-data-citations#readme",
   "dependencies": {
+    "combine-json": "^1.0.0",
     "directory-tree": "^3.2.2"
   }
 }
