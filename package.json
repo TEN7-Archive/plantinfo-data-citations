@@ -20,6 +20,7 @@
   "homepage": "https://github.com/ten7/plantinfo-data-citations#readme",
   "dependencies": {
     "combine-json": "^1.0.0",
-    "directory-tree": "^3.2.2"
+    "directory-tree": "^3.2.2",
+    "graceful-fs": "^4.2.10"
   }
 }

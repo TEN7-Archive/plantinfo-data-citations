@@ -1,0 +1,69 @@
+{
+  "tony_1999": {
+    "name": "tony (1999)",
+    "machine_name": "tony_1999",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1999",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": {
+      "value": "tony's test journal",
+      "summary": null,
+      "format": null,
+      "safe_value": "tony&#039;s test journal",
+      "safe_summary": ""
+    },
+    "archival_data": {
+      "id": "2116079",
+      "legacy_id": "6893",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": [
+      {
+        "name": "tony (1999) 123",
+        "machine_name": "tony_1999_123",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "ginkgo_biloba",
+          "type": "species",
+          "archival_data": [
+            "1411935"
+          ]
+        },
+        "volume": null,
+        "page": "123",
+        "year": "1999",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1863053",
+          "legacy_id": "175650",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": null,
+          "active": false,
+          "author": "oitadmin",
+          "created": "1483177140"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,1640 @@
+{
+  "bonar_ann_tulips": {
+    "name": "Bonar, Ann. Tulips.",
+    "machine_name": "bonar_ann_tulips",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "1675358",
+      "legacy_id": "1606",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": []
+  },
+  "bonar_ann_tulips_1992": {
+    "name": "Bonar, Ann. Tulips. (1992)",
+    "machine_name": "bonar_ann_tulips_1992",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1992",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "2113197",
+      "legacy_id": "1606",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": [
+      {
+        "name": "Bonar, Ann. Tulips. (1992) p 46",
+        "machine_name": "bonar_ann_tulips_1992_p_46",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "tulipa_cultivars_angelique",
+          "type": "variety",
+          "archival_data": [
+            "1492233"
+          ]
+        },
+        "volume": null,
+        "page": "p 46",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1760972",
+          "legacy_id": "58161",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Bonar, Ann. Tulips. (1992) p 33",
+        "machine_name": "bonar_ann_tulips_1992_p_33",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "tulipa_cultivars_apricot_beauty",
+          "type": "variety",
+          "archival_data": [
+            "1492235"
+          ]
+        },
+        "volume": null,
+        "page": "p 33",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1761243",
+          "legacy_id": "58185",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Bonar, Ann. Tulips. (1992) p 42",
+        "machine_name": "bonar_ann_tulips_1992_p_42",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "tulipa_cultivars_artist",
+          "type": "variety",
+          "archival_data": [
+            "1492236"
+          ]
+        },
+        "volume": null,
+        "page": "p 42",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1761252",
+          "legacy_id": "58194",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Bonar, Ann. Tulips. (1992) p 40",
+        "machine_name": "bonar_ann_tulips_1992_p_40",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "tulipa_cultivars_ballade",
+          "type": "variety",
+          "archival_data": [
+            "1492239"
+          ]
+        },
+        "volume": null,
+        "page": "p 40",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1761262",
+          "legacy_id": "58204",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Bonar, Ann. Tulips. (1992) p 45",
+        "machine_name": "bonar_ann_tulips_1992_p_45",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "tulipa_cultivars_estella_rijnveld",
+          "type": "variety",
+          "archival_data": [
+            "1493096"
+          ]
+        },
+        "volume": null,
+        "page": "p 45",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1761599",
+          "legacy_id": "58295",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Bonar, Ann. Tulips. (1992) p 41",
+        "machine_name": "bonar_ann_tulips_1992_p_41",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "tulipa_cultivars_fancy_frills",
+          "type": "variety",
+          "archival_data": [
+            "1493098"
+          ]
+        },
+        "volume": null,
+        "page": "p 41",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1761605",
+          "legacy_id": "58301",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Bonar, Ann. Tulips. (1992) p 45",
+        "machine_name": "bonar_ann_tulips_1992_p_45",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "tulipa_cultivars_flaming_parrot",
+          "type": "variety",
+          "archival_data": [
+            "1493102"
+          ]
+        },
+        "volume": null,
+        "page": "p 45",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1761613",
+          "legacy_id": "58309",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Bonar, Ann. Tulips. (1992) p 36",
+        "machine_name": "bonar_ann_tulips_1992_p_36",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "tulipa_cultivars_fringed_beauty",
+          "type": "variety",
+          "archival_data": [
+            "1493104"
+          ]
+        },
+        "volume": null,
+        "page": "p 36",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1761621",
+          "legacy_id": "58317",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Bonar, Ann. Tulips. (1992) p 37",
+        "machine_name": "bonar_ann_tulips_1992_p_37",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "tulipa_cultivars_garden_party",
+          "type": "variety",
+          "archival_data": [
+            "1493108"
+          ]
+        },
+        "volume": null,
+        "page": "p 37",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1761630",
+          "legacy_id": "58326",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Bonar, Ann. Tulips. (1992) p 39",
+        "machine_name": "bonar_ann_tulips_1992_p_39",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "tulipa_cultivars_halcro",
+          "type": "variety",
+          "archival_data": [
+            "1493119"
+          ]
+        },
+        "volume": null,
+        "page": "p 39",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1761907",
+          "legacy_id": "58360",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Bonar, Ann. Tulips. (1992) p 46",
+        "machine_name": "bonar_ann_tulips_1992_p_46",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "tulipa_cultivars_happy_family",
+          "type": "variety",
+          "archival_data": [
+            "1493120"
+          ]
+        },
+        "volume": null,
+        "page": "p 46",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1761912",
+          "legacy_id": "58365",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Bonar, Ann. Tulips. (1992) p 46",
+        "machine_name": "bonar_ann_tulips_1992_p_46",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "tulipa_cultivars_mount_tacoma",
+          "type": "variety",
+          "archival_data": [
+            "1492496"
+          ]
+        },
+        "volume": null,
+        "page": "p 46",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1762252",
+          "legacy_id": "58459",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Bonar, Ann. Tulips. (1992) p 39",
+        "machine_name": "bonar_ann_tulips_1992_p_39",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "tulipa_cultivars_mrs_john_t_scheepers",
+          "type": "variety",
+          "archival_data": [
+            "1492497"
+          ]
+        },
+        "volume": null,
+        "page": "p 39",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1762258",
+          "legacy_id": "58465",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Bonar, Ann. Tulips. (1992) p 37",
+        "machine_name": "bonar_ann_tulips_1992_p_37",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "tulipa_cultivars_new_design",
+          "type": "variety",
+          "archival_data": [
+            "1492503"
+          ]
+        },
+        "volume": null,
+        "page": "p 37",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1762272",
+          "legacy_id": "58479",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Bonar, Ann. Tulips. (1992) p 45",
+        "machine_name": "bonar_ann_tulips_1992_p_45",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "tulipa_cultivars_orange_favourite",
+          "type": "variety",
+          "archival_data": [
+            "1492508"
+          ]
+        },
+        "volume": null,
+        "page": "p 45",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1762281",
+          "legacy_id": "58488",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Bonar, Ann. Tulips. (1992) p 36",
+        "machine_name": "bonar_ann_tulips_1992_p_36",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "tulipa_cultivars_peach_blossom",
+          "type": "variety",
+          "archival_data": [
+            "1492516"
+          ]
+        },
+        "volume": null,
+        "page": "p 36",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1762295",
+          "legacy_id": "58502",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Bonar, Ann. Tulips. (1992) p 39",
+        "machine_name": "bonar_ann_tulips_1992_p_39",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "tulipa_cultivars_princess_margaret_rose",
+          "type": "variety",
+          "archival_data": [
+            "1492523"
+          ]
+        },
+        "volume": null,
+        "page": "p 39",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1762558",
+          "legacy_id": "58520",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Bonar, Ann. Tulips. (1992) p 38",
+        "machine_name": "bonar_ann_tulips_1992_p_38",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "tulipa_cultivars_queen_of_night",
+          "type": "variety",
+          "archival_data": [
+            "1492526"
+          ]
+        },
+        "volume": null,
+        "page": "p 38",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1762567",
+          "legacy_id": "58529",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Bonar, Ann. Tulips. (1992) p 43",
+        "machine_name": "bonar_ann_tulips_1992_p_43",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "tulipa_cultivars_rembrandt_series",
+          "type": "variety",
+          "archival_data": [
+            "1492533"
+          ]
+        },
+        "volume": null,
+        "page": "p 43",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1762593",
+          "legacy_id": "58555",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Bonar, Ann. Tulips. (1992) p 42",
+        "machine_name": "bonar_ann_tulips_1992_p_42",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "tulipa_cultivars_spring_green",
+          "type": "variety",
+          "archival_data": [
+            "1492769"
+          ]
+        },
+        "volume": null,
+        "page": "p 42",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1762618",
+          "legacy_id": "58580",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Bonar, Ann. Tulips. (1992) p 41",
+        "machine_name": "bonar_ann_tulips_1992_p_41",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "tulipa_cultivars_warbler",
+          "type": "variety",
+          "archival_data": [
+            "1492789"
+          ]
+        },
+        "volume": null,
+        "page": "p 41",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1762896",
+          "legacy_id": "58613",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Bonar, Ann. Tulips. (1992) p 40",
+        "machine_name": "bonar_ann_tulips_1992_p_40",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "tulipa_cultivars_west_point",
+          "type": "variety",
+          "archival_data": [
+            "1492790"
+          ]
+        },
+        "volume": null,
+        "page": "p 40",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1762898",
+          "legacy_id": "58615",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Bonar, Ann. Tulips. (1992) p 40",
+        "machine_name": "bonar_ann_tulips_1992_p_40",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "tulipa_cultivars_white_triumphator",
+          "type": "variety",
+          "archival_data": [
+            "1492795"
+          ]
+        },
+        "volume": null,
+        "page": "p 40",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1762912",
+          "legacy_id": "58629",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Bonar, Ann. Tulips. (1992) p 48",
+        "machine_name": "bonar_ann_tulips_1992_p_48",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "tulipa_clusiana_chrysantha",
+          "type": "variety",
+          "archival_data": [
+            "1492800"
+          ]
+        },
+        "volume": null,
+        "page": "p 48",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1762929",
+          "legacy_id": "58646",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Bonar, Ann. Tulips. (1992) p 32",
+        "machine_name": "bonar_ann_tulips_1992_p_32",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "tulipa_fosteriana_cantata",
+          "type": "variety",
+          "archival_data": [
+            "1492805"
+          ]
+        },
+        "volume": null,
+        "page": "p 32",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1762936",
+          "legacy_id": "58653",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Bonar, Ann. Tulips. (1992) p 33",
+        "machine_name": "bonar_ann_tulips_1992_p_33",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "tulipa_fosteriana_orange_emperor",
+          "type": "variety",
+          "archival_data": [
+            "1492809"
+          ]
+        },
+        "volume": null,
+        "page": "p 33",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1762948",
+          "legacy_id": "58665",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Bonar, Ann. Tulips. (1992) p 35",
+        "machine_name": "bonar_ann_tulips_1992_p_35",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "tulipa_greigii_cape_cod",
+          "type": "variety",
+          "archival_data": [
+            "1492818"
+          ]
+        },
+        "volume": null,
+        "page": "p 35",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1763213",
+          "legacy_id": "58686",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Bonar, Ann. Tulips. (1992) p 35",
+        "machine_name": "bonar_ann_tulips_1992_p_35",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "tulipa_greigii_plaisir",
+          "type": "variety",
+          "archival_data": [
+            "1492824"
+          ]
+        },
+        "volume": null,
+        "page": "p 35",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1763231",
+          "legacy_id": "58704",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Bonar, Ann. Tulips. (1992) p 35",
+        "machine_name": "bonar_ann_tulips_1992_p_35",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "tulipa_greigii_red_riding_hood",
+          "type": "variety",
+          "archival_data": [
+            "1492825"
+          ]
+        },
+        "volume": null,
+        "page": "p 35",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1763243",
+          "legacy_id": "58716",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Bonar, Ann. Tulips. (1992) p 33",
+        "machine_name": "bonar_ann_tulips_1992_p_33",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "tulipa_kaufmanniana_gluck",
+          "type": "variety",
+          "archival_data": [
+            "1497997"
+          ]
+        },
+        "volume": null,
+        "page": "p 33",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1763268",
+          "legacy_id": "58741",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Bonar, Ann. Tulips. (1992) p 49",
+        "machine_name": "bonar_ann_tulips_1992_p_49",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "tulipa_praestans_fusilier",
+          "type": "variety",
+          "archival_data": [
+            "1498008"
+          ]
+        },
+        "volume": null,
+        "page": "p 49",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1763534",
+          "legacy_id": "58760",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Bonar, Ann. Tulips. (1992) p 49",
+        "machine_name": "bonar_ann_tulips_1992_p_49",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "tulipa_praestans_unicum",
+          "type": "variety",
+          "archival_data": [
+            "1498009"
+          ]
+        },
+        "volume": null,
+        "page": "p 49",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1763540",
+          "legacy_id": "58766",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Bonar, Ann. Tulips. (1992) p 50",
+        "machine_name": "bonar_ann_tulips_1992_p_50",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "tulipa_batalinii",
+          "type": "species",
+          "archival_data": [
+            "1427850"
+          ]
+        },
+        "volume": null,
+        "page": "p 50",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1833325",
+          "legacy_id": "139220",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Bonar, Ann. Tulips. (1992) p 48",
+        "machine_name": "bonar_ann_tulips_1992_p_48",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "tulipa_clusiana",
+          "type": "species",
+          "archival_data": [
+            "1427856"
+          ]
+        },
+        "volume": null,
+        "page": "p 48",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1833584",
+          "legacy_id": "139236",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Bonar, Ann. Tulips. (1992) p 34",
+        "machine_name": "bonar_ann_tulips_1992_p_34",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "tulipa_greigii",
+          "type": "species",
+          "archival_data": [
+            "1427867"
+          ]
+        },
+        "volume": null,
+        "page": "p 34",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1833620",
+          "legacy_id": "139272",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Bonar, Ann. Tulips. (1992) p 50",
+        "machine_name": "bonar_ann_tulips_1992_p_50",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "tulipa_linifolia",
+          "type": "species",
+          "archival_data": [
+            "1427879"
+          ]
+        },
+        "volume": null,
+        "page": "p 50",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1833654",
+          "legacy_id": "139313",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Bonar, Ann. Tulips. (1992) p 50",
+        "machine_name": "bonar_ann_tulips_1992_p_50",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "tulipa_tarda",
+          "type": "species",
+          "archival_data": [
+            "1427896"
+          ]
+        },
+        "volume": null,
+        "page": "p 50",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1833965",
+          "legacy_id": "139379",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Bonar, Ann. Tulips. (1992) p 48",
+        "machine_name": "bonar_ann_tulips_1992_p_48",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "tulipa_turkestanica",
+          "type": "species",
+          "archival_data": [
+            "1427898"
+          ]
+        },
+        "volume": null,
+        "page": "p 48",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1833985",
+          "legacy_id": "139399",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Bonar, Ann. Tulips. (1992) p 49",
+        "machine_name": "bonar_ann_tulips_1992_p_49",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "tulipa_urumiensis",
+          "type": "species",
+          "archival_data": [
+            "1427900"
+          ]
+        },
+        "volume": null,
+        "page": "p 49",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1834238",
+          "legacy_id": "139408",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      }
+    ]
+  }
+}

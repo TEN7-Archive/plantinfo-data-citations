@@ -1,0 +1,1270 @@
+{
+  "canadian_rose_annual_1992": {
+    "name": "Canadian Rose Annual. (1992)",
+    "machine_name": "canadian_rose_annual_1992",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1992",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "2112948",
+      "legacy_id": "1912",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": [
+      {
+        "name": "Canadian Rose Annual. (1992) p 52",
+        "machine_name": "canadian_rose_annual_1992_p_52",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rosa_cultivars_living_bouquet",
+          "type": "variety",
+          "archival_data": [
+            "1491112"
+          ]
+        },
+        "volume": null,
+        "page": "p 52",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1748891",
+          "legacy_id": "49676",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483154438"
+        }
+      },
+      {
+        "name": "Canadian Rose Annual. (1992) p 36",
+        "machine_name": "canadian_rose_annual_1992_p_36",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rosa_cultivars_morden_fireglow",
+          "type": "variety",
+          "archival_data": [
+            "1492301"
+          ]
+        },
+        "volume": null,
+        "page": "p 36",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1752514",
+          "legacy_id": "50583",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483154438"
+        }
+      },
+      {
+        "name": "Canadian Rose Annual. (1992) p 22",
+        "machine_name": "canadian_rose_annual_1992_p_22",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rosa_cultivars_winnipeg_parks",
+          "type": "variety",
+          "archival_data": [
+            "1492949"
+          ]
+        },
+        "volume": null,
+        "page": "p 22",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1757097",
+          "legacy_id": "54485",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483154438"
+        }
+      }
+    ]
+  },
+  "canadian_rose_annual_2015": {
+    "name": "Canadian Rose Annual. 2015.",
+    "machine_name": "canadian_rose_annual_2015",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": "7",
+    "description": null,
+    "archival_data": {
+      "id": "2198611",
+      "legacy_id": null,
+      "author": "r-isaa",
+      "created": "1515609077"
+    },
+    "citation_reference_items": [
+      {
+        "name": "Canadian Rose Annual. 2015. p 22",
+        "machine_name": "canadian_rose_annual_2015_p_22",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rosa_cultivars_summer_lodge",
+          "type": "variety",
+          "archival_data": [
+            "2198616"
+          ]
+        },
+        "volume": null,
+        "page": "p 22",
+        "year": null,
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": true
+        },
+        "archival_data": {
+          "id": "2198636",
+          "legacy_id": null,
+          "AD": null,
+          "fpi_pub_issue": null,
+          "pullingdat": null,
+          "active": null,
+          "author": "r-isaa",
+          "created": "1515609691"
+        }
+      },
+      {
+        "name": "Canadian Rose Annual. 2015. p 22",
+        "machine_name": "canadian_rose_annual_2015_p_22",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rosa_cultivars_heilige_elizabeth",
+          "type": "variety",
+          "archival_data": [
+            "2198621"
+          ]
+        },
+        "volume": null,
+        "page": "p 22",
+        "year": null,
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": true
+        },
+        "archival_data": {
+          "id": "2198641",
+          "legacy_id": null,
+          "AD": null,
+          "fpi_pub_issue": null,
+          "pullingdat": null,
+          "active": null,
+          "author": "r-isaa",
+          "created": "1515609691"
+        }
+      },
+      {
+        "name": "Canadian Rose Annual. 2015. p 22",
+        "machine_name": "canadian_rose_annual_2015_p_22",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rosa_cultivars_mrs_f_w_flight",
+          "type": "variety",
+          "archival_data": [
+            "1492547"
+          ]
+        },
+        "volume": null,
+        "page": "p 22",
+        "year": null,
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": true
+        },
+        "archival_data": {
+          "id": "2198646",
+          "legacy_id": null,
+          "AD": null,
+          "fpi_pub_issue": null,
+          "pullingdat": null,
+          "active": null,
+          "author": "r-isaa",
+          "created": "1515609691"
+        }
+      },
+      {
+        "name": "Canadian Rose Annual. 2015. p 22",
+        "machine_name": "canadian_rose_annual_2015_p_22",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rosa_cultivars_jens_munk",
+          "type": "variety",
+          "archival_data": [
+            "1494840"
+          ]
+        },
+        "volume": null,
+        "page": "p 22",
+        "year": null,
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": true
+        },
+        "archival_data": {
+          "id": "2198651",
+          "legacy_id": null,
+          "AD": null,
+          "fpi_pub_issue": null,
+          "pullingdat": null,
+          "active": null,
+          "author": "r-isaa",
+          "created": "1515609691"
+        }
+      },
+      {
+        "name": "Canadian Rose Annual. 2015. p 22",
+        "machine_name": "canadian_rose_annual_2015_p_22",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rosa_cultivars_aicha",
+          "type": "variety",
+          "archival_data": [
+            "1488879"
+          ]
+        },
+        "volume": null,
+        "page": "p 22",
+        "year": null,
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": true
+        },
+        "archival_data": {
+          "id": "2198656",
+          "legacy_id": null,
+          "AD": null,
+          "fpi_pub_issue": null,
+          "pullingdat": null,
+          "active": null,
+          "author": "r-isaa",
+          "created": "1515609691"
+        }
+      },
+      {
+        "name": "Canadian Rose Annual. 2015. p 22",
+        "machine_name": "canadian_rose_annual_2015_p_22",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rosa_cultivars_hansaland",
+          "type": "variety",
+          "archival_data": [
+            "1598761"
+          ]
+        },
+        "volume": null,
+        "page": "p 22",
+        "year": null,
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": true
+        },
+        "archival_data": {
+          "id": "2198661",
+          "legacy_id": null,
+          "AD": null,
+          "fpi_pub_issue": null,
+          "pullingdat": null,
+          "active": null,
+          "author": "r-isaa",
+          "created": "1515609691"
+        }
+      },
+      {
+        "name": "Canadian Rose Annual. 2015. p 22",
+        "machine_name": "canadian_rose_annual_2015_p_22",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rosa_cultivars_lac_majeau",
+          "type": "variety",
+          "archival_data": [
+            "1527936"
+          ]
+        },
+        "volume": null,
+        "page": "p 22",
+        "year": null,
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": true
+        },
+        "archival_data": {
+          "id": "2198666",
+          "legacy_id": null,
+          "AD": null,
+          "fpi_pub_issue": null,
+          "pullingdat": null,
+          "active": null,
+          "author": "r-isaa",
+          "created": "1515609691"
+        }
+      },
+      {
+        "name": "Canadian Rose Annual. 2015. p 22",
+        "machine_name": "canadian_rose_annual_2015_p_22",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rosa_cultivars_prairie_dawn",
+          "type": "variety",
+          "archival_data": [
+            "1526964"
+          ]
+        },
+        "volume": null,
+        "page": "p 22",
+        "year": null,
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": true
+        },
+        "archival_data": {
+          "id": "2198671",
+          "legacy_id": null,
+          "AD": null,
+          "fpi_pub_issue": null,
+          "pullingdat": null,
+          "active": null,
+          "author": "r-isaa",
+          "created": "1515609691"
+        }
+      },
+      {
+        "name": "Canadian Rose Annual. 2015. p 22",
+        "machine_name": "canadian_rose_annual_2015_p_22",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rosa_cultivars_chateau_barbeyrolles",
+          "type": "variety",
+          "archival_data": [
+            "2198626"
+          ]
+        },
+        "volume": null,
+        "page": "p 22",
+        "year": null,
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": true
+        },
+        "archival_data": {
+          "id": "2198676",
+          "legacy_id": null,
+          "AD": null,
+          "fpi_pub_issue": null,
+          "pullingdat": null,
+          "active": null,
+          "author": "r-isaa",
+          "created": "1515609691"
+        }
+      },
+      {
+        "name": "Canadian Rose Annual. 2015. p 22",
+        "machine_name": "canadian_rose_annual_2015_p_22",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rosa_cultivars_peachy_keen",
+          "type": "variety",
+          "archival_data": [
+            "1493427"
+          ]
+        },
+        "volume": null,
+        "page": "p 22",
+        "year": null,
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": true
+        },
+        "archival_data": {
+          "id": "2198681",
+          "legacy_id": null,
+          "AD": null,
+          "fpi_pub_issue": null,
+          "pullingdat": null,
+          "active": null,
+          "author": "r-isaa",
+          "created": "1515609691"
+        }
+      },
+      {
+        "name": "Canadian Rose Annual. 2015. p 22",
+        "machine_name": "canadian_rose_annual_2015_p_22",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rosa_cultivars_gartenfreund",
+          "type": "variety",
+          "archival_data": [
+            "2198631"
+          ]
+        },
+        "volume": null,
+        "page": "p 22",
+        "year": null,
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": true
+        },
+        "archival_data": {
+          "id": "2198686",
+          "legacy_id": null,
+          "AD": null,
+          "fpi_pub_issue": null,
+          "pullingdat": null,
+          "active": null,
+          "author": "r-isaa",
+          "created": "1515609691"
+        }
+      },
+      {
+        "name": "Canadian Rose Annual. 2015. p 22",
+        "machine_name": "canadian_rose_annual_2015_p_22",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rosa_cultivars_savannah",
+          "type": "variety",
+          "archival_data": [
+            "1527283"
+          ]
+        },
+        "volume": null,
+        "page": "p 22",
+        "year": null,
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": true
+        },
+        "archival_data": {
+          "id": "2198691",
+          "legacy_id": null,
+          "AD": null,
+          "fpi_pub_issue": null,
+          "pullingdat": null,
+          "active": null,
+          "author": "r-isaa",
+          "created": "1515609691"
+        }
+      },
+      {
+        "name": "Canadian Rose Annual. 2015. p backcover",
+        "machine_name": "canadian_rose_annual_2015_p_backcover",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rosa_cultivars_henry_kelsey",
+          "type": "variety",
+          "archival_data": [
+            "1494243"
+          ]
+        },
+        "volume": null,
+        "page": "p backcover",
+        "year": null,
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": true
+        },
+        "archival_data": {
+          "id": "2198696",
+          "legacy_id": null,
+          "AD": null,
+          "fpi_pub_issue": null,
+          "pullingdat": null,
+          "active": null,
+          "author": "r-isaa",
+          "created": "1515609691"
+        }
+      },
+      {
+        "name": "Canadian Rose Annual. 2015. p backcover",
+        "machine_name": "canadian_rose_annual_2015_p_backcover",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rosa_cultivars_henry_hudson",
+          "type": "variety",
+          "archival_data": [
+            "1494242"
+          ]
+        },
+        "volume": null,
+        "page": "p backcover",
+        "year": null,
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": true
+        },
+        "archival_data": {
+          "id": "2198701",
+          "legacy_id": null,
+          "AD": null,
+          "fpi_pub_issue": null,
+          "pullingdat": null,
+          "active": null,
+          "author": "r-isaa",
+          "created": "1515609691"
+        }
+      },
+      {
+        "name": "Canadian Rose Annual. 2015. p backcover",
+        "machine_name": "canadian_rose_annual_2015_p_backcover",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rosa_cultivars_cocktail_series",
+          "type": "variety",
+          "archival_data": [
+            "1645963"
+          ]
+        },
+        "volume": null,
+        "page": "p backcover",
+        "year": null,
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": true
+        },
+        "archival_data": {
+          "id": "2198706",
+          "legacy_id": null,
+          "AD": null,
+          "fpi_pub_issue": null,
+          "pullingdat": null,
+          "active": null,
+          "author": "r-isaa",
+          "created": "1515609691"
+        }
+      },
+      {
+        "name": "Canadian Rose Annual. 2015. p backcover",
+        "machine_name": "canadian_rose_annual_2015_p_backcover",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rosa_cultivars_quadra",
+          "type": "variety",
+          "archival_data": [
+            "1494068"
+          ]
+        },
+        "volume": null,
+        "page": "p backcover",
+        "year": null,
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": true
+        },
+        "archival_data": {
+          "id": "2198711",
+          "legacy_id": null,
+          "AD": null,
+          "fpi_pub_issue": null,
+          "pullingdat": null,
+          "active": null,
+          "author": "r-isaa",
+          "created": "1515609691"
+        }
+      },
+      {
+        "name": "Canadian Rose Annual. 2015. p cover",
+        "machine_name": "canadian_rose_annual_2015_p_cover",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rosa_cultivars_john_cabot",
+          "type": "variety",
+          "archival_data": [
+            "1543266"
+          ]
+        },
+        "volume": null,
+        "page": "p cover",
+        "year": null,
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": true
+        },
+        "archival_data": {
+          "id": "2198716",
+          "legacy_id": null,
+          "AD": null,
+          "fpi_pub_issue": null,
+          "pullingdat": null,
+          "active": null,
+          "author": "r-isaa",
+          "created": "1515609691"
+        }
+      }
+    ]
+  },
+  "canadian_rose_annual": {
+    "name": "Canadian Rose Annual.",
+    "machine_name": "canadian_rose_annual",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "1676631",
+      "legacy_id": "1912",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": []
+  },
+  "canadian_rose_annual_1996": {
+    "name": "Canadian Rose Annual. (1996)",
+    "machine_name": "canadian_rose_annual_1996",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1996",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "2112891",
+      "legacy_id": "1912",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": [
+      {
+        "name": "Canadian Rose Annual. (1996) p 150",
+        "machine_name": "canadian_rose_annual_1996_p_150",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rosa_cultivars_blue_ice",
+          "type": "variety",
+          "archival_data": [
+            "1490320"
+          ]
+        },
+        "volume": null,
+        "page": "p 150",
+        "year": "1996",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1747272",
+          "legacy_id": "45281",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483154438"
+        }
+      },
+      {
+        "name": "Canadian Rose Annual. (1996) p 28",
+        "machine_name": "canadian_rose_annual_1996_p_28",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rosa_cultivars_brandy",
+          "type": "variety",
+          "archival_data": [
+            "1490360"
+          ]
+        },
+        "volume": null,
+        "page": "p 28",
+        "year": "1996",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1747952",
+          "legacy_id": "45473",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483154438"
+        }
+      },
+      {
+        "name": "Canadian Rose Annual. (1996) p 28",
+        "machine_name": "canadian_rose_annual_1996_p_28",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rosa_cultivars_perfect_moment",
+          "type": "variety",
+          "archival_data": [
+            "1493449"
+          ]
+        },
+        "volume": null,
+        "page": "p 28",
+        "year": "1996",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1749947",
+          "legacy_id": "51410",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483154438"
+        }
+      },
+      {
+        "name": "Canadian Rose Annual. (1996) p 44",
+        "machine_name": "canadian_rose_annual_1996_p_44",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rosa_cultivars_hope_for_humanity",
+          "type": "variety",
+          "archival_data": [
+            "1494289"
+          ]
+        },
+        "volume": null,
+        "page": "p 44",
+        "year": "1996",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1750150",
+          "legacy_id": "48685",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483154438"
+        }
+      },
+      {
+        "name": "Canadian Rose Annual. (1996) p 32",
+        "machine_name": "canadian_rose_annual_1996_p_32",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rosa_cultivars_janet_a_wood",
+          "type": "variety",
+          "archival_data": [
+            "1494597"
+          ]
+        },
+        "volume": null,
+        "page": "p 32",
+        "year": "1996",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1751119",
+          "legacy_id": "48924",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483154438"
+        }
+      },
+      {
+        "name": "Canadian Rose Annual. (1996) p 28",
+        "machine_name": "canadian_rose_annual_1996_p_28",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rosa_cultivars_keepsake",
+          "type": "variety",
+          "archival_data": [
+            "1495133"
+          ]
+        },
+        "volume": null,
+        "page": "p 28",
+        "year": "1996",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1752144",
+          "legacy_id": "49202",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483154438"
+        }
+      },
+      {
+        "name": "Canadian Rose Annual. (1996) p 24",
+        "machine_name": "canadian_rose_annual_1996_p_24",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rosa_cultivars_royal_victoria",
+          "type": "variety",
+          "archival_data": [
+            "1494926"
+          ]
+        },
+        "volume": null,
+        "page": "p 24",
+        "year": "1996",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1754409",
+          "legacy_id": "52494",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483154438"
+        }
+      },
+      {
+        "name": "Canadian Rose Annual. (1996) p 150",
+        "machine_name": "canadian_rose_annual_1996_p_150",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rosa_cultivars_silken_laumann",
+          "type": "variety",
+          "archival_data": [
+            "1495506"
+          ]
+        },
+        "volume": null,
+        "page": "p 150",
+        "year": "1996",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1756331",
+          "legacy_id": "52941",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483154438"
+        }
+      },
+      {
+        "name": "Canadian Rose Annual. (1996) p 96",
+        "machine_name": "canadian_rose_annual_1996_p_96",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rosa_cultivars_rita_macneil",
+          "type": "variety",
+          "archival_data": [
+            "1494618"
+          ]
+        },
+        "volume": null,
+        "page": "p 96",
+        "year": "1996",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1758595",
+          "legacy_id": "52239",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      }
+    ]
+  }
+}

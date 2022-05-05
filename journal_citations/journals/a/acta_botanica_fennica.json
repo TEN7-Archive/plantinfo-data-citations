@@ -1,7 +1,5 @@
 {
-  "acta_botanica_fennica":
-    [
-      {
+  "acta_botanica_fennica_no_139": {
         "name": "Acta Botanica Fennica. no. 139.",
         "machine_name": "acta_botanica_fennica_no_139",
         "type": "journal_book",
@@ -20,752 +18,733 @@
         },
         "citation_reference_items": []
       },
+  "acta_botanica_fennica_no_140": {
+    "name": "Acta Botanica Fennica. no. 140.",
+    "machine_name": "acta_botanica_fennica_no_140",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "1685753",
+      "legacy_id": "38690",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": []
+  },
+  "acta_botanica_fennica_no_141": {
+    "name": "Acta Botanica Fennica. no. 141",
+    "machine_name": "acta_botanica_fennica_no_141",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "1676470",
+      "legacy_id": "2",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": []
+  },
+  "acta_botanica_fennica_no_141_1990": {
+    "name": "Acta Botanica Fennica. no. 141 (1990)",
+    "machine_name": "acta_botanica_fennica_no_141_1990",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1990",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "2114622",
+      "legacy_id": "2",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": [
       {
-        "name": "Acta Botanica Fennica. no. 140.",
-        "machine_name": "acta_botanica_fennica_no_140",
-        "type": "journal_book",
-        "volume": null,
-        "number": null,
-        "year": null,
-        "additional_info": null,
-        "publish_date": null,
-        "pulling_date": null,
-        "description": null,
-        "archival_data": {
-          "id": "1685753",
-          "legacy_id": "38690",
-          "author": "oitadmin",
-          "created": "1473951107"
+        "name": "Acta Botanica Fennica. no. 141 (1990) p 10, Pl. 2a",
+        "machine_name": "acta_botanica_fennica_no_141_1990_p_10_pl_2a",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "viburnum_opulus",
+          "type": "species",
+          "archival_data": [
+            "1429797"
+          ]
         },
-        "citation_reference_items": []
-      },
-      {
-        "name": "Acta Botanica Fennica. no. 141",
-        "machine_name": "acta_botanica_fennica_no_141",
-        "type": "journal_book",
         "volume": null,
-        "number": null,
-        "year": null,
-        "additional_info": null,
-        "publish_date": null,
-        "pulling_date": null,
-        "description": null,
-        "archival_data": {
-          "id": "1676470",
-          "legacy_id": "2",
-          "author": "oitadmin",
-          "created": "1473951107"
-        },
-        "citation_reference_items": []
-      },
-      {
-        "name": "Acta Botanica Fennica. no. 141 (1990)",
-        "machine_name": "acta_botanica_fennica_no_141_1990",
-        "type": "journal_book",
-        "volume": null,
-        "number": null,
+        "page": "p 10, Pl. 2a",
         "year": "1990",
-        "additional_info": null,
-        "publish_date": null,
-        "pulling_date": null,
-        "description": null,
-        "archival_data": {
-          "id": "2114622",
-          "legacy_id": "2",
-          "author": "oitadmin",
-          "created": "1473951107"
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
         },
-        "citation_reference_items": [
-          {
-            "name": "Acta Botanica Fennica. no. 141 (1990) p 10, Pl. 2a",
-            "machine_name": "acta_botanica_fennica_no_141_1990_p_10_pl_2a",
-            "type": "citation_reference",
-            "plant": {
-              "machine_name": "viburnum_opulus",
-              "type": "species",
-              "archival_data": [
-                "1429797"
-              ]
-            },
-            "volume": null,
-            "page": "p 10, Pl. 2a",
-            "year": "1990",
-            "notes": null,
-            "parts_shown": {
-              "Flower": false,
-              "Seed": false,
-              "Fruit": false,
-              "Bark": false,
-              "Root": false,
-              "Habit": true,
-              "Leaf": false,
-              "Twig": false,
-              "Unclear": false
-            },
-            "citation_type": {
-              "Art": false,
-              "Photo": false
-            },
-            "archival_data": {
-              "id": "1834316",
-              "legacy_id": "140760",
-              "AD": false,
-              "fpi_pub_issue": null,
-              "pullingdat": "1",
-              "active": true,
-              "author": "oitadmin",
-              "created": "1483170654"
-            }
-          }
-        ]
-      },
-      {
-        "name": "Acta Botanica Fennica. no. 142.",
-        "machine_name": "acta_botanica_fennica_no_142",
-        "type": "journal_book",
-        "volume": null,
-        "number": null,
-        "year": null,
-        "additional_info": null,
-        "publish_date": null,
-        "pulling_date": null,
-        "description": null,
-        "archival_data": {
-          "id": "1685918",
-          "legacy_id": "30869",
-          "author": "oitadmin",
-          "created": "1473951107"
+        "citation_type": {
+          "Art": false,
+          "Photo": false
         },
-        "citation_reference_items": []
-      },
-      {
-        "name": "Acta Botanica Fennica. no. 143.",
-        "machine_name": "acta_botanica_fennica_no_143",
-        "type": "journal_book",
-        "volume": null,
-        "number": null,
-        "year": null,
-        "additional_info": null,
-        "publish_date": null,
-        "pulling_date": null,
-        "description": null,
         "archival_data": {
-          "id": "1685919",
-          "legacy_id": "30870",
+          "id": "1834316",
+          "legacy_id": "140760",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
           "author": "oitadmin",
-          "created": "1473951107"
-        },
-        "citation_reference_items": []
-      },
-      {
-        "name": "Acta Botanica Fennica. no. 144.",
-        "machine_name": "acta_botanica_fennica_no_144",
-        "type": "journal_book",
-        "volume": null,
-        "number": null,
-        "year": null,
-        "additional_info": null,
-        "publish_date": null,
-        "pulling_date": null,
-        "description": null,
-        "archival_data": {
-          "id": "1685920",
-          "legacy_id": "30871",
-          "author": "oitadmin",
-          "created": "1473951107"
-        },
-        "citation_reference_items": []
-      },
-      {
-        "name": "Acta Botanica Fennica. no. 145.",
-        "machine_name": "acta_botanica_fennica_no_145",
-        "type": "journal_book",
-        "volume": null,
-        "number": null,
-        "year": null,
-        "additional_info": null,
-        "publish_date": null,
-        "pulling_date": null,
-        "description": null,
-        "archival_data": {
-          "id": "1685921",
-          "legacy_id": "30872",
-          "author": "oitadmin",
-          "created": "1473951107"
-        },
-        "citation_reference_items": []
-      },
-      {
-        "name": "Acta Botanica Fennica. no. 146.",
-        "machine_name": "acta_botanica_fennica_no_146",
-        "type": "journal_book",
-        "volume": null,
-        "number": null,
-        "year": null,
-        "additional_info": null,
-        "publish_date": null,
-        "pulling_date": null,
-        "description": null,
-        "archival_data": {
-          "id": "1685922",
-          "legacy_id": "30873",
-          "author": "oitadmin",
-          "created": "1473951107"
-        },
-        "citation_reference_items": []
-      },
-      {
-        "name": "Acta Botanica Fennica. no. 147.",
-        "machine_name": "acta_botanica_fennica_no_147",
-        "type": "journal_book",
-        "volume": null,
-        "number": null,
-        "year": null,
-        "additional_info": null,
-        "publish_date": null,
-        "pulling_date": null,
-        "description": null,
-        "archival_data": {
-          "id": "1682804",
-          "legacy_id": "31945",
-          "author": "oitadmin",
-          "created": "1473951107"
-        },
-        "citation_reference_items": []
-      },
-      {
-        "name": "Acta Botanica Fennica. no. 148.",
-        "machine_name": "acta_botanica_fennica_no_148",
-        "type": "journal_book",
-        "volume": null,
-        "number": null,
-        "year": null,
-        "additional_info": null,
-        "publish_date": null,
-        "pulling_date": null,
-        "description": null,
-        "archival_data": {
-          "id": "1682805",
-          "legacy_id": "31946",
-          "author": "oitadmin",
-          "created": "1473951107"
-        },
-        "citation_reference_items": []
-      },
-      {
-        "name": "Acta Botanica Fennica. no. 149.",
-        "machine_name": "acta_botanica_fennica_no_149",
-        "type": "journal_book",
-        "volume": null,
-        "number": null,
-        "year": null,
-        "additional_info": null,
-        "publish_date": null,
-        "pulling_date": null,
-        "description": null,
-        "archival_data": {
-          "id": "1682806",
-          "legacy_id": "31947",
-          "author": "oitadmin",
-          "created": "1473951107"
-        },
-        "citation_reference_items": []
-      },
-      {
-        "name": "Acta Botanica Fennica. no. 150.",
-        "machine_name": "acta_botanica_fennica_no_150",
-        "type": "journal_book",
-        "volume": null,
-        "number": null,
-        "year": null,
-        "additional_info": null,
-        "publish_date": null,
-        "pulling_date": null,
-        "description": null,
-        "archival_data": {
-          "id": "1682807",
-          "legacy_id": "31948",
-          "author": "oitadmin",
-          "created": "1473951107"
-        },
-        "citation_reference_items": []
-      },
-      {
-        "name": "Acta Botanica Fennica. no. 151.",
-        "machine_name": "acta_botanica_fennica_no_151",
-        "type": "journal_book",
-        "volume": null,
-        "number": null,
-        "year": null,
-        "additional_info": null,
-        "publish_date": null,
-        "pulling_date": null,
-        "description": null,
-        "archival_data": {
-          "id": "1682808",
-          "legacy_id": "31949",
-          "author": "oitadmin",
-          "created": "1473951107"
-        },
-        "citation_reference_items": []
-      },
-      {
-        "name": "Acta Botanica Fennica. no. 152.",
-        "machine_name": "acta_botanica_fennica_no_152",
-        "type": "journal_book",
-        "volume": null,
-        "number": null,
-        "year": null,
-        "additional_info": null,
-        "publish_date": null,
-        "pulling_date": null,
-        "description": null,
-        "archival_data": {
-          "id": "1682809",
-          "legacy_id": "31950",
-          "author": "oitadmin",
-          "created": "1473951107"
-        },
-        "citation_reference_items": []
-      },
-      {
-        "name": "Acta Botanica Fennica. no. 153.",
-        "machine_name": "acta_botanica_fennica_no_153",
-        "type": "journal_book",
-        "volume": null,
-        "number": null,
-        "year": null,
-        "additional_info": null,
-        "publish_date": null,
-        "pulling_date": null,
-        "description": null,
-        "archival_data": {
-          "id": "1682810",
-          "legacy_id": "31951",
-          "author": "oitadmin",
-          "created": "1473951107"
-        },
-        "citation_reference_items": []
-      },
-      {
-        "name": "Acta Botanica Fennica. no. 154.",
-        "machine_name": "acta_botanica_fennica_no_154",
-        "type": "journal_book",
-        "volume": null,
-        "number": null,
-        "year": null,
-        "additional_info": null,
-        "publish_date": null,
-        "pulling_date": null,
-        "description": null,
-        "archival_data": {
-          "id": "1682811",
-          "legacy_id": "31952",
-          "author": "oitadmin",
-          "created": "1473951107"
-        },
-        "citation_reference_items": []
-      },
-      {
-        "name": "Acta Botanica Fennica. no. 155.",
-        "machine_name": "acta_botanica_fennica_no_155",
-        "type": "journal_book",
-        "volume": null,
-        "number": null,
-        "year": null,
-        "additional_info": null,
-        "publish_date": null,
-        "pulling_date": null,
-        "description": null,
-        "archival_data": {
-          "id": "1682812",
-          "legacy_id": "31953",
-          "author": "oitadmin",
-          "created": "1473951107"
-        },
-        "citation_reference_items": []
-      },
-      {
-        "name": "Acta Botanica Fennica. no. 156.",
-        "machine_name": "acta_botanica_fennica_no_156",
-        "type": "journal_book",
-        "volume": null,
-        "number": null,
-        "year": null,
-        "additional_info": null,
-        "publish_date": null,
-        "pulling_date": null,
-        "description": null,
-        "archival_data": {
-          "id": "1682813",
-          "legacy_id": "31954",
-          "author": "oitadmin",
-          "created": "1473951107"
-        },
-        "citation_reference_items": []
-      },
-      {
-        "name": "Acta Botanica Fennica. no. 157.",
-        "machine_name": "acta_botanica_fennica_no_157",
-        "type": "journal_book",
-        "volume": null,
-        "number": null,
-        "year": null,
-        "additional_info": null,
-        "publish_date": null,
-        "pulling_date": null,
-        "description": null,
-        "archival_data": {
-          "id": "1682814",
-          "legacy_id": "31955",
-          "author": "oitadmin",
-          "created": "1473951107"
-        },
-        "citation_reference_items": []
-      },
-      {
-        "name": "Acta Botanica Fennica. no. 158.",
-        "machine_name": "acta_botanica_fennica_no_158",
-        "type": "journal_book",
-        "volume": null,
-        "number": null,
-        "year": null,
-        "additional_info": null,
-        "publish_date": null,
-        "pulling_date": null,
-        "description": null,
-        "archival_data": {
-          "id": "1682815",
-          "legacy_id": "31956",
-          "author": "oitadmin",
-          "created": "1473951107"
-        },
-        "citation_reference_items": []
-      },
-      {
-        "name": "Acta Botanica Fennica. no. 159.",
-        "machine_name": "acta_botanica_fennica_no_159",
-        "type": "journal_book",
-        "volume": null,
-        "number": null,
-        "year": null,
-        "additional_info": null,
-        "publish_date": null,
-        "pulling_date": null,
-        "description": null,
-        "archival_data": {
-          "id": "1682816",
-          "legacy_id": "31957",
-          "author": "oitadmin",
-          "created": "1473951107"
-        },
-        "citation_reference_items": []
-      },
-      {
-        "name": "Acta Botanica Fennica. no. 160.",
-        "machine_name": "acta_botanica_fennica_no_160",
-        "type": "journal_book",
-        "volume": null,
-        "number": null,
-        "year": null,
-        "additional_info": null,
-        "publish_date": null,
-        "pulling_date": null,
-        "description": null,
-        "archival_data": {
-          "id": "1683015",
-          "legacy_id": "31958",
-          "author": "oitadmin",
-          "created": "1473951107"
-        },
-        "citation_reference_items": []
-      },
-      {
-        "name": "Acta Botanica Fennica. no. 161.",
-        "machine_name": "acta_botanica_fennica_no_161",
-        "type": "journal_book",
-        "volume": null,
-        "number": null,
-        "year": null,
-        "additional_info": null,
-        "publish_date": null,
-        "pulling_date": null,
-        "description": null,
-        "archival_data": {
-          "id": "1683016",
-          "legacy_id": "31959",
-          "author": "oitadmin",
-          "created": "1473951107"
-        },
-        "citation_reference_items": []
-      },
-      {
-        "name": "Acta Botanica Fennica. no. 162.",
-        "machine_name": "acta_botanica_fennica_no_162",
-        "type": "journal_book",
-        "volume": null,
-        "number": null,
-        "year": null,
-        "additional_info": null,
-        "publish_date": null,
-        "pulling_date": null,
-        "description": null,
-        "archival_data": {
-          "id": "1683017",
-          "legacy_id": "31960",
-          "author": "oitadmin",
-          "created": "1473951107"
-        },
-        "citation_reference_items": []
-      },
-      {
-        "name": "Acta Botanica Fennica. no. 162.",
-        "machine_name": "acta_botanica_fennica_no_162",
-        "type": "journal_book",
-        "volume": null,
-        "number": null,
-        "year": null,
-        "additional_info": null,
-        "publish_date": null,
-        "pulling_date": null,
-        "description": null,
-        "archival_data": {
-          "id": "1683017",
-          "legacy_id": "31960",
-          "author": "oitadmin",
-          "created": "1473951107"
-        },
-        "citation_reference_items": []
-      },
-      {
-        "name": "Acta Botanica Fennica. no. 163.",
-        "machine_name": "acta_botanica_fennica_no_163",
-        "type": "journal_book",
-        "volume": null,
-        "number": null,
-        "year": null,
-        "additional_info": null,
-        "publish_date": null,
-        "pulling_date": null,
-        "description": null,
-        "archival_data": {
-          "id": "1683018",
-          "legacy_id": "31961",
-          "author": "oitadmin",
-          "created": "1473951107"
-        },
-        "citation_reference_items": []
-      },
-      {
-        "name": "Acta Botanica Fennica. no. 164.",
-        "machine_name": "acta_botanica_fennica_no_164",
-        "type": "journal_book",
-        "volume": null,
-        "number": null,
-        "year": null,
-        "additional_info": null,
-        "publish_date": null,
-        "pulling_date": null,
-        "description": null,
-        "archival_data": {
-          "id": "1681554",
-          "legacy_id": "7608",
-          "author": "oitadmin",
-          "created": "1473951107"
-        },
-        "citation_reference_items": []
-      },
-      {
-        "name": "Acta Botanica Fennica. no. 165.",
-        "machine_name": "acta_botanica_fennica_no_165",
-        "type": "journal_book",
-        "volume": null,
-        "number": null,
-        "year": null,
-        "additional_info": null,
-        "publish_date": null,
-        "pulling_date": null,
-        "description": null,
-        "archival_data": {
-          "id": "1682596",
-          "legacy_id": "7846",
-          "author": "oitadmin",
-          "created": "1473951107"
-        },
-        "citation_reference_items": []
-      },
-      {
-        "name": "Acta Botanica Fennica. no. 166.",
-        "machine_name": "acta_botanica_fennica_no_166",
-        "type": "journal_book",
-        "volume": null,
-        "number": null,
-        "year": null,
-        "additional_info": null,
-        "publish_date": null,
-        "pulling_date": null,
-        "description": null,
-        "archival_data": {
-          "id": "1682597",
-          "legacy_id": "7847",
-          "author": "oitadmin",
-          "created": "1473951107"
-        },
-        "citation_reference_items": []
-      },
-      {
-        "name": "Acta Botanica Fennica. no. 167.",
-        "machine_name": "acta_botanica_fennica_no_167",
-        "type": "journal_book",
-        "volume": null,
-        "number": null,
-        "year": null,
-        "additional_info": null,
-        "publish_date": null,
-        "pulling_date": null,
-        "description": null,
-        "archival_data": {
-          "id": "1682598",
-          "legacy_id": "7848",
-          "author": "oitadmin",
-          "created": "1473951107"
-        },
-        "citation_reference_items": []
-      },
-      {
-        "name": "Acta Botanica Fennica. no. 168.",
-        "machine_name": "acta_botanica_fennica_no_168",
-        "type": "journal_book",
-        "volume": null,
-        "number": null,
-        "year": null,
-        "additional_info": null,
-        "publish_date": null,
-        "pulling_date": null,
-        "description": null,
-        "archival_data": {
-          "id": "1683019",
-          "legacy_id": "31962",
-          "author": "oitadmin",
-          "created": "1473951107"
-        },
-        "citation_reference_items": []
-      },
-      {
-        "name": "Acta Botanica Fennica. no. 169.",
-        "machine_name": "acta_botanica_fennica_no_169",
-        "type": "journal_book",
-        "volume": null,
-        "number": null,
-        "year": null,
-        "additional_info": null,
-        "publish_date": null,
-        "pulling_date": null,
-        "description": null,
-        "archival_data": {
-          "id": "1683020",
-          "legacy_id": "31963",
-          "author": "oitadmin",
-          "created": "1473951107"
-        },
-        "citation_reference_items": []
-      },
-      {
-        "name": "Acta Botanica Fennica. no. 170.",
-        "machine_name": "acta_botanica_fennica_no_170",
-        "type": "journal_book",
-        "volume": null,
-        "number": null,
-        "year": null,
-        "additional_info": null,
-        "publish_date": null,
-        "pulling_date": null,
-        "description": null,
-        "archival_data": {
-          "id": "1684052",
-          "legacy_id": "25153",
-          "author": "oitadmin",
-          "created": "1473951107"
-        },
-        "citation_reference_items": []
-      },
-      {
-        "name": "Acta Botanica Fennica. no. 171.",
-        "machine_name": "acta_botanica_fennica_no_171",
-        "type": "journal_book",
-        "volume": null,
-        "number": null,
-        "year": null,
-        "additional_info": null,
-        "publish_date": null,
-        "pulling_date": null,
-        "description": null,
-        "archival_data": {
-          "id": "1684296",
-          "legacy_id": "25869",
-          "author": "oitadmin",
-          "created": "1473951107"
-        },
-        "citation_reference_items": []
-      },
-      {
-        "name": "Acta Botanica Fennica. no. 172.",
-        "machine_name": "acta_botanica_fennica_no_172",
-        "type": "journal_book",
-        "volume": null,
-        "number": null,
-        "year": null,
-        "additional_info": null,
-        "publish_date": null,
-        "pulling_date": null,
-        "description": null,
-        "archival_data": {
-          "id": "1685956",
-          "legacy_id": "38691",
-          "author": "oitadmin",
-          "created": "1473951107"
-        },
-        "citation_reference_items": []
-      },
-      {
-        "name": "Acta Botanica Fennica. no. 173.",
-        "machine_name": "acta_botanica_fennica_no_173",
-        "type": "journal_book",
-        "volume": null,
-        "number": null,
-        "year": null,
-        "additional_info": null,
-        "publish_date": null,
-        "pulling_date": null,
-        "description": null,
-        "archival_data": {
-          "id": "1685539",
-          "legacy_id": "45710",
-          "author": "oitadmin",
-          "created": "1473951107"
-        },
-        "citation_reference_items": []
-      },
-      {
-        "name": "Acta Botanica Fennica. no. 174.",
-        "machine_name": "acta_botanica_fennica_no_174",
-        "type": "journal_book",
-        "volume": null,
-        "number": null,
-        "year": null,
-        "additional_info": null,
-        "publish_date": null,
-        "pulling_date": null,
-        "description": null,
-        "archival_data": {
-          "id": "1685538",
-          "legacy_id": "45709",
-          "author": "oitadmin",
-          "created": "1473951107"
-        },
-        "citation_reference_items": []
-      },
-      {
+          "created": "1483170654"
+        }
+      }
+    ]
+  },
+  "acta_botanica_fennica_no_142": {
+    "name": "Acta Botanica Fennica. no. 142.",
+    "machine_name": "acta_botanica_fennica_no_142",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "1685918",
+      "legacy_id": "30869",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": []
+  },
+  "acta_botanica_fennica_no_143": {
+    "name": "Acta Botanica Fennica. no. 143.",
+    "machine_name": "acta_botanica_fennica_no_143",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "1685919",
+      "legacy_id": "30870",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": []
+  },
+  "acta_botanica_fennica_no_144": {
+    "name": "Acta Botanica Fennica. no. 144.",
+    "machine_name": "acta_botanica_fennica_no_144",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "1685920",
+      "legacy_id": "30871",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": []
+  },
+  "acta_botanica_fennica_no_145": {
+    "name": "Acta Botanica Fennica. no. 145.",
+    "machine_name": "acta_botanica_fennica_no_145",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "1685921",
+      "legacy_id": "30872",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": []
+  },
+  "acta_botanica_fennica_no_146": {
+    "name": "Acta Botanica Fennica. no. 146.",
+    "machine_name": "acta_botanica_fennica_no_146",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "1685922",
+      "legacy_id": "30873",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": []
+  },
+  "acta_botanica_fennica_no_147": {
+    "name": "Acta Botanica Fennica. no. 147.",
+    "machine_name": "acta_botanica_fennica_no_147",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "1682804",
+      "legacy_id": "31945",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": []
+  },
+  "acta_botanica_fennica_no_148": {
+    "name": "Acta Botanica Fennica. no. 148.",
+    "machine_name": "acta_botanica_fennica_no_148",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "1682805",
+      "legacy_id": "31946",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": []
+  },
+  "acta_botanica_fennica_no_149": {
+    "name": "Acta Botanica Fennica. no. 149.",
+    "machine_name": "acta_botanica_fennica_no_149",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "1682806",
+      "legacy_id": "31947",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": []
+  },
+  "acta_botanica_fennica_no_150": {
+    "name": "Acta Botanica Fennica. no. 150.",
+    "machine_name": "acta_botanica_fennica_no_150",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "1682807",
+      "legacy_id": "31948",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": []
+  },
+  "acta_botanica_fennica_no_151": {
+    "name": "Acta Botanica Fennica. no. 151.",
+    "machine_name": "acta_botanica_fennica_no_151",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "1682808",
+      "legacy_id": "31949",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": []
+  },
+  "acta_botanica_fennica_no_152": {
+    "name": "Acta Botanica Fennica. no. 152.",
+    "machine_name": "acta_botanica_fennica_no_152",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "1682809",
+      "legacy_id": "31950",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": []
+  },
+  "acta_botanica_fennica_no_153": {
+    "name": "Acta Botanica Fennica. no. 153.",
+    "machine_name": "acta_botanica_fennica_no_153",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "1682810",
+      "legacy_id": "31951",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": []
+  },
+  "acta_botanica_fennica_no_154": {
+    "name": "Acta Botanica Fennica. no. 154.",
+    "machine_name": "acta_botanica_fennica_no_154",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "1682811",
+      "legacy_id": "31952",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": []
+  },
+  "acta_botanica_fennica_no_155": {
+    "name": "Acta Botanica Fennica. no. 155.",
+    "machine_name": "acta_botanica_fennica_no_155",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "1682812",
+      "legacy_id": "31953",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": []
+  },
+  "acta_botanica_fennica_no_156": {
+    "name": "Acta Botanica Fennica. no. 156.",
+    "machine_name": "acta_botanica_fennica_no_156",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "1682813",
+      "legacy_id": "31954",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": []
+  },
+  "acta_botanica_fennica_no_157": {
+    "name": "Acta Botanica Fennica. no. 157.",
+    "machine_name": "acta_botanica_fennica_no_157",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "1682814",
+      "legacy_id": "31955",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": []
+  },
+  "acta_botanica_fennica_no_158": {
+    "name": "Acta Botanica Fennica. no. 158.",
+    "machine_name": "acta_botanica_fennica_no_158",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "1682815",
+      "legacy_id": "31956",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": []
+  },
+  "acta_botanica_fennica_no_159": {
+    "name": "Acta Botanica Fennica. no. 159.",
+    "machine_name": "acta_botanica_fennica_no_159",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "1682816",
+      "legacy_id": "31957",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": []
+  },
+  "acta_botanica_fennica_no_160": {
+    "name": "Acta Botanica Fennica. no. 160.",
+    "machine_name": "acta_botanica_fennica_no_160",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "1683015",
+      "legacy_id": "31958",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": []
+  },
+  "acta_botanica_fennica_no_161": {
+    "name": "Acta Botanica Fennica. no. 161.",
+    "machine_name": "acta_botanica_fennica_no_161",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "1683016",
+      "legacy_id": "31959",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": []
+  },
+  "acta_botanica_fennica_no_162": {
+    "name": "Acta Botanica Fennica. no. 162.",
+    "machine_name": "acta_botanica_fennica_no_162",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "1683017",
+      "legacy_id": "31960",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": []
+  },
+  "acta_botanica_fennica_no_163": {
+    "name": "Acta Botanica Fennica. no. 163.",
+    "machine_name": "acta_botanica_fennica_no_163",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "1683018",
+      "legacy_id": "31961",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": []
+  },
+  "acta_botanica_fennica_no_164": {
+    "name": "Acta Botanica Fennica. no. 164.",
+    "machine_name": "acta_botanica_fennica_no_164",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "1681554",
+      "legacy_id": "7608",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": []
+  },
+  "acta_botanica_fennica_no_165": {
+    "name": "Acta Botanica Fennica. no. 165.",
+    "machine_name": "acta_botanica_fennica_no_165",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "1682596",
+      "legacy_id": "7846",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": []
+  },
+  "acta_botanica_fennica_no_166": {
+    "name": "Acta Botanica Fennica. no. 166.",
+    "machine_name": "acta_botanica_fennica_no_166",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "1682597",
+      "legacy_id": "7847",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": []
+  },
+  "acta_botanica_fennica_no_167": {
+    "name": "Acta Botanica Fennica. no. 167.",
+    "machine_name": "acta_botanica_fennica_no_167",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "1682598",
+      "legacy_id": "7848",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": []
+  },
+  "acta_botanica_fennica_no_168": {
+    "name": "Acta Botanica Fennica. no. 168.",
+    "machine_name": "acta_botanica_fennica_no_168",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "1683019",
+      "legacy_id": "31962",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": []
+  },
+  "acta_botanica_fennica_no_169": {
+    "name": "Acta Botanica Fennica. no. 169.",
+    "machine_name": "acta_botanica_fennica_no_169",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "1683020",
+      "legacy_id": "31963",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": []
+  },
+  "acta_botanica_fennica_no_170": {
+    "name": "Acta Botanica Fennica. no. 170.",
+    "machine_name": "acta_botanica_fennica_no_170",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "1684052",
+      "legacy_id": "25153",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": []
+  },
+  "acta_botanica_fennica_no_171": {
+    "name": "Acta Botanica Fennica. no. 171.",
+    "machine_name": "acta_botanica_fennica_no_171",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "1684296",
+      "legacy_id": "25869",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": []
+  },
+  "acta_botanica_fennica_no_172": {
+    "name": "Acta Botanica Fennica. no. 172.",
+    "machine_name": "acta_botanica_fennica_no_172",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "1685956",
+      "legacy_id": "38691",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": []
+  },
+  "acta_botanica_fennica_no_173": {
+    "name": "Acta Botanica Fennica. no. 173.",
+    "machine_name": "acta_botanica_fennica_no_173",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "1685539",
+      "legacy_id": "45710",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": []
+  },
+  "acta_botanica_fennica_no_174": {
+    "name": "Acta Botanica Fennica. no. 174.",
+    "machine_name": "acta_botanica_fennica_no_174",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "1685538",
+      "legacy_id": "45709",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": []
+  },
+  "acta_botanica_fennica_no_175": {
         "name": "Acta Botanica Fennica. no. 175.",
         "machine_name": "acta_botanica_fennica_no_175",
         "type": "journal_book",
@@ -784,5 +763,4 @@
         },
         "citation_reference_items": []
       }
-    ]
 }

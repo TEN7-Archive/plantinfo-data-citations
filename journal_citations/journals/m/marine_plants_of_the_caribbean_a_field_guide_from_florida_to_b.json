@@ -1,0 +1,164 @@
+{
+  "marine_plants_of_the_caribbean_a_field_guide_from_florida_to_b": {
+    "name": "Marine Plants of the Caribbean: A Field Guide from Florida to B.",
+    "machine_name": "marine_plants_of_the_caribbean_a_field_guide_from_florida_to_b",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "1681872",
+      "legacy_id": "4420",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": []
+  },
+  "marine_plants_of_the_caribbean_a_field_guide_from_florida_to_b_1989": {
+    "name": "Marine Plants of the Caribbean: A Field Guide from Florida to B. (1989)",
+    "machine_name": "marine_plants_of_the_caribbean_a_field_guide_from_florida_to_b_1989",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1989",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "2114083",
+      "legacy_id": "4420",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": [
+      {
+        "name": "Marine Plants of the Caribbean: A Field Guide from Florida to B. (1989) p 235",
+        "machine_name": "marine_plants_of_the_caribbean_a_field_guide_from_florida_to_b_1989_p_235",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "halophila_decipiens",
+          "type": "species",
+          "archival_data": [
+            "1409756"
+          ]
+        },
+        "volume": null,
+        "page": "p 235",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1794750",
+          "legacy_id": "101183",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Marine Plants of the Caribbean: A Field Guide from Florida to B. (1989) p 235",
+        "machine_name": "marine_plants_of_the_caribbean_a_field_guide_from_florida_to_b_1989_p_235",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "halophila_engelmannii",
+          "type": "species",
+          "archival_data": [
+            "1409757"
+          ]
+        },
+        "volume": null,
+        "page": "p 235",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1794751",
+          "legacy_id": "101184",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Marine Plants of the Caribbean: A Field Guide from Florida to B. (1989) p 239",
+        "machine_name": "marine_plants_of_the_caribbean_a_field_guide_from_florida_to_b_1989_p_239",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "thalassia_testudinum",
+          "type": "species",
+          "archival_data": [
+            "1430071"
+          ]
+        },
+        "volume": null,
+        "page": "p 239",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1834799",
+          "legacy_id": "136980",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      }
+    ]
+  }
+}

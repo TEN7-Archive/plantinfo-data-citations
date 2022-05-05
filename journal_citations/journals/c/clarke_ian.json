@@ -1,0 +1,1886 @@
+{
+  "clarke_ian_name_that_flower": {
+    "name": "Clarke, Ian. Name That Flower.",
+    "machine_name": "clarke_ian_name_that_flower",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "1676886",
+      "legacy_id": "1980",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": []
+  },
+  "clarke_ian_name_that_flower_1987": {
+    "name": "Clarke, Ian. Name That Flower. (1987)",
+    "machine_name": "clarke_ian_name_that_flower_1987",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1987",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "2111982",
+      "legacy_id": "1980",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": [
+      {
+        "name": "Clarke, Ian. Name That Flower. (1987) p 52, Pl. 3d",
+        "machine_name": "clarke_ian_name_that_flower_1987_p_52_pl_3d",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "leptospermum_scoparium_lambethii",
+          "type": "variety",
+          "archival_data": [
+            "1477803"
+          ]
+        },
+        "volume": null,
+        "page": "p 52, Pl. 3d",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1729422",
+          "legacy_id": "27594",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Clarke, Ian. Name That Flower. (1987) p 148, Pl. 5a",
+        "machine_name": "clarke_ian_name_that_flower_1987_p_148_pl_5a",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "acacia_genistifolia",
+          "type": "species",
+          "archival_data": [
+            "1401614"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 5a",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1759197",
+          "legacy_id": "67573",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Clarke, Ian. Name That Flower. (1987) p 148, Pl. 5c",
+        "machine_name": "clarke_ian_name_that_flower_1987_p_148_pl_5c",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "acacia_longifolia",
+          "type": "species",
+          "archival_data": [
+            "1401971"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 5c",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1759264",
+          "legacy_id": "67643",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Clarke, Ian. Name That Flower. (1987) p 148, Pl. 5b",
+        "machine_name": "clarke_ian_name_that_flower_1987_p_148_pl_5b",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "acacia_myrtifolia",
+          "type": "species",
+          "archival_data": [
+            "1401987"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 5b",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1759544",
+          "legacy_id": "67679",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Clarke, Ian. Name That Flower. (1987) p 180, Pl. 8d",
+        "machine_name": "clarke_ian_name_that_flower_1987_p_180_pl_8d",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "alopecurus_pratensis",
+          "type": "species",
+          "archival_data": [
+            "1403295"
+          ]
+        },
+        "volume": null,
+        "page": "p 180, Pl. 8d",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1765975",
+          "legacy_id": "70675",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Clarke, Ian. Name That Flower. (1987) p 52, Pl. 4a-b",
+        "machine_name": "clarke_ian_name_that_flower_1987_p_52_pl_4a_b",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "amyema_pendula",
+          "type": "species",
+          "archival_data": [
+            "1398642"
+          ]
+        },
+        "volume": null,
+        "page": "p 52, Pl. 4a-b",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1767958",
+          "legacy_id": "71200",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Clarke, Ian. Name That Flower. (1987) p 20, Pl. 2e",
+        "machine_name": "clarke_ian_name_that_flower_1987_p_20_pl_2e",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "acrotriche_serrulata",
+          "type": "species",
+          "archival_data": [
+            "1398600"
+          ]
+        },
+        "volume": null,
+        "page": "p 20, Pl. 2e",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1768166",
+          "legacy_id": "68579",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Clarke, Ian. Name That Flower. (1987) p 148, Pl. 6c",
+        "machine_name": "clarke_ian_name_that_flower_1987_p_148_pl_6c",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "brunonia_australis",
+          "type": "species",
+          "archival_data": [
+            "1397717"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 6c",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1770042",
+          "legacy_id": "77175",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Clarke, Ian. Name That Flower. (1987) p 180, Pl. 8a-c",
+        "machine_name": "clarke_ian_name_that_flower_1987_p_180_pl_8a_c",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "avena_sterilis",
+          "type": "species",
+          "archival_data": [
+            "1398804"
+          ]
+        },
+        "volume": null,
+        "page": "p 180, Pl. 8a-c",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1771197",
+          "legacy_id": "74776",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Clarke, Ian. Name That Flower. (1987) p 20, Pl. 1c",
+        "machine_name": "clarke_ian_name_that_flower_1987_p_20_pl_1c",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "boronia_denticulata",
+          "type": "species",
+          "archival_data": [
+            "1402296"
+          ]
+        },
+        "volume": null,
+        "page": "p 20, Pl. 1c",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1772605",
+          "legacy_id": "76484",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Clarke, Ian. Name That Flower. (1987) p 180, Pl. 7d",
+        "machine_name": "clarke_ian_name_that_flower_1987_p_180_pl_7d",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "calendula_officinalis",
+          "type": "species",
+          "archival_data": [
+            "1399265"
+          ]
+        },
+        "volume": null,
+        "page": "p 180, Pl. 7d",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1773296",
+          "legacy_id": "77984",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Clarke, Ian. Name That Flower. (1987) p 52, Pl. 4f",
+        "machine_name": "clarke_ian_name_that_flower_1987_p_52_pl_4f",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cassytha_melantha",
+          "type": "species",
+          "archival_data": [
+            "1408984"
+          ]
+        },
+        "volume": null,
+        "page": "p 52, Pl. 4f",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": true
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1775451",
+          "legacy_id": "79936",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Clarke, Ian. Name That Flower. (1987) p 52, Pl. 4c-d",
+        "machine_name": "clarke_ian_name_that_flower_1987_p_52_pl_4c_d",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "casuarina_stricta",
+          "type": "species",
+          "archival_data": [
+            "1409346"
+          ]
+        },
+        "volume": null,
+        "page": "p 52, Pl. 4c-d",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1776111",
+          "legacy_id": "80106",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Clarke, Ian. Name That Flower. (1987) p 180, Pl. 7b",
+        "machine_name": "clarke_ian_name_that_flower_1987_p_180_pl_7b",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "chrysanthemoides_monilifera",
+          "type": "species",
+          "archival_data": [
+            "1406720"
+          ]
+        },
+        "volume": null,
+        "page": "p 180, Pl. 7b",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1778190",
+          "legacy_id": "81975",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Clarke, Ian. Name That Flower. (1987) p 180, Pl. 7i",
+        "machine_name": "clarke_ian_name_that_flower_1987_p_180_pl_7i",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "craspedia_chrysantha",
+          "type": "species",
+          "archival_data": [
+            "1407165"
+          ]
+        },
+        "volume": null,
+        "page": "p 180, Pl. 7i",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1780465",
+          "legacy_id": "85342",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Clarke, Ian. Name That Flower. (1987) p 148, Pl. 5e",
+        "machine_name": "clarke_ian_name_that_flower_1987_p_148_pl_5e",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "dilwynia_sericea",
+          "type": "species",
+          "archival_data": [
+            "1408819"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 5e",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1780688",
+          "legacy_id": "89416",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Clarke, Ian. Name That Flower. (1987) p 20, Pl. 1a",
+        "machine_name": "clarke_ian_name_that_flower_1987_p_20_pl_1a",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "crassula_multicava",
+          "type": "species",
+          "archival_data": [
+            "1407196"
+          ]
+        },
+        "volume": null,
+        "page": "p 20, Pl. 1a",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1780747",
+          "legacy_id": "85383",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Clarke, Ian. Name That Flower. (1987) p 180, Pl. 7j",
+        "machine_name": "clarke_ian_name_that_flower_1987_p_180_pl_7j",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cynara_scolymus",
+          "type": "species",
+          "archival_data": [
+            "1403809"
+          ]
+        },
+        "volume": null,
+        "page": "p 180, Pl. 7j",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1780862",
+          "legacy_id": "86759",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Clarke, Ian. Name That Flower. (1987) p 180, Pl. 8g",
+        "machine_name": "clarke_ian_name_that_flower_1987_p_180_pl_8g",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cyperus_eragrostis",
+          "type": "species",
+          "archival_data": [
+            "1403851"
+          ]
+        },
+        "volume": null,
+        "page": "p 180, Pl. 8g",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1781199",
+          "legacy_id": "86855",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Clarke, Ian. Name That Flower. (1987) p 52, Pl. 4e",
+        "machine_name": "clarke_ian_name_that_flower_1987_p_52_pl_4e",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "drosera_glanduligera",
+          "type": "species",
+          "archival_data": [
+            "1404748"
+          ]
+        },
+        "volume": null,
+        "page": "p 52, Pl. 4e",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1785469",
+          "legacy_id": "90462",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Clarke, Ian. Name That Flower. (1987) p 20, Pl. 2d",
+        "machine_name": "clarke_ian_name_that_flower_1987_p_20_pl_2d",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "epacris_impressa",
+          "type": "species",
+          "archival_data": [
+            "1414274"
+          ]
+        },
+        "volume": null,
+        "page": "p 20, Pl. 2d",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1785964",
+          "legacy_id": "91984",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Clarke, Ian. Name That Flower. (1987) p 148, Pl. 6a",
+        "machine_name": "clarke_ian_name_that_flower_1987_p_148_pl_6a",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "euphorbia_wulfenii",
+          "type": "species",
+          "archival_data": [
+            "1411864"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 6a",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1791568",
+          "legacy_id": "96395",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Clarke, Ian. Name That Flower. (1987) p 180, Pl. 7a",
+        "machine_name": "clarke_ian_name_that_flower_1987_p_180_pl_7a",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "galinsoga_parviflora",
+          "type": "species",
+          "archival_data": [
+            "1415252"
+          ]
+        },
+        "volume": null,
+        "page": "p 180, Pl. 7a",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1792966",
+          "legacy_id": "98087",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Clarke, Ian. Name That Flower. (1987) p 20, Pl. 1b",
+        "machine_name": "clarke_ian_name_that_flower_1987_p_20_pl_1b",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "hibbertia_empetrifolia",
+          "type": "species",
+          "archival_data": [
+            "1419025"
+          ]
+        },
+        "volume": null,
+        "page": "p 20, Pl. 1b",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1794900",
+          "legacy_id": "102595",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Clarke, Ian. Name That Flower. (1987) p 20, Pl. 1e",
+        "machine_name": "clarke_ian_name_that_flower_1987_p_20_pl_1e",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "hypericum_leschenaultii",
+          "type": "species",
+          "archival_data": [
+            "1415724"
+          ]
+        },
+        "volume": null,
+        "page": "p 20, Pl. 1e",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1794962",
+          "legacy_id": "103994",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Clarke, Ian. Name That Flower. (1987) p 180, Pl. 7h",
+        "machine_name": "clarke_ian_name_that_flower_1987_p_180_pl_7h",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "hypochaeris_radicata",
+          "type": "species",
+          "archival_data": [
+            "1415768"
+          ]
+        },
+        "volume": null,
+        "page": "p 180, Pl. 7h",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1795298",
+          "legacy_id": "104094",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Clarke, Ian. Name That Flower. (1987) p 20, Pl. 2a",
+        "machine_name": "clarke_ian_name_that_flower_1987_p_20_pl_2a",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "grevillea_rosmarinifolia",
+          "type": "species",
+          "archival_data": [
+            "1413877"
+          ]
+        },
+        "volume": null,
+        "page": "p 20, Pl. 2a",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1796654",
+          "legacy_id": "100386",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Clarke, Ian. Name That Flower. (1987) p 52, Pl. 3b",
+        "machine_name": "clarke_ian_name_that_flower_1987_p_52_pl_3b",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "leucojum_aestivum",
+          "type": "species",
+          "archival_data": [
+            "1416636"
+          ]
+        },
+        "volume": null,
+        "page": "p 52, Pl. 3b",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1801662",
+          "legacy_id": "108299",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Clarke, Ian. Name That Flower. (1987) p 148, Pl. 6f",
+        "machine_name": "clarke_ian_name_that_flower_1987_p_148_pl_6f",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "melaleuca_armillaris",
+          "type": "species",
+          "archival_data": [
+            "1418959"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 6f",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1808187",
+          "legacy_id": "112719",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Clarke, Ian. Name That Flower. (1987) p 20, Pl. 2f",
+        "machine_name": "clarke_ian_name_that_flower_1987_p_20_pl_2f",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "nicotiana_alata",
+          "type": "species",
+          "archival_data": [
+            "1417921"
+          ]
+        },
+        "volume": null,
+        "page": "p 20, Pl. 2f",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1813842",
+          "legacy_id": "115513",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Clarke, Ian. Name That Flower. (1987) p 52, Pl. 3a",
+        "machine_name": "clarke_ian_name_that_flower_1987_p_52_pl_3a",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "papaver_nudicaule",
+          "type": "species",
+          "archival_data": [
+            "1424440"
+          ]
+        },
+        "volume": null,
+        "page": "p 52, Pl. 3a",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1813996",
+          "legacy_id": "118204",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Clarke, Ian. Name That Flower. (1987) p 180, Pl. 7e",
+        "machine_name": "clarke_ian_name_that_flower_1987_p_180_pl_7e",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "podolepis_jaceoides",
+          "type": "species",
+          "archival_data": [
+            "1427139"
+          ]
+        },
+        "volume": null,
+        "page": "p 180, Pl. 7e",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1816670",
+          "legacy_id": "122952",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Clarke, Ian. Name That Flower. (1987) p 20, Pl. 2c",
+        "machine_name": "clarke_ian_name_that_flower_1987_p_20_pl_2c",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "physalis_viscosa",
+          "type": "species",
+          "archival_data": [
+            "1424181"
+          ]
+        },
+        "volume": null,
+        "page": "p 20, Pl. 2c",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1820096",
+          "legacy_id": "121204",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Clarke, Ian. Name That Flower. (1987) p 20, Pl. 2g",
+        "machine_name": "clarke_ian_name_that_flower_1987_p_20_pl_2g",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rhododendron_laetum",
+          "type": "species",
+          "archival_data": [
+            "1431307"
+          ]
+        },
+        "volume": null,
+        "page": "p 20, Pl. 2g",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1820864",
+          "legacy_id": "127949",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Clarke, Ian. Name That Flower. (1987) p 148, Pl. 6d",
+        "machine_name": "clarke_ian_name_that_flower_1987_p_148_pl_6d",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rhagodia_candolleana",
+          "type": "species",
+          "archival_data": [
+            "1424370"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 6d",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1822175",
+          "legacy_id": "127046",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Clarke, Ian. Name That Flower. (1987) p 148, Pl. 6e",
+        "machine_name": "clarke_ian_name_that_flower_1987_p_148_pl_6e",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rhagodia_parabolica",
+          "type": "species",
+          "archival_data": [
+            "1424373"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 6e",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1822179",
+          "legacy_id": "127050",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Clarke, Ian. Name That Flower. (1987) p 52, Pl. 3c",
+        "machine_name": "clarke_ian_name_that_flower_1987_p_52_pl_3c",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "scaevola_pallida",
+          "type": "species",
+          "archival_data": [
+            "1432512"
+          ]
+        },
+        "volume": null,
+        "page": "p 52, Pl. 3c",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1826413",
+          "legacy_id": "132126",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Clarke, Ian. Name That Flower. (1987) p 180, Pl. 7c",
+        "machine_name": "clarke_ian_name_that_flower_1987_p_180_pl_7c",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "senecio_elegans",
+          "type": "species",
+          "archival_data": [
+            "1428469"
+          ]
+        },
+        "volume": null,
+        "page": "p 180, Pl. 7c",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1829981",
+          "legacy_id": "133023",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Clarke, Ian. Name That Flower. (1987) p 180, Pl. 7f-g",
+        "machine_name": "clarke_ian_name_that_flower_1987_p_180_pl_7f_g",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "sonchus_oleraceus",
+          "type": "species",
+          "archival_data": [
+            "1431100"
+          ]
+        },
+        "volume": null,
+        "page": "p 180, Pl. 7f-g",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1830329",
+          "legacy_id": "134384",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Clarke, Ian. Name That Flower. (1987) p 148, Pl. 5d",
+        "machine_name": "clarke_ian_name_that_flower_1987_p_148_pl_5d",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "trifolium_repens",
+          "type": "species",
+          "archival_data": [
+            "1433139"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 5d",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1831003",
+          "legacy_id": "138591",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Clarke, Ian. Name That Flower. (1987) p 180, Pl. 8h",
+        "machine_name": "clarke_ian_name_that_flower_1987_p_180_pl_8h",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "thysanotus_tuberosus",
+          "type": "species",
+          "archival_data": [
+            "1431173"
+          ]
+        },
+        "volume": null,
+        "page": "p 180, Pl. 8h",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1831915",
+          "legacy_id": "137527",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Clarke, Ian. Name That Flower. (1987) p 180, Pl. 8e-f",
+        "machine_name": "clarke_ian_name_that_flower_1987_p_180_pl_8e_f",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "xanthorrhoea_australis",
+          "type": "species",
+          "archival_data": [
+            "1438301"
+          ]
+        },
+        "volume": null,
+        "page": "p 180, Pl. 8e-f",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1832803",
+          "legacy_id": "141889",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Clarke, Ian. Name That Flower. (1987) p 20, Pl. 1d",
+        "machine_name": "clarke_ian_name_that_flower_1987_p_20_pl_1d",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "tetratheca_ciliata",
+          "type": "species",
+          "archival_data": [
+            "1430033"
+          ]
+        },
+        "volume": null,
+        "page": "p 20, Pl. 1d",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1834733",
+          "legacy_id": "136914",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Clarke, Ian. Name That Flower. (1987) p 180, Pl. 8i",
+        "machine_name": "clarke_ian_name_that_flower_1987_p_180_pl_8i",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "thelymitra_aristata",
+          "type": "species",
+          "archival_data": [
+            "1430421"
+          ]
+        },
+        "volume": null,
+        "page": "p 180, Pl. 8i",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1835403",
+          "legacy_id": "137097",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Clarke, Ian. Name That Flower. (1987) p 148, Pl. 6b",
+        "machine_name": "clarke_ian_name_that_flower_1987_p_148_pl_6b",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "zantedeschia_aethiopica",
+          "type": "species",
+          "archival_data": [
+            "1438716"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 6b",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1839229",
+          "legacy_id": "142156",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      }
+    ]
+  }
+}

@@ -1,2709 +1,2706 @@
 {
-  "abbiw_daniel_k":
-    [
+  "abbiw_daniel_k_useful_plants_of_ghana": {
+    "name": "Abbiw, Daniel K. Useful Plants of Ghana.",
+    "machine_name": "abbiw_daniel_k_useful_plants_of_ghana",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "1676469",
+      "legacy_id": "1",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": []
+  },
+  "abbiw_daniel_k_useful_plants_of_ghana_1989": {
+    "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989)",
+    "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1989",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "2113224",
+      "legacy_id": "1",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": [
       {
-        "name": "Abbiw, Daniel K. Useful Plants of Ghana.",
-        "machine_name": "abbiw_daniel_k_useful_plants_of_ghana",
-        "type": "journal_book",
-        "volume": null,
-        "number": null,
-        "year": null,
-        "additional_info": null,
-        "publish_date": null,
-        "pulling_date": null,
-        "description": null,
-        "archival_data": {
-          "id": "1676469",
-          "legacy_id": "1",
-          "author": "oitadmin",
-          "created": "1473951107"
+        "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 6.",
+        "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_6",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "strombosia_glaucescens_lucida",
+          "type": "variety",
+          "archival_data": [
+            "1495093"
+          ]
         },
-        "citation_reference_items": []
+        "volume": null,
+        "page": "p 148, Pl. 6.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": true
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1761548",
+          "legacy_id": "57010",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
       },
       {
-        "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989)",
-        "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989",
-        "type": "journal_book",
-        "volume": null,
-        "number": null,
-        "year": "1989",
-        "additional_info": null,
-        "publish_date": null,
-        "pulling_date": null,
-        "description": null,
-        "archival_data": {
-          "id": "2113224",
-          "legacy_id": "1",
-          "author": "oitadmin",
-          "created": "1473951107"
+        "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 13.",
+        "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_13",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "aloe_buettneri",
+          "type": "species",
+          "archival_data": [
+            "1402541"
+          ]
         },
-        "citation_reference_items": [
-          {
-            "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 6.",
-            "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_6",
-            "type": "citation_reference",
-            "plant": {
-              "machine_name": "strombosia_glaucescens_lucida",
-              "type": "variety",
-              "archival_data": [
-                "1495093"
-              ]
-            },
-            "volume": null,
-            "page": "p 148, Pl. 6.",
-            "year": "1989",
-            "notes": null,
-            "parts_shown": {
-              "Flower": false,
-              "Seed": false,
-              "Fruit": false,
-              "Bark": false,
-              "Root": false,
-              "Habit": true,
-              "Leaf": false,
-              "Twig": false,
-              "Unclear": true
-            },
-            "citation_type": {
-              "Art": false,
-              "Photo": false
-            },
-            "archival_data": {
-              "id": "1761548",
-              "legacy_id": "57010",
-              "AD": false,
-              "fpi_pub_issue": null,
-              "pullingdat": "1",
-              "active": true,
-              "author": "oitadmin",
-              "created": "1483157682"
-            }
-          },
-          {
-            "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 13.",
-            "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_13",
-            "type": "citation_reference",
-            "plant": {
-              "machine_name": "aloe_buettneri",
-              "type": "species",
-              "archival_data": [
-                "1402541"
-              ]
-            },
-            "volume": null,
-            "page": "p 148, Pl. 13.",
-            "year": "1989",
-            "notes": null,
-            "parts_shown": {
-              "Flower": false,
-              "Seed": false,
-              "Fruit": false,
-              "Bark": false,
-              "Root": false,
-              "Habit": true,
-              "Leaf": false,
-              "Twig": false,
-              "Unclear": false
-            },
-            "citation_type": {
-              "Art": false,
-              "Photo": false
-            },
-            "archival_data": {
-              "id": "1765290",
-              "legacy_id": "70485",
-              "AD": false,
-              "fpi_pub_issue": null,
-              "pullingdat": "1",
-              "active": true,
-              "author": "oitadmin",
-              "created": "1483157682"
-            }
-          },
-          {
-            "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 8.",
-            "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_8",
-            "type": "citation_reference",
-            "plant": {
-              "machine_name": "alstonia_boonei",
-              "type": "species",
-              "archival_data": [
-                "1397865"
-              ]
-            },
-            "volume": null,
-            "page": "p 148, Pl. 8.",
-            "year": "1989",
-            "notes": null,
-            "parts_shown": {
-              "Flower": false,
-              "Seed": false,
-              "Fruit": false,
-              "Bark": false,
-              "Root": false,
-              "Habit": true,
-              "Leaf": false,
-              "Twig": false,
-              "Unclear": false
-            },
-            "citation_type": {
-              "Art": false,
-              "Photo": false
-            },
-            "archival_data": {
-              "id": "1766301",
-              "legacy_id": "70752",
-              "AD": false,
-              "fpi_pub_issue": null,
-              "pullingdat": "1",
-              "active": true,
-              "author": "oitadmin",
-              "created": "1483157682"
-            }
-          },
-          {
-            "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 8.",
-            "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_8",
-            "type": "citation_reference",
-            "plant": {
-              "machine_name": "andropogon_gayanus",
-              "type": "species",
-              "archival_data": [
-                "1398719"
-              ]
-            },
-            "volume": null,
-            "page": "p 148, Pl. 8.",
-            "year": "1989",
-            "notes": null,
-            "parts_shown": {
-              "Flower": false,
-              "Seed": false,
-              "Fruit": true,
-              "Bark": false,
-              "Root": false,
-              "Habit": false,
-              "Leaf": false,
-              "Twig": false,
-              "Unclear": false
-            },
-            "citation_type": {
-              "Art": false,
-              "Photo": false
-            },
-            "archival_data": {
-              "id": "1768650",
-              "legacy_id": "71403",
-              "AD": false,
-              "fpi_pub_issue": null,
-              "pullingdat": "1",
-              "active": true,
-              "author": "oitadmin",
-              "created": "1483157682"
-            }
-          },
-          {
-            "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 13.",
-            "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_13",
-            "type": "citation_reference",
-            "plant": {
-              "machine_name": "adansonia_digitata",
-              "type": "species",
-              "archival_data": [
-                "1398931"
-              ]
-            },
-            "volume": null,
-            "page": "p 148, Pl. 13.",
-            "year": "1989",
-            "notes": null,
-            "parts_shown": {
-              "Flower": false,
-              "Seed": false,
-              "Fruit": false,
-              "Bark": false,
-              "Root": false,
-              "Habit": true,
-              "Leaf": false,
-              "Twig": false,
-              "Unclear": true
-            },
-            "citation_type": {
-              "Art": false,
-              "Photo": false
-            },
-            "archival_data": {
-              "id": "1768757",
-              "legacy_id": "68683",
-              "AD": false,
-              "fpi_pub_issue": null,
-              "pullingdat": "1",
-              "active": true,
-              "author": "oitadmin",
-              "created": "1483157682"
-            }
-          },
-          {
-            "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 7.",
-            "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_7",
-            "type": "citation_reference",
-            "plant": {
-              "machine_name": "azadirachta_indica",
-              "type": "species",
-              "archival_data": [
-                "1398821"
-              ]
-            },
-            "volume": null,
-            "page": "p 148, Pl. 7.",
-            "year": "1989",
-            "notes": null,
-            "parts_shown": {
-              "Flower": false,
-              "Seed": false,
-              "Fruit": false,
-              "Bark": false,
-              "Root": false,
-              "Habit": true,
-              "Leaf": false,
-              "Twig": false,
-              "Unclear": true
-            },
-            "citation_type": {
-              "Art": false,
-              "Photo": false
-            },
-            "archival_data": {
-              "id": "1771228",
-              "legacy_id": "74808",
-              "AD": false,
-              "fpi_pub_issue": null,
-              "pullingdat": "1",
-              "active": true,
-              "author": "oitadmin",
-              "created": "1483157682"
-            }
-          },
-          {
-            "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 14.",
-            "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_14",
-            "type": "citation_reference",
-            "plant": {
-              "machine_name": "bixa_orellana",
-              "type": "species",
-              "archival_data": [
-                "1401892"
-              ]
-            },
-            "volume": null,
-            "page": "p 148, Pl. 14.",
-            "year": "1989",
-            "notes": null,
-            "parts_shown": {
-              "Flower": false,
-              "Seed": false,
-              "Fruit": true,
-              "Bark": false,
-              "Root": false,
-              "Habit": false,
-              "Leaf": true,
-              "Twig": false,
-              "Unclear": false
-            },
-            "citation_type": {
-              "Art": false,
-              "Photo": false
-            },
-            "archival_data": {
-              "id": "1771894",
-              "legacy_id": "76258",
-              "AD": false,
-              "fpi_pub_issue": null,
-              "pullingdat": "1",
-              "active": true,
-              "author": "oitadmin",
-              "created": "1483157682"
-            }
-          },
-          {
-            "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 2.",
-            "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_2",
-            "type": "citation_reference",
-            "plant": {
-              "machine_name": "cajanus_cajan",
-              "type": "species",
-              "archival_data": [
-                "1398899"
-              ]
-            },
-            "volume": null,
-            "page": "p 148, Pl. 2.",
-            "year": "1989",
-            "notes": null,
-            "parts_shown": {
-              "Flower": false,
-              "Seed": false,
-              "Fruit": true,
-              "Bark": false,
-              "Root": false,
-              "Habit": false,
-              "Leaf": true,
-              "Twig": false,
-              "Unclear": false
-            },
-            "citation_type": {
-              "Art": false,
-              "Photo": false
-            },
-            "archival_data": {
-              "id": "1771988",
-              "legacy_id": "77640",
-              "AD": false,
-              "fpi_pub_issue": null,
-              "pullingdat": "1",
-              "active": true,
-              "author": "oitadmin",
-              "created": "1483157682"
-            }
-          },
-          {
-            "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 8.",
-            "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_8",
-            "type": "citation_reference",
-            "plant": {
-              "machine_name": "borassus_aethiopum",
-              "type": "species",
-              "archival_data": [
-                "1402285"
-              ]
-            },
-            "volume": null,
-            "page": "p 148, Pl. 8.",
-            "year": "1989",
-            "notes": null,
-            "parts_shown": {
-              "Flower": false,
-              "Seed": false,
-              "Fruit": false,
-              "Bark": false,
-              "Root": false,
-              "Habit": true,
-              "Leaf": false,
-              "Twig": false,
-              "Unclear": true
-            },
-            "citation_type": {
-              "Art": false,
-              "Photo": false
-            },
-            "archival_data": {
-              "id": "1772584",
-              "legacy_id": "76463",
-              "AD": false,
-              "fpi_pub_issue": null,
-              "pullingdat": "1",
-              "active": true,
-              "author": "oitadmin",
-              "created": "1483157682"
-            }
-          },
-          {
-            "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 2.",
-            "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_2",
-            "type": "citation_reference",
-            "plant": {
-              "machine_name": "citrus_sinensis",
-              "type": "species",
-              "archival_data": [
-                "1407870"
-              ]
-            },
-            "volume": null,
-            "page": "p 148, Pl. 2.",
-            "year": "1989",
-            "notes": null,
-            "parts_shown": {
-              "Flower": false,
-              "Seed": false,
-              "Fruit": true,
-              "Bark": false,
-              "Root": false,
-              "Habit": false,
-              "Leaf": false,
-              "Twig": false,
-              "Unclear": true
-            },
-            "citation_type": {
-              "Art": false,
-              "Photo": false
-            },
-            "archival_data": {
-              "id": "1774990",
-              "legacy_id": "82519",
-              "AD": false,
-              "fpi_pub_issue": null,
-              "pullingdat": "1",
-              "active": true,
-              "author": "oitadmin",
-              "created": "1483160925"
-            }
-          },
-          {
-            "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 10.",
-            "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_10",
-            "type": "citation_reference",
-            "plant": {
-              "machine_name": "catharanthus_roseus",
-              "type": "species",
-              "archival_data": [
-                "1403626"
-              ]
-            },
-            "volume": null,
-            "page": "p 148, Pl. 10.",
-            "year": "1989",
-            "notes": null,
-            "parts_shown": {
-              "Flower": true,
-              "Seed": false,
-              "Fruit": false,
-              "Bark": false,
-              "Root": false,
-              "Habit": false,
-              "Leaf": false,
-              "Twig": false,
-              "Unclear": false
-            },
-            "citation_type": {
-              "Art": false,
-              "Photo": false
-            },
-            "archival_data": {
-              "id": "1776482",
-              "legacy_id": "80230",
-              "AD": false,
-              "fpi_pub_issue": null,
-              "pullingdat": "1",
-              "active": true,
-              "author": "oitadmin",
-              "created": "1483160925"
-            }
-          },
-          {
-            "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 15.",
-            "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_15",
-            "type": "citation_reference",
-            "plant": {
-              "machine_name": "cnestis_ferruginea",
-              "type": "species",
-              "archival_data": [
-                "1409033"
-              ]
-            },
-            "volume": null,
-            "page": "p 148, Pl. 15.",
-            "year": "1989",
-            "notes": null,
-            "parts_shown": {
-              "Flower": false,
-              "Seed": false,
-              "Fruit": true,
-              "Bark": false,
-              "Root": false,
-              "Habit": false,
-              "Leaf": true,
-              "Twig": false,
-              "Unclear": false
-            },
-            "citation_type": {
-              "Art": false,
-              "Photo": false
-            },
-            "archival_data": {
-              "id": "1777673",
-              "legacy_id": "83228",
-              "AD": false,
-              "fpi_pub_issue": null,
-              "pullingdat": "1",
-              "active": true,
-              "author": "oitadmin",
-              "created": "1483160925"
-            }
-          },
-          {
-            "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 2.",
-            "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_2",
-            "type": "citation_reference",
-            "plant": {
-              "machine_name": "capsicum_h_cultivars",
-              "type": "species",
-              "archival_data": [
-                "1452823"
-              ]
-            },
-            "volume": null,
-            "page": "p 148, Pl. 2.",
-            "year": "1989",
-            "notes": null,
-            "parts_shown": {
-              "Flower": false,
-              "Seed": false,
-              "Fruit": true,
-              "Bark": false,
-              "Root": false,
-              "Habit": false,
-              "Leaf": true,
-              "Twig": false,
-              "Unclear": false
-            },
-            "citation_type": {
-              "Art": false,
-              "Photo": false
-            },
-            "archival_data": {
-              "id": "1777747",
-              "legacy_id": "79232",
-              "AD": false,
-              "fpi_pub_issue": null,
-              "pullingdat": "1",
-              "active": true,
-              "author": "oitadmin",
-              "created": "1483160925"
-            }
-          },
-          {
-            "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 16.",
-            "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_16",
-            "type": "citation_reference",
-            "plant": {
-              "machine_name": "chromolaena_odorata",
-              "type": "species",
-              "archival_data": [
-                "1406712"
-              ]
-            },
-            "volume": null,
-            "page": "p 148, Pl. 16.",
-            "year": "1989",
-            "notes": null,
-            "parts_shown": {
-              "Flower": true,
-              "Seed": false,
-              "Fruit": false,
-              "Bark": false,
-              "Root": false,
-              "Habit": false,
-              "Leaf": false,
-              "Twig": false,
-              "Unclear": false
-            },
-            "citation_type": {
-              "Art": false,
-              "Photo": false
-            },
-            "archival_data": {
-              "id": "1777919",
-              "legacy_id": "81952",
-              "AD": false,
-              "fpi_pub_issue": null,
-              "pullingdat": "1",
-              "active": true,
-              "author": "oitadmin",
-              "created": "1483160925"
-            }
-          },
-          {
-            "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 8.",
-            "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_8",
-            "type": "citation_reference",
-            "plant": {
-              "machine_name": "cochlospermum_planchonii",
-              "type": "species",
-              "archival_data": [
-                "1409083"
-              ]
-            },
-            "volume": null,
-            "page": "p 148, Pl. 8.",
-            "year": "1989",
-            "notes": null,
-            "parts_shown": {
-              "Flower": true,
-              "Seed": false,
-              "Fruit": false,
-              "Bark": false,
-              "Root": false,
-              "Habit": false,
-              "Leaf": true,
-              "Twig": false,
-              "Unclear": false
-            },
-            "citation_type": {
-              "Art": false,
-              "Photo": false
-            },
-            "archival_data": {
-              "id": "1778003",
-              "legacy_id": "83313",
-              "AD": false,
-              "fpi_pub_issue": null,
-              "pullingdat": "1",
-              "active": true,
-              "author": "oitadmin",
-              "created": "1483160925"
-            }
-          },
-          {
-            "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 5.",
-            "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_5",
-            "type": "citation_reference",
-            "plant": {
-              "machine_name": "cocos_nucifera",
-              "type": "species",
-              "archival_data": [
-                "1409377"
-              ]
-            },
-            "volume": null,
-            "page": "p 148, Pl. 5.",
-            "year": "1989",
-            "notes": null,
-            "parts_shown": {
-              "Flower": false,
-              "Seed": false,
-              "Fruit": true,
-              "Bark": false,
-              "Root": false,
-              "Habit": true,
-              "Leaf": false,
-              "Twig": false,
-              "Unclear": false
-            },
-            "citation_type": {
-              "Art": false,
-              "Photo": false
-            },
-            "archival_data": {
-              "id": "1778008",
-              "legacy_id": "83319",
-              "AD": false,
-              "fpi_pub_issue": null,
-              "pullingdat": "1",
-              "active": true,
-              "author": "oitadmin",
-              "created": "1483160925"
-            }
-          },
-          {
-            "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 5.",
-            "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_5",
-            "type": "citation_reference",
-            "plant": {
-              "machine_name": "coffea_canephora",
-              "type": "species",
-              "archival_data": [
-                "1453614"
-              ]
-            },
-            "volume": null,
-            "page": "p 148, Pl. 5.",
-            "year": "1989",
-            "notes": null,
-            "parts_shown": {
-              "Flower": true,
-              "Seed": false,
-              "Fruit": false,
-              "Bark": false,
-              "Root": false,
-              "Habit": false,
-              "Leaf": true,
-              "Twig": false,
-              "Unclear": false
-            },
-            "citation_type": {
-              "Art": false,
-              "Photo": false
-            },
-            "archival_data": {
-              "id": "1778668",
-              "legacy_id": "83487",
-              "AD": false,
-              "fpi_pub_issue": null,
-              "pullingdat": "1",
-              "active": true,
-              "author": "oitadmin",
-              "created": "1483160925"
-            }
-          },
-          {
-            "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 5.",
-            "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_5",
-            "type": "citation_reference",
-            "plant": {
-              "machine_name": "cola_nitida",
-              "type": "species",
-              "archival_data": [
-                "1409456"
-              ]
-            },
-            "volume": null,
-            "page": "p 148, Pl. 5.",
-            "year": "1989",
-            "notes": null,
-            "parts_shown": {
-              "Flower": false,
-              "Seed": false,
-              "Fruit": false,
-              "Bark": false,
-              "Root": false,
-              "Habit": true,
-              "Leaf": false,
-              "Twig": false,
-              "Unclear": false
-            },
-            "citation_type": {
-              "Art": false,
-              "Photo": false
-            },
-            "archival_data": {
-              "id": "1778669",
-              "legacy_id": "83488",
-              "AD": false,
-              "fpi_pub_issue": null,
-              "pullingdat": "1",
-              "active": true,
-              "author": "oitadmin",
-              "created": "1483160925"
-            }
-          },
-          {
-            "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 10.",
-            "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_10",
-            "type": "citation_reference",
-            "plant": {
-              "machine_name": "cardiospermum_halicacabum",
-              "type": "species",
-              "archival_data": [
-                "1407743"
-              ]
-            },
-            "volume": null,
-            "page": "p 148, Pl. 10.",
-            "year": "1989",
-            "notes": null,
-            "parts_shown": {
-              "Flower": false,
-              "Seed": false,
-              "Fruit": true,
-              "Bark": false,
-              "Root": false,
-              "Habit": true,
-              "Leaf": false,
-              "Twig": false,
-              "Unclear": false
-            },
-            "citation_type": {
-              "Art": false,
-              "Photo": false
-            },
-            "archival_data": {
-              "id": "1778671",
-              "legacy_id": "79415",
-              "AD": false,
-              "fpi_pub_issue": null,
-              "pullingdat": "1",
-              "active": true,
-              "author": "oitadmin",
-              "created": "1483160925"
-            }
-          },
-          {
-            "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 2.",
-            "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_2",
-            "type": "citation_reference",
-            "plant": {
-              "machine_name": "colocasia_esculenta",
-              "type": "species",
-              "archival_data": [
-                "1403754"
-              ]
-            },
-            "volume": null,
-            "page": "p 148, Pl. 2.",
-            "year": "1989",
-            "notes": null,
-            "parts_shown": {
-              "Flower": false,
-              "Seed": false,
-              "Fruit": false,
-              "Bark": false,
-              "Root": false,
-              "Habit": false,
-              "Leaf": true,
-              "Twig": false,
-              "Unclear": false
-            },
-            "citation_type": {
-              "Art": false,
-              "Photo": false
-            },
-            "archival_data": {
-              "id": "1779272",
-              "legacy_id": "83598",
-              "AD": false,
-              "fpi_pub_issue": null,
-              "pullingdat": "1",
-              "active": true,
-              "author": "oitadmin",
-              "created": "1483160925"
-            }
-          },
-          {
-            "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 15.",
-            "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_15",
-            "type": "citation_reference",
-            "plant": {
-              "machine_name": "combretum_racemosum",
-              "type": "species",
-              "archival_data": [
-                "1404106"
-              ]
-            },
-            "volume": null,
-            "page": "p 148, Pl. 15.",
-            "year": "1989",
-            "notes": null,
-            "parts_shown": {
-              "Flower": true,
-              "Seed": false,
-              "Fruit": false,
-              "Bark": false,
-              "Root": false,
-              "Habit": false,
-              "Leaf": false,
-              "Twig": false,
-              "Unclear": false
-            },
-            "citation_type": {
-              "Art": false,
-              "Photo": false
-            },
-            "archival_data": {
-              "id": "1779606",
-              "legacy_id": "83688",
-              "AD": false,
-              "fpi_pub_issue": null,
-              "pullingdat": "1",
-              "active": true,
-              "author": "oitadmin",
-              "created": "1483160925"
-            }
-          },
-          {
-            "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 13.",
-            "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_13",
-            "type": "citation_reference",
-            "plant": {
-              "machine_name": "cyrtosperma_senegalense",
-              "type": "species",
-              "archival_data": [
-                "1404596"
-              ]
-            },
-            "volume": null,
-            "page": "p 148, Pl. 13.",
-            "year": "1989",
-            "notes": null,
-            "parts_shown": {
-              "Flower": true,
-              "Seed": false,
-              "Fruit": false,
-              "Bark": false,
-              "Root": false,
-              "Habit": false,
-              "Leaf": true,
-              "Twig": false,
-              "Unclear": false
-            },
-            "citation_type": {
-              "Art": false,
-              "Photo": false
-            },
-            "archival_data": {
-              "id": "1782803",
-              "legacy_id": "87252",
-              "AD": false,
-              "fpi_pub_issue": null,
-              "pullingdat": "1",
-              "active": true,
-              "author": "oitadmin",
-              "created": "1483160925"
-            }
-          },
-          {
-            "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 13.",
-            "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_13",
-            "type": "citation_reference",
-            "plant": {
-              "machine_name": "crossopteryx_febrifuga",
-              "type": "species",
-              "archival_data": [
-                "1408332"
-              ]
-            },
-            "volume": null,
-            "page": "p 148, Pl. 13.",
-            "year": "1989",
-            "notes": null,
-            "parts_shown": {
-              "Flower": false,
-              "Seed": false,
-              "Fruit": false,
-              "Bark": false,
-              "Root": false,
-              "Habit": true,
-              "Leaf": false,
-              "Twig": false,
-              "Unclear": false
-            },
-            "citation_type": {
-              "Art": false,
-              "Photo": false
-            },
-            "archival_data": {
-              "id": "1783007",
-              "legacy_id": "85955",
-              "AD": false,
-              "fpi_pub_issue": null,
-              "pullingdat": "1",
-              "active": true,
-              "author": "oitadmin",
-              "created": "1483160925"
-            }
-          },
-          {
-            "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 10.",
-            "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_10",
-            "type": "citation_reference",
-            "plant": {
-              "machine_name": "dialium_guineense",
-              "type": "species",
-              "archival_data": [
-                "1407717"
-              ]
-            },
-            "volume": null,
-            "page": "p 148, Pl. 10.",
-            "year": "1989",
-            "notes": null,
-            "parts_shown": {
-              "Flower": true,
-              "Seed": false,
-              "Fruit": false,
-              "Bark": false,
-              "Root": false,
-              "Habit": false,
-              "Leaf": true,
-              "Twig": false,
-              "Unclear": false
-            },
-            "citation_type": {
-              "Art": false,
-              "Photo": false
-            },
-            "archival_data": {
-              "id": "1783842",
-              "legacy_id": "88809",
-              "AD": false,
-              "fpi_pub_issue": null,
-              "pullingdat": "1",
-              "active": true,
-              "author": "oitadmin",
-              "created": "1483160925"
-            }
-          },
-          {
-            "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 1.",
-            "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_1",
-            "type": "citation_reference",
-            "plant": {
-              "machine_name": "entandrophragma_cylindricum",
-              "type": "species",
-              "archival_data": [
-                "1413973"
-              ]
-            },
-            "volume": null,
-            "page": "p 148, Pl. 1.",
-            "year": "1989",
-            "notes": null,
-            "parts_shown": {
-              "Flower": false,
-              "Seed": false,
-              "Fruit": false,
-              "Bark": false,
-              "Root": false,
-              "Habit": true,
-              "Leaf": false,
-              "Twig": false,
-              "Unclear": true
-            },
-            "citation_type": {
-              "Art": false,
-              "Photo": false
-            },
-            "archival_data": {
-              "id": "1785947",
-              "legacy_id": "91967",
-              "AD": false,
-              "fpi_pub_issue": null,
-              "pullingdat": "1",
-              "active": true,
-              "author": "oitadmin",
-              "created": "1483160925"
-            }
-          },
-          {
-            "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 5.",
-            "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_5",
-            "type": "citation_reference",
-            "plant": {
-              "machine_name": "elaeis_guineensis",
-              "type": "species",
-              "archival_data": [
-                "1413165"
-              ]
-            },
-            "volume": null,
-            "page": "p 148, Pl. 5.",
-            "year": "1989",
-            "notes": null,
-            "parts_shown": {
-              "Flower": false,
-              "Seed": false,
-              "Fruit": true,
-              "Bark": false,
-              "Root": false,
-              "Habit": false,
-              "Leaf": false,
-              "Twig": false,
-              "Unclear": false
-            },
-            "citation_type": {
-              "Art": false,
-              "Photo": false
-            },
-            "archival_data": {
-              "id": "1788990",
-              "legacy_id": "91526",
-              "AD": false,
-              "fpi_pub_issue": null,
-              "pullingdat": "1",
-              "active": true,
-              "author": "oitadmin",
-              "created": "1483164168"
-            }
-          },
-          {
-            "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 10.",
-            "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_10",
-            "type": "citation_reference",
-            "plant": {
-              "machine_name": "flacourtia_flavescens",
-              "type": "species",
-              "archival_data": [
-                "1413406"
-              ]
-            },
-            "volume": null,
-            "page": "p 148, Pl. 10.",
-            "year": "1989",
-            "notes": null,
-            "parts_shown": {
-              "Flower": true,
-              "Seed": false,
-              "Fruit": false,
-              "Bark": false,
-              "Root": false,
-              "Habit": false,
-              "Leaf": true,
-              "Twig": false,
-              "Unclear": false
-            },
-            "citation_type": {
-              "Art": false,
-              "Photo": false
-            },
-            "archival_data": {
-              "id": "1789349",
-              "legacy_id": "97104",
-              "AD": false,
-              "fpi_pub_issue": null,
-              "pullingdat": "1",
-              "active": true,
-              "author": "oitadmin",
-              "created": "1483164168"
-            }
-          },
-          {
-            "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 14.",
-            "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_14",
-            "type": "citation_reference",
-            "plant": {
-              "machine_name": "erythrophleum_suaveolens",
-              "type": "species",
-              "archival_data": [
-                "1412901"
-              ]
-            },
-            "volume": null,
-            "page": "p 148, Pl. 14.",
-            "year": "1989",
-            "notes": null,
-            "parts_shown": {
-              "Flower": false,
-              "Seed": false,
-              "Fruit": true,
-              "Bark": false,
-              "Root": false,
-              "Habit": false,
-              "Leaf": true,
-              "Twig": false,
-              "Unclear": true
-            },
-            "citation_type": {
-              "Art": false,
-              "Photo": false
-            },
-            "archival_data": {
-              "id": "1792059",
-              "legacy_id": "93980",
-              "AD": false,
-              "fpi_pub_issue": null,
-              "pullingdat": "1",
-              "active": true,
-              "author": "oitadmin",
-              "created": "1483164168"
-            }
-          },
-          {
-            "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 13.",
-            "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_13",
-            "type": "citation_reference",
-            "plant": {
-              "machine_name": "euphorbia_balsamifera",
-              "type": "species",
-              "archival_data": [
-                "1409927"
-              ]
-            },
-            "volume": null,
-            "page": "p 148, Pl. 13.",
-            "year": "1989",
-            "notes": null,
-            "parts_shown": {
-              "Flower": false,
-              "Seed": false,
-              "Fruit": false,
-              "Bark": false,
-              "Root": false,
-              "Habit": false,
-              "Leaf": true,
-              "Twig": false,
-              "Unclear": true
-            },
-            "citation_type": {
-              "Art": false,
-              "Photo": false
-            },
-            "archival_data": {
-              "id": "1792778",
-              "legacy_id": "95385",
-              "AD": false,
-              "fpi_pub_issue": null,
-              "pullingdat": "1",
-              "active": true,
-              "author": "oitadmin",
-              "created": "1483164168"
-            }
-          },
-          {
-            "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 11.",
-            "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_11",
-            "type": "citation_reference",
-            "plant": {
-              "machine_name": "khaya_senegalensis",
-              "type": "species",
-              "archival_data": [
-                "1419542"
-              ]
-            },
-            "volume": null,
-            "page": "p 148, Pl. 11.",
-            "year": "1989",
-            "notes": null,
-            "parts_shown": {
-              "Flower": false,
-              "Seed": false,
-              "Fruit": false,
-              "Bark": false,
-              "Root": false,
-              "Habit": true,
-              "Leaf": false,
-              "Twig": false,
-              "Unclear": false
-            },
-            "citation_type": {
-              "Art": false,
-              "Photo": false
-            },
-            "archival_data": {
-              "id": "1799677",
-              "legacy_id": "106516",
-              "AD": false,
-              "fpi_pub_issue": null,
-              "pullingdat": "1",
-              "active": true,
-              "author": "oitadmin",
-              "created": "1483164168"
-            }
-          },
-          {
-            "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 8.",
-            "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_8",
-            "type": "citation_reference",
-            "plant": {
-              "machine_name": "lagenaria_siceraria",
-              "type": "species",
-              "archival_data": [
-                "1420642"
-              ]
-            },
-            "volume": null,
-            "page": "p 148, Pl. 8.",
-            "year": "1989",
-            "notes": null,
-            "parts_shown": {
-              "Flower": false,
-              "Seed": false,
-              "Fruit": true,
-              "Bark": false,
-              "Root": false,
-              "Habit": false,
-              "Leaf": false,
-              "Twig": false,
-              "Unclear": false
-            },
-            "citation_type": {
-              "Art": false,
-              "Photo": false
-            },
-            "archival_data": {
-              "id": "1801906",
-              "legacy_id": "107048",
-              "AD": false,
-              "fpi_pub_issue": null,
-              "pullingdat": "1",
-              "active": true,
-              "author": "oitadmin",
-              "created": "1483164168"
-            }
-          },
-          {
-            "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 11.",
-            "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_11",
-            "type": "citation_reference",
-            "plant": {
-              "machine_name": "jatropha_curcas",
-              "type": "species",
-              "archival_data": [
-                "1418425"
-              ]
-            },
-            "volume": null,
-            "page": "p 148, Pl. 11.",
-            "year": "1989",
-            "notes": null,
-            "parts_shown": {
-              "Flower": false,
-              "Seed": false,
-              "Fruit": false,
-              "Bark": false,
-              "Root": false,
-              "Habit": true,
-              "Leaf": false,
-              "Twig": false,
-              "Unclear": true
-            },
-            "citation_type": {
-              "Art": false,
-              "Photo": false
-            },
-            "archival_data": {
-              "id": "1802191",
-              "legacy_id": "105851",
-              "AD": false,
-              "fpi_pub_issue": null,
-              "pullingdat": "1",
-              "active": true,
-              "author": "oitadmin",
-              "created": "1483164168"
-            }
-          },
-          {
-            "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 2.",
-            "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_2",
-            "type": "citation_reference",
-            "plant": {
-              "machine_name": "manihot_esculenta",
-              "type": "species",
-              "archival_data": [
-                "1417436"
-              ]
-            },
-            "volume": null,
-            "page": "p 148, Pl. 2.",
-            "year": "1989",
-            "notes": null,
-            "parts_shown": {
-              "Flower": false,
-              "Seed": false,
-              "Fruit": false,
-              "Bark": false,
-              "Root": true,
-              "Habit": false,
-              "Leaf": false,
-              "Twig": false,
-              "Unclear": false
-            },
-            "citation_type": {
-              "Art": false,
-              "Photo": false
-            },
-            "archival_data": {
-              "id": "1805575",
-              "legacy_id": "112062",
-              "AD": false,
-              "fpi_pub_issue": null,
-              "pullingdat": "1",
-              "active": true,
-              "author": "oitadmin",
-              "created": "1483167411"
-            }
-          },
-          {
-            "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 16.",
-            "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_16",
-            "type": "citation_reference",
-            "plant": {
-              "machine_name": "mikania_micrantha",
-              "type": "species",
-              "archival_data": [
-                "1420149"
-              ]
-            },
-            "volume": null,
-            "page": "p 148, Pl. 16.",
-            "year": "1989",
-            "notes": null,
-            "parts_shown": {
-              "Flower": true,
-              "Seed": false,
-              "Fruit": false,
-              "Bark": false,
-              "Root": false,
-              "Habit": false,
-              "Leaf": false,
-              "Twig": false,
-              "Unclear": true
-            },
-            "citation_type": {
-              "Art": false,
-              "Photo": false
-            },
-            "archival_data": {
-              "id": "1806235",
-              "legacy_id": "113479",
-              "AD": false,
-              "fpi_pub_issue": null,
-              "pullingdat": "1",
-              "active": true,
-              "author": "oitadmin",
-              "created": "1483167411"
-            }
-          },
-          {
-            "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 1.",
-            "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_1",
-            "type": "citation_reference",
-            "plant": {
-              "machine_name": "milicia_regia",
-              "type": "species",
-              "archival_data": [
-                "1420152"
-              ]
-            },
-            "volume": null,
-            "page": "p 148, Pl. 1.",
-            "year": "1989",
-            "notes": null,
-            "parts_shown": {
-              "Flower": false,
-              "Seed": false,
-              "Fruit": false,
-              "Bark": false,
-              "Root": false,
-              "Habit": true,
-              "Leaf": false,
-              "Twig": false,
-              "Unclear": true
-            },
-            "citation_type": {
-              "Art": false,
-              "Photo": false
-            },
-            "archival_data": {
-              "id": "1806240",
-              "legacy_id": "113484",
-              "AD": false,
-              "fpi_pub_issue": null,
-              "pullingdat": "1",
-              "active": true,
-              "author": "oitadmin",
-              "created": "1483167411"
-            }
-          },
-          {
-            "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 14.",
-            "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_14",
-            "type": "citation_reference",
-            "plant": {
-              "machine_name": "lonchocarpus_cyanescens",
-              "type": "species",
-              "archival_data": [
-                "1419300"
-              ]
-            },
-            "volume": null,
-            "page": "p 148, Pl. 14.",
-            "year": "1989",
-            "notes": null,
-            "parts_shown": {
-              "Flower": false,
-              "Seed": false,
-              "Fruit": true,
-              "Bark": false,
-              "Root": false,
-              "Habit": false,
-              "Leaf": false,
-              "Twig": false,
-              "Unclear": false
-            },
-            "citation_type": {
-              "Art": false,
-              "Photo": false
-            },
-            "archival_data": {
-              "id": "1807963",
-              "legacy_id": "109974",
-              "AD": false,
-              "fpi_pub_issue": null,
-              "pullingdat": "1",
-              "active": true,
-              "author": "oitadmin",
-              "created": "1483167411"
-            }
-          },
-          {
-            "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 11.",
-            "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_11",
-            "type": "citation_reference",
-            "plant": {
-              "machine_name": "lonchocarpus_sericeus",
-              "type": "species",
-              "archival_data": [
-                "1419301"
-              ]
-            },
-            "volume": null,
-            "page": "p 148, Pl. 11.",
-            "year": "1989",
-            "notes": null,
-            "parts_shown": {
-              "Flower": false,
-              "Seed": false,
-              "Fruit": true,
-              "Bark": false,
-              "Root": false,
-              "Habit": false,
-              "Leaf": true,
-              "Twig": false,
-              "Unclear": false
-            },
-            "citation_type": {
-              "Art": false,
-              "Photo": false
-            },
-            "archival_data": {
-              "id": "1807964",
-              "legacy_id": "109975",
-              "AD": false,
-              "fpi_pub_issue": null,
-              "pullingdat": "1",
-              "active": true,
-              "author": "oitadmin",
-              "created": "1483167411"
-            }
-          },
-          {
-            "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 11.",
-            "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_11",
-            "type": "citation_reference",
-            "plant": {
-              "machine_name": "mallotus_oppositifolius",
-              "type": "species",
-              "archival_data": [
-                "1415901"
-              ]
-            },
-            "volume": null,
-            "page": "p 148, Pl. 11.",
-            "year": "1989",
-            "notes": null,
-            "parts_shown": {
-              "Flower": false,
-              "Seed": false,
-              "Fruit": true,
-              "Bark": false,
-              "Root": false,
-              "Habit": false,
-              "Leaf": true,
-              "Twig": false,
-              "Unclear": false
-            },
-            "citation_type": {
-              "Art": false,
-              "Photo": false
-            },
-            "archival_data": {
-              "id": "1808073",
-              "legacy_id": "111349",
-              "AD": false,
-              "fpi_pub_issue": null,
-              "pullingdat": "1",
-              "active": true,
-              "author": "oitadmin",
-              "created": "1483167411"
-            }
-          },
-          {
-            "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 11.",
-            "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_11",
-            "type": "citation_reference",
-            "plant": {
-              "machine_name": "morinda_lucida",
-              "type": "species",
-              "archival_data": [
-                "1421651"
-              ]
-            },
-            "volume": null,
-            "page": "p 148, Pl. 11.",
-            "year": "1989",
-            "notes": null,
-            "parts_shown": {
-              "Flower": true,
-              "Seed": false,
-              "Fruit": false,
-              "Bark": false,
-              "Root": false,
-              "Habit": false,
-              "Leaf": true,
-              "Twig": false,
-              "Unclear": false
-            },
-            "citation_type": {
-              "Art": false,
-              "Photo": false
-            },
-            "archival_data": {
-              "id": "1808888",
-              "legacy_id": "114190",
-              "AD": false,
-              "fpi_pub_issue": null,
-              "pullingdat": "1",
-              "active": true,
-              "author": "oitadmin",
-              "created": "1483167411"
-            }
-          },
-          {
-            "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 4.",
-            "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_4",
-            "type": "citation_reference",
-            "plant": {
-              "machine_name": "musa_paradisiaca",
-              "type": "species",
-              "archival_data": [
-                "1415676"
-              ]
-            },
-            "volume": null,
-            "page": "p 148, Pl. 4.",
-            "year": "1989",
-            "notes": null,
-            "parts_shown": {
-              "Flower": false,
-              "Seed": false,
-              "Fruit": true,
-              "Bark": false,
-              "Root": false,
-              "Habit": false,
-              "Leaf": false,
-              "Twig": false,
-              "Unclear": false
-            },
-            "citation_type": {
-              "Art": false,
-              "Photo": false
-            },
-            "archival_data": {
-              "id": "1809526",
-              "legacy_id": "114339",
-              "AD": false,
-              "fpi_pub_issue": null,
-              "pullingdat": "1",
-              "active": true,
-              "author": "oitadmin",
-              "created": "1483167411"
-            }
-          },
-          {
-            "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 15.",
-            "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_15",
-            "type": "citation_reference",
-            "plant": {
-              "machine_name": "mussaenda_erythrophylla",
-              "type": "species",
-              "archival_data": [
-                "1415996"
-              ]
-            },
-            "volume": null,
-            "page": "p 148, Pl. 15.",
-            "year": "1989",
-            "notes": null,
-            "parts_shown": {
-              "Flower": true,
-              "Seed": false,
-              "Fruit": false,
-              "Bark": false,
-              "Root": false,
-              "Habit": false,
-              "Leaf": false,
-              "Twig": false,
-              "Unclear": false
-            },
-            "citation_type": {
-              "Art": false,
-              "Photo": false
-            },
-            "archival_data": {
-              "id": "1809866",
-              "legacy_id": "114450",
-              "AD": false,
-              "fpi_pub_issue": null,
-              "pullingdat": "1",
-              "active": true,
-              "author": "oitadmin",
-              "created": "1483167411"
-            }
-          },
-          {
-            "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 14.",
-            "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_14",
-            "type": "citation_reference",
-            "plant": {
-              "machine_name": "paullinia_pinnata",
-              "type": "species",
-              "archival_data": [
-                "1426258"
-              ]
-            },
-            "volume": null,
-            "page": "p 148, Pl. 14.",
-            "year": "1989",
-            "notes": null,
-            "parts_shown": {
-              "Flower": true,
-              "Seed": false,
-              "Fruit": false,
-              "Bark": false,
-              "Root": false,
-              "Habit": false,
-              "Leaf": true,
-              "Twig": false,
-              "Unclear": false
-            },
-            "citation_type": {
-              "Art": false,
-              "Photo": false
-            },
-            "archival_data": {
-              "id": "1812855",
-              "legacy_id": "119283",
-              "AD": false,
-              "fpi_pub_issue": null,
-              "pullingdat": "1",
-              "active": true,
-              "author": "oitadmin",
-              "created": "1483167411"
-            }
-          },
-          {
-            "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 8.",
-            "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_8",
-            "type": "citation_reference",
-            "plant": {
-              "machine_name": "pandanus_abbiwii",
-              "type": "species",
-              "archival_data": [
-                "1424088"
-              ]
-            },
-            "volume": null,
-            "page": "p 148, Pl. 8.",
-            "year": "1989",
-            "notes": null,
-            "parts_shown": {
-              "Flower": false,
-              "Seed": false,
-              "Fruit": false,
-              "Bark": false,
-              "Root": false,
-              "Habit": false,
-              "Leaf": true,
-              "Twig": false,
-              "Unclear": true
-            },
-            "citation_type": {
-              "Art": false,
-              "Photo": false
-            },
-            "archival_data": {
-              "id": "1813372",
-              "legacy_id": "118054",
-              "AD": false,
-              "fpi_pub_issue": null,
-              "pullingdat": "1",
-              "active": true,
-              "author": "oitadmin",
-              "created": "1483167411"
-            }
-          },
-          {
-            "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 3.",
-            "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_3",
-            "type": "citation_reference",
-            "plant": {
-              "machine_name": "pennisetum_americanum",
-              "type": "species",
-              "archival_data": [
-                "1427047"
-              ]
-            },
-            "volume": null,
-            "page": "p 148, Pl. 3.",
-            "year": "1989",
-            "notes": null,
-            "parts_shown": {
-              "Flower": false,
-              "Seed": false,
-              "Fruit": false,
-              "Bark": false,
-              "Root": false,
-              "Habit": true,
-              "Leaf": false,
-              "Twig": false,
-              "Unclear": false
-            },
-            "citation_type": {
-              "Art": false,
-              "Photo": false
-            },
-            "archival_data": {
-              "id": "1814784",
-              "legacy_id": "119757",
-              "AD": false,
-              "fpi_pub_issue": null,
-              "pullingdat": "1",
-              "active": true,
-              "author": "oitadmin",
-              "created": "1483167411"
-            }
-          },
-          {
-            "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 12.",
-            "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_12",
-            "type": "citation_reference",
-            "plant": {
-              "machine_name": "pycnocoma_macrophylla",
-              "type": "species",
-              "archival_data": [
-                "1427203"
-              ]
-            },
-            "volume": null,
-            "page": "p 148, Pl. 12.",
-            "year": "1989",
-            "notes": null,
-            "parts_shown": {
-              "Flower": true,
-              "Seed": false,
-              "Fruit": false,
-              "Bark": false,
-              "Root": false,
-              "Habit": false,
-              "Leaf": true,
-              "Twig": false,
-              "Unclear": false
-            },
-            "citation_type": {
-              "Art": false,
-              "Photo": false
-            },
-            "archival_data": {
-              "id": "1817494",
-              "legacy_id": "125695",
-              "AD": false,
-              "fpi_pub_issue": null,
-              "pullingdat": "1",
-              "active": true,
-              "author": "oitadmin",
-              "created": "1483167411"
-            }
-          },
-          {
-            "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 12.",
-            "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_12",
-            "type": "citation_reference",
-            "plant": {
-              "machine_name": "pterocarpus_erinaceus",
-              "type": "species",
-              "archival_data": [
-                "1426083"
-              ]
-            },
-            "volume": null,
-            "page": "p 148, Pl. 12.",
-            "year": "1989",
-            "notes": null,
-            "parts_shown": {
-              "Flower": false,
-              "Seed": false,
-              "Fruit": false,
-              "Bark": false,
-              "Root": false,
-              "Habit": true,
-              "Leaf": false,
-              "Twig": false,
-              "Unclear": false
-            },
-            "citation_type": {
-              "Art": false,
-              "Photo": false
-            },
-            "archival_data": {
-              "id": "1820303",
-              "legacy_id": "125145",
-              "AD": false,
-              "fpi_pub_issue": null,
-              "pullingdat": "1",
-              "active": true,
-              "author": "oitadmin",
-              "created": "1483167411"
-            }
-          },
-          {
-            "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 13.",
-            "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_13",
-            "type": "citation_reference",
-            "plant": {
-              "machine_name": "ricinus_communis",
-              "type": "species",
-              "archival_data": [
-                "1433174"
-              ]
-            },
-            "volume": null,
-            "page": "p 148, Pl. 13.",
-            "year": "1989",
-            "notes": null,
-            "parts_shown": {
-              "Flower": false,
-              "Seed": false,
-              "Fruit": false,
-              "Bark": false,
-              "Root": false,
-              "Habit": true,
-              "Leaf": true,
-              "Twig": false,
-              "Unclear": false
-            },
-            "citation_type": {
-              "Art": false,
-              "Photo": false
-            },
-            "archival_data": {
-              "id": "1824538",
-              "legacy_id": "128926",
-              "AD": false,
-              "fpi_pub_issue": null,
-              "pullingdat": "1",
-              "active": true,
-              "author": "oitadmin",
-              "created": "1483170654"
-            }
-          },
-          {
-            "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 3.",
-            "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_3",
-            "type": "citation_reference",
-            "plant": {
-              "machine_name": "sorghum_bicolor",
-              "type": "species",
-              "archival_data": [
-                "1431495"
-              ]
-            },
-            "volume": null,
-            "page": "p 148, Pl. 3.",
-            "year": "1989",
-            "notes": null,
-            "parts_shown": {
-              "Flower": true,
-              "Seed": false,
-              "Fruit": false,
-              "Bark": false,
-              "Root": false,
-              "Habit": true,
-              "Leaf": false,
-              "Twig": false,
-              "Unclear": false
-            },
-            "citation_type": {
-              "Art": false,
-              "Photo": false
-            },
-            "archival_data": {
-              "id": "1826192",
-              "legacy_id": "134651",
-              "AD": false,
-              "fpi_pub_issue": null,
-              "pullingdat": "1",
-              "active": true,
-              "author": "oitadmin",
-              "created": "1483170654"
-            }
-          },
-          {
-            "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 1.",
-            "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_1",
-            "type": "citation_reference",
-            "plant": {
-              "machine_name": "synsepalum_dulcificum",
-              "type": "species",
-              "archival_data": [
-                "1428547"
-              ]
-            },
-            "volume": null,
-            "page": "p 148, Pl. 1.",
-            "year": "1989",
-            "notes": null,
-            "parts_shown": {
-              "Flower": false,
-              "Seed": false,
-              "Fruit": true,
-              "Bark": false,
-              "Root": false,
-              "Habit": false,
-              "Leaf": true,
-              "Twig": false,
-              "Unclear": false
-            },
-            "citation_type": {
-              "Art": false,
-              "Photo": false
-            },
-            "archival_data": {
-              "id": "1826318",
-              "legacy_id": "136134",
-              "AD": false,
-              "fpi_pub_issue": null,
-              "pullingdat": "1",
-              "active": true,
-              "author": "oitadmin",
-              "created": "1483170654"
-            }
-          },
-          {
-            "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 15.",
-            "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_15",
-            "type": "citation_reference",
-            "plant": {
-              "machine_name": "scadoxus_multiflorus",
-              "type": "species",
-              "archival_data": [
-                "1432210"
-              ]
-            },
-            "volume": null,
-            "page": "p 148, Pl. 15.",
-            "year": "1989",
-            "notes": null,
-            "parts_shown": {
-              "Flower": true,
-              "Seed": false,
-              "Fruit": false,
-              "Bark": false,
-              "Root": false,
-              "Habit": false,
-              "Leaf": false,
-              "Twig": false,
-              "Unclear": false
-            },
-            "citation_type": {
-              "Art": false,
-              "Photo": false
-            },
-            "archival_data": {
-              "id": "1826377",
-              "legacy_id": "132087",
-              "AD": false,
-              "fpi_pub_issue": null,
-              "pullingdat": "1",
-              "active": true,
-              "author": "oitadmin",
-              "created": "1483170654"
-            }
-          },
-          {
-            "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 3.",
-            "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_3",
-            "type": "citation_reference",
-            "plant": {
-              "machine_name": "sechium_edule",
-              "type": "species",
-              "archival_data": [
-                "1427708"
-              ]
-            },
-            "volume": null,
-            "page": "p 148, Pl. 3.",
-            "year": "1989",
-            "notes": null,
-            "parts_shown": {
-              "Flower": false,
-              "Seed": false,
-              "Fruit": true,
-              "Bark": false,
-              "Root": false,
-              "Habit": false,
-              "Leaf": false,
-              "Twig": false,
-              "Unclear": false
-            },
-            "citation_type": {
-              "Art": false,
-              "Photo": false
-            },
-            "archival_data": {
-              "id": "1828691",
-              "legacy_id": "132699",
-              "AD": false,
-              "fpi_pub_issue": null,
-              "pullingdat": "1",
-              "active": true,
-              "author": "oitadmin",
-              "created": "1483170654"
-            }
-          },
-          {
-            "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 3.",
-            "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_3",
-            "type": "citation_reference",
-            "plant": {
-              "machine_name": "solanum_macrocarpon",
-              "type": "species",
-              "archival_data": [
-                "1430723"
-              ]
-            },
-            "volume": null,
-            "page": "p 148, Pl. 3.",
-            "year": "1989",
-            "notes": null,
-            "parts_shown": {
-              "Flower": false,
-              "Seed": false,
-              "Fruit": true,
-              "Bark": false,
-              "Root": false,
-              "Habit": false,
-              "Leaf": true,
-              "Twig": false,
-              "Unclear": false
-            },
-            "citation_type": {
-              "Art": false,
-              "Photo": false
-            },
-            "archival_data": {
-              "id": "1829352",
-              "legacy_id": "134123",
-              "AD": false,
-              "fpi_pub_issue": null,
-              "pullingdat": "1",
-              "active": true,
-              "author": "oitadmin",
-              "created": "1483170654"
-            }
-          },
-          {
-            "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 14.",
-            "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_14",
-            "type": "citation_reference",
-            "plant": {
-              "machine_name": "strophanthus_sarmentosus",
-              "type": "species",
-              "archival_data": [
-                "1427769"
-              ]
-            },
-            "volume": null,
-            "page": "p 148, Pl. 14.",
-            "year": "1989",
-            "notes": null,
-            "parts_shown": {
-              "Flower": true,
-              "Seed": false,
-              "Fruit": false,
-              "Bark": false,
-              "Root": false,
-              "Habit": false,
-              "Leaf": false,
-              "Twig": false,
-              "Unclear": false
-            },
-            "citation_type": {
-              "Art": false,
-              "Photo": false
-            },
-            "archival_data": {
-              "id": "1830454",
-              "legacy_id": "135777",
-              "AD": false,
-              "fpi_pub_issue": null,
-              "pullingdat": "1",
-              "active": true,
-              "author": "oitadmin",
-              "created": "1483170654"
-            }
-          },
-          {
-            "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 12.",
-            "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_12",
-            "type": "citation_reference",
-            "plant": {
-              "machine_name": "thonningia_sanguinea",
-              "type": "species",
-              "archival_data": [
-                "1430497"
-              ]
-            },
-            "volume": null,
-            "page": "p 148, Pl. 12.",
-            "year": "1989",
-            "notes": null,
-            "parts_shown": {
-              "Flower": false,
-              "Seed": false,
-              "Fruit": true,
-              "Bark": false,
-              "Root": false,
-              "Habit": false,
-              "Leaf": false,
-              "Twig": false,
-              "Unclear": true
-            },
-            "citation_type": {
-              "Art": false,
-              "Photo": false
-            },
-            "archival_data": {
-              "id": "1830908",
-              "legacy_id": "137245",
-              "AD": false,
-              "fpi_pub_issue": null,
-              "pullingdat": "1",
-              "active": true,
-              "author": "oitadmin",
-              "created": "1483170654"
-            }
-          },
-          {
-            "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 12.",
-            "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_12",
-            "type": "citation_reference",
-            "plant": {
-              "machine_name": "voacanga_africana",
-              "type": "species",
-              "archival_data": [
-                "1437225"
-              ]
-            },
-            "volume": null,
-            "page": "p 148, Pl. 12.",
-            "year": "1989",
-            "notes": null,
-            "parts_shown": {
-              "Flower": false,
-              "Seed": false,
-              "Fruit": true,
-              "Bark": false,
-              "Root": false,
-              "Habit": false,
-              "Leaf": true,
-              "Twig": false,
-              "Unclear": false
-            },
-            "citation_type": {
-              "Art": false,
-              "Photo": false
-            },
-            "archival_data": {
-              "id": "1831471",
-              "legacy_id": "141438",
-              "AD": false,
-              "fpi_pub_issue": null,
-              "pullingdat": "1",
-              "active": true,
-              "author": "oitadmin",
-              "created": "1483170654"
-            }
-          },
-          {
-            "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 1.",
-            "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_1",
-            "type": "citation_reference",
-            "plant": {
-              "machine_name": "triplochiton_scleroxylon",
-              "type": "species",
-              "archival_data": [
-                "1433520"
-              ]
-            },
-            "volume": null,
-            "page": "p 148, Pl. 1.",
-            "year": "1989",
-            "notes": null,
-            "parts_shown": {
-              "Flower": false,
-              "Seed": false,
-              "Fruit": false,
-              "Bark": false,
-              "Root": false,
-              "Habit": true,
-              "Leaf": false,
-              "Twig": false,
-              "Unclear": false
-            },
-            "citation_type": {
-              "Art": false,
-              "Photo": false
-            },
-            "archival_data": {
-              "id": "1832033",
-              "legacy_id": "138893",
-              "AD": false,
-              "fpi_pub_issue": null,
-              "pullingdat": "1",
-              "active": true,
-              "author": "oitadmin",
-              "created": "1483170654"
-            }
-          },
-          {
-            "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 1.",
-            "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_1",
-            "type": "citation_reference",
-            "plant": {
-              "machine_name": "tieghemella_heckelei",
-              "type": "species",
-              "archival_data": [
-                "1431193"
-              ]
-            },
-            "volume": null,
-            "page": "p 148, Pl. 1.",
-            "year": "1989",
-            "notes": null,
-            "parts_shown": {
-              "Flower": false,
-              "Seed": false,
-              "Fruit": false,
-              "Bark": false,
-              "Root": false,
-              "Habit": true,
-              "Leaf": false,
-              "Twig": false,
-              "Unclear": true
-            },
-            "citation_type": {
-              "Art": false,
-              "Photo": false
-            },
-            "archival_data": {
-              "id": "1832215",
-              "legacy_id": "137588",
-              "AD": false,
-              "fpi_pub_issue": null,
-              "pullingdat": "1",
-              "active": true,
-              "author": "oitadmin",
-              "created": "1483170654"
-            }
-          },
-          {
-            "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 3.",
-            "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_3",
-            "type": "citation_reference",
-            "plant": {
-              "machine_name": "xanthosoma_mafaffa",
-              "type": "species",
-              "archival_data": [
-                "1438324"
-              ]
-            },
-            "volume": null,
-            "page": "p 148, Pl. 3.",
-            "year": "1989",
-            "notes": null,
-            "parts_shown": {
-              "Flower": false,
-              "Seed": false,
-              "Fruit": true,
-              "Bark": false,
-              "Root": true,
-              "Habit": false,
-              "Leaf": false,
-              "Twig": false,
-              "Unclear": false
-            },
-            "citation_type": {
-              "Art": false,
-              "Photo": false
-            },
-            "archival_data": {
-              "id": "1832839",
-              "legacy_id": "141929",
-              "AD": false,
-              "fpi_pub_issue": null,
-              "pullingdat": "1",
-              "active": true,
-              "author": "oitadmin",
-              "created": "1483170654"
-            }
-          },
-          {
-            "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 14.",
-            "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_14",
-            "type": "citation_reference",
-            "plant": {
-              "machine_name": "tetracera_alnifolia",
-              "type": "species",
-              "archival_data": [
-                "1429704"
-              ]
-            },
-            "volume": null,
-            "page": "p 148, Pl. 14.",
-            "year": "1989",
-            "notes": null,
-            "parts_shown": {
-              "Flower": true,
-              "Seed": false,
-              "Fruit": false,
-              "Bark": false,
-              "Root": false,
-              "Habit": false,
-              "Leaf": true,
-              "Twig": false,
-              "Unclear": false
-            },
-            "citation_type": {
-              "Art": false,
-              "Photo": false
-            },
-            "archival_data": {
-              "id": "1834419",
-              "legacy_id": "136846",
-              "AD": false,
-              "fpi_pub_issue": null,
-              "pullingdat": "1",
-              "active": true,
-              "author": "oitadmin",
-              "created": "1483170654"
-            }
-          },
-          {
-            "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 3.",
-            "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_3",
-            "type": "citation_reference",
-            "plant": {
-              "machine_name": "vigna_subterranea",
-              "type": "species",
-              "archival_data": [
-                "1436491"
-              ]
-            },
-            "volume": null,
-            "page": "p 148, Pl. 3.",
-            "year": "1989",
-            "notes": null,
-            "parts_shown": {
-              "Flower": false,
-              "Seed": true,
-              "Fruit": false,
-              "Bark": false,
-              "Root": false,
-              "Habit": false,
-              "Leaf": false,
-              "Twig": false,
-              "Unclear": true
-            },
-            "citation_type": {
-              "Art": false,
-              "Photo": false
-            },
-            "archival_data": {
-              "id": "1835010",
-              "legacy_id": "140967",
-              "AD": false,
-              "fpi_pub_issue": null,
-              "pullingdat": "1",
-              "active": true,
-              "author": "oitadmin",
-              "created": "1483170654"
-            }
-          },
-          {
-            "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 1.",
-            "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_1",
-            "type": "citation_reference",
-            "plant": {
-              "machine_name": "thaumatococcus_danielli",
-              "type": "species",
-              "archival_data": [
-                "1430108"
-              ]
-            },
-            "volume": null,
-            "page": "p 148, Pl. 1.",
-            "year": "1989",
-            "notes": null,
-            "parts_shown": {
-              "Flower": false,
-              "Seed": false,
-              "Fruit": true,
-              "Bark": false,
-              "Root": false,
-              "Habit": false,
-              "Leaf": false,
-              "Twig": false,
-              "Unclear": false
-            },
-            "citation_type": {
-              "Art": false,
-              "Photo": false
-            },
-            "archival_data": {
-              "id": "1835124",
-              "legacy_id": "137060",
-              "AD": false,
-              "fpi_pub_issue": null,
-              "pullingdat": "1",
-              "active": true,
-              "author": "oitadmin",
-              "created": "1483170654"
-            }
-          },
-          {
-            "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 5.",
-            "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_5",
-            "type": "citation_reference",
-            "plant": {
-              "machine_name": "theobroma_cacao",
-              "type": "species",
-              "archival_data": [
-                "1430447"
-              ]
-            },
-            "volume": null,
-            "page": "p 148, Pl. 5.",
-            "year": "1989",
-            "notes": null,
-            "parts_shown": {
-              "Flower": false,
-              "Seed": true,
-              "Fruit": true,
-              "Bark": false,
-              "Root": false,
-              "Habit": false,
-              "Leaf": false,
-              "Twig": false,
-              "Unclear": false
-            },
-            "citation_type": {
-              "Art": false,
-              "Photo": false
-            },
-            "archival_data": {
-              "id": "1835449",
-              "legacy_id": "137143",
-              "AD": false,
-              "fpi_pub_issue": null,
-              "pullingdat": "1",
-              "active": true,
-              "author": "oitadmin",
-              "created": "1483170654"
-            }
-          },
-          {
-            "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 12.",
-            "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_12",
-            "type": "citation_reference",
-            "plant": {
-              "machine_name": "zanthoxylum_zanthoxyloides",
-              "type": "species",
-              "archival_data": [
-                "1438731"
-              ]
-            },
-            "volume": null,
-            "page": "p 148, Pl. 12.",
-            "year": "1989",
-            "notes": null,
-            "parts_shown": {
-              "Flower": false,
-              "Seed": false,
-              "Fruit": true,
-              "Bark": false,
-              "Root": false,
-              "Habit": false,
-              "Leaf": true,
-              "Twig": false,
-              "Unclear": false
-            },
-            "citation_type": {
-              "Art": false,
-              "Photo": false
-            },
-            "archival_data": {
-              "id": "1839522",
-              "legacy_id": "142213",
-              "AD": false,
-              "fpi_pub_issue": null,
-              "pullingdat": "1",
-              "active": true,
-              "author": "oitadmin",
-              "created": "1483170654"
-            }
-          },
-          {
-            "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 10.",
-            "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_10",
-            "type": "citation_reference",
-            "plant": {
-              "machine_name": "acacia_pentagona",
-              "type": "species",
-              "archival_data": [
-                "1402014"
-              ]
-            },
-            "volume": null,
-            "page": "p 148, Pl. 10.",
-            "year": "1989",
-            "notes": null,
-            "parts_shown": {
-              "Flower": true,
-              "Seed": false,
-              "Fruit": false,
-              "Bark": false,
-              "Root": false,
-              "Habit": false,
-              "Leaf": false,
-              "Twig": false,
-              "Unclear": false
-            },
-            "citation_type": {
-              "Art": false,
-              "Photo": false
-            },
-            "archival_data": {
-              "id": "1892098",
-              "legacy_id": "237278",
-              "AD": false,
-              "fpi_pub_issue": null,
-              "pullingdat": "1",
-              "active": true,
-              "author": "oitadmin",
-              "created": "1483180383"
-            }
-          },
-          {
-            "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 7.",
-            "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_7",
-            "type": "citation_reference",
-            "plant": {
-              "machine_name": "blighia_welwitschii",
-              "type": "species",
-              "archival_data": [
-                "1401924"
-              ]
-            },
-            "volume": null,
-            "page": "p 148, Pl. 7.",
-            "year": "1989",
-            "notes": null,
-            "parts_shown": {
-              "Flower": true,
-              "Seed": false,
-              "Fruit": false,
-              "Bark": false,
-              "Root": false,
-              "Habit": false,
-              "Leaf": true,
-              "Twig": false,
-              "Unclear": false
-            },
-            "citation_type": {
-              "Art": false,
-              "Photo": false
-            },
-            "archival_data": {
-              "id": "1908377",
-              "legacy_id": "258182",
-              "AD": false,
-              "fpi_pub_issue": null,
-              "pullingdat": "1",
-              "active": true,
-              "author": "oitadmin",
-              "created": "1483183626"
-            }
-          }
-        ]
+        "volume": null,
+        "page": "p 148, Pl. 13.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1765290",
+          "legacy_id": "70485",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 8.",
+        "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_8",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "alstonia_boonei",
+          "type": "species",
+          "archival_data": [
+            "1397865"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 8.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1766301",
+          "legacy_id": "70752",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 8.",
+        "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_8",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "andropogon_gayanus",
+          "type": "species",
+          "archival_data": [
+            "1398719"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 8.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1768650",
+          "legacy_id": "71403",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 13.",
+        "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_13",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "adansonia_digitata",
+          "type": "species",
+          "archival_data": [
+            "1398931"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 13.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": true
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1768757",
+          "legacy_id": "68683",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 7.",
+        "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_7",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "azadirachta_indica",
+          "type": "species",
+          "archival_data": [
+            "1398821"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 7.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": true
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1771228",
+          "legacy_id": "74808",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 14.",
+        "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_14",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "bixa_orellana",
+          "type": "species",
+          "archival_data": [
+            "1401892"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 14.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1771894",
+          "legacy_id": "76258",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 2.",
+        "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_2",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cajanus_cajan",
+          "type": "species",
+          "archival_data": [
+            "1398899"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 2.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1771988",
+          "legacy_id": "77640",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 8.",
+        "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_8",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "borassus_aethiopum",
+          "type": "species",
+          "archival_data": [
+            "1402285"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 8.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": true
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1772584",
+          "legacy_id": "76463",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 2.",
+        "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_2",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "citrus_sinensis",
+          "type": "species",
+          "archival_data": [
+            "1407870"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 2.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": true
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1774990",
+          "legacy_id": "82519",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 10.",
+        "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_10",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "catharanthus_roseus",
+          "type": "species",
+          "archival_data": [
+            "1403626"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 10.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1776482",
+          "legacy_id": "80230",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 15.",
+        "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_15",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cnestis_ferruginea",
+          "type": "species",
+          "archival_data": [
+            "1409033"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 15.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1777673",
+          "legacy_id": "83228",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 2.",
+        "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_2",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "capsicum_h_cultivars",
+          "type": "species",
+          "archival_data": [
+            "1452823"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 2.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1777747",
+          "legacy_id": "79232",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 16.",
+        "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_16",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "chromolaena_odorata",
+          "type": "species",
+          "archival_data": [
+            "1406712"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 16.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1777919",
+          "legacy_id": "81952",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 8.",
+        "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_8",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cochlospermum_planchonii",
+          "type": "species",
+          "archival_data": [
+            "1409083"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 8.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1778003",
+          "legacy_id": "83313",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 5.",
+        "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_5",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cocos_nucifera",
+          "type": "species",
+          "archival_data": [
+            "1409377"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 5.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1778008",
+          "legacy_id": "83319",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 5.",
+        "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_5",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "coffea_canephora",
+          "type": "species",
+          "archival_data": [
+            "1453614"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 5.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1778668",
+          "legacy_id": "83487",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 5.",
+        "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_5",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cola_nitida",
+          "type": "species",
+          "archival_data": [
+            "1409456"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 5.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1778669",
+          "legacy_id": "83488",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 10.",
+        "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_10",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cardiospermum_halicacabum",
+          "type": "species",
+          "archival_data": [
+            "1407743"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 10.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1778671",
+          "legacy_id": "79415",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 2.",
+        "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_2",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "colocasia_esculenta",
+          "type": "species",
+          "archival_data": [
+            "1403754"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 2.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1779272",
+          "legacy_id": "83598",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 15.",
+        "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_15",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "combretum_racemosum",
+          "type": "species",
+          "archival_data": [
+            "1404106"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 15.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1779606",
+          "legacy_id": "83688",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 13.",
+        "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_13",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cyrtosperma_senegalense",
+          "type": "species",
+          "archival_data": [
+            "1404596"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 13.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1782803",
+          "legacy_id": "87252",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 13.",
+        "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_13",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "crossopteryx_febrifuga",
+          "type": "species",
+          "archival_data": [
+            "1408332"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 13.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1783007",
+          "legacy_id": "85955",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 10.",
+        "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_10",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "dialium_guineense",
+          "type": "species",
+          "archival_data": [
+            "1407717"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 10.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1783842",
+          "legacy_id": "88809",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 1.",
+        "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_1",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "entandrophragma_cylindricum",
+          "type": "species",
+          "archival_data": [
+            "1413973"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 1.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": true
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1785947",
+          "legacy_id": "91967",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 5.",
+        "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_5",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "elaeis_guineensis",
+          "type": "species",
+          "archival_data": [
+            "1413165"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 5.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1788990",
+          "legacy_id": "91526",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 10.",
+        "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_10",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "flacourtia_flavescens",
+          "type": "species",
+          "archival_data": [
+            "1413406"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 10.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1789349",
+          "legacy_id": "97104",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 14.",
+        "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_14",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "erythrophleum_suaveolens",
+          "type": "species",
+          "archival_data": [
+            "1412901"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 14.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": true
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1792059",
+          "legacy_id": "93980",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 13.",
+        "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_13",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "euphorbia_balsamifera",
+          "type": "species",
+          "archival_data": [
+            "1409927"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 13.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": true
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1792778",
+          "legacy_id": "95385",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 11.",
+        "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_11",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "khaya_senegalensis",
+          "type": "species",
+          "archival_data": [
+            "1419542"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 11.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1799677",
+          "legacy_id": "106516",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 8.",
+        "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_8",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "lagenaria_siceraria",
+          "type": "species",
+          "archival_data": [
+            "1420642"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 8.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1801906",
+          "legacy_id": "107048",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 11.",
+        "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_11",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "jatropha_curcas",
+          "type": "species",
+          "archival_data": [
+            "1418425"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 11.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": true
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1802191",
+          "legacy_id": "105851",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 2.",
+        "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_2",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "manihot_esculenta",
+          "type": "species",
+          "archival_data": [
+            "1417436"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 2.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": true,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1805575",
+          "legacy_id": "112062",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 16.",
+        "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_16",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "mikania_micrantha",
+          "type": "species",
+          "archival_data": [
+            "1420149"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 16.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": true
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1806235",
+          "legacy_id": "113479",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 1.",
+        "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_1",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "milicia_regia",
+          "type": "species",
+          "archival_data": [
+            "1420152"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 1.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": true
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1806240",
+          "legacy_id": "113484",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 14.",
+        "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_14",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "lonchocarpus_cyanescens",
+          "type": "species",
+          "archival_data": [
+            "1419300"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 14.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1807963",
+          "legacy_id": "109974",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 11.",
+        "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_11",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "lonchocarpus_sericeus",
+          "type": "species",
+          "archival_data": [
+            "1419301"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 11.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1807964",
+          "legacy_id": "109975",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 11.",
+        "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_11",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "mallotus_oppositifolius",
+          "type": "species",
+          "archival_data": [
+            "1415901"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 11.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1808073",
+          "legacy_id": "111349",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 11.",
+        "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_11",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "morinda_lucida",
+          "type": "species",
+          "archival_data": [
+            "1421651"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 11.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1808888",
+          "legacy_id": "114190",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 4.",
+        "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_4",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "musa_paradisiaca",
+          "type": "species",
+          "archival_data": [
+            "1415676"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 4.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1809526",
+          "legacy_id": "114339",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 15.",
+        "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_15",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "mussaenda_erythrophylla",
+          "type": "species",
+          "archival_data": [
+            "1415996"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 15.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1809866",
+          "legacy_id": "114450",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 14.",
+        "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_14",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "paullinia_pinnata",
+          "type": "species",
+          "archival_data": [
+            "1426258"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 14.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1812855",
+          "legacy_id": "119283",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 8.",
+        "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_8",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "pandanus_abbiwii",
+          "type": "species",
+          "archival_data": [
+            "1424088"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 8.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": true
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1813372",
+          "legacy_id": "118054",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 3.",
+        "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_3",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "pennisetum_americanum",
+          "type": "species",
+          "archival_data": [
+            "1427047"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 3.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1814784",
+          "legacy_id": "119757",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 12.",
+        "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_12",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "pycnocoma_macrophylla",
+          "type": "species",
+          "archival_data": [
+            "1427203"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 12.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1817494",
+          "legacy_id": "125695",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 12.",
+        "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_12",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "pterocarpus_erinaceus",
+          "type": "species",
+          "archival_data": [
+            "1426083"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 12.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1820303",
+          "legacy_id": "125145",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 13.",
+        "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_13",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "ricinus_communis",
+          "type": "species",
+          "archival_data": [
+            "1433174"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 13.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1824538",
+          "legacy_id": "128926",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 3.",
+        "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_3",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "sorghum_bicolor",
+          "type": "species",
+          "archival_data": [
+            "1431495"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 3.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1826192",
+          "legacy_id": "134651",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 1.",
+        "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_1",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "synsepalum_dulcificum",
+          "type": "species",
+          "archival_data": [
+            "1428547"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 1.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1826318",
+          "legacy_id": "136134",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 15.",
+        "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_15",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "scadoxus_multiflorus",
+          "type": "species",
+          "archival_data": [
+            "1432210"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 15.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1826377",
+          "legacy_id": "132087",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 3.",
+        "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_3",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "sechium_edule",
+          "type": "species",
+          "archival_data": [
+            "1427708"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 3.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1828691",
+          "legacy_id": "132699",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 3.",
+        "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_3",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "solanum_macrocarpon",
+          "type": "species",
+          "archival_data": [
+            "1430723"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 3.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1829352",
+          "legacy_id": "134123",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 14.",
+        "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_14",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "strophanthus_sarmentosus",
+          "type": "species",
+          "archival_data": [
+            "1427769"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 14.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1830454",
+          "legacy_id": "135777",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 12.",
+        "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_12",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "thonningia_sanguinea",
+          "type": "species",
+          "archival_data": [
+            "1430497"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 12.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": true
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1830908",
+          "legacy_id": "137245",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 12.",
+        "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_12",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "voacanga_africana",
+          "type": "species",
+          "archival_data": [
+            "1437225"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 12.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1831471",
+          "legacy_id": "141438",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 1.",
+        "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_1",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "triplochiton_scleroxylon",
+          "type": "species",
+          "archival_data": [
+            "1433520"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 1.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1832033",
+          "legacy_id": "138893",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 1.",
+        "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_1",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "tieghemella_heckelei",
+          "type": "species",
+          "archival_data": [
+            "1431193"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 1.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": true
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1832215",
+          "legacy_id": "137588",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 3.",
+        "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_3",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "xanthosoma_mafaffa",
+          "type": "species",
+          "archival_data": [
+            "1438324"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 3.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": true,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1832839",
+          "legacy_id": "141929",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 14.",
+        "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_14",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "tetracera_alnifolia",
+          "type": "species",
+          "archival_data": [
+            "1429704"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 14.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1834419",
+          "legacy_id": "136846",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 3.",
+        "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_3",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "vigna_subterranea",
+          "type": "species",
+          "archival_data": [
+            "1436491"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 3.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": true,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": true
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1835010",
+          "legacy_id": "140967",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 1.",
+        "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_1",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "thaumatococcus_danielli",
+          "type": "species",
+          "archival_data": [
+            "1430108"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 1.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1835124",
+          "legacy_id": "137060",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 5.",
+        "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_5",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "theobroma_cacao",
+          "type": "species",
+          "archival_data": [
+            "1430447"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 5.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": true,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1835449",
+          "legacy_id": "137143",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 12.",
+        "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_12",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "zanthoxylum_zanthoxyloides",
+          "type": "species",
+          "archival_data": [
+            "1438731"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 12.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1839522",
+          "legacy_id": "142213",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 10.",
+        "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_10",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "acacia_pentagona",
+          "type": "species",
+          "archival_data": [
+            "1402014"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 10.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1892098",
+          "legacy_id": "237278",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483180383"
+        }
+      },
+      {
+        "name": "Abbiw, Daniel K. Useful Plants of Ghana. (1989) p 148, Pl. 7.",
+        "machine_name": "abbiw_daniel_k_useful_plants_of_ghana_1989_p_148_pl_7",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "blighia_welwitschii",
+          "type": "species",
+          "archival_data": [
+            "1401924"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 7.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1908377",
+          "legacy_id": "258182",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483183626"
+        }
       }
     ]
+  }
 }

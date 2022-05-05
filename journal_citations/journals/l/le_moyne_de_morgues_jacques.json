@@ -1,0 +1,656 @@
+{
+  "le_moyne_de_morgues_jacques_portraits_of_plants": {
+    "name": "Le Moyne de Morgues, Jacques. Portraits of Plants.",
+    "machine_name": "le_moyne_de_morgues_jacques_portraits_of_plants",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "1681354",
+      "legacy_id": "4300",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": []
+  },
+  "le_moyne_de_morgues_jacques_portraits_of_plants_1984": {
+    "name": "Le Moyne de Morgues, Jacques. Portraits of Plants. (1984?)",
+    "machine_name": "le_moyne_de_morgues_jacques_portraits_of_plants_1984",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1984?",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "2113587",
+      "legacy_id": "4300",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": [
+      {
+        "name": "Le Moyne de Morgues, Jacques. Portraits of Plants. (1984?) p Pl. 12?.",
+        "machine_name": "le_moyne_de_morgues_jacques_portraits_of_plants_1984_p_pl_12",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "anchusa_officinalis",
+          "type": "species",
+          "archival_data": [
+            "1398701"
+          ]
+        },
+        "volume": null,
+        "page": "p Pl. 12?.",
+        "year": "1984?",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1768615",
+          "legacy_id": "71364",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Le Moyne de Morgues, Jacques. Portraits of Plants. (1984?) p Pl. 3?.",
+        "machine_name": "le_moyne_de_morgues_jacques_portraits_of_plants_1984_p_pl_3",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "bellis_perennis",
+          "type": "species",
+          "archival_data": [
+            "1400780"
+          ]
+        },
+        "volume": null,
+        "page": "p Pl. 3?.",
+        "year": "1984?",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": true,
+          "Habit": true,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1769958",
+          "legacy_id": "75794",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Le Moyne de Morgues, Jacques. Portraits of Plants. (1984?) p Pl. 9(c)?.",
+        "machine_name": "le_moyne_de_morgues_jacques_portraits_of_plants_1984_p_pl_9_c",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "calendula_officinalis",
+          "type": "species",
+          "archival_data": [
+            "1399265"
+          ]
+        },
+        "volume": null,
+        "page": "p Pl. 9(c)?.",
+        "year": "1984?",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1773311",
+          "legacy_id": "77999",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Le Moyne de Morgues, Jacques. Portraits of Plants. (1984?) p Pl. 8?.",
+        "machine_name": "le_moyne_de_morgues_jacques_portraits_of_plants_1984_p_pl_8",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "convallaria_majalis",
+          "type": "species",
+          "archival_data": [
+            "1404544"
+          ]
+        },
+        "volume": null,
+        "page": "p Pl. 8?.",
+        "year": "1984?",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": true,
+          "Habit": true,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1775054",
+          "legacy_id": "83952",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Le Moyne de Morgues, Jacques. Portraits of Plants. (1984?) p Pl. 9(b)?.",
+        "machine_name": "le_moyne_de_morgues_jacques_portraits_of_plants_1984_p_pl_9_b",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "dianthus_caryophyllus",
+          "type": "species",
+          "archival_data": [
+            "1408036"
+          ]
+        },
+        "volume": null,
+        "page": "p Pl. 9(b)?.",
+        "year": "1984?",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1784172",
+          "legacy_id": "88891",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Le Moyne de Morgues, Jacques. Portraits of Plants. (1984?) p Pl. 9(a)?.",
+        "machine_name": "le_moyne_de_morgues_jacques_portraits_of_plants_1984_p_pl_9_a",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "dianthus_plumarius",
+          "type": "species",
+          "archival_data": [
+            "1408058"
+          ]
+        },
+        "volume": null,
+        "page": "p Pl. 9(a)?.",
+        "year": "1984?",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1784486",
+          "legacy_id": "88961",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Le Moyne de Morgues, Jacques. Portraits of Plants. (1984?) p Pl. 11?.",
+        "machine_name": "le_moyne_de_morgues_jacques_portraits_of_plants_1984_p_pl_11",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "galanthus_nivalis",
+          "type": "species",
+          "archival_data": [
+            "1414925"
+          ]
+        },
+        "volume": null,
+        "page": "p Pl. 11?.",
+        "year": "1984?",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1792642",
+          "legacy_id": "98002",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Le Moyne de Morgues, Jacques. Portraits of Plants. (1984?) p Pl. 7?.",
+        "machine_name": "le_moyne_de_morgues_jacques_portraits_of_plants_1984_p_pl_7",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "iris_germanica",
+          "type": "species",
+          "archival_data": [
+            "1417269"
+          ]
+        },
+        "volume": null,
+        "page": "p Pl. 7?.",
+        "year": "1984?",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1804084",
+          "legacy_id": "105020",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Le Moyne de Morgues, Jacques. Portraits of Plants. (1984?) p frontispiece",
+        "machine_name": "le_moyne_de_morgues_jacques_portraits_of_plants_1984_p_frontispiece",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "narcissus_pseudonarcissus",
+          "type": "species",
+          "archival_data": [
+            "1416775"
+          ]
+        },
+        "volume": null,
+        "page": "p frontispiece",
+        "year": "1984?",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1806038",
+          "legacy_id": "114881",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Le Moyne de Morgues, Jacques. Portraits of Plants. (1984?) p Pl. 10?.",
+        "machine_name": "le_moyne_de_morgues_jacques_portraits_of_plants_1984_p_pl_10",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "malva_sylvestris",
+          "type": "species",
+          "archival_data": [
+            "1415948"
+          ]
+        },
+        "volume": null,
+        "page": "p Pl. 10?.",
+        "year": "1984?",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1808707",
+          "legacy_id": "111507",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Le Moyne de Morgues, Jacques. Portraits of Plants. (1984?) p Pl. 6?.",
+        "machine_name": "le_moyne_de_morgues_jacques_portraits_of_plants_1984_p_pl_6",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "paeonia_officinalis",
+          "type": "species",
+          "archival_data": [
+            "1424054"
+          ]
+        },
+        "volume": null,
+        "page": "p Pl. 6?.",
+        "year": "1984?",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1813034",
+          "legacy_id": "117954",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Le Moyne de Morgues, Jacques. Portraits of Plants. (1984?) p Pl. 9(d)?.",
+        "machine_name": "le_moyne_de_morgues_jacques_portraits_of_plants_1984_p_pl_9_d",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rosa_canina",
+          "type": "species",
+          "archival_data": [
+            "1427584"
+          ]
+        },
+        "volume": null,
+        "page": "p Pl. 9(d)?.",
+        "year": "1984?",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1820661",
+          "legacy_id": "129231",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Le Moyne de Morgues, Jacques. Portraits of Plants. (1984?) p Pl. 9(b)?.",
+        "machine_name": "le_moyne_de_morgues_jacques_portraits_of_plants_1984_p_pl_9_b",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "tagetes_patula",
+          "type": "species",
+          "archival_data": [
+            "1428939"
+          ]
+        },
+        "volume": null,
+        "page": "p Pl. 9(b)?.",
+        "year": "1984?",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1827914",
+          "legacy_id": "136348",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Le Moyne de Morgues, Jacques. Portraits of Plants. (1984?) p Pl. 5?.",
+        "machine_name": "le_moyne_de_morgues_jacques_portraits_of_plants_1984_p_pl_5",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "vinca_minor",
+          "type": "species",
+          "archival_data": [
+            "1436510"
+          ]
+        },
+        "volume": null,
+        "page": "p Pl. 5?.",
+        "year": "1984?",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1835313",
+          "legacy_id": "141027",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Le Moyne de Morgues, Jacques. Portraits of Plants. (1984?) p Pl. 2?.",
+        "machine_name": "le_moyne_de_morgues_jacques_portraits_of_plants_1984_p_pl_2",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "viola_odorata",
+          "type": "species",
+          "archival_data": [
+            "1436873"
+          ]
+        },
+        "volume": null,
+        "page": "p Pl. 2?.",
+        "year": "1984?",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1836009",
+          "legacy_id": "141237",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      }
+    ]
+  }
+}

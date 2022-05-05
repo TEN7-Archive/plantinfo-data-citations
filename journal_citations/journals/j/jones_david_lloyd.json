@@ -1,0 +1,6970 @@
+{
+  "jones_david_lloyd_native_orchids_of_australia": {
+    "name": "Jones, David Lloyd. Native Orchids of Australia.",
+    "machine_name": "jones_david_lloyd_native_orchids_of_australia",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "1680820",
+      "legacy_id": "4172",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": []
+  },
+  "jones_david_lloyd_native_orchids_of_australia_1988": {
+    "name": "Jones, David Lloyd. Native Orchids of Australia. (1988)",
+    "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1988",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "2111112",
+      "legacy_id": "4172",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": [
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 233",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_233",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "diuris_emarginata_pauciflora",
+          "type": "variety",
+          "archival_data": [
+            "1468475"
+          ]
+        },
+        "volume": null,
+        "page": "p 233",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1714413",
+          "legacy_id": "13347",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 197",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_197",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "pterostylis_acuminata_ingens",
+          "type": "variety",
+          "archival_data": [
+            "1490196"
+          ]
+        },
+        "volume": null,
+        "page": "p 197",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1746053",
+          "legacy_id": "41057",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483154438"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 345",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_345",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "anoectochilus_yatesiae",
+          "type": "species",
+          "archival_data": [
+            "1399885"
+          ]
+        },
+        "volume": null,
+        "page": "p 345",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1766085",
+          "legacy_id": "72076",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 386",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_386",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "acianthus_amplexicaulis",
+          "type": "species",
+          "archival_data": [
+            "1398145"
+          ]
+        },
+        "volume": null,
+        "page": "p 386",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1767760",
+          "legacy_id": "68418",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 23| 387",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_23_387",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "acianthus_exsertus",
+          "type": "species",
+          "archival_data": [
+            "1398147"
+          ]
+        },
+        "volume": null,
+        "page": "p 23| 387",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": true,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1767768",
+          "legacy_id": "68426",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 388",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_388",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "acianthus_fornicatus",
+          "type": "species",
+          "archival_data": [
+            "1398148"
+          ]
+        },
+        "volume": null,
+        "page": "p 388",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1767773",
+          "legacy_id": "68431",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 388",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_388",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "acianthus_viridis",
+          "type": "species",
+          "archival_data": [
+            "1398150"
+          ]
+        },
+        "volume": null,
+        "page": "p 388",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1767774",
+          "legacy_id": "68432",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 137",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_137",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "adenochilus_nortonii",
+          "type": "species",
+          "archival_data": [
+            "1398986"
+          ]
+        },
+        "volume": null,
+        "page": "p 137",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1769107",
+          "legacy_id": "68793",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 141",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_141",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "burnettia_cuneata",
+          "type": "species",
+          "archival_data": [
+            "1398525"
+          ]
+        },
+        "volume": null,
+        "page": "p 141",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1771381",
+          "legacy_id": "77525",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 93",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_93",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "caladenia_aphylla",
+          "type": "species",
+          "archival_data": [
+            "1398906"
+          ]
+        },
+        "volume": null,
+        "page": "p 93",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1772006",
+          "legacy_id": "77658",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 108",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_108",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "caladenia_barbarossa",
+          "type": "species",
+          "archival_data": [
+            "1398907"
+          ]
+        },
+        "volume": null,
+        "page": "p 108",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1772007",
+          "legacy_id": "77659",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 109",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_109",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "caladenia_bryceana",
+          "type": "species",
+          "archival_data": [
+            "1398908"
+          ]
+        },
+        "volume": null,
+        "page": "p 109",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1772008",
+          "legacy_id": "77660",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 94",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_94",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "caladenia_caerulea",
+          "type": "species",
+          "archival_data": [
+            "1398909"
+          ]
+        },
+        "volume": null,
+        "page": "p 94",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1772011",
+          "legacy_id": "77663",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 110",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_110",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "caladenia_cardiochila",
+          "type": "species",
+          "archival_data": [
+            "1398910"
+          ]
+        },
+        "volume": null,
+        "page": "p 110",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1772013",
+          "legacy_id": "77665",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 139",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_139",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "arthrochilus_huntianus",
+          "type": "species",
+          "archival_data": [
+            "1402601"
+          ]
+        },
+        "volume": null,
+        "page": "p 139",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1772106",
+          "legacy_id": "73685",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 95",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_95",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "caladenia_carnea",
+          "type": "species",
+          "archival_data": [
+            "1398911"
+          ]
+        },
+        "volume": null,
+        "page": "p 95",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1772316",
+          "legacy_id": "77724",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 112",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_112",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "caladenia_corynephora",
+          "type": "species",
+          "archival_data": [
+            "1398914"
+          ]
+        },
+        "volume": null,
+        "page": "p 112",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1772319",
+          "legacy_id": "77727",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 97",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_97",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "caladenia_cucullata",
+          "type": "species",
+          "archival_data": [
+            "1398915"
+          ]
+        },
+        "volume": null,
+        "page": "p 97",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1772320",
+          "legacy_id": "77728",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 98",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_98",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "caladenia_deformis",
+          "type": "species",
+          "archival_data": [
+            "1398916"
+          ]
+        },
+        "volume": null,
+        "page": "p 98",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1772324",
+          "legacy_id": "77732",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 113",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_113",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "caladenia_denticulata",
+          "type": "species",
+          "archival_data": [
+            "1398917"
+          ]
+        },
+        "volume": null,
+        "page": "p 113",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1772326",
+          "legacy_id": "77734",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 99",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_99",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "caladenia_flava",
+          "type": "species",
+          "archival_data": [
+            "1400006"
+          ]
+        },
+        "volume": null,
+        "page": "p 99",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1772335",
+          "legacy_id": "77743",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 48",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_48",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "caladenia_flava",
+          "type": "species",
+          "archival_data": [
+            "1400006"
+          ]
+        },
+        "volume": null,
+        "page": "p 48",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1772336",
+          "legacy_id": "77744",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 99",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_99",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "caladenia_gemmata",
+          "type": "species",
+          "archival_data": [
+            "1400007"
+          ]
+        },
+        "volume": null,
+        "page": "p 99",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1772340",
+          "legacy_id": "77748",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 120",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_120",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "caladenia_graminifolia",
+          "type": "species",
+          "archival_data": [
+            "1400008"
+          ]
+        },
+        "volume": null,
+        "page": "p 120",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1772341",
+          "legacy_id": "77749",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 48",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_48",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "caladenia_latifolia",
+          "type": "species",
+          "archival_data": [
+            "1400012"
+          ]
+        },
+        "volume": null,
+        "page": "p 48",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1772347",
+          "legacy_id": "77757",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 123",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_123",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "caladenia_lobata",
+          "type": "species",
+          "archival_data": [
+            "1400014"
+          ]
+        },
+        "volume": null,
+        "page": "p 123",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1772352",
+          "legacy_id": "77762",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 125",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_125",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "caladenia_longiclavata",
+          "type": "species",
+          "archival_data": [
+            "1400016"
+          ]
+        },
+        "volume": null,
+        "page": "p 125",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1772353",
+          "legacy_id": "77763",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 126",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_126",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "caladenia_macrostylis",
+          "type": "species",
+          "archival_data": [
+            "1400017"
+          ]
+        },
+        "volume": null,
+        "page": "p 126",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1772356",
+          "legacy_id": "77766",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 126",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_126",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "caladenia_magniclavata",
+          "type": "species",
+          "archival_data": [
+            "1400018"
+          ]
+        },
+        "volume": null,
+        "page": "p 126",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1772357",
+          "legacy_id": "77767",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 12",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_12",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "caladenia_magniclavata",
+          "type": "species",
+          "archival_data": [
+            "1400018"
+          ]
+        },
+        "volume": null,
+        "page": "p 12",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1772358",
+          "legacy_id": "77768",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 102",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_102",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "caladenia_menziesii",
+          "type": "species",
+          "archival_data": [
+            "1400019"
+          ]
+        },
+        "volume": null,
+        "page": "p 102",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1772361",
+          "legacy_id": "77771",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 127",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_127",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "caladenia_multiclavia",
+          "type": "species",
+          "archival_data": [
+            "1400020"
+          ]
+        },
+        "volume": null,
+        "page": "p 127",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1772363",
+          "legacy_id": "77773",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 104",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_104",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "caladenia_reptans",
+          "type": "species",
+          "archival_data": [
+            "1400023"
+          ]
+        },
+        "volume": null,
+        "page": "p 104",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1772367",
+          "legacy_id": "77777",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 135",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_135",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "caladenia_toxochila",
+          "type": "species",
+          "archival_data": [
+            "1400026"
+          ]
+        },
+        "volume": null,
+        "page": "p 135",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1772370",
+          "legacy_id": "77782",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 135",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_135",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "caladenia_uliginosa",
+          "type": "species",
+          "archival_data": [
+            "1400027"
+          ]
+        },
+        "volume": null,
+        "page": "p 135",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1772371",
+          "legacy_id": "77783",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 143",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_143",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "caleana_major",
+          "type": "species",
+          "archival_data": [
+            "1399256"
+          ]
+        },
+        "volume": null,
+        "page": "p 143",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1773027",
+          "legacy_id": "77962",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 310",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_310",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "calochilus_campestris",
+          "type": "species",
+          "archival_data": [
+            "1400430"
+          ]
+        },
+        "volume": null,
+        "page": "p 310",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1774321",
+          "legacy_id": "78274",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 45",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_45",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "calochilus_campestris",
+          "type": "species",
+          "archival_data": [
+            "1400430"
+          ]
+        },
+        "volume": null,
+        "page": "p 45",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": true
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1774322",
+          "legacy_id": "78275",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 312",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_312",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "calochilus_imberbis",
+          "type": "species",
+          "archival_data": [
+            "1400432"
+          ]
+        },
+        "volume": null,
+        "page": "p 312",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1774324",
+          "legacy_id": "78277",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 313",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_313",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "calochilus_richae",
+          "type": "species",
+          "archival_data": [
+            "1400434"
+          ]
+        },
+        "volume": null,
+        "page": "p 313",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1774328",
+          "legacy_id": "78281",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 356",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_356",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "bromheadia_pulchra",
+          "type": "species",
+          "archival_data": [
+            "1403500"
+          ]
+        },
+        "volume": null,
+        "page": "p 356",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1774592",
+          "legacy_id": "77022",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 346",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_346",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cheirostylis_ovata",
+          "type": "species",
+          "archival_data": [
+            "1405966"
+          ]
+        },
+        "volume": null,
+        "page": "p 346",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1776571",
+          "legacy_id": "81592",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 145",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_145",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "chiloglottis_cornuta",
+          "type": "species",
+          "archival_data": [
+            "1406298"
+          ]
+        },
+        "volume": null,
+        "page": "p 145",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1777184",
+          "legacy_id": "81706",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 147",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_147",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "chiloglottis_formicifera",
+          "type": "species",
+          "archival_data": [
+            "1406299"
+          ]
+        },
+        "volume": null,
+        "page": "p 147",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": true
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1777188",
+          "legacy_id": "81710",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 147",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_147",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "chiloglottis_gunnii",
+          "type": "species",
+          "archival_data": [
+            "1406300"
+          ]
+        },
+        "volume": null,
+        "page": "p 147",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1777191",
+          "legacy_id": "81713",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 149",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_149",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "chiloglottis_reflexa",
+          "type": "species",
+          "archival_data": [
+            "1406301"
+          ]
+        },
+        "volume": null,
+        "page": "p 149",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": true
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1777195",
+          "legacy_id": "81717",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 1",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_1",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "dendrobium_calamiforme",
+          "type": "species",
+          "archival_data": [
+            "1406164"
+          ]
+        },
+        "volume": null,
+        "page": "p 1",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1780932",
+          "legacy_id": "88093",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 226",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_226",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "diuris_alba",
+          "type": "species",
+          "archival_data": [
+            "1409655"
+          ]
+        },
+        "volume": null,
+        "page": "p 226",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1782015",
+          "legacy_id": "89859",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 227",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_227",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "diuris_aurea",
+          "type": "species",
+          "archival_data": [
+            "1409656"
+          ]
+        },
+        "volume": null,
+        "page": "p 227",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1782017",
+          "legacy_id": "89861",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 403",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_403",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "dipodium_hamiltonianum",
+          "type": "species",
+          "archival_data": [
+            "1409246"
+          ]
+        },
+        "volume": null,
+        "page": "p 403",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1782314",
+          "legacy_id": "89672",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 404",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_404",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "dipodium_pandanum",
+          "type": "species",
+          "archival_data": [
+            "1409247"
+          ]
+        },
+        "volume": null,
+        "page": "p 404",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1782315",
+          "legacy_id": "89673",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 405",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_405",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "dipodium_punctatum",
+          "type": "species",
+          "archival_data": [
+            "1409249"
+          ]
+        },
+        "volume": null,
+        "page": "p 405",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1782320",
+          "legacy_id": "89678",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 316",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_316",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "corybas_despectans",
+          "type": "species",
+          "archival_data": [
+            "1405691"
+          ]
+        },
+        "volume": null,
+        "page": "p 316",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1783280",
+          "legacy_id": "84715",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 317",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_317",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "corybas_diemenicus",
+          "type": "species",
+          "archival_data": [
+            "1405692"
+          ]
+        },
+        "volume": null,
+        "page": "p 317",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1783282",
+          "legacy_id": "84717",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 318",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_318",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "corybas_fimbriatus",
+          "type": "species",
+          "archival_data": [
+            "1405694"
+          ]
+        },
+        "volume": null,
+        "page": "p 318",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1783286",
+          "legacy_id": "84721",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 319",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_319",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "corybas_hispidus",
+          "type": "species",
+          "archival_data": [
+            "1405699"
+          ]
+        },
+        "volume": null,
+        "page": "p 319",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1783288",
+          "legacy_id": "84723",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 84",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_84",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "corybas_hispidus",
+          "type": "species",
+          "archival_data": [
+            "1405699"
+          ]
+        },
+        "volume": null,
+        "page": "p 84",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1783289",
+          "legacy_id": "84724",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 320",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_320",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "corybas_pruinosus",
+          "type": "species",
+          "archival_data": [
+            "1405711"
+          ]
+        },
+        "volume": null,
+        "page": "p 320",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1783301",
+          "legacy_id": "84736",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 321",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_321",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "corybas_undulatus",
+          "type": "species",
+          "archival_data": [
+            "1405716"
+          ]
+        },
+        "volume": null,
+        "page": "p 321",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1783306",
+          "legacy_id": "84742",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 322",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_322",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "corybas_unguiculatus",
+          "type": "species",
+          "archival_data": [
+            "1405717"
+          ]
+        },
+        "volume": null,
+        "page": "p 322",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1783307",
+          "legacy_id": "84743",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 392",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_392",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cryptostylis_erecta",
+          "type": "species",
+          "archival_data": [
+            "1408722"
+          ]
+        },
+        "volume": null,
+        "page": "p 392",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1783390",
+          "legacy_id": "86095",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 394",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_394",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cryptostylis_hunteriana",
+          "type": "species",
+          "archival_data": [
+            "1408723"
+          ]
+        },
+        "volume": null,
+        "page": "p 394",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1783391",
+          "legacy_id": "86096",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 395",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_395",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cryptostylis_leptochila",
+          "type": "species",
+          "archival_data": [
+            "1408724"
+          ]
+        },
+        "volume": null,
+        "page": "p 395",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1783393",
+          "legacy_id": "86098",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 153",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_153",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "drakaea_elastica",
+          "type": "species",
+          "archival_data": [
+            "1404691"
+          ]
+        },
+        "volume": null,
+        "page": "p 153",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1785215",
+          "legacy_id": "90367",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 153",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_153",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "drakaea_fitzgeraldii",
+          "type": "species",
+          "archival_data": [
+            "1404692"
+          ]
+        },
+        "volume": null,
+        "page": "p 153",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1785216",
+          "legacy_id": "90368",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 153",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_153",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "drakaea_glyptodon",
+          "type": "species",
+          "archival_data": [
+            "1404693"
+          ]
+        },
+        "volume": null,
+        "page": "p 153",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1785218",
+          "legacy_id": "90370",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 153",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_153",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "drakaea_thynniphila",
+          "type": "species",
+          "archival_data": [
+            "1404695"
+          ]
+        },
+        "volume": null,
+        "page": "p 153",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1785219",
+          "legacy_id": "90371",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 154",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_154",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "elythranthera_brunonis",
+          "type": "species",
+          "archival_data": [
+            "1413543"
+          ]
+        },
+        "volume": null,
+        "page": "p 154",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1785660",
+          "legacy_id": "91675",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 156",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_156",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "elythranthera_emarginata",
+          "type": "species",
+          "archival_data": [
+            "1413544"
+          ]
+        },
+        "volume": null,
+        "page": "p 156",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1785663",
+          "legacy_id": "91678",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 407-08",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_407_08",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "epiblema_grandiflorum",
+          "type": "species",
+          "archival_data": [
+            "1414299"
+          ]
+        },
+        "volume": null,
+        "page": "p 407-08",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1786016",
+          "legacy_id": "92040",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 410",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_410",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "epipogium_roseum",
+          "type": "species",
+          "archival_data": [
+            "1415082"
+          ]
+        },
+        "volume": null,
+        "page": "p 410",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1786406",
+          "legacy_id": "92441",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 158",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_158",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "eriochilus_cucullatus",
+          "type": "species",
+          "archival_data": [
+            "1411772"
+          ]
+        },
+        "volume": null,
+        "page": "p 158",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1786911",
+          "legacy_id": "93332",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 158",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_158",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "eriochilus_scaber",
+          "type": "species",
+          "archival_data": [
+            "1411774"
+          ]
+        },
+        "volume": null,
+        "page": "p 158",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1786914",
+          "legacy_id": "93335",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 229",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_229",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "diuris_chrysantha",
+          "type": "species",
+          "archival_data": [
+            "1409658"
+          ]
+        },
+        "volume": null,
+        "page": "p 229",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1787781",
+          "legacy_id": "89864",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 231",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_231",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "diuris_corymbosa",
+          "type": "species",
+          "archival_data": [
+            "1409659"
+          ]
+        },
+        "volume": null,
+        "page": "p 231",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1787783",
+          "legacy_id": "89866",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 232",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_232",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "diuris_cuneata",
+          "type": "species",
+          "archival_data": [
+            "1409660"
+          ]
+        },
+        "volume": null,
+        "page": "p 232",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1787784",
+          "legacy_id": "89867",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 235",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_235",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "diuris_lanceolata",
+          "type": "species",
+          "archival_data": [
+            "1409662"
+          ]
+        },
+        "volume": null,
+        "page": "p 235",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1787787",
+          "legacy_id": "89871",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 237",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_237",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "diuris_maculata",
+          "type": "species",
+          "archival_data": [
+            "1403510"
+          ]
+        },
+        "volume": null,
+        "page": "p 237",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1787796",
+          "legacy_id": "89880",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 238",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_238",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "diuris_palustris",
+          "type": "species",
+          "archival_data": [
+            "1403511"
+          ]
+        },
+        "volume": null,
+        "page": "p 238",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1787798",
+          "legacy_id": "89882",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 223",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_223",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "diuris_punctata",
+          "type": "species",
+          "archival_data": [
+            "1403513"
+          ]
+        },
+        "volume": null,
+        "page": "p 223",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1787803",
+          "legacy_id": "89887",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 240",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_240",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "diuris_striata",
+          "type": "species",
+          "archival_data": [
+            "1403516"
+          ]
+        },
+        "volume": null,
+        "page": "p 240",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1787806",
+          "legacy_id": "89890",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 45",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_45",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "diuris_sulphurea",
+          "type": "species",
+          "archival_data": [
+            "1403517"
+          ]
+        },
+        "volume": null,
+        "page": "p 45",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": true
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1787809",
+          "legacy_id": "89893",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 365",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_365",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "geodorum_neocaledonicum",
+          "type": "species",
+          "archival_data": [
+            "1411180"
+          ]
+        },
+        "volume": null,
+        "page": "p 365",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1791412",
+          "legacy_id": "98918",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 40",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_40",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "geodorum_neocaledonicum",
+          "type": "species",
+          "archival_data": [
+            "1411180"
+          ]
+        },
+        "volume": null,
+        "page": "p 40",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1791413",
+          "legacy_id": "98919",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 412",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_412",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "erythrorchis_cassythoides",
+          "type": "species",
+          "archival_data": [
+            "1412903"
+          ]
+        },
+        "volume": null,
+        "page": "p 412",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1792061",
+          "legacy_id": "93982",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 414",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_414",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "gastrodia_queenslandica",
+          "type": "species",
+          "archival_data": [
+            "1410017"
+          ]
+        },
+        "volume": null,
+        "page": "p 414",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1793899",
+          "legacy_id": "98311",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 414",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_414",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "gastrodia_sesamoides",
+          "type": "species",
+          "archival_data": [
+            "1410018"
+          ]
+        },
+        "volume": null,
+        "page": "p 414",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1793901",
+          "legacy_id": "98313",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 350",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_350",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "hetaeria_oblongifolia",
+          "type": "species",
+          "archival_data": [
+            "1418671"
+          ]
+        },
+        "volume": null,
+        "page": "p 350",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1794576",
+          "legacy_id": "102509",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 348",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_348",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "goodyera_grandis",
+          "type": "species",
+          "archival_data": [
+            "1413100"
+          ]
+        },
+        "volume": null,
+        "page": "p 348",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1795015",
+          "legacy_id": "99954",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 336",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_336",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "habenaria_elongata",
+          "type": "species",
+          "archival_data": [
+            "1415326"
+          ]
+        },
+        "volume": null,
+        "page": "p 336",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1798570",
+          "legacy_id": "100852",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 339",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_339",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "habenaria_macraithii",
+          "type": "species",
+          "archival_data": [
+            "1415337"
+          ]
+        },
+        "volume": null,
+        "page": "p 339",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1798585",
+          "legacy_id": "100867",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 339",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_339",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "habenaria_ochroleuca",
+          "type": "species",
+          "archival_data": [
+            "1415343"
+          ]
+        },
+        "volume": null,
+        "page": "p 339",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1798593",
+          "legacy_id": "100875",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 161",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_161",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "glossodia_major",
+          "type": "species",
+          "archival_data": [
+            "1412348"
+          ]
+        },
+        "volume": null,
+        "page": "p 161",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1799177",
+          "legacy_id": "99719",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 163",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_163",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "leporella_fimbriata",
+          "type": "species",
+          "archival_data": [
+            "1416224"
+          ]
+        },
+        "volume": null,
+        "page": "p 163",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1800728",
+          "legacy_id": "108087",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 166",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_166",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "lyperanthus_forrestii",
+          "type": "species",
+          "archival_data": [
+            "1420765"
+          ]
+        },
+        "volume": null,
+        "page": "p 166",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1805450",
+          "legacy_id": "110675",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 166",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_166",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "lyperanthus_nigricans",
+          "type": "species",
+          "archival_data": [
+            "1420766"
+          ]
+        },
+        "volume": null,
+        "page": "p 166",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1805453",
+          "legacy_id": "110678",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 167",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_167",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "lyperanthus_serratus",
+          "type": "species",
+          "archival_data": [
+            "1420767"
+          ]
+        },
+        "volume": null,
+        "page": "p 167",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1805456",
+          "legacy_id": "110681",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 168",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_168",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "lyperanthus_suaveolens",
+          "type": "species",
+          "archival_data": [
+            "1420768"
+          ]
+        },
+        "volume": null,
+        "page": "p 168",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1805460",
+          "legacy_id": "110685",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 326",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_326",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "microtis_alba",
+          "type": "species",
+          "archival_data": [
+            "1420141"
+          ]
+        },
+        "volume": null,
+        "page": "p 326",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1805976",
+          "legacy_id": "113466",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 327",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_327",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "microtis_parviflora",
+          "type": "species",
+          "archival_data": [
+            "1420142"
+          ]
+        },
+        "volume": null,
+        "page": "p 327",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1805978",
+          "legacy_id": "113468",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 328",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_328",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "microtis_pulchella",
+          "type": "species",
+          "archival_data": [
+            "1420144"
+          ]
+        },
+        "volume": null,
+        "page": "p 328",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1805979",
+          "legacy_id": "113469",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 329",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_329",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "microtis_unifolia",
+          "type": "species",
+          "archival_data": [
+            "1420145"
+          ]
+        },
+        "volume": null,
+        "page": "p 329",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1805983",
+          "legacy_id": "113473",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 416",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_416",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "monadenia_bracteata",
+          "type": "species",
+          "archival_data": [
+            "1420908"
+          ]
+        },
+        "volume": null,
+        "page": "p 416",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1807562",
+          "legacy_id": "113831",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 367",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_367",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "malaxis_fimbriata",
+          "type": "species",
+          "archival_data": [
+            "1421561"
+          ]
+        },
+        "volume": null,
+        "page": "p 367",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1808047",
+          "legacy_id": "111321",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 170",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_170",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "paracaleana_minor",
+          "type": "species",
+          "archival_data": [
+            "1424841"
+          ]
+        },
+        "volume": null,
+        "page": "p 170",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1810514",
+          "legacy_id": "118647",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 245",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_245",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "orthoceras_strictum",
+          "type": "species",
+          "archival_data": [
+            "1422900"
+          ]
+        },
+        "volume": null,
+        "page": "p 245",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1810729",
+          "legacy_id": "117358",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 373",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_373",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "phaius_tankervilleae",
+          "type": "species",
+          "archival_data": [
+            "1422679"
+          ]
+        },
+        "volume": null,
+        "page": "p 373",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1811552",
+          "legacy_id": "120395",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 420",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_420",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "nervilia_plicata",
+          "type": "species",
+          "archival_data": [
+            "1417899"
+          ]
+        },
+        "volume": null,
+        "page": "p 420",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1813575",
+          "legacy_id": "115488",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 174",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_174",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "pterostylis_bicornis",
+          "type": "species",
+          "archival_data": [
+            "1426129"
+          ]
+        },
+        "volume": null,
+        "page": "p 174",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1815138",
+          "legacy_id": "125215",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 216",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_216",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "pterostylis_biseta",
+          "type": "species",
+          "archival_data": [
+            "1426130"
+          ]
+        },
+        "volume": null,
+        "page": "p 216",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1815141",
+          "legacy_id": "125218",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 217",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_217",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "pterostylis_boormanii",
+          "type": "species",
+          "archival_data": [
+            "1426131"
+          ]
+        },
+        "volume": null,
+        "page": "p 217",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1815143",
+          "legacy_id": "125220",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 187",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_187",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "pterostylis_concinna",
+          "type": "species",
+          "archival_data": [
+            "1426132"
+          ]
+        },
+        "volume": null,
+        "page": "p 187",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1815146",
+          "legacy_id": "125223",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 188",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_188",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "pterostylis_curta",
+          "type": "species",
+          "archival_data": [
+            "1426134"
+          ]
+        },
+        "volume": null,
+        "page": "p 188",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1815153",
+          "legacy_id": "125230",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 189",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_189",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "pterostylis_cycnocephala",
+          "type": "species",
+          "archival_data": [
+            "1426135"
+          ]
+        },
+        "volume": null,
+        "page": "p 189",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1815155",
+          "legacy_id": "125232",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 45",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_45",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "pterostylis_decurva",
+          "type": "species",
+          "archival_data": [
+            "1426137"
+          ]
+        },
+        "volume": null,
+        "page": "p 45",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": true
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1815157",
+          "legacy_id": "125234",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 194",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_194",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "pterostylis_foliata",
+          "type": "species",
+          "archival_data": [
+            "1426140"
+          ]
+        },
+        "volume": null,
+        "page": "p 194",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1815160",
+          "legacy_id": "125237",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 194",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_194",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "pterostylis_furcata",
+          "type": "species",
+          "archival_data": [
+            "1426141"
+          ]
+        },
+        "volume": null,
+        "page": "p 194",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1815162",
+          "legacy_id": "125239",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 218",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_218",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "pterostylis_gibbosa",
+          "type": "species",
+          "archival_data": [
+            "1426142"
+          ]
+        },
+        "volume": null,
+        "page": "p 218",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1815165",
+          "legacy_id": "125242",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 219",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_219",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "pterostylis_hamata",
+          "type": "species",
+          "archival_data": [
+            "1426144"
+          ]
+        },
+        "volume": null,
+        "page": "p 219",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1815168",
+          "legacy_id": "125245",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 40",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_40",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "pterostylis_longifolia",
+          "type": "species",
+          "archival_data": [
+            "1426147"
+          ]
+        },
+        "volume": null,
+        "page": "p 40",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1815173",
+          "legacy_id": "125252",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 84",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_84",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "pterostylis_obtusa",
+          "type": "species",
+          "archival_data": [
+            "1426152"
+          ]
+        },
+        "volume": null,
+        "page": "p 84",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1815187",
+          "legacy_id": "125266",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 203",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_203",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "pterostylis_pedunculata",
+          "type": "species",
+          "archival_data": [
+            "1426154"
+          ]
+        },
+        "volume": null,
+        "page": "p 203",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1815195",
+          "legacy_id": "125274",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 204",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_204",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "pterostylis_plumosa",
+          "type": "species",
+          "archival_data": [
+            "1426155"
+          ]
+        },
+        "volume": null,
+        "page": "p 204",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1815202",
+          "legacy_id": "125281",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 204",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_204",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "pterostylis_pulchella",
+          "type": "species",
+          "archival_data": [
+            "1426157"
+          ]
+        },
+        "volume": null,
+        "page": "p 204",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1815203",
+          "legacy_id": "125282",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 205",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_205",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "pterostylis_recurva",
+          "type": "species",
+          "archival_data": [
+            "1426158"
+          ]
+        },
+        "volume": null,
+        "page": "p 205",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1815206",
+          "legacy_id": "125285",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 206",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_206",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "pterostylis_revoluta",
+          "type": "species",
+          "archival_data": [
+            "1426160"
+          ]
+        },
+        "volume": null,
+        "page": "p 206",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1815207",
+          "legacy_id": "125286",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 208",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_208",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "pterostylis_sargentii",
+          "type": "species",
+          "archival_data": [
+            "1426164"
+          ]
+        },
+        "volume": null,
+        "page": "p 208",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1815212",
+          "legacy_id": "125291",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 221",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_221",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "pterostylis_setifera",
+          "type": "species",
+          "archival_data": [
+            "1426443"
+          ]
+        },
+        "volume": null,
+        "page": "p 221",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1815213",
+          "legacy_id": "125292",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 211",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_211",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "pterostylis_truncata",
+          "type": "species",
+          "archival_data": [
+            "1426444"
+          ]
+        },
+        "volume": null,
+        "page": "p 211",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1815215",
+          "legacy_id": "125295",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 213",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_213",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "pterostylis_vittata",
+          "type": "species",
+          "archival_data": [
+            "1426445"
+          ]
+        },
+        "volume": null,
+        "page": "p 213",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1815218",
+          "legacy_id": "125298",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 248",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_248",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "prasophyllum_alpinum",
+          "type": "species",
+          "archival_data": [
+            "1423504"
+          ]
+        },
+        "volume": null,
+        "page": "p 248",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1819954",
+          "legacy_id": "123798",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 249",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_249",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "prasophyllum_australe",
+          "type": "species",
+          "archival_data": [
+            "1423506"
+          ]
+        },
+        "volume": null,
+        "page": "p 249",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1819957",
+          "legacy_id": "123802",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 273",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_273",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "prasophyllum_despectans",
+          "type": "species",
+          "archival_data": [
+            "1423509"
+          ]
+        },
+        "volume": null,
+        "page": "p 273",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1819959",
+          "legacy_id": "123804",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 40|422-23",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_40_422_23",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "pseudovanilla_foliata",
+          "type": "species",
+          "archival_data": [
+            "1425742"
+          ]
+        },
+        "volume": null,
+        "page": "p 40|422-23",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1819977",
+          "legacy_id": "125064",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 43",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_43",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "prasophyllum_elatum",
+          "type": "species",
+          "archival_data": [
+            "1423510"
+          ]
+        },
+        "volume": null,
+        "page": "p 43",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": true
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1820209",
+          "legacy_id": "123808",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 253",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_253",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "prasophyllum_fimbria",
+          "type": "species",
+          "archival_data": [
+            "1423511"
+          ]
+        },
+        "volume": null,
+        "page": "p 253",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1820211",
+          "legacy_id": "123810",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 256",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_256",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "prasophyllum_giganteum",
+          "type": "species",
+          "archival_data": [
+            "1423515"
+          ]
+        },
+        "volume": null,
+        "page": "p 256",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1820215",
+          "legacy_id": "123814",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 257",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_257",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "prasophyllum_hians",
+          "type": "species",
+          "archival_data": [
+            "1423516"
+          ]
+        },
+        "volume": null,
+        "page": "p 257",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1820216",
+          "legacy_id": "123815",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 258",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_258",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "prasophyllum_lindleyanum",
+          "type": "species",
+          "archival_data": [
+            "1423517"
+          ]
+        },
+        "volume": null,
+        "page": "p 258",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1820217",
+          "legacy_id": "123816",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 278",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_278",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "prasophyllum_nudiscapum",
+          "type": "species",
+          "archival_data": [
+            "1423518"
+          ]
+        },
+        "volume": null,
+        "page": "p 278",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1820218",
+          "legacy_id": "123817",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 279",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_279",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "prasophyllum_nudum",
+          "type": "species",
+          "archival_data": [
+            "1423519"
+          ]
+        },
+        "volume": null,
+        "page": "p 279",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1820219",
+          "legacy_id": "123818",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 260",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_260",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "prasophyllum_patens",
+          "type": "species",
+          "archival_data": [
+            "1423521"
+          ]
+        },
+        "volume": null,
+        "page": "p 260",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1820223",
+          "legacy_id": "123822",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 280",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_280",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "prasophyllum_pumilum",
+          "type": "species",
+          "archival_data": [
+            "1423522"
+          ]
+        },
+        "volume": null,
+        "page": "p 280",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1820224",
+          "legacy_id": "123823",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 264",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_264",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "prasophyllum_regium",
+          "type": "species",
+          "archival_data": [
+            "1423523"
+          ]
+        },
+        "volume": null,
+        "page": "p 264",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1820225",
+          "legacy_id": "123824",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 181",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_181",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "pterostylis_alata",
+          "type": "species",
+          "archival_data": [
+            "1426122"
+          ]
+        },
+        "volume": null,
+        "page": "p 181",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1820357",
+          "legacy_id": "125200",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 181",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_181",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "pterostylis_allantoidea",
+          "type": "species",
+          "archival_data": [
+            "1426123"
+          ]
+        },
+        "volume": null,
+        "page": "p 181",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1820358",
+          "legacy_id": "125201",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 182",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_182",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "pterostylis_angusta",
+          "type": "species",
+          "archival_data": [
+            "1426125"
+          ]
+        },
+        "volume": null,
+        "page": "p 182",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1820359",
+          "legacy_id": "125202",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 183",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_183",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "pterostylis_baptistii",
+          "type": "species",
+          "archival_data": [
+            "1426127"
+          ]
+        },
+        "volume": null,
+        "page": "p 183",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1820365",
+          "legacy_id": "125208",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 331",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_331",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rhizanthella_gardneri",
+          "type": "species",
+          "archival_data": [
+            "1423621"
+          ]
+        },
+        "volume": null,
+        "page": "p 331",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1823083",
+          "legacy_id": "127220",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 333",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_333",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rhizanthella_slateri",
+          "type": "species",
+          "archival_data": [
+            "1423622"
+          ]
+        },
+        "volume": null,
+        "page": "p 333",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": true
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1823088",
+          "legacy_id": "127225",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 172",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_172",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rimacola_elliptica",
+          "type": "species",
+          "archival_data": [
+            "1433179"
+          ]
+        },
+        "volume": null,
+        "page": "p 172",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1824815",
+          "legacy_id": "128958",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 378",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_378",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "spathoglottis_paulinae",
+          "type": "species",
+          "archival_data": [
+            "1431535"
+          ]
+        },
+        "volume": null,
+        "page": "p 378",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1826541",
+          "legacy_id": "134768",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 173",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_173",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "spiculaea_ciliata",
+          "type": "species",
+          "archival_data": [
+            "1431869"
+          ]
+        },
+        "volume": null,
+        "page": "p 173",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1826861",
+          "legacy_id": "134847",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 43",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_43",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "spiranthes_sinensis",
+          "type": "species",
+          "archival_data": [
+            "1431931"
+          ]
+        },
+        "volume": null,
+        "page": "p 43",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1827214",
+          "legacy_id": "134957",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 381",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_381",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "tropidia_curculigoides",
+          "type": "species",
+          "archival_data": [
+            "1427530"
+          ]
+        },
+        "volume": null,
+        "page": "p 381",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1832966",
+          "legacy_id": "139105",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 288",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_288",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "thelymitra_antennifera",
+          "type": "species",
+          "archival_data": [
+            "1430420"
+          ]
+        },
+        "volume": null,
+        "page": "p 288",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1835400",
+          "legacy_id": "137094",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 289",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_289",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "thelymitra_aristata",
+          "type": "species",
+          "archival_data": [
+            "1430421"
+          ]
+        },
+        "volume": null,
+        "page": "p 289",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1835406",
+          "legacy_id": "137100",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 284",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_284",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "thelymitra_campanulata",
+          "type": "species",
+          "archival_data": [
+            "1430423"
+          ]
+        },
+        "volume": null,
+        "page": "p 284",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1835409",
+          "legacy_id": "137103",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 293",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_293",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "thelymitra_crinita",
+          "type": "species",
+          "archival_data": [
+            "1430427"
+          ]
+        },
+        "volume": null,
+        "page": "p 293",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1835415",
+          "legacy_id": "137109",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 292",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_292",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "thelymitra_cucullata",
+          "type": "species",
+          "archival_data": [
+            "1430428"
+          ]
+        },
+        "volume": null,
+        "page": "p 292",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1835418",
+          "legacy_id": "137112",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 294",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_294",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "thelymitra_cyanea",
+          "type": "species",
+          "archival_data": [
+            "1430429"
+          ]
+        },
+        "volume": null,
+        "page": "p 294",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1835419",
+          "legacy_id": "137113",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 295",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_295",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "thelymitra_fuscolutea",
+          "type": "species",
+          "archival_data": [
+            "1430431"
+          ]
+        },
+        "volume": null,
+        "page": "p 295",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1835422",
+          "legacy_id": "137116",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 297",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_297",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "thelymitra_irregularis",
+          "type": "species",
+          "archival_data": [
+            "1430432"
+          ]
+        },
+        "volume": null,
+        "page": "p 297",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1835424",
+          "legacy_id": "137118",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 299",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_299",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "thelymitra_media",
+          "type": "species",
+          "archival_data": [
+            "1430435"
+          ]
+        },
+        "volume": null,
+        "page": "p 299",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1835433",
+          "legacy_id": "137127",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 304",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_304",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "thelymitra_stellata",
+          "type": "species",
+          "archival_data": [
+            "1430439"
+          ]
+        },
+        "volume": null,
+        "page": "p 304",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1835438",
+          "legacy_id": "137132",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 305",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_305",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "thelymitra_variegata",
+          "type": "species",
+          "archival_data": [
+            "1430440"
+          ]
+        },
+        "volume": null,
+        "page": "p 305",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1835439",
+          "legacy_id": "137133",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 306-07",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_306_07",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "thelymitra_villosa",
+          "type": "species",
+          "archival_data": [
+            "1430442"
+          ]
+        },
+        "volume": null,
+        "page": "p 306-07",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1835441",
+          "legacy_id": "137135",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 352",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_352",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "zeuxine_oblonga",
+          "type": "species",
+          "archival_data": [
+            "1439029"
+          ]
+        },
+        "volume": null,
+        "page": "p 352",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1839835",
+          "legacy_id": "142297",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Jones, David Lloyd. Native Orchids of Australia. (1988) p 45;359",
+        "machine_name": "jones_david_lloyd_native_orchids_of_australia_1988_p_45_359",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "calanthe_triplicata",
+          "type": "species",
+          "archival_data": [
+            "1399218"
+          ]
+        },
+        "volume": null,
+        "page": "p 45;359",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1945759",
+          "legacy_id": "289677",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": null,
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483190112"
+        }
+      }
+    ]
+  }
+}

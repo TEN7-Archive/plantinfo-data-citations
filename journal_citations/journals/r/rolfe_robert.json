@@ -1,0 +1,492 @@
+{
+  "rolfe_robert_the_alpine_house": {
+    "name": "Rolfe, Robert. The Alpine House.",
+    "machine_name": "rolfe_robert_the_alpine_house",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "1681415",
+      "legacy_id": "5377",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": []
+  },
+  "rolfe_robert_the_alpine_house_1990": {
+    "name": "Rolfe, Robert. The Alpine House. (1990)",
+    "machine_name": "rolfe_robert_the_alpine_house_1990",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1990",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "2111276",
+      "legacy_id": "5377",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": [
+      {
+        "name": "Rolfe, Robert. The Alpine House. (1990) p 86, Pl. 10.",
+        "machine_name": "rolfe_robert_the_alpine_house_1990_p_86_pl_10",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "eranthis_tubergenii_guinea_gold",
+          "type": "variety",
+          "archival_data": [
+            "1475203"
+          ]
+        },
+        "volume": null,
+        "page": "p 86, Pl. 10.",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1716457",
+          "legacy_id": "13889",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Rolfe, Robert. The Alpine House. (1990) p 54, Pl. 8.",
+        "machine_name": "rolfe_robert_the_alpine_house_1990_p_54_pl_8",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "campanula_alpina",
+          "type": "species",
+          "archival_data": [
+            "1406620"
+          ]
+        },
+        "volume": null,
+        "page": "p 54, Pl. 8.",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1770756",
+          "legacy_id": "78760",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Rolfe, Robert. The Alpine House. (1990) p 86, Pl. 13.",
+        "machine_name": "rolfe_robert_the_alpine_house_1990_p_86_pl_13",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "convolvulus_boissieri",
+          "type": "species",
+          "archival_data": [
+            "1404549"
+          ]
+        },
+        "volume": null,
+        "page": "p 86, Pl. 13.",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1775098",
+          "legacy_id": "83996",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Rolfe, Robert. The Alpine House. (1990) p 86, Pl. 11.",
+        "machine_name": "rolfe_robert_the_alpine_house_1990_p_86_pl_11",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cyclamen_repandum",
+          "type": "species",
+          "archival_data": [
+            "1409180"
+          ]
+        },
+        "volume": null,
+        "page": "p 86, Pl. 11.",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1780165",
+          "legacy_id": "86548",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Rolfe, Robert. The Alpine House. (1990) p 102, Pl. 15.",
+        "machine_name": "rolfe_robert_the_alpine_house_1990_p_102_pl_15",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "gentiana_verna",
+          "type": "species",
+          "archival_data": [
+            "1411146"
+          ]
+        },
+        "volume": null,
+        "page": "p 102, Pl. 15.",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1791363",
+          "legacy_id": "98869",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Rolfe, Robert. The Alpine House. (1990) p 102, Pl. 16.",
+        "machine_name": "rolfe_robert_the_alpine_house_1990_p_102_pl_16",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "helichrysum_pagophilum",
+          "type": "species",
+          "archival_data": [
+            "1411272"
+          ]
+        },
+        "volume": null,
+        "page": "p 102, Pl. 16.",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1796756",
+          "legacy_id": "101740",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Rolfe, Robert. The Alpine House. (1990) p 22, Pl. 3.",
+        "machine_name": "rolfe_robert_the_alpine_house_1990_p_22_pl_3",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "jancaea_heldreichii",
+          "type": "species",
+          "archival_data": [
+            "1418372"
+          ]
+        },
+        "volume": null,
+        "page": "p 22, Pl. 3.",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1801847",
+          "legacy_id": "105746",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Rolfe, Robert. The Alpine House. (1990) p 102, Pl. 17.",
+        "machine_name": "rolfe_robert_the_alpine_house_1990_p_102_pl_17",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "lewisia_pygmaea",
+          "type": "species",
+          "archival_data": [
+            "1416997"
+          ]
+        },
+        "volume": null,
+        "page": "p 102, Pl. 17.",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1802325",
+          "legacy_id": "108479",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Rolfe, Robert. The Alpine House. (1990) p 102, Pl. 18.",
+        "machine_name": "rolfe_robert_the_alpine_house_1990_p_102_pl_18",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "narcissus_rupicola",
+          "type": "species",
+          "archival_data": [
+            "1416782"
+          ]
+        },
+        "volume": null,
+        "page": "p 102, Pl. 18.",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1806059",
+          "legacy_id": "114902",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Rolfe, Robert. The Alpine House. (1990) p 102, Pl. 19.",
+        "machine_name": "rolfe_robert_the_alpine_house_1990_p_102_pl_19",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "ranunculus_parnassifolius",
+          "type": "species",
+          "archival_data": [
+            "1422489"
+          ]
+        },
+        "volume": null,
+        "page": "p 102, Pl. 19.",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1820489",
+          "legacy_id": "126584",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Rolfe, Robert. The Alpine House. (1990) p 102, Pl. 20.",
+        "machine_name": "rolfe_robert_the_alpine_house_1990_p_102_pl_20",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "viola_calcarata",
+          "type": "species",
+          "archival_data": [
+            "1436535"
+          ]
+        },
+        "volume": null,
+        "page": "p 102, Pl. 20.",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1835372",
+          "legacy_id": "141088",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      }
+    ]
+  }
+}

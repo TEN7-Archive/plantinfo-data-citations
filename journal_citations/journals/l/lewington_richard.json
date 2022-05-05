@@ -1,0 +1,123 @@
+{
+  "lewington_richard_the_natural_history_of_the_oak_tree": {
+    "name": "Lewington, Richard. The Natural History of the Oak Tree.",
+    "machine_name": "lewington_richard_the_natural_history_of_the_oak_tree",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "1681358",
+      "legacy_id": "4304",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": []
+  },
+  "lewington_richard_the_natural_history_of_the_oak_tree_1993": {
+    "name": "Lewington, Richard. The Natural History of the Oak Tree. (1993)",
+    "machine_name": "lewington_richard_the_natural_history_of_the_oak_tree_1993",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1993",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "2114517",
+      "legacy_id": "4304",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": [
+      {
+        "name": "Lewington, Richard. The Natural History of the Oak Tree. (1993) p 8-11",
+        "machine_name": "lewington_richard_the_natural_history_of_the_oak_tree_1993_p_8_11",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "quercus_petraea",
+          "type": "species",
+          "archival_data": [
+            "1421747"
+          ]
+        },
+        "volume": null,
+        "page": "p 8-11",
+        "year": "1993",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": true,
+          "Twig": true,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1823720",
+          "legacy_id": "126115",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Lewington, Richard. The Natural History of the Oak Tree. (1993) p 6-7",
+        "machine_name": "lewington_richard_the_natural_history_of_the_oak_tree_1993_p_6_7",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "quercus_robur",
+          "type": "species",
+          "archival_data": [
+            "1421758"
+          ]
+        },
+        "volume": null,
+        "page": "p 6-7",
+        "year": "1993",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": true,
+          "Twig": true,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1824005",
+          "legacy_id": "126157",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      }
+    ]
+  }
+}

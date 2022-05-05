@@ -1,0 +1,4346 @@
+{
+  "manthey_gerda_fuchsias": {
+    "name": "Manthey, Gerda. Fuchsias.",
+    "machine_name": "manthey_gerda_fuchsias",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "1681871",
+      "legacy_id": "4419",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": []
+  },
+  "manthey_gerda_fuchsias_1990": {
+    "name": "Manthey, Gerda. Fuchsias. (1990)",
+    "machine_name": "manthey_gerda_fuchsias_1990",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1990",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "2111426",
+      "legacy_id": "4419",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": [
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 7",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_7",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_alison_ewart",
+          "type": "variety",
+          "archival_data": [
+            "1474354"
+          ]
+        },
+        "volume": null,
+        "page": "p 7",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1717927",
+          "legacy_id": "15612",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 110",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_110",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_angel_s_dream",
+          "type": "variety",
+          "archival_data": [
+            "1474355"
+          ]
+        },
+        "volume": null,
+        "page": "p 110",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1717928",
+          "legacy_id": "15613",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 111",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_111",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_annabel",
+          "type": "variety",
+          "archival_data": [
+            "1474357"
+          ]
+        },
+        "volume": null,
+        "page": "p 111",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1717934",
+          "legacy_id": "15619",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 54",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_54",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_beacon",
+          "type": "variety",
+          "archival_data": [
+            "1474362"
+          ]
+        },
+        "volume": null,
+        "page": "p 54",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1717948",
+          "legacy_id": "15633",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 111",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_111",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_berba_s_trio",
+          "type": "variety",
+          "archival_data": [
+            "1474364"
+          ]
+        },
+        "volume": null,
+        "page": "p 111",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1717950",
+          "legacy_id": "15635",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 114",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_114",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_bicentennial",
+          "type": "variety",
+          "archival_data": [
+            "1474365"
+          ]
+        },
+        "volume": null,
+        "page": "p 114",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1717952",
+          "legacy_id": "15637",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 59",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_59",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_billy_green",
+          "type": "variety",
+          "archival_data": [
+            "1474366"
+          ]
+        },
+        "volume": null,
+        "page": "p 59",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1717955",
+          "legacy_id": "15640",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 115",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_115",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_blue_veil",
+          "type": "variety",
+          "archival_data": [
+            "1474367"
+          ]
+        },
+        "volume": null,
+        "page": "p 115",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1717956",
+          "legacy_id": "15641",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 114",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_114",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_blush_of_dawn",
+          "type": "variety",
+          "archival_data": [
+            "1474369"
+          ]
+        },
+        "volume": null,
+        "page": "p 114",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1717962",
+          "legacy_id": "15647",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 110",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_110",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_bonnie_lass",
+          "type": "variety",
+          "archival_data": [
+            "1474373"
+          ]
+        },
+        "volume": null,
+        "page": "p 110",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1718215",
+          "legacy_id": "15652",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 110",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_110",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_bow_bells",
+          "type": "variety",
+          "archival_data": [
+            "1474601"
+          ]
+        },
+        "volume": null,
+        "page": "p 110",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1718221",
+          "legacy_id": "15658",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 115",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_115",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_brentwood",
+          "type": "variety",
+          "archival_data": [
+            "1474602"
+          ]
+        },
+        "volume": null,
+        "page": "p 115",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1718222",
+          "legacy_id": "15659",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 118",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_118",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_capri",
+          "type": "variety",
+          "archival_data": [
+            "1474606"
+          ]
+        },
+        "volume": null,
+        "page": "p 118",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1718233",
+          "legacy_id": "15670",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 99(4)",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_99_4",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_carmel_blue",
+          "type": "variety",
+          "archival_data": [
+            "1474608"
+          ]
+        },
+        "volume": null,
+        "page": "p 99(4)",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1718235",
+          "legacy_id": "15672",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 115",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_115",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_carnival",
+          "type": "variety",
+          "archival_data": [
+            "1474609"
+          ]
+        },
+        "volume": null,
+        "page": "p 115",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1718236",
+          "legacy_id": "15673",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 118",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_118",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_caroline",
+          "type": "variety",
+          "archival_data": [
+            "1474610"
+          ]
+        },
+        "volume": null,
+        "page": "p 118",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1718237",
+          "legacy_id": "15674",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 119",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_119",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_caspar_hauser",
+          "type": "variety",
+          "archival_data": [
+            "1474612"
+          ]
+        },
+        "volume": null,
+        "page": "p 119",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1718242",
+          "legacy_id": "15679",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 70",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_70",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_celia_smedley",
+          "type": "variety",
+          "archival_data": [
+            "1474614"
+          ]
+        },
+        "volume": null,
+        "page": "p 70",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1718246",
+          "legacy_id": "15683",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 99(12)",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_99_12",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_chang",
+          "type": "variety",
+          "archival_data": [
+            "1474615"
+          ]
+        },
+        "volume": null,
+        "page": "p 99(12)",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1718249",
+          "legacy_id": "15686",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 66",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_66",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_checkerboard",
+          "type": "variety",
+          "archival_data": [
+            "1474617"
+          ]
+        },
+        "volume": null,
+        "page": "p 66",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1718253",
+          "legacy_id": "15690",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 119",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_119",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_citation",
+          "type": "variety",
+          "archival_data": [
+            "1474622"
+          ]
+        },
+        "volume": null,
+        "page": "p 119",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1718262",
+          "legacy_id": "15699",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 7",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_7",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_city_of_pacifica",
+          "type": "variety",
+          "archival_data": [
+            "1474623"
+          ]
+        },
+        "volume": null,
+        "page": "p 7",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1718263",
+          "legacy_id": "15700",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 99(18)",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_99_18",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_constance",
+          "type": "variety",
+          "archival_data": [
+            "1474630"
+          ]
+        },
+        "volume": null,
+        "page": "p 99(18)",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1718273",
+          "legacy_id": "15710",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 119",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_119",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_countess_of_aberdeen",
+          "type": "variety",
+          "archival_data": [
+            "1474633"
+          ]
+        },
+        "volume": null,
+        "page": "p 119",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1718280",
+          "legacy_id": "15717",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 99(21)",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_99_21",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_curtain_call",
+          "type": "variety",
+          "archival_data": [
+            "1474634"
+          ]
+        },
+        "volume": null,
+        "page": "p 99(21)",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1718282",
+          "legacy_id": "15719",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 118",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_118",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_daisy_bell",
+          "type": "variety",
+          "archival_data": [
+            "1474636"
+          ]
+        },
+        "volume": null,
+        "page": "p 118",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1718285",
+          "legacy_id": "15722",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 63|67",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_63_67",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_deutsche_perle",
+          "type": "variety",
+          "archival_data": [
+            "1474639"
+          ]
+        },
+        "volume": null,
+        "page": "p 63|67",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1718291",
+          "legacy_id": "15728",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 99(8)",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_99_8",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_dilly_dilly",
+          "type": "variety",
+          "archival_data": [
+            "1474641"
+          ]
+        },
+        "volume": null,
+        "page": "p 99(8)",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1718293",
+          "legacy_id": "15730",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 99(10)",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_99_10",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_dirk_van_delen",
+          "type": "variety",
+          "archival_data": [
+            "1474642"
+          ]
+        },
+        "volume": null,
+        "page": "p 99(10)",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1718541",
+          "legacy_id": "15731",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 98",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_98",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_elfriede_ott",
+          "type": "variety",
+          "archival_data": [
+            "1474647"
+          ]
+        },
+        "volume": null,
+        "page": "p 98",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1718551",
+          "legacy_id": "15741",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 132",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_132",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_elizabeth",
+          "type": "variety",
+          "archival_data": [
+            "1474648"
+          ]
+        },
+        "volume": null,
+        "page": "p 132",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1718552",
+          "legacy_id": "15742",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 99(15)",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_99_15",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_falling_stars",
+          "type": "variety",
+          "archival_data": [
+            "1474653"
+          ]
+        },
+        "volume": null,
+        "page": "p 99(15)",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1718562",
+          "legacy_id": "15752",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 99(5)",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_99_5",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_fan_dancer",
+          "type": "variety",
+          "archival_data": [
+            "1474654"
+          ]
+        },
+        "volume": null,
+        "page": "p 99(5)",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1718563",
+          "legacy_id": "15753",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 132",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_132",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_fiery_spider",
+          "type": "variety",
+          "archival_data": [
+            "1474656"
+          ]
+        },
+        "volume": null,
+        "page": "p 132",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1718566",
+          "legacy_id": "15756",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 132",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_132",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_fiona",
+          "type": "variety",
+          "archival_data": [
+            "1474657"
+          ]
+        },
+        "volume": null,
+        "page": "p 132",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1718568",
+          "legacy_id": "15758",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 136",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_136",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_fire_mountain",
+          "type": "variety",
+          "archival_data": [
+            "1474658"
+          ]
+        },
+        "volume": null,
+        "page": "p 136",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1718569",
+          "legacy_id": "15759",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 133",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_133",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_first_lady",
+          "type": "variety",
+          "archival_data": [
+            "1474659"
+          ]
+        },
+        "volume": null,
+        "page": "p 133",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1718570",
+          "legacy_id": "15760",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 133",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_133",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_flowerdream",
+          "type": "variety",
+          "archival_data": [
+            "1474662"
+          ]
+        },
+        "volume": null,
+        "page": "p 133",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1718582",
+          "legacy_id": "15772",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 99(23)",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_99_23",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_flying_cloud",
+          "type": "variety",
+          "archival_data": [
+            "1474663"
+          ]
+        },
+        "volume": null,
+        "page": "p 99(23)",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1718584",
+          "legacy_id": "15774",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 99(6)",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_99_6",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_franz_noszian",
+          "type": "variety",
+          "archival_data": [
+            "1474665"
+          ]
+        },
+        "volume": null,
+        "page": "p 99(6)",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1718586",
+          "legacy_id": "15776",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 133",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_133",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_frauke",
+          "type": "variety",
+          "archival_data": [
+            "1474666"
+          ]
+        },
+        "volume": null,
+        "page": "p 133",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1718587",
+          "legacy_id": "15777",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 141",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_141",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_frosted_flame",
+          "type": "variety",
+          "archival_data": [
+            "1474667"
+          ]
+        },
+        "volume": null,
+        "page": "p 141",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1718589",
+          "legacy_id": "15779",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 103",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_103",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_genii",
+          "type": "variety",
+          "archival_data": [
+            "1474672"
+          ]
+        },
+        "volume": null,
+        "page": "p 103",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1718599",
+          "legacy_id": "15789",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 136",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_136",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_groenekan_s_glorie",
+          "type": "variety",
+          "archival_data": [
+            "1474903"
+          ]
+        },
+        "volume": null,
+        "page": "p 136",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1718606",
+          "legacy_id": "15796",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 54",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_54",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_gruss_aus_dem_bodethal",
+          "type": "variety",
+          "archival_data": [
+            "1474904"
+          ]
+        },
+        "volume": null,
+        "page": "p 54",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1718608",
+          "legacy_id": "15798",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 137",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_137",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_hathor",
+          "type": "variety",
+          "archival_data": [
+            "1474909"
+          ]
+        },
+        "volume": null,
+        "page": "p 137",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1718616",
+          "legacy_id": "15806",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 137",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_137",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_inferno",
+          "type": "variety",
+          "archival_data": [
+            "1474914"
+          ]
+        },
+        "volume": null,
+        "page": "p 137",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1718621",
+          "legacy_id": "15811",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 99(7)",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_99_7",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_jamboree",
+          "type": "variety",
+          "archival_data": [
+            "1474919"
+          ]
+        },
+        "volume": null,
+        "page": "p 99(7)",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1718878",
+          "legacy_id": "15820",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 144",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_144",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_joan_pacey",
+          "type": "variety",
+          "archival_data": [
+            "1474922"
+          ]
+        },
+        "volume": null,
+        "page": "p 144",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1718881",
+          "legacy_id": "15823",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 141",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_141",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_joy_patmore",
+          "type": "variety",
+          "archival_data": [
+            "1474923"
+          ]
+        },
+        "volume": null,
+        "page": "p 141",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1718885",
+          "legacy_id": "15827",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 99(20)|140",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_99_20_140",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_kwintet",
+          "type": "variety",
+          "archival_data": [
+            "1474927"
+          ]
+        },
+        "volume": null,
+        "page": "p 99(20)|140",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1718891",
+          "legacy_id": "15833",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 10",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_10",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_lena",
+          "type": "variety",
+          "archival_data": [
+            "1474935"
+          ]
+        },
+        "volume": null,
+        "page": "p 10",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1718906",
+          "legacy_id": "15848",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 99(17)",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_99_17",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_leonora",
+          "type": "variety",
+          "archival_data": [
+            "1474936"
+          ]
+        },
+        "volume": null,
+        "page": "p 99(17)",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1718910",
+          "legacy_id": "15852",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 149",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_149",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_loeky",
+          "type": "variety",
+          "archival_data": [
+            "1474938"
+          ]
+        },
+        "volume": null,
+        "page": "p 149",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1718916",
+          "legacy_id": "15858",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 145",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_145",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_lucinda",
+          "type": "variety",
+          "archival_data": [
+            "1474940"
+          ]
+        },
+        "volume": null,
+        "page": "p 145",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1718921",
+          "legacy_id": "15863",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 148",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_148",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_lynn_ellen",
+          "type": "variety",
+          "archival_data": [
+            "1474942"
+          ]
+        },
+        "volume": null,
+        "page": "p 148",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1718922",
+          "legacy_id": "15864",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 149",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_149",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_machu_picchu",
+          "type": "variety",
+          "archival_data": [
+            "1474943"
+          ]
+        },
+        "volume": null,
+        "page": "p 149",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1718924",
+          "legacy_id": "15866",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 102",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_102",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_mantilla",
+          "type": "variety",
+          "archival_data": [
+            "1474945"
+          ]
+        },
+        "volume": null,
+        "page": "p 102",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1718926",
+          "legacy_id": "15868",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 148",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_148",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_maori_pipes",
+          "type": "variety",
+          "archival_data": [
+            "1474946"
+          ]
+        },
+        "volume": null,
+        "page": "p 148",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1718928",
+          "legacy_id": "15870",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 99(3)",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_99_3",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_marinka",
+          "type": "variety",
+          "archival_data": [
+            "1474950"
+          ]
+        },
+        "volume": null,
+        "page": "p 99(3)",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1718937",
+          "legacy_id": "15879",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 98",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_98",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_mary",
+          "type": "variety",
+          "archival_data": [
+            "1474951"
+          ]
+        },
+        "volume": null,
+        "page": "p 98",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1718939",
+          "legacy_id": "15881",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 145",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_145",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_micky_goult",
+          "type": "variety",
+          "archival_data": [
+            "1474954"
+          ]
+        },
+        "volume": null,
+        "page": "p 145",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1718944",
+          "legacy_id": "15886",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 62",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_62",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_mieke_meursing",
+          "type": "variety",
+          "archival_data": [
+            "1474955"
+          ]
+        },
+        "volume": null,
+        "page": "p 62",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1718947",
+          "legacy_id": "15889",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 50",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_50",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "phygelius_rectus_moonraker",
+          "type": "variety",
+          "archival_data": [
+            "1489844"
+          ]
+        },
+        "volume": null,
+        "page": "p 50",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1718952",
+          "legacy_id": "15894",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 70",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_70",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_mrs_w_rundle",
+          "type": "variety",
+          "archival_data": [
+            "1474962"
+          ]
+        },
+        "volume": null,
+        "page": "p 70",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1719210",
+          "legacy_id": "15903",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 149",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_149",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_orange_mirage",
+          "type": "variety",
+          "archival_data": [
+            "1474966"
+          ]
+        },
+        "volume": null,
+        "page": "p 149",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1719220",
+          "legacy_id": "15913",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 144",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_144",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_oranje_boven",
+          "type": "variety",
+          "archival_data": [
+            "1474967"
+          ]
+        },
+        "volume": null,
+        "page": "p 144",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1719221",
+          "legacy_id": "15914",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 148",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_148",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_papillon",
+          "type": "variety",
+          "archival_data": [
+            "1474971"
+          ]
+        },
+        "volume": null,
+        "page": "p 148",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1719228",
+          "legacy_id": "15921",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 152",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_152",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_party_frock",
+          "type": "variety",
+          "archival_data": [
+            "1474972"
+          ]
+        },
+        "volume": null,
+        "page": "p 152",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1719229",
+          "legacy_id": "15922",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 149",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_149",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_peppermint_stick",
+          "type": "variety",
+          "archival_data": [
+            "1474977"
+          ]
+        },
+        "volume": null,
+        "page": "p 149",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1719237",
+          "legacy_id": "15930",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 99(11)",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_99_11",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_pink_ballet_girl",
+          "type": "variety",
+          "archival_data": [
+            "1475211"
+          ]
+        },
+        "volume": null,
+        "page": "p 99(11)",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1719242",
+          "legacy_id": "15935",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 152",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_152",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_pink_galore",
+          "type": "variety",
+          "archival_data": [
+            "1475212"
+          ]
+        },
+        "volume": null,
+        "page": "p 152",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1719246",
+          "legacy_id": "15939",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 152",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_152",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_postiljon",
+          "type": "variety",
+          "archival_data": [
+            "1475216"
+          ]
+        },
+        "volume": null,
+        "page": "p 152",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1719257",
+          "legacy_id": "15950",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 99(1)",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_99_1",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_purple_heart",
+          "type": "variety",
+          "archival_data": [
+            "1475222"
+          ]
+        },
+        "volume": null,
+        "page": "p 99(1)",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1719265",
+          "legacy_id": "15958",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 14",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_14",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_red_ribbons",
+          "type": "variety",
+          "archival_data": [
+            "1475227"
+          ]
+        },
+        "volume": null,
+        "page": "p 14",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1719271",
+          "legacy_id": "15964",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 71| 99(14)",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_71_99_14",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_red_spider",
+          "type": "variety",
+          "archival_data": [
+            "1475228"
+          ]
+        },
+        "volume": null,
+        "page": "p 71| 99(14)",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1719273",
+          "legacy_id": "15966",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 167",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_167",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_reverend_doctor_brown",
+          "type": "variety",
+          "archival_data": [
+            "1475229"
+          ]
+        },
+        "volume": null,
+        "page": "p 167",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1719276",
+          "legacy_id": "15969",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 167",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_167",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_rose_of_castile",
+          "type": "variety",
+          "archival_data": [
+            "1475232"
+          ]
+        },
+        "volume": null,
+        "page": "p 167",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1719280",
+          "legacy_id": "15973",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 163",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_163",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_royal_purple",
+          "type": "variety",
+          "archival_data": [
+            "1475233"
+          ]
+        },
+        "volume": null,
+        "page": "p 163",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1719283",
+          "legacy_id": "15976",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 99(22)",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_99_22",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_royal_velvet",
+          "type": "variety",
+          "archival_data": [
+            "1475234"
+          ]
+        },
+        "volume": null,
+        "page": "p 99(22)",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1719531",
+          "legacy_id": "15977",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 169",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_169",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_seventh_heaven",
+          "type": "variety",
+          "archival_data": [
+            "1475240"
+          ]
+        },
+        "volume": null,
+        "page": "p 169",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1719539",
+          "legacy_id": "15985",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 169",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_169",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_sleigh_bells",
+          "type": "variety",
+          "archival_data": [
+            "1475244"
+          ]
+        },
+        "volume": null,
+        "page": "p 169",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1719544",
+          "legacy_id": "15990",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 172",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_172",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_snowfire",
+          "type": "variety",
+          "archival_data": [
+            "1475245"
+          ]
+        },
+        "volume": null,
+        "page": "p 172",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1719545",
+          "legacy_id": "15991",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 99(19)",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_99_19",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_south_gate",
+          "type": "variety",
+          "archival_data": [
+            "1475247"
+          ]
+        },
+        "volume": null,
+        "page": "p 99(19)",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1719551",
+          "legacy_id": "15997",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 163",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_163",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_stanley_cash",
+          "type": "variety",
+          "archival_data": [
+            "1475250"
+          ]
+        },
+        "volume": null,
+        "page": "p 163",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1719556",
+          "legacy_id": "16002",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 99(13)|177",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_99_13_177",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_starlite",
+          "type": "variety",
+          "archival_data": [
+            "1475251"
+          ]
+        },
+        "volume": null,
+        "page": "p 99(13)|177",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1719557",
+          "legacy_id": "16003",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 177",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_177",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_sugar_blues",
+          "type": "variety",
+          "archival_data": [
+            "1475253"
+          ]
+        },
+        "volume": null,
+        "page": "p 177",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1719560",
+          "legacy_id": "16006",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 50",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_50",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_swanley_gem",
+          "type": "variety",
+          "archival_data": [
+            "1475255"
+          ]
+        },
+        "volume": null,
+        "page": "p 50",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1719564",
+          "legacy_id": "16010",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 99(9)",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_99_9",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_swingtime",
+          "type": "variety",
+          "archival_data": [
+            "1475256"
+          ]
+        },
+        "volume": null,
+        "page": "p 99(9)",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1719572",
+          "legacy_id": "16018",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 177",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_177",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_television",
+          "type": "variety",
+          "archival_data": [
+            "1475257"
+          ]
+        },
+        "volume": null,
+        "page": "p 177",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1719575",
+          "legacy_id": "16021",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 99(2)",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_99_2",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_tennessee_waltz",
+          "type": "variety",
+          "archival_data": [
+            "1475258"
+          ]
+        },
+        "volume": null,
+        "page": "p 99(2)",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1719578",
+          "legacy_id": "16024",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 173",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_173",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_ting_a_ling",
+          "type": "variety",
+          "archival_data": [
+            "1475261"
+          ]
+        },
+        "volume": null,
+        "page": "p 173",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1719586",
+          "legacy_id": "16032",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 173",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_173",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_toos",
+          "type": "variety",
+          "archival_data": [
+            "1475264"
+          ]
+        },
+        "volume": null,
+        "page": "p 173",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1719593",
+          "legacy_id": "16039",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 172",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_172",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_waxen_beauty",
+          "type": "variety",
+          "archival_data": [
+            "1475272"
+          ]
+        },
+        "volume": null,
+        "page": "p 172",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1719604",
+          "legacy_id": "16050",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 180",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_180",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_whirlaway",
+          "type": "variety",
+          "archival_data": [
+            "1475274"
+          ]
+        },
+        "volume": null,
+        "page": "p 180",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1719606",
+          "legacy_id": "16052",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 180",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_180",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_white_king",
+          "type": "variety",
+          "archival_data": [
+            "1475278"
+          ]
+        },
+        "volume": null,
+        "page": "p 180",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1719611",
+          "legacy_id": "16057",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 180",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_180",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_white_spider",
+          "type": "variety",
+          "archival_data": [
+            "1475279"
+          ]
+        },
+        "volume": null,
+        "page": "p 180",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1719860",
+          "legacy_id": "16059",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 99(24)",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_99_24",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_wings_of_song",
+          "type": "variety",
+          "archival_data": [
+            "1475512"
+          ]
+        },
+        "volume": null,
+        "page": "p 99(24)",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1719866",
+          "legacy_id": "16065",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 99(16)",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_99_16",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_cultivars_winston_churchill",
+          "type": "variety",
+          "archival_data": [
+            "1475513"
+          ]
+        },
+        "volume": null,
+        "page": "p 99(16)",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1719869",
+          "legacy_id": "16068",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 23",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_23",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_boliviana_alba",
+          "type": "variety",
+          "archival_data": [
+            "1475514"
+          ]
+        },
+        "volume": null,
+        "page": "p 23",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1719871",
+          "legacy_id": "16070",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 102",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_102",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_fulgens_rubra_grandiflora",
+          "type": "variety",
+          "archival_data": [
+            "1475515"
+          ]
+        },
+        "volume": null,
+        "page": "p 102",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1719874",
+          "legacy_id": "16073",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 22",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_22",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_arborescens",
+          "type": "species",
+          "archival_data": [
+            "1414520"
+          ]
+        },
+        "volume": null,
+        "page": "p 22",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1791954",
+          "legacy_id": "97798",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 22",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_22",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_boliviana",
+          "type": "species",
+          "archival_data": [
+            "1414524"
+          ]
+        },
+        "volume": null,
+        "page": "p 22",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1791961",
+          "legacy_id": "97805",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 23",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_23",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_excorticata",
+          "type": "species",
+          "archival_data": [
+            "1414532"
+          ]
+        },
+        "volume": null,
+        "page": "p 23",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1791971",
+          "legacy_id": "97815",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Manthey, Gerda. Fuchsias. (1990) p 19",
+        "machine_name": "manthey_gerda_fuchsias_1990_p_19",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fuchsia_perscandens",
+          "type": "species",
+          "archival_data": [
+            "1414544"
+          ]
+        },
+        "volume": null,
+        "page": "p 19",
+        "year": "1990",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1792242",
+          "legacy_id": "97847",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      }
+    ]
+  }
+}

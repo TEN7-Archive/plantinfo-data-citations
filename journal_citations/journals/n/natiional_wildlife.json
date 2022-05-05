@@ -1,0 +1,124 @@
+{
+  "natiional_wildlife_vol_54_no_6_2016": {
+    "name": "Natiional Wildlife. vol 54, no. 6. (2016)",
+    "machine_name": "natiional_wildlife_vol_54_no_6_2016",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2016",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": "7",
+    "description": null,
+    "archival_data": {
+      "id": "2234211",
+      "legacy_id": null,
+      "author": "r-isaa",
+      "created": "1518031295"
+    },
+    "citation_reference_items": [
+      {
+        "name": "Natiional Wildlife. vol 54, no. 6. (2016) p 50",
+        "machine_name": "natiional_wildlife_vol_54_no_6_2016_p_50",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "asclepias_tuberosa",
+          "type": "species",
+          "archival_data": [
+            "1403000"
+          ]
+        },
+        "volume": null,
+        "page": "p 50",
+        "year": null,
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": true,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": true
+        },
+        "archival_data": {
+          "id": "2234216",
+          "legacy_id": null,
+          "AD": null,
+          "fpi_pub_issue": null,
+          "pullingdat": null,
+          "active": null,
+          "author": "r-isaa",
+          "created": "1518031335"
+        }
+      }
+    ]
+  },
+  "natiional_wildlife_vol_55_no_1_2016_17": {
+    "name": "Natiional Wildlife. vol 55, no. 1. (2016/17)",
+    "machine_name": "natiional_wildlife_vol_55_no_1_2016_17",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "2016/17",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": "7",
+    "description": null,
+    "archival_data": {
+      "id": "2234196",
+      "legacy_id": null,
+      "author": "r-isaa",
+      "created": "1518030752"
+    },
+    "citation_reference_items": [
+      {
+        "name": "Natiional Wildlife. vol 55, no. 1. (2016/17) p 30",
+        "machine_name": "natiional_wildlife_vol_55_no_1_2016_17_p_30",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "carnegiea_gigantea",
+          "type": "species",
+          "archival_data": [
+            "1408533"
+          ]
+        },
+        "volume": null,
+        "page": "p 30",
+        "year": null,
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": true,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "2234201",
+          "legacy_id": null,
+          "AD": null,
+          "fpi_pub_issue": null,
+          "pullingdat": null,
+          "active": null,
+          "author": "r-isaa",
+          "created": "1518030994"
+        }
+      }
+    ]
+  }
+}

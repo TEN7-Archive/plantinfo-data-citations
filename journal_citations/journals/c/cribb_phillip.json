@@ -1,0 +1,5451 @@
+{
+  "cribb_phillip_hardy_orchids": {
+    "name": "Cribb, Phillip. Hardy Orchids.",
+    "machine_name": "cribb_phillip_hardy_orchids",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "1677109",
+      "legacy_id": "2018",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": []
+  },
+  "cribb_phillip_the_forgotten_orchids_of_alexandre_brun_1992": {
+    "name": "Cribb, Phillip. The Forgotten Orchids of Alexandre Brun. (1992)",
+    "machine_name": "cribb_phillip_the_forgotten_orchids_of_alexandre_brun_1992",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1992",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "2112582",
+      "legacy_id": "2019",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": [
+      {
+        "name": "Cribb, Phillip. The Forgotten Orchids of Alexandre Brun. (1992) p 18-19",
+        "machine_name": "cribb_phillip_the_forgotten_orchids_of_alexandre_brun_1992_p_18_19",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "paphiopedilum_victoria_regina_boxallii",
+          "type": "variety",
+          "archival_data": [
+            "1483415"
+          ]
+        },
+        "volume": null,
+        "page": "p 18-19",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1742396",
+          "legacy_id": "36171",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483154438"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. The Forgotten Orchids of Alexandre Brun. (1992) p 79",
+        "machine_name": "cribb_phillip_the_forgotten_orchids_of_alexandre_brun_1992_p_79",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "vanda_tricolor_suavis",
+          "type": "variety",
+          "archival_data": [
+            "1498570"
+          ]
+        },
+        "volume": null,
+        "page": "p 79",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1759027",
+          "legacy_id": "58935",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. The Forgotten Orchids of Alexandre Brun. (1992) p 127",
+        "machine_name": "cribb_phillip_the_forgotten_orchids_of_alexandre_brun_1992_p_127",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "acacallis_cyanea",
+          "type": "species",
+          "archival_data": [
+            "1401206"
+          ]
+        },
+        "volume": null,
+        "page": "p 127",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1764035",
+          "legacy_id": "67398",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. The Forgotten Orchids of Alexandre Brun. (1992) p 65",
+        "machine_name": "cribb_phillip_the_forgotten_orchids_of_alexandre_brun_1992_p_65",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "aerides_falcata",
+          "type": "species",
+          "archival_data": [
+            "1400158"
+          ]
+        },
+        "volume": null,
+        "page": "p 65",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1764903",
+          "legacy_id": "69062",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. The Forgotten Orchids of Alexandre Brun. (1992) p 67",
+        "machine_name": "cribb_phillip_the_forgotten_orchids_of_alexandre_brun_1992_p_67",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "aerides_multiflora",
+          "type": "species",
+          "archival_data": [
+            "1400171"
+          ]
+        },
+        "volume": null,
+        "page": "p 67",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1764916",
+          "legacy_id": "69076",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. The Forgotten Orchids of Alexandre Brun. (1992) p 83",
+        "machine_name": "cribb_phillip_the_forgotten_orchids_of_alexandre_brun_1992_p_83",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "angraecum_sesquipedale",
+          "type": "species",
+          "archival_data": [
+            "1399819"
+          ]
+        },
+        "volume": null,
+        "page": "p 83",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1765697",
+          "legacy_id": "71930",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. The Forgotten Orchids of Alexandre Brun. (1992) p 91",
+        "machine_name": "cribb_phillip_the_forgotten_orchids_of_alexandre_brun_1992_p_91",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "ansellia_africana",
+          "type": "species",
+          "archival_data": [
+            "1399897"
+          ]
+        },
+        "volume": null,
+        "page": "p 91",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1766354",
+          "legacy_id": "72096",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. The Forgotten Orchids of Alexandre Brun. (1992) p 74-75",
+        "machine_name": "cribb_phillip_the_forgotten_orchids_of_alexandre_brun_1992_p_74_75",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "ascocentrum_ampullaceum",
+          "type": "species",
+          "archival_data": [
+            "1403008"
+          ]
+        },
+        "volume": null,
+        "page": "p 74-75",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1773707",
+          "legacy_id": "74062",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. The Forgotten Orchids of Alexandre Brun. (1992) p 95",
+        "machine_name": "cribb_phillip_the_forgotten_orchids_of_alexandre_brun_1992_p_95",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "catasetum_pileatum",
+          "type": "species",
+          "archival_data": [
+            "1403612"
+          ]
+        },
+        "volume": null,
+        "page": "p 95",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1776460",
+          "legacy_id": "80205",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. The Forgotten Orchids of Alexandre Brun. (1992) p 37",
+        "machine_name": "cribb_phillip_the_forgotten_orchids_of_alexandre_brun_1992_p_37",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cattleya_aclandiae",
+          "type": "species",
+          "archival_data": [
+            "1403636"
+          ]
+        },
+        "volume": null,
+        "page": "p 37",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1776766",
+          "legacy_id": "80264",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. The Forgotten Orchids of Alexandre Brun. (1992) p 39",
+        "machine_name": "cribb_phillip_the_forgotten_orchids_of_alexandre_brun_1992_p_39",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cattleya_aurea",
+          "type": "species",
+          "archival_data": [
+            "1403639"
+          ]
+        },
+        "volume": null,
+        "page": "p 39",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1776777",
+          "legacy_id": "80275",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. The Forgotten Orchids of Alexandre Brun. (1992) p 41",
+        "machine_name": "cribb_phillip_the_forgotten_orchids_of_alexandre_brun_1992_p_41",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cattleya_mendelii",
+          "type": "species",
+          "archival_data": [
+            "1403660"
+          ]
+        },
+        "volume": null,
+        "page": "p 41",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1776835",
+          "legacy_id": "80335",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. The Forgotten Orchids of Alexandre Brun. (1992) p 45",
+        "machine_name": "cribb_phillip_the_forgotten_orchids_of_alexandre_brun_1992_p_45",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cattleya_mossiae",
+          "type": "species",
+          "archival_data": [
+            "1403662"
+          ]
+        },
+        "volume": null,
+        "page": "p 45",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1776836",
+          "legacy_id": "80336",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. The Forgotten Orchids of Alexandre Brun. (1992) p 43",
+        "machine_name": "cribb_phillip_the_forgotten_orchids_of_alexandre_brun_1992_p_43",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cattleya_warneri",
+          "type": "species",
+          "archival_data": [
+            "1403672"
+          ]
+        },
+        "volume": null,
+        "page": "p 43",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1777123",
+          "legacy_id": "80373",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. The Forgotten Orchids of Alexandre Brun. (1992) p 32-33",
+        "machine_name": "cribb_phillip_the_forgotten_orchids_of_alexandre_brun_1992_p_32_33",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "coelogyne_cristata",
+          "type": "species",
+          "archival_data": [
+            "1409423"
+          ]
+        },
+        "volume": null,
+        "page": "p 32-33",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1778601",
+          "legacy_id": "83420",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. The Forgotten Orchids of Alexandre Brun. (1992) p 97",
+        "machine_name": "cribb_phillip_the_forgotten_orchids_of_alexandre_brun_1992_p_97",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cirrhaea_dependens",
+          "type": "species",
+          "archival_data": [
+            "1407440"
+          ]
+        },
+        "volume": null,
+        "page": "p 97",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1779184",
+          "legacy_id": "82234",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. The Forgotten Orchids of Alexandre Brun. (1992) p 59",
+        "machine_name": "cribb_phillip_the_forgotten_orchids_of_alexandre_brun_1992_p_59",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "dendrobium_aggregatum",
+          "type": "species",
+          "archival_data": [
+            "1406126"
+          ]
+        },
+        "volume": null,
+        "page": "p 59",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1780592",
+          "legacy_id": "87999",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. The Forgotten Orchids of Alexandre Brun. (1992) p 56-57",
+        "machine_name": "cribb_phillip_the_forgotten_orchids_of_alexandre_brun_1992_p_56_57",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "dendrobium_devonianum",
+          "type": "species",
+          "archival_data": [
+            "1406498"
+          ]
+        },
+        "volume": null,
+        "page": "p 56-57",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1781280",
+          "legacy_id": "88200",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. The Forgotten Orchids of Alexandre Brun. (1992) p 60-61",
+        "machine_name": "cribb_phillip_the_forgotten_orchids_of_alexandre_brun_1992_p_60_61",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "dendrobium_nobile",
+          "type": "species",
+          "archival_data": [
+            "1406883"
+          ]
+        },
+        "volume": null,
+        "page": "p 60-61",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1782226",
+          "legacy_id": "88417",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. The Forgotten Orchids of Alexandre Brun. (1992) p 63",
+        "machine_name": "cribb_phillip_the_forgotten_orchids_of_alexandre_brun_1992_p_63",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "dendrobium_thyrsiflorum",
+          "type": "species",
+          "archival_data": [
+            "1407274"
+          ]
+        },
+        "volume": null,
+        "page": "p 63",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1783165",
+          "legacy_id": "88622",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. The Forgotten Orchids of Alexandre Brun. (1992) p 47",
+        "machine_name": "cribb_phillip_the_forgotten_orchids_of_alexandre_brun_1992_p_47",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "encyclia_citrina",
+          "type": "species",
+          "archival_data": [
+            "1413923"
+          ]
+        },
+        "volume": null,
+        "page": "p 47",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1785857",
+          "legacy_id": "91875",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. The Forgotten Orchids of Alexandre Brun. (1992) p 49",
+        "machine_name": "cribb_phillip_the_forgotten_orchids_of_alexandre_brun_1992_p_49",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cymbidium_cordigerum",
+          "type": "species",
+          "archival_data": [
+            "1458177"
+          ]
+        },
+        "volume": null,
+        "page": "p 49",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1785865",
+          "legacy_id": "91883",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. The Forgotten Orchids of Alexandre Brun. (1992) p 51",
+        "machine_name": "cribb_phillip_the_forgotten_orchids_of_alexandre_brun_1992_p_51",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cattleya_purpurata",
+          "type": "species",
+          "archival_data": [
+            "1461004"
+          ]
+        },
+        "volume": null,
+        "page": "p 51",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1801631",
+          "legacy_id": "107016",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. The Forgotten Orchids of Alexandre Brun. (1992) p 89",
+        "machine_name": "cribb_phillip_the_forgotten_orchids_of_alexandre_brun_1992_p_89",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "lycaste_cruenta",
+          "type": "species",
+          "archival_data": [
+            "1420389"
+          ]
+        },
+        "volume": null,
+        "page": "p 89",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1804762",
+          "legacy_id": "110474",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. The Forgotten Orchids of Alexandre Brun. (1992) p 103",
+        "machine_name": "cribb_phillip_the_forgotten_orchids_of_alexandre_brun_1992_p_103",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "miltoniopsis_vexillaria",
+          "type": "species",
+          "archival_data": [
+            "1420481"
+          ]
+        },
+        "volume": null,
+        "page": "p 103",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1806293",
+          "legacy_id": "113538",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. The Forgotten Orchids of Alexandre Brun. (1992) p 104-05",
+        "machine_name": "cribb_phillip_the_forgotten_orchids_of_alexandre_brun_1992_p_104_05",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "miltoniopsis_warscewiczii",
+          "type": "species",
+          "archival_data": [
+            "1420482"
+          ]
+        },
+        "volume": null,
+        "page": "p 104-05",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1806296",
+          "legacy_id": "113541",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. The Forgotten Orchids of Alexandre Brun. (1992) p 54-55",
+        "machine_name": "cribb_phillip_the_forgotten_orchids_of_alexandre_brun_1992_p_54_55",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "masdevallia_tovarensis",
+          "type": "species",
+          "archival_data": [
+            "1417854"
+          ]
+        },
+        "volume": null,
+        "page": "p 54-55",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1806506",
+          "legacy_id": "112261",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. The Forgotten Orchids of Alexandre Brun. (1992) p 80-81",
+        "machine_name": "cribb_phillip_the_forgotten_orchids_of_alexandre_brun_1992_p_80_81",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "neofinetia_falcata",
+          "type": "species",
+          "archival_data": [
+            "1417164"
+          ]
+        },
+        "volume": null,
+        "page": "p 80-81",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1806662",
+          "legacy_id": "115102",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. The Forgotten Orchids of Alexandre Brun. (1992) p 12-13",
+        "machine_name": "cribb_phillip_the_forgotten_orchids_of_alexandre_brun_1992_p_12_13",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "paphiopedilum_rothschildianum",
+          "type": "species",
+          "archival_data": [
+            "1424809"
+          ]
+        },
+        "volume": null,
+        "page": "p 12-13",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1810178",
+          "legacy_id": "118555",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. The Forgotten Orchids of Alexandre Brun. (1992) p 15",
+        "machine_name": "cribb_phillip_the_forgotten_orchids_of_alexandre_brun_1992_p_15",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "paphiopedilum_spicerianum",
+          "type": "species",
+          "archival_data": [
+            "1424815"
+          ]
+        },
+        "volume": null,
+        "page": "p 15",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1810193",
+          "legacy_id": "118571",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. The Forgotten Orchids of Alexandre Brun. (1992) p 17",
+        "machine_name": "cribb_phillip_the_forgotten_orchids_of_alexandre_brun_1992_p_17",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "paphiopedilum_victoria_regina",
+          "type": "species",
+          "archival_data": [
+            "1424826"
+          ]
+        },
+        "volume": null,
+        "page": "p 17",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1810487",
+          "legacy_id": "118620",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. The Forgotten Orchids of Alexandre Brun. (1992) p 107",
+        "machine_name": "cribb_phillip_the_forgotten_orchids_of_alexandre_brun_1992_p_107",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "odontoglossum_cirrhosum",
+          "type": "species",
+          "archival_data": [
+            "1425495"
+          ]
+        },
+        "volume": null,
+        "page": "p 107",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1810682",
+          "legacy_id": "116048",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. The Forgotten Orchids of Alexandre Brun. (1992) p 109",
+        "machine_name": "cribb_phillip_the_forgotten_orchids_of_alexandre_brun_1992_p_109",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "odontoglossum_crispum",
+          "type": "species",
+          "archival_data": [
+            "1425502"
+          ]
+        },
+        "volume": null,
+        "page": "p 109",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1810694",
+          "legacy_id": "116060",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. The Forgotten Orchids of Alexandre Brun. (1992) p 111",
+        "machine_name": "cribb_phillip_the_forgotten_orchids_of_alexandre_brun_1992_p_111",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "odontoglossum_nobile",
+          "type": "species",
+          "archival_data": [
+            "1425822"
+          ]
+        },
+        "volume": null,
+        "page": "p 111",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1810992",
+          "legacy_id": "116112",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. The Forgotten Orchids of Alexandre Brun. (1992) p 29",
+        "machine_name": "cribb_phillip_the_forgotten_orchids_of_alexandre_brun_1992_p_29",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "phaius_tankervilleae",
+          "type": "species",
+          "archival_data": [
+            "1422679"
+          ]
+        },
+        "volume": null,
+        "page": "p 29",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1811547",
+          "legacy_id": "120390",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. The Forgotten Orchids of Alexandre Brun. (1992) p 69",
+        "machine_name": "cribb_phillip_the_forgotten_orchids_of_alexandre_brun_1992_p_69",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "phalaenopsis_amabilis",
+          "type": "species",
+          "archival_data": [
+            "1422682"
+          ]
+        },
+        "volume": null,
+        "page": "p 69",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1811562",
+          "legacy_id": "120405",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. The Forgotten Orchids of Alexandre Brun. (1992) p 70-71",
+        "machine_name": "cribb_phillip_the_forgotten_orchids_of_alexandre_brun_1992_p_70_71",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "phalaenopsis_violacea",
+          "type": "species",
+          "archival_data": [
+            "1422995"
+          ]
+        },
+        "volume": null,
+        "page": "p 70-71",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1811879",
+          "legacy_id": "120480",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. The Forgotten Orchids of Alexandre Brun. (1992) p 113",
+        "machine_name": "cribb_phillip_the_forgotten_orchids_of_alexandre_brun_1992_p_113",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "oncidium_dasystle",
+          "type": "species",
+          "archival_data": [
+            "1426570"
+          ]
+        },
+        "volume": null,
+        "page": "p 113",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1812320",
+          "legacy_id": "116461",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. The Forgotten Orchids of Alexandre Brun. (1992) p 114-15",
+        "machine_name": "cribb_phillip_the_forgotten_orchids_of_alexandre_brun_1992_p_114_15",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "oncidium_forbesii",
+          "type": "species",
+          "archival_data": [
+            "1426576"
+          ]
+        },
+        "volume": null,
+        "page": "p 114-15",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1812331",
+          "legacy_id": "116472",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. The Forgotten Orchids of Alexandre Brun. (1992) p 117",
+        "machine_name": "cribb_phillip_the_forgotten_orchids_of_alexandre_brun_1992_p_117",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "oncidium_varicosum",
+          "type": "species",
+          "archival_data": [
+            "1426934"
+          ]
+        },
+        "volume": null,
+        "page": "p 117",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1812958",
+          "legacy_id": "116606",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. The Forgotten Orchids of Alexandre Brun. (1992) p 10-11",
+        "machine_name": "cribb_phillip_the_forgotten_orchids_of_alexandre_brun_1992_p_10_11",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "paphiopedilum_insigne",
+          "type": "species",
+          "archival_data": [
+            "1424782"
+          ]
+        },
+        "volume": null,
+        "page": "p 10-11",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1815012",
+          "legacy_id": "118487",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. The Forgotten Orchids of Alexandre Brun. (1992) p 34-35",
+        "machine_name": "cribb_phillip_the_forgotten_orchids_of_alexandre_brun_1992_p_34_35",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "pleione_lagenaria",
+          "type": "species",
+          "archival_data": [
+            "1426727"
+          ]
+        },
+        "volume": null,
+        "page": "p 34-35",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1815685",
+          "legacy_id": "122696",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. The Forgotten Orchids of Alexandre Brun. (1992) p 85",
+        "machine_name": "cribb_phillip_the_forgotten_orchids_of_alexandre_brun_1992_p_85",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "promenaea_stapelioides",
+          "type": "species",
+          "archival_data": [
+            "1424636"
+          ]
+        },
+        "volume": null,
+        "page": "p 85",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1817416",
+          "legacy_id": "124459",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. The Forgotten Orchids of Alexandre Brun. (1992) p 86-87",
+        "machine_name": "cribb_phillip_the_forgotten_orchids_of_alexandre_brun_1992_p_86_87",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "promenaea_xanthina",
+          "type": "species",
+          "archival_data": [
+            "1424637"
+          ]
+        },
+        "volume": null,
+        "page": "p 86-87",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1817421",
+          "legacy_id": "124464",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. The Forgotten Orchids of Alexandre Brun. (1992) p 24-25",
+        "machine_name": "cribb_phillip_the_forgotten_orchids_of_alexandre_brun_1992_p_24_25",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "phragmipedium_caudatum",
+          "type": "species",
+          "archival_data": [
+            "1423780"
+          ]
+        },
+        "volume": null,
+        "page": "p 24-25",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1819119",
+          "legacy_id": "120961",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. The Forgotten Orchids of Alexandre Brun. (1992) p frontispiece|120-21",
+        "machine_name": "cribb_phillip_the_forgotten_orchids_of_alexandre_brun_1992_p_frontispiece_120_21",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rossioglossum_grande",
+          "type": "species",
+          "archival_data": [
+            "1428020"
+          ]
+        },
+        "volume": null,
+        "page": "p frontispiece|120-21",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1822640",
+          "legacy_id": "129743",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. The Forgotten Orchids of Alexandre Brun. (1992) p 73",
+        "machine_name": "cribb_phillip_the_forgotten_orchids_of_alexandre_brun_1992_p_73",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rhynchostylis_gigantea",
+          "type": "species",
+          "archival_data": [
+            "1432830"
+          ]
+        },
+        "volume": null,
+        "page": "p 73",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1824189",
+          "legacy_id": "128811",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. The Forgotten Orchids of Alexandre Brun. (1992) p 119",
+        "machine_name": "cribb_phillip_the_forgotten_orchids_of_alexandre_brun_1992_p_119",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rodriguezia_candida",
+          "type": "species",
+          "archival_data": [
+            "1433216"
+          ]
+        },
+        "volume": null,
+        "page": "p 119",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1825138",
+          "legacy_id": "129040",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. The Forgotten Orchids of Alexandre Brun. (1992) p 99",
+        "machine_name": "cribb_phillip_the_forgotten_orchids_of_alexandre_brun_1992_p_99",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "stanhopea_graveolens",
+          "type": "species",
+          "archival_data": [
+            "1432609"
+          ]
+        },
+        "volume": null,
+        "page": "p 99",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1828189",
+          "legacy_id": "135200",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. The Forgotten Orchids of Alexandre Brun. (1992) p 101",
+        "machine_name": "cribb_phillip_the_forgotten_orchids_of_alexandre_brun_1992_p_101",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "stanhopea_tigrina",
+          "type": "species",
+          "archival_data": [
+            "1432619"
+          ]
+        },
+        "volume": null,
+        "page": "p 101",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1828210",
+          "legacy_id": "135223",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. The Forgotten Orchids of Alexandre Brun. (1992) p 93",
+        "machine_name": "cribb_phillip_the_forgotten_orchids_of_alexandre_brun_1992_p_93",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "scuticaria_steelii",
+          "type": "species",
+          "archival_data": [
+            "1427700"
+          ]
+        },
+        "volume": null,
+        "page": "p 93",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1828677",
+          "legacy_id": "132684",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. The Forgotten Orchids of Alexandre Brun. (1992) p 4-5|31",
+        "machine_name": "cribb_phillip_the_forgotten_orchids_of_alexandre_brun_1992_p_4_5_31",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "sobralia_macrantha",
+          "type": "species",
+          "archival_data": [
+            "1430386"
+          ]
+        },
+        "volume": null,
+        "page": "p 4-5|31",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1828763",
+          "legacy_id": "134020",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. The Forgotten Orchids of Alexandre Brun. (1992) p 52-53",
+        "machine_name": "cribb_phillip_the_forgotten_orchids_of_alexandre_brun_1992_p_52_53",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "sophronitis_coccinea",
+          "type": "species",
+          "archival_data": [
+            "1431132"
+          ]
+        },
+        "volume": null,
+        "page": "p 52-53",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1830667",
+          "legacy_id": "134482",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. The Forgotten Orchids of Alexandre Brun. (1992) p 76-77",
+        "machine_name": "cribb_phillip_the_forgotten_orchids_of_alexandre_brun_1992_p_76_77",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "vanda_tricolor",
+          "type": "species",
+          "archival_data": [
+            "1429043"
+          ]
+        },
+        "volume": null,
+        "page": "p 76-77",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1831729",
+          "legacy_id": "140108",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. The Forgotten Orchids of Alexandre Brun. (1992) p 123",
+        "machine_name": "cribb_phillip_the_forgotten_orchids_of_alexandre_brun_1992_p_123",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "trichopilia_fragrans",
+          "type": "species",
+          "archival_data": [
+            "1432775"
+          ]
+        },
+        "volume": null,
+        "page": "p 123",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1835205",
+          "legacy_id": "138395",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. The Forgotten Orchids of Alexandre Brun. (1992) p 125",
+        "machine_name": "cribb_phillip_the_forgotten_orchids_of_alexandre_brun_1992_p_125",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "trichopilia_suavis",
+          "type": "species",
+          "archival_data": [
+            "1432777"
+          ]
+        },
+        "volume": null,
+        "page": "p 125",
+        "year": "1992",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1835210",
+          "legacy_id": "138400",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      }
+    ]
+  },
+  "cribb_phillip_the_forgotten_orchids_of_alexandre_brun": {
+    "name": "Cribb, Phillip. The Forgotten Orchids of Alexandre Brun.",
+    "machine_name": "cribb_phillip_the_forgotten_orchids_of_alexandre_brun",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "1677110",
+      "legacy_id": "2019",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": []
+  },
+  "cribb_phillip_hardy_orchids_1989": {
+    "name": "Cribb, Phillip. Hardy Orchids. (1989)",
+    "machine_name": "cribb_phillip_hardy_orchids_1989",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1989",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "2111104",
+      "legacy_id": "2018",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": [
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 140, Pl. 30.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_140_pl_30",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cypripedium_calceolus",
+          "type": "species",
+          "archival_data": [
+            "1404212"
+          ]
+        },
+        "volume": null,
+        "page": "p 140, Pl. 30.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1714324",
+          "legacy_id": "10755",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 141, Pl. 32.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_141_pl_32",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cypripedium_parviflorum_parviflorum",
+          "type": "variety",
+          "archival_data": [
+            "1471380"
+          ]
+        },
+        "volume": null,
+        "page": "p 141, Pl. 32.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1714583",
+          "legacy_id": "10763",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 141, Pl. 31.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_141_pl_31",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cypripedium_parviflorum_pubescens",
+          "type": "variety",
+          "archival_data": [
+            "1471382"
+          ]
+        },
+        "volume": null,
+        "page": "p 141, Pl. 31.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1714600",
+          "legacy_id": "10780",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 142, Pl. 37.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_142_pl_37",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cypripedium_japonicum_formosanum",
+          "type": "variety",
+          "archival_data": [
+            "1471384"
+          ]
+        },
+        "volume": null,
+        "page": "p 142, Pl. 37.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1714610",
+          "legacy_id": "10790",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 142, Pl. 36.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_142_pl_36",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cypripedium_japonicum_japonicum",
+          "type": "variety",
+          "archival_data": [
+            "1471385"
+          ]
+        },
+        "volume": null,
+        "page": "p 142, Pl. 36.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1714612",
+          "legacy_id": "10792",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 149, Pl. 51.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_149_pl_51",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "dactylorhiza_maculata_transsilvanica",
+          "type": "variety",
+          "archival_data": [
+            "1471675"
+          ]
+        },
+        "volume": null,
+        "page": "p 149, Pl. 51.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1714942",
+          "legacy_id": "10873",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 159, Pl. 85.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_159_pl_85",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "pleione_cultivars_matupi",
+          "type": "variety",
+          "archival_data": [
+            "1486573"
+          ]
+        },
+        "volume": null,
+        "page": "p 159, Pl. 85.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1740695",
+          "legacy_id": "39661",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483154438"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 159, Pl. 86.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_159_pl_86",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "pleione_cultivars_shantung",
+          "type": "variety",
+          "archival_data": [
+            "1486574"
+          ]
+        },
+        "volume": null,
+        "page": "p 159, Pl. 86.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1740696",
+          "legacy_id": "39662",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483154438"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 158, Pl. 83.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_158_pl_83",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "pleione_cultivars_versailles_bucklebury",
+          "type": "variety",
+          "archival_data": [
+            "1486580"
+          ]
+        },
+        "volume": null,
+        "page": "p 158, Pl. 83.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1740702",
+          "legacy_id": "39668",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483154438"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 132, Pl. 6.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_132_pl_6",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "orchis_anthropophora",
+          "type": "species",
+          "archival_data": [
+            "1459263"
+          ]
+        },
+        "volume": null,
+        "page": "p 132, Pl. 6.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1767141",
+          "legacy_id": "68289",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 132, Pl. 8.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_132_pl_8",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "amitostigma_keiskei",
+          "type": "species",
+          "archival_data": [
+            "1398292"
+          ]
+        },
+        "volume": null,
+        "page": "p 132, Pl. 8.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1767607",
+          "legacy_id": "71096",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 136, Pl. 19-20.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_136_pl_19_20",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "calypso_bulbosa",
+          "type": "species",
+          "archival_data": [
+            "1399659"
+          ]
+        },
+        "volume": null,
+        "page": "p 136, Pl. 19-20.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1769812",
+          "legacy_id": "78553",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 133, Pl. 10.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_133_pl_10",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "bletilla_striata",
+          "type": "species",
+          "archival_data": [
+            "1401922"
+          ]
+        },
+        "volume": null,
+        "page": "p 133, Pl. 10.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1771972",
+          "legacy_id": "76338",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 133, Pl. 11. (see errata)",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_133_pl_11_see_errata",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "caladenia_dilatata",
+          "type": "species",
+          "archival_data": [
+            "1398918"
+          ]
+        },
+        "volume": null,
+        "page": "p 133, Pl. 11. (see errata)",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1772327",
+          "legacy_id": "77735",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 133, Pl. 12.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_133_pl_12",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "caladenia_flava",
+          "type": "species",
+          "archival_data": [
+            "1400006"
+          ]
+        },
+        "volume": null,
+        "page": "p 133, Pl. 12.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1772334",
+          "legacy_id": "77742",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 134, Pl. 13.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_134_pl_13",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "calanthe_discolor",
+          "type": "species",
+          "archival_data": [
+            "1400087"
+          ]
+        },
+        "volume": null,
+        "page": "p 134, Pl. 13.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1772702",
+          "legacy_id": "77879",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 134, Pl. 14.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_134_pl_14",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "calanthe_izu_insularis",
+          "type": "species",
+          "archival_data": [
+            "1400090"
+          ]
+        },
+        "volume": null,
+        "page": "p 134, Pl. 14.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1772710",
+          "legacy_id": "77887",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 134-35, Pl. 15-16.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_134_35_pl_15_16",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "calanthe_striata",
+          "type": "species",
+          "archival_data": [
+            "1400099"
+          ]
+        },
+        "volume": null,
+        "page": "p 134-35, Pl. 15-16.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1772964",
+          "legacy_id": "77896",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 135, Pl. 17.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_135_pl_17",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "calanthe_tricarinata",
+          "type": "species",
+          "archival_data": [
+            "1399217"
+          ]
+        },
+        "volume": null,
+        "page": "p 135, Pl. 17.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1772968",
+          "legacy_id": "77900",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 132, Pl. 9.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_132_pl_9",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "barlia_robertiana",
+          "type": "species",
+          "archival_data": [
+            "1399948"
+          ]
+        },
+        "volume": null,
+        "page": "p 132, Pl. 9.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1773796",
+          "legacy_id": "75413",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 137, Pl. 24.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_137_pl_24",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "chloraea_virescens",
+          "type": "species",
+          "archival_data": [
+            "1406363"
+          ]
+        },
+        "volume": null,
+        "page": "p 137, Pl. 24.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1777593",
+          "legacy_id": "81868",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 136, Pl. 21.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_136_pl_21",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cephalanthera_falcata",
+          "type": "species",
+          "archival_data": [
+            "1404785"
+          ]
+        },
+        "volume": null,
+        "page": "p 136, Pl. 21.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1779141",
+          "legacy_id": "80918",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 136, Pl. 22.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_136_pl_22",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cephalanthera_kurdica",
+          "type": "species",
+          "archival_data": [
+            "1404786"
+          ]
+        },
+        "volume": null,
+        "page": "p 136, Pl. 22.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1779145",
+          "legacy_id": "80922",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 139, Pl. 28.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_139_pl_28",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "comperia_comperiana",
+          "type": "species",
+          "archival_data": [
+            "1404146"
+          ]
+        },
+        "volume": null,
+        "page": "p 139, Pl. 28.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1779929",
+          "legacy_id": "83767",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 138, Pl. 27.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_138_pl_27",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cymbidium_floribundum",
+          "type": "species",
+          "archival_data": [
+            "1409524"
+          ]
+        },
+        "volume": null,
+        "page": "p 138, Pl. 27.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1780525",
+          "legacy_id": "86666",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 138, Pl. 26.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_138_pl_26",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cymbidium_goeringii",
+          "type": "species",
+          "archival_data": [
+            "1409526"
+          ]
+        },
+        "volume": null,
+        "page": "p 138, Pl. 26.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1780527",
+          "legacy_id": "86668",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 137, Pl. 25.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_137_pl_25",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cremastra_appendiculata",
+          "type": "species",
+          "archival_data": [
+            "1407575"
+          ]
+        },
+        "volume": null,
+        "page": "p 137, Pl. 25.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1781124",
+          "legacy_id": "85526",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 149, Pl. 54. (see errata)",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_149_pl_54_see_errata",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "disa_uniflora",
+          "type": "species",
+          "archival_data": [
+            "1409587"
+          ]
+        },
+        "volume": null,
+        "page": "p 149, Pl. 54. (see errata)",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1781667",
+          "legacy_id": "89754",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 139, Pl. 29.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_139_pl_29",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cypripedium_acaule",
+          "type": "species",
+          "archival_data": [
+            "1404209"
+          ]
+        },
+        "volume": null,
+        "page": "p 139, Pl. 29.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1781806",
+          "legacy_id": "86982",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 142, Pl. 34.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_142_pl_34",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cypripedium_californicum",
+          "type": "species",
+          "archival_data": [
+            "1404213"
+          ]
+        },
+        "volume": null,
+        "page": "p 142, Pl. 34.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1782124",
+          "legacy_id": "87057",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 143, Pl. 38-39.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_143_pl_38_39",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cypripedium_flavum",
+          "type": "species",
+          "archival_data": [
+            "1404220"
+          ]
+        },
+        "volume": null,
+        "page": "p 143, Pl. 38-39.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1782148",
+          "legacy_id": "87081",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 142, Pl. 33.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_142_pl_33",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cypripedium_guttatum",
+          "type": "species",
+          "archival_data": [
+            "1404223"
+          ]
+        },
+        "volume": null,
+        "page": "p 142, Pl. 33.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1782152",
+          "legacy_id": "87085",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 142, Pl. 35.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_142_pl_35",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cypripedium_henryi",
+          "type": "species",
+          "archival_data": [
+            "1404224"
+          ]
+        },
+        "volume": null,
+        "page": "p 142, Pl. 35.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1782159",
+          "legacy_id": "87092",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 149, Pl. 53.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_149_pl_53",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "dendrobium_moniliforme",
+          "type": "species",
+          "archival_data": [
+            "1406873"
+          ]
+        },
+        "volume": null,
+        "page": "p 149, Pl. 53.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1782202",
+          "legacy_id": "88393",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 144, Pl. 40.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_144_pl_40",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cypripedium_margaritaceum",
+          "type": "species",
+          "archival_data": [
+            "1404232"
+          ]
+        },
+        "volume": null,
+        "page": "p 144, Pl. 40.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1782429",
+          "legacy_id": "87120",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 144, Pl. 41.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_144_pl_41",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cypripedium_montanum",
+          "type": "species",
+          "archival_data": [
+            "1404233"
+          ]
+        },
+        "volume": null,
+        "page": "p 144, Pl. 41.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1782441",
+          "legacy_id": "87132",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 144-45, Pl. 42-43.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_144_45_pl_42_43",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cypripedium_reginae",
+          "type": "species",
+          "archival_data": [
+            "1404238"
+          ]
+        },
+        "volume": null,
+        "page": "p 144-45, Pl. 42-43.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1782461",
+          "legacy_id": "87152",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 144, Pl. 44.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_144_pl_44",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cypripedium_tibeticum",
+          "type": "species",
+          "archival_data": [
+            "1404242"
+          ]
+        },
+        "volume": null,
+        "page": "p 144, Pl. 44.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1782488",
+          "legacy_id": "87180",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 137, Pl. 23.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_137_pl_23",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "corybas_orbicularis",
+          "type": "species",
+          "archival_data": [
+            "1405707"
+          ]
+        },
+        "volume": null,
+        "page": "p 137, Pl. 23.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1783293",
+          "legacy_id": "84728",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 146-47, Pl. 45-46.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_146_47_pl_45_46",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "dactylorhiza_elata",
+          "type": "species",
+          "archival_data": [
+            "1404650"
+          ]
+        },
+        "volume": null,
+        "page": "p 146-47, Pl. 45-46.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1783405",
+          "legacy_id": "87370",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 148, Pl. 47-48.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_148_pl_47_48",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "dactylorhiza_foliosa",
+          "type": "species",
+          "archival_data": [
+            "1404651"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 47-48.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1783417",
+          "legacy_id": "87382",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 148, Pl. 49.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_148_pl_49",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "dactylorhiza_fuchsii",
+          "type": "species",
+          "archival_data": [
+            "1404652"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 49.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1783423",
+          "legacy_id": "87388",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 149, Pl. 50.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_149_pl_50",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "dactylorhiza_praetermissa",
+          "type": "species",
+          "archival_data": [
+            "1404659"
+          ]
+        },
+        "volume": null,
+        "page": "p 149, Pl. 50.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1783468",
+          "legacy_id": "87435",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 149, Pl. 52.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_149_pl_52",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "dactylostalix_ringens",
+          "type": "species",
+          "archival_data": [
+            "1404666"
+          ]
+        },
+        "volume": null,
+        "page": "p 149, Pl. 52.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1783742",
+          "legacy_id": "87464",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 150-51, Pl. 58-59.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_150_51_pl_58_59",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "epipactis_gigantea",
+          "type": "species",
+          "archival_data": [
+            "1415060"
+          ]
+        },
+        "volume": null,
+        "page": "p 150-51, Pl. 58-59.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1786358",
+          "legacy_id": "92389",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 151, Pl. 60.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_151_pl_60",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "epipactis_palustris",
+          "type": "species",
+          "archival_data": [
+            "1415067"
+          ]
+        },
+        "volume": null,
+        "page": "p 151, Pl. 60.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1786379",
+          "legacy_id": "92411",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 150, Pl. 56.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_150_pl_56",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "diuris_longifolia",
+          "type": "species",
+          "archival_data": [
+            "1403509"
+          ]
+        },
+        "volume": null,
+        "page": "p 150, Pl. 56.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1787789",
+          "legacy_id": "89873",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 150, Pl. 55.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_150_pl_55",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "diuris_maculata",
+          "type": "species",
+          "archival_data": [
+            "1403510"
+          ]
+        },
+        "volume": null,
+        "page": "p 150, Pl. 55.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1787793",
+          "legacy_id": "89877",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 150, Pl. 57.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_150_pl_57",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "diuris_punctata",
+          "type": "species",
+          "archival_data": [
+            "1403513"
+          ]
+        },
+        "volume": null,
+        "page": "p 150, Pl. 57.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1787801",
+          "legacy_id": "89885",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 151, Pl. 62.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_151_pl_62",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "goodyera_oblongifolia",
+          "type": "species",
+          "archival_data": [
+            "1413102"
+          ]
+        },
+        "volume": null,
+        "page": "p 151, Pl. 62.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1795019",
+          "legacy_id": "99958",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 151, Pl. 61.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_151_pl_61",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "goodyera_repens",
+          "type": "species",
+          "archival_data": [
+            "1413105"
+          ]
+        },
+        "volume": null,
+        "page": "p 151, Pl. 61.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1795029",
+          "legacy_id": "99968",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 151, Pl. 63.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_151_pl_63",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "himantoglossum_hircinum",
+          "type": "species",
+          "archival_data": [
+            "1419436"
+          ]
+        },
+        "volume": null,
+        "page": "p 151, Pl. 63.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1796155",
+          "legacy_id": "102885",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 131| 153, Pl. 2-3| 5| 68-69.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_131_153_pl_2_3_5_68_69",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "ophrys_apifera",
+          "type": "species",
+          "archival_data": [
+            "1427292"
+          ]
+        },
+        "volume": null,
+        "page": "p 131| 153, Pl. 2-3| 5| 68-69.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1813347",
+          "legacy_id": "116752",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 152, Pl. 64.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_152_pl_64",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "ophrys_bertolonii",
+          "type": "species",
+          "archival_data": [
+            "1427301"
+          ]
+        },
+        "volume": null,
+        "page": "p 152, Pl. 64.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1813609",
+          "legacy_id": "116770",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 152, Pl. 65.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_152_pl_65",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "ophrys_lutea",
+          "type": "species",
+          "archival_data": [
+            "1427329"
+          ]
+        },
+        "volume": null,
+        "page": "p 152, Pl. 65.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1813663",
+          "legacy_id": "116830",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 152, Pl. 66.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_152_pl_66",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "ophrys_sphegodes",
+          "type": "species",
+          "archival_data": [
+            "1427347"
+          ]
+        },
+        "volume": null,
+        "page": "p 152, Pl. 66.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1813920",
+          "legacy_id": "116845",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 152, Pl. 67.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_152_pl_67",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "ophrys_tenthredinifera",
+          "type": "species",
+          "archival_data": [
+            "1427349"
+          ]
+        },
+        "volume": null,
+        "page": "p 152, Pl. 67.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1813939",
+          "legacy_id": "116864",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 154, Pl. 70.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_154_pl_70",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "ophrys_vernixia",
+          "type": "species",
+          "archival_data": [
+            "1427351"
+          ]
+        },
+        "volume": null,
+        "page": "p 154, Pl. 70.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1813949",
+          "legacy_id": "116874",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 156, Pl. 77.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_156_pl_77",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "oreorchis_patens",
+          "type": "species",
+          "archival_data": [
+            "1422218"
+          ]
+        },
+        "volume": null,
+        "page": "p 156, Pl. 77.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1814911",
+          "legacy_id": "117122",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 160, Pl. 90.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_160_pl_90",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "pterostylis_curta",
+          "type": "species",
+          "archival_data": [
+            "1426134"
+          ]
+        },
+        "volume": null,
+        "page": "p 160, Pl. 90.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1815149",
+          "legacy_id": "125226",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 131, Pl. 4.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_131_pl_4",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "pterostylis_fischii",
+          "type": "species",
+          "archival_data": [
+            "1426139"
+          ]
+        },
+        "volume": null,
+        "page": "p 131, Pl. 4.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": true
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1815159",
+          "legacy_id": "125236",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 158, Pl. 80.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_158_pl_80",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "pleione_bulbocodioides",
+          "type": "species",
+          "archival_data": [
+            "1426720"
+          ]
+        },
+        "volume": null,
+        "page": "p 158, Pl. 80.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1815648",
+          "legacy_id": "122658",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 158, Pl. 81.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_158_pl_81",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "pleione_formosana",
+          "type": "species",
+          "archival_data": [
+            "1426723"
+          ]
+        },
+        "volume": null,
+        "page": "p 158, Pl. 81.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1815660",
+          "legacy_id": "122670",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 158, Pl. 82.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_158_pl_82",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "pleione_forrestii",
+          "type": "species",
+          "archival_data": [
+            "1426724"
+          ]
+        },
+        "volume": null,
+        "page": "p 158, Pl. 82.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1815667",
+          "legacy_id": "122677",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 159, Pl. 84.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_159_pl_84",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "pleione_limprichtii",
+          "type": "species",
+          "archival_data": [
+            "1426728"
+          ]
+        },
+        "volume": null,
+        "page": "p 159, Pl. 84.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1815691",
+          "legacy_id": "122702",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 160, Pl. 88.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_160_pl_88",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "pogonia_ophioglossoides",
+          "type": "species",
+          "archival_data": [
+            "1427158"
+          ]
+        },
+        "volume": null,
+        "page": "p 160, Pl. 88.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1816974",
+          "legacy_id": "123009",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 156, Pl. 78.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_156_pl_78",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "platanthera_ciliaris",
+          "type": "species",
+          "archival_data": [
+            "1426067"
+          ]
+        },
+        "volume": null,
+        "page": "p 156, Pl. 78.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1819852",
+          "legacy_id": "122449",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 157, Pl. 79.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_157_pl_79",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "platanthera_grandiflora",
+          "type": "species",
+          "archival_data": [
+            "1426071"
+          ]
+        },
+        "volume": null,
+        "page": "p 157, Pl. 79.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1819866",
+          "legacy_id": "122463",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 160, Pl. 89.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_160_pl_89",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "pterostylis_baptistii",
+          "type": "species",
+          "archival_data": [
+            "1426127"
+          ]
+        },
+        "volume": null,
+        "page": "p 160, Pl. 89.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1820362",
+          "legacy_id": "125205",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 161, Pl. 93.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_161_pl_93",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "serapias_lingua",
+          "type": "species",
+          "archival_data": [
+            "1429163"
+          ]
+        },
+        "volume": null,
+        "page": "p 161, Pl. 93.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1825837",
+          "legacy_id": "133279",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 161, Pl. 91-92.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_161_pl_91_92",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "serapias_neglecta",
+          "type": "species",
+          "archival_data": [
+            "1429164"
+          ]
+        },
+        "volume": null,
+        "page": "p 161, Pl. 91-92.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1825843",
+          "legacy_id": "133286",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 161, Pl. 94.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_161_pl_94",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "spiranthes_spiralis",
+          "type": "species",
+          "archival_data": [
+            "1431932"
+          ]
+        },
+        "volume": null,
+        "page": "p 161, Pl. 94.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1827223",
+          "legacy_id": "134966",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 160, Pl. 87.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_160_pl_87",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "satyrium_nepalense",
+          "type": "species",
+          "archival_data": [
+            "1431370"
+          ]
+        },
+        "volume": null,
+        "page": "p 160, Pl. 87.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1829535",
+          "legacy_id": "131575",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 162, Pl. 96.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_162_pl_96",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "thelymitra_antennifera",
+          "type": "species",
+          "archival_data": [
+            "1430420"
+          ]
+        },
+        "volume": null,
+        "page": "p 162, Pl. 96.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1835398",
+          "legacy_id": "137092",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Cribb, Phillip. Hardy Orchids. (1989) p 162, Pl. 95.",
+        "machine_name": "cribb_phillip_hardy_orchids_1989_p_162_pl_95",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "thelymitra_aristata",
+          "type": "species",
+          "archival_data": [
+            "1430421"
+          ]
+        },
+        "volume": null,
+        "page": "p 162, Pl. 95.",
+        "year": "1989",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1835404",
+          "legacy_id": "137098",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      }
+    ]
+  }
+}

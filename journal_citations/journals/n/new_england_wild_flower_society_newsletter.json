@@ -1,0 +1,82 @@
+{
+  "new_england_wild_flower_society_newsletter_vol_10_no_2_1994": {
+    "name": "New England Wild Flower Society, Newsletter. vol 10, no. 2. (1994)",
+    "machine_name": "new_england_wild_flower_society_newsletter_vol_10_no_2_1994",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1994",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "2111131",
+      "legacy_id": "4763",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": [
+      {
+        "name": "New England Wild Flower Society, Newsletter. vol 10, no. 2. (1994) p cover",
+        "machine_name": "new_england_wild_flower_society_newsletter_vol_10_no_2_1994_p_cover",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cypripedium_parviflorum_pubescens",
+          "type": "variety",
+          "archival_data": [
+            "1471382"
+          ]
+        },
+        "volume": null,
+        "page": "p cover",
+        "year": "1994",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1714603",
+          "legacy_id": "10783",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      }
+    ]
+  },
+  "new_england_wild_flower_society_newsletter_vol_10_no_2": {
+    "name": "New England Wild Flower Society, Newsletter. vol 10, no. 2.",
+    "machine_name": "new_england_wild_flower_society_newsletter_vol_10_no_2",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "1678979",
+      "legacy_id": "4763",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": []
+  }
+}

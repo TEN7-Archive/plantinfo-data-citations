@@ -1,0 +1,4879 @@
+{
+  "benson_lyman_the_cacti_of_the_united_states_and_canada": {
+    "name": "Benson, Lyman. The Cacti of the United States and Canada.",
+    "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "1674842",
+      "legacy_id": "1504",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": []
+  },
+  "benson_lyman_the_cacti_of_the_united_states_and_canada_1982": {
+    "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982)",
+    "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1982",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "2110056",
+      "legacy_id": "1504",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": [
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 788, Pl. 175.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_788_pl_175",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "coryphantha_cornifera_echinus",
+          "type": "variety",
+          "archival_data": [
+            "1471293"
+          ]
+        },
+        "volume": null,
+        "page": "p 788, Pl. 175.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1706496",
+          "legacy_id": "8788",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 788, Pl. 176.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_788_pl_176",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "coryphantha_dasyacantha_dasyacantha",
+          "type": "variety",
+          "archival_data": [
+            "1471294"
+          ]
+        },
+        "volume": null,
+        "page": "p 788, Pl. 176.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1706497",
+          "legacy_id": "8789",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 788, Pl. 164-65.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_788_pl_164_65",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "coryphantha_macromeris_macromeris",
+          "type": "variety",
+          "archival_data": [
+            "1471295"
+          ]
+        },
+        "volume": null,
+        "page": "p 788, Pl. 164-65.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1706498",
+          "legacy_id": "8790",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 788, Pl. 163.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_788_pl_163",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "coryphantha_macromeris_runyoni",
+          "type": "variety",
+          "archival_data": [
+            "1471296"
+          ]
+        },
+        "volume": null,
+        "page": "p 788, Pl. 163.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1706499",
+          "legacy_id": "8791",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 788, Pl. 179-80.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_788_pl_179_80",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "coryphantha_missouriensis_marstonii",
+          "type": "variety",
+          "archival_data": [
+            "1471297"
+          ]
+        },
+        "volume": null,
+        "page": "p 788, Pl. 179-80.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1706500",
+          "legacy_id": "8792",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 788, Pl. 170.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_788_pl_170",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "coryphantha_vivipara_alversonii",
+          "type": "variety",
+          "archival_data": [
+            "1471300"
+          ]
+        },
+        "volume": null,
+        "page": "p 788, Pl. 170.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1706504",
+          "legacy_id": "8796",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 788, Pl. 168.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_788_pl_168",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "coryphantha_vivipara_arizonica",
+          "type": "variety",
+          "archival_data": [
+            "1471301"
+          ]
+        },
+        "volume": null,
+        "page": "p 788, Pl. 168.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1706507",
+          "legacy_id": "8799",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 788, Pl. 167.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_788_pl_167",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "coryphantha_vivipara_bisbeeana",
+          "type": "variety",
+          "archival_data": [
+            "1471302"
+          ]
+        },
+        "volume": null,
+        "page": "p 788, Pl. 167.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1706509",
+          "legacy_id": "8801",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 788, Pl. 169.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_788_pl_169",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "coryphantha_vivipara_desertii",
+          "type": "variety",
+          "archival_data": [
+            "1471303"
+          ]
+        },
+        "volume": null,
+        "page": "p 788, Pl. 169.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1706510",
+          "legacy_id": "8802",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 788, Pl. 171-72.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_788_pl_171_72",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "coryphantha_vivipara_rosea",
+          "type": "variety",
+          "archival_data": [
+            "1471304"
+          ]
+        },
+        "volume": null,
+        "page": "p 788, Pl. 171-72.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1706511",
+          "legacy_id": "8803",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 596, Pl. 67.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_596_pl_67",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cereus_eriophorus_fragrans",
+          "type": "variety",
+          "archival_data": [
+            "1467336"
+          ]
+        },
+        "volume": null,
+        "page": "p 596, Pl. 67.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1709719",
+          "legacy_id": "6856",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 788, Pl. 128-29.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_788_pl_128_29",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "echinocactus_horizonthalonius_horizonthalonius",
+          "type": "variety",
+          "archival_data": [
+            "1474242"
+          ]
+        },
+        "volume": null,
+        "page": "p 788, Pl. 128-29.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1715112",
+          "legacy_id": "13541",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 788, Pl. 126-27.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_788_pl_126_27",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "echinocactus_polycephalus_polycephalus",
+          "type": "variety",
+          "archival_data": [
+            "1474244"
+          ]
+        },
+        "volume": null,
+        "page": "p 788, Pl. 126-27.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1715114",
+          "legacy_id": "13543",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 596, Pl. 98.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_596_pl_98",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "echinocereus_engelmannii_acicularis",
+          "type": "variety",
+          "archival_data": [
+            "1474249"
+          ]
+        },
+        "volume": null,
+        "page": "p 596, Pl. 98.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1715125",
+          "legacy_id": "13554",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 596, Pl. 100.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_596_pl_100",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "echinocereus_engelmannii_armatus",
+          "type": "variety",
+          "archival_data": [
+            "1474250"
+          ]
+        },
+        "volume": null,
+        "page": "p 596, Pl. 100.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1715126",
+          "legacy_id": "13555",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 596, Pl. 101.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_596_pl_101",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "echinocereus_engelmannii_chrysocentrus",
+          "type": "variety",
+          "archival_data": [
+            "1474251"
+          ]
+        },
+        "volume": null,
+        "page": "p 596, Pl. 101.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1715127",
+          "legacy_id": "13556",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 596, Pl. 99.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_596_pl_99",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "echinocereus_engelmannii_engelmannii",
+          "type": "variety",
+          "archival_data": [
+            "1474252"
+          ]
+        },
+        "volume": null,
+        "page": "p 596, Pl. 99.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1715128",
+          "legacy_id": "13557",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 596, Pl. 102-03.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_596_pl_102_03",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "echinocereus_engelmannii_nicholii",
+          "type": "variety",
+          "archival_data": [
+            "1474253"
+          ]
+        },
+        "volume": null,
+        "page": "p 596, Pl. 102-03.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1715131",
+          "legacy_id": "13560",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 596, Pl. 105.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_596_pl_105",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "echinocereus_enneacanthus_enneacanthus",
+          "type": "variety",
+          "archival_data": [
+            "1474255"
+          ]
+        },
+        "volume": null,
+        "page": "p 596, Pl. 105.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1715134",
+          "legacy_id": "13563",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 596, Pl. 104.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_596_pl_104",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "echinocereus_enneacanthus_stramineus",
+          "type": "variety",
+          "archival_data": [
+            "1474256"
+          ]
+        },
+        "volume": null,
+        "page": "p 596, Pl. 104.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1715135",
+          "legacy_id": "13564",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 596, Pl. 90.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_596_pl_90",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "echinocereus_fendleri_rectispinus",
+          "type": "variety",
+          "archival_data": [
+            "1474262"
+          ]
+        },
+        "volume": null,
+        "page": "p 596, Pl. 90.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1715147",
+          "legacy_id": "13576",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 596, Pl. 108-09.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_596_pl_108_09",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "echinocereus_pectinatus_neomexicanus",
+          "type": "variety",
+          "archival_data": [
+            "1474268"
+          ]
+        },
+        "volume": null,
+        "page": "p 596, Pl. 108-09.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1715158",
+          "legacy_id": "13587",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 596, Pl. 107.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_596_pl_107",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "echinocereus_pectinatus_rigidissimus",
+          "type": "variety",
+          "archival_data": [
+            "1474269"
+          ]
+        },
+        "volume": null,
+        "page": "p 596, Pl. 107.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1715410",
+          "legacy_id": "13590",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 596, Pl. 106.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_596_pl_106",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "echinocereus_pectinatus_wenigeri",
+          "type": "variety",
+          "archival_data": [
+            "1474271"
+          ]
+        },
+        "volume": null,
+        "page": "p 596, Pl. 106.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1715415",
+          "legacy_id": "13595",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 596, Pl. 114.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_596_pl_114",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "echinocereus_fitchii_albertii",
+          "type": "variety",
+          "archival_data": [
+            "1594635"
+          ]
+        },
+        "volume": null,
+        "page": "p 596, Pl. 114.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1715427",
+          "legacy_id": "13607",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 596, Pl. 113.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_596_pl_113",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "echinocereus_reichenbachii_chisosensis",
+          "type": "variety",
+          "archival_data": [
+            "1474279"
+          ]
+        },
+        "volume": null,
+        "page": "p 596, Pl. 113.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1715432",
+          "legacy_id": "13612",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 596, Pl. 112.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_596_pl_112",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "echinocereus_reichenbachii_perbellus",
+          "type": "variety",
+          "archival_data": [
+            "1474280"
+          ]
+        },
+        "volume": null,
+        "page": "p 596, Pl. 112.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1715436",
+          "legacy_id": "13616",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 596, Pl. 110-11.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_596_pl_110_11",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "echinocereus_reichenbachii_reichenbachii",
+          "type": "variety",
+          "archival_data": [
+            "1474281"
+          ]
+        },
+        "volume": null,
+        "page": "p 596, Pl. 110-11.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1715438",
+          "legacy_id": "13618",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 596, Pl. 87.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_596_pl_87",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "echinocereus_arizonicus",
+          "type": "species",
+          "archival_data": [
+            "1447448"
+          ]
+        },
+        "volume": null,
+        "page": "p 596, Pl. 87.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1715456",
+          "legacy_id": "13636",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 596, Pl. 86.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_596_pl_86",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "echinocereus_triglochidiatus_gurneyi",
+          "type": "variety",
+          "archival_data": [
+            "1474290"
+          ]
+        },
+        "volume": null,
+        "page": "p 596, Pl. 86.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1715461",
+          "legacy_id": "13641",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 596, Pl. 81-84.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_596_pl_81_84",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "echinocereus_triglochidiatus_melanacanthus",
+          "type": "variety",
+          "archival_data": [
+            "1474292"
+          ]
+        },
+        "volume": null,
+        "page": "p 596, Pl. 81-84.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1715464",
+          "legacy_id": "13644",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 596, Pl. 85.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_596_pl_85",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "echinocereus_triglochidiatus_mojavensis",
+          "type": "variety",
+          "archival_data": [
+            "1474293"
+          ]
+        },
+        "volume": null,
+        "page": "p 596, Pl. 85.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1715470",
+          "legacy_id": "13650",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 596, Pl. 118.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_596_pl_118",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "ferocactus_acanthodes_acanthodes",
+          "type": "variety",
+          "archival_data": [
+            "1473131"
+          ]
+        },
+        "volume": null,
+        "page": "p 596, Pl. 118.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1721121",
+          "legacy_id": "15091",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 596, Pl. 119| 121",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_596_pl_119_121",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "ferocactus_cylindraceus_eastwoodii",
+          "type": "variety",
+          "archival_data": [
+            "1565497"
+          ]
+        },
+        "volume": null,
+        "page": "p 596, Pl. 119| 121",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1721122",
+          "legacy_id": "15092",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 596, Pl. 117| 120.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_596_pl_117_120",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "ferocactus_cylindraceus_lecontei",
+          "type": "variety",
+          "archival_data": [
+            "1570196"
+          ]
+        },
+        "volume": null,
+        "page": "p 596, Pl. 117| 120.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1721124",
+          "legacy_id": "15094",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 788, Pl. 192.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_788_pl_192",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "mammillaria_grahamii_grahamii",
+          "type": "variety",
+          "archival_data": [
+            "1485364"
+          ]
+        },
+        "volume": null,
+        "page": "p 788, Pl. 192.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1736244",
+          "legacy_id": "31950",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 788, Pl. 183| 185.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_788_pl_183_185",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "mammillaria_heyderi_heyderi",
+          "type": "variety",
+          "archival_data": [
+            "1485368"
+          ]
+        },
+        "volume": null,
+        "page": "p 788, Pl. 183| 185.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1736248",
+          "legacy_id": "31954",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 788, Pl. 182.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_788_pl_182",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "mammillaria_heyderi_macdougalii",
+          "type": "variety",
+          "archival_data": [
+            "1485369"
+          ]
+        },
+        "volume": null,
+        "page": "p 788, Pl. 182.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1736249",
+          "legacy_id": "31955",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 788, Pl. 184",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_788_pl_184",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "mammillaria_heyderi_meiacantha",
+          "type": "variety",
+          "archival_data": [
+            "1485370"
+          ]
+        },
+        "volume": null,
+        "page": "p 788, Pl. 184",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1736252",
+          "legacy_id": "31958",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 468, Pl. 5.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_468_pl_5",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cylindropuntia_acanthocarpa_major",
+          "type": "variety",
+          "archival_data": [
+            "1483354"
+          ]
+        },
+        "volume": null,
+        "page": "p 468, Pl. 5.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1737064",
+          "legacy_id": "34777",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 468, Pl. 33-34.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_468_pl_33_34",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "opuntia_basilaris_basilaris",
+          "type": "variety",
+          "archival_data": [
+            "1483356"
+          ]
+        },
+        "volume": null,
+        "page": "p 468, Pl. 33-34.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1737065",
+          "legacy_id": "34778",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 468, Pl. 35.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_468_pl_35",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "opuntia_basilaris_brachyclada",
+          "type": "variety",
+          "archival_data": [
+            "1483357"
+          ]
+        },
+        "volume": null,
+        "page": "p 468, Pl. 35.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1737066",
+          "legacy_id": "34779",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 468, Pl. 14-16.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_468_pl_14_16",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cylindropuntia_bigelovii_bigelovii",
+          "type": "variety",
+          "archival_data": [
+            "1483358"
+          ]
+        },
+        "volume": null,
+        "page": "p 468, Pl. 14-16.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1737068",
+          "legacy_id": "34781",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 468, Pl. 2-3.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_468_pl_2_3",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cylindropuntia_echinocarpa_echinocarpa",
+          "type": "variety",
+          "archival_data": [
+            "1483360"
+          ]
+        },
+        "volume": null,
+        "page": "p 468, Pl. 2-3.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1737070",
+          "legacy_id": "34783",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 468, Pl. 28-30.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_468_pl_28_30",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "opuntia_erinacea_columbiana",
+          "type": "variety",
+          "archival_data": [
+            "1483362"
+          ]
+        },
+        "volume": null,
+        "page": "p 468, Pl. 28-30.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1737071",
+          "legacy_id": "34784",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 468, Pl. 24-27.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_468_pl_24_27",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "opuntia_erinacea_erinacea",
+          "type": "variety",
+          "archival_data": [
+            "1483363"
+          ]
+        },
+        "volume": null,
+        "page": "p 468, Pl. 24-27.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1737072",
+          "legacy_id": "34785",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 468, Pl. 31.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_468_pl_31",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "opuntia_erinacea_utahensis",
+          "type": "variety",
+          "archival_data": [
+            "1483364"
+          ]
+        },
+        "volume": null,
+        "page": "p 468, Pl. 31.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1737073",
+          "legacy_id": "34786",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 468, Pl. 9-11",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_468_pl_9_11",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cylindropuntia_fulgida_fulgida",
+          "type": "variety",
+          "archival_data": [
+            "1483365"
+          ]
+        },
+        "volume": null,
+        "page": "p 468, Pl. 9-11",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1737074",
+          "legacy_id": "34787",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 468, Pl. 12-13.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_468_pl_12_13",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cylindropuntia_fulgida_mamillata",
+          "type": "variety",
+          "archival_data": [
+            "1483366"
+          ]
+        },
+        "volume": null,
+        "page": "p 468, Pl. 12-13.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1737075",
+          "legacy_id": "34788",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 468, Pl. 41.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_468_pl_41",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "opuntia_littoralis_austrocalifornica",
+          "type": "variety",
+          "archival_data": [
+            "1483370"
+          ]
+        },
+        "volume": null,
+        "page": "p 468, Pl. 41.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1737080",
+          "legacy_id": "34793",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 468, Pl. 39-40.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_468_pl_39_40",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "opuntia_littoralis_littoralis",
+          "type": "variety",
+          "archival_data": [
+            "1483371"
+          ]
+        },
+        "volume": null,
+        "page": "p 468, Pl. 39-40.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1737081",
+          "legacy_id": "34794",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 468, Pl. 42.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_468_pl_42",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "opuntia_littoralis_martiniana",
+          "type": "variety",
+          "archival_data": [
+            "1483372"
+          ]
+        },
+        "volume": null,
+        "page": "p 468, Pl. 42.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1737082",
+          "legacy_id": "34795",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 468, Pl. 44.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_468_pl_44",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "opuntia_macrocentra_santa_rita",
+          "type": "variety",
+          "archival_data": [
+            "1483375"
+          ]
+        },
+        "volume": null,
+        "page": "p 468, Pl. 44.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1737083",
+          "legacy_id": "34796",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 468, Pl. 4.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_468_pl_4",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "opuntia_parryi_parryi",
+          "type": "variety",
+          "archival_data": [
+            "1483380"
+          ]
+        },
+        "volume": null,
+        "page": "p 468, Pl. 4.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1737341",
+          "legacy_id": "34804",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 468, Pl. 47-48.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_468_pl_47_48",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "opuntia_phaeacantha_discata",
+          "type": "variety",
+          "archival_data": [
+            "1483382"
+          ]
+        },
+        "volume": null,
+        "page": "p 468, Pl. 47-48.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1737342",
+          "legacy_id": "34805",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 468, Pl. 46.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_468_pl_46",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "opuntia_phaeacantha_spinosibacca",
+          "type": "variety",
+          "archival_data": [
+            "1483384"
+          ]
+        },
+        "volume": null,
+        "page": "p 468, Pl. 46.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1737345",
+          "legacy_id": "34808",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 468, Pl. 22.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_468_pl_22",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "opuntia_polyacantha_polyacantha",
+          "type": "variety",
+          "archival_data": [
+            "1483387"
+          ]
+        },
+        "volume": null,
+        "page": "p 468, Pl. 22.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1737348",
+          "legacy_id": "34811",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 468, Pl. 21.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_468_pl_21",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "opuntia_polyacantha_rufispina",
+          "type": "variety",
+          "archival_data": [
+            "1483388"
+          ]
+        },
+        "volume": null,
+        "page": "p 468, Pl. 21.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1737349",
+          "legacy_id": "34812",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 788, Pl. 139.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_788_pl_139",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "pediocactus_simpsonii_minor",
+          "type": "variety",
+          "archival_data": [
+            "1483714"
+          ]
+        },
+        "volume": null,
+        "page": "p 788, Pl. 139.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1742741",
+          "legacy_id": "36269",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483154438"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 788, Pl. 137-38",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_788_pl_137_38",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "pediocactus_simpsonii_simpsonii",
+          "type": "variety",
+          "archival_data": [
+            "1483716"
+          ]
+        },
+        "volume": null,
+        "page": "p 788, Pl. 137-38",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1742745",
+          "legacy_id": "36273",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483154438"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 788, Pl. 135.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_788_pl_135",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "sclerocactus_parviflorus_parviflorus",
+          "type": "variety",
+          "archival_data": [
+            "1492454"
+          ]
+        },
+        "volume": null,
+        "page": "p 788, Pl. 135.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1757818",
+          "legacy_id": "55979",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483154438"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 788, Pl. 150.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_788_pl_150",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "thelocactus_bicolor_flavidispinus",
+          "type": "variety",
+          "archival_data": [
+            "1491324"
+          ]
+        },
+        "volume": null,
+        "page": "p 788, Pl. 150.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1759320",
+          "legacy_id": "57735",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 788, Pl. 149.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_788_pl_149",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "thelocactus_bicolor_schottii",
+          "type": "variety",
+          "archival_data": [
+            "1491325"
+          ]
+        },
+        "volume": null,
+        "page": "p 788, Pl. 149.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1759322",
+          "legacy_id": "57737",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 788, Pl. 181.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_788_pl_181",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "ariocarpus_fissuratus",
+          "type": "species",
+          "archival_data": [
+            "1401806"
+          ]
+        },
+        "volume": null,
+        "page": "p 788, Pl. 181.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1764842",
+          "legacy_id": "73193",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 596, Pl. 78.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_596_pl_78",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cereus_poselgeri",
+          "type": "species",
+          "archival_data": [
+            "1405202"
+          ]
+        },
+        "volume": null,
+        "page": "p 596, Pl. 78.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1775222",
+          "legacy_id": "81230",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 596, Pl. 76| 79-80",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_596_pl_76_79_80",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "pachycereus_schottii",
+          "type": "species",
+          "archival_data": [
+            "1423692"
+          ]
+        },
+        "volume": null,
+        "page": "p 596, Pl. 76| 79-80",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1775224",
+          "legacy_id": "81232",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 788, Pl. 178.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_788_pl_178",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "coryphantha_duncanii",
+          "type": "species",
+          "archival_data": [
+            "1406417"
+          ]
+        },
+        "volume": null,
+        "page": "p 788, Pl. 178.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1784308",
+          "legacy_id": "85014",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 788, Pl. 173.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_788_pl_173",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "coryphantha_hesteri",
+          "type": "species",
+          "archival_data": [
+            "1406426"
+          ]
+        },
+        "volume": null,
+        "page": "p 788, Pl. 173.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1784565",
+          "legacy_id": "85027",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 788, Pl. 166.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_788_pl_166",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "coryphantha_minima",
+          "type": "species",
+          "archival_data": [
+            "1406434"
+          ]
+        },
+        "volume": null,
+        "page": "p 788, Pl. 166.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1784577",
+          "legacy_id": "85039",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 788, Pl. 174.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_788_pl_174",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "coryphantha_ramillosa",
+          "type": "species",
+          "archival_data": [
+            "1406447"
+          ]
+        },
+        "volume": null,
+        "page": "p 788, Pl. 174.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1784592",
+          "legacy_id": "85054",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 788, Pl. 177.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_788_pl_177",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "coryphantha_recurvata",
+          "type": "species",
+          "archival_data": [
+            "1406448"
+          ]
+        },
+        "volume": null,
+        "page": "p 788, Pl. 177.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1784594",
+          "legacy_id": "85056",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 788, Pl. 130.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_788_pl_130",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "echinocactus_texensis",
+          "type": "species",
+          "archival_data": [
+            "1405825"
+          ]
+        },
+        "volume": null,
+        "page": "p 788, Pl. 130.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1785587",
+          "legacy_id": "91086",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 788, Pl. 148.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_788_pl_148",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "epithelantha_bokei",
+          "type": "species",
+          "archival_data": [
+            "1415092"
+          ]
+        },
+        "volume": null,
+        "page": "p 788, Pl. 148.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1786425",
+          "legacy_id": "92460",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 788, Pl. 147.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_788_pl_147",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "epithelantha_micromeris",
+          "type": "species",
+          "archival_data": [
+            "1415093"
+          ]
+        },
+        "volume": null,
+        "page": "p 788, Pl. 147.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1786429",
+          "legacy_id": "92464",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 596, Pl. 96-97.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_596_pl_96_97",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "echinocereus_ledingii",
+          "type": "species",
+          "archival_data": [
+            "1405856"
+          ]
+        },
+        "volume": null,
+        "page": "p 596, Pl. 96-97.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1787947",
+          "legacy_id": "91124",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 596, Pl. 88-89.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_596_pl_88_89",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "echinocereus_pentalophus",
+          "type": "species",
+          "archival_data": [
+            "1405871"
+          ]
+        },
+        "volume": null,
+        "page": "p 596, Pl. 88-89.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1787970",
+          "legacy_id": "91147",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 596, Pl. 123.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_596_pl_123",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "ferocactus_covillei",
+          "type": "species",
+          "archival_data": [
+            "1412622"
+          ]
+        },
+        "volume": null,
+        "page": "p 596, Pl. 123.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1792855",
+          "legacy_id": "96715",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 596, Pl. 124.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_596_pl_124",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "ferocactus_haematacanthus",
+          "type": "species",
+          "archival_data": [
+            "1412630"
+          ]
+        },
+        "volume": null,
+        "page": "p 596, Pl. 124.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1792871",
+          "legacy_id": "96731",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 596, Pl. 122.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_596_pl_122",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "ferocactus_wislizeni",
+          "type": "species",
+          "archival_data": [
+            "1412935"
+          ]
+        },
+        "volume": null,
+        "page": "p 596, Pl. 122.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1793144",
+          "legacy_id": "96764",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 788, Pl. 187.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_788_pl_187",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "mammillaria_pottsii",
+          "type": "species",
+          "archival_data": [
+            "1417043"
+          ]
+        },
+        "volume": null,
+        "page": "p 788, Pl. 187.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1804886",
+          "legacy_id": "111864",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 788, Pl. 190.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_788_pl_190",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "mammillaria_thornberi",
+          "type": "species",
+          "archival_data": [
+            "1417094"
+          ]
+        },
+        "volume": null,
+        "page": "p 788, Pl. 190.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1805213",
+          "legacy_id": "111946",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 788, Pl. 193-94.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_788_pl_193_94",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "mammillaria_wrightii",
+          "type": "species",
+          "archival_data": [
+            "1417403"
+          ]
+        },
+        "volume": null,
+        "page": "p 788, Pl. 193-94.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1805240",
+          "legacy_id": "111973",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 788, Pl. 191.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_788_pl_191",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "mammillaria_wrightii",
+          "type": "species",
+          "archival_data": [
+            "1417403"
+          ]
+        },
+        "volume": null,
+        "page": "p 788, Pl. 191.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1805241",
+          "legacy_id": "111974",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 788, Pl. 151.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_788_pl_151",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "neolloydia_conoidea",
+          "type": "species",
+          "archival_data": [
+            "1417181"
+          ]
+        },
+        "volume": null,
+        "page": "p 788, Pl. 151.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1806676",
+          "legacy_id": "115116",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 788, Pl. 157-61.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_788_pl_157_61",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "neolloydia_johnsonii",
+          "type": "species",
+          "archival_data": [
+            "1417189"
+          ]
+        },
+        "volume": null,
+        "page": "p 788, Pl. 157-61.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1806685",
+          "legacy_id": "115125",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 788, Pl. 152-53.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_788_pl_152_53",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "neolloydia_mariposensis",
+          "type": "species",
+          "archival_data": [
+            "1417194"
+          ]
+        },
+        "volume": null,
+        "page": "p 788, Pl. 152-53.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1806688",
+          "legacy_id": "115128",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 596, Pl. 115-16.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_596_pl_115_16",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "lophophora_williamsii",
+          "type": "species",
+          "archival_data": [
+            "1419668"
+          ]
+        },
+        "volume": null,
+        "page": "p 596, Pl. 115-16.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1808608",
+          "legacy_id": "110142",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 788, Pl. 188.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_788_pl_188",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "mammillaria_dioica",
+          "type": "species",
+          "archival_data": [
+            "1416313"
+          ]
+        },
+        "volume": null,
+        "page": "p 788, Pl. 188.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1809065",
+          "legacy_id": "111625",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 788, Pl. 186.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_788_pl_186",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "mammillaria_lasiacantha",
+          "type": "species",
+          "archival_data": [
+            "1416678"
+          ]
+        },
+        "volume": null,
+        "page": "p 788, Pl. 186.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1809677",
+          "legacy_id": "111749",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 788, Pl. 189.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_788_pl_189",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "mammillaria_microcarpa",
+          "type": "species",
+          "archival_data": [
+            "1416709"
+          ]
+        },
+        "volume": null,
+        "page": "p 788, Pl. 189.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1809727",
+          "legacy_id": "111799",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 788, Pl. 140-41.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_788_pl_140_41",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "pediocactus_knowltonii",
+          "type": "species",
+          "archival_data": [
+            "1426626"
+          ]
+        },
+        "volume": null,
+        "page": "p 788, Pl. 140-41.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1813767",
+          "legacy_id": "119466",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 788, Pl. 142.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_788_pl_142",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "pediocactus_paradinei",
+          "type": "species",
+          "archival_data": [
+            "1426629"
+          ]
+        },
+        "volume": null,
+        "page": "p 788, Pl. 142.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1813771",
+          "legacy_id": "119470",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 788, Pl. 143.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_788_pl_143",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "pediocactus_sileri",
+          "type": "species",
+          "archival_data": [
+            "1426631"
+          ]
+        },
+        "volume": null,
+        "page": "p 788, Pl. 143.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1813776",
+          "legacy_id": "119475",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 468, Pl. 23.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_468_pl_23",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "opuntia_arenaria",
+          "type": "species",
+          "archival_data": [
+            "1421766"
+          ]
+        },
+        "volume": null,
+        "page": "p 468, Pl. 23.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1813972",
+          "legacy_id": "116897",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 468, Pl. 43.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_468_pl_43",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "opuntia_atrispina",
+          "type": "species",
+          "archival_data": [
+            "1421768"
+          ]
+        },
+        "volume": null,
+        "page": "p 468, Pl. 43.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1813974",
+          "legacy_id": "116899",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 468, Pl. 52.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_468_pl_52",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "opuntia_chlorotica",
+          "type": "species",
+          "archival_data": [
+            "1421775"
+          ]
+        },
+        "volume": null,
+        "page": "p 468, Pl. 52.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1814246",
+          "legacy_id": "116925",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 468, Pl. 50-51.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_468_pl_50_51",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "opuntia_cochenillifera",
+          "type": "species",
+          "archival_data": [
+            "1421778"
+          ]
+        },
+        "volume": null,
+        "page": "p 468, Pl. 50-51.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1814248",
+          "legacy_id": "116927",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 468, Pl. 54-57",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_468_pl_54_57",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "opuntia_ficus_indica",
+          "type": "species",
+          "archival_data": [
+            "1421798"
+          ]
+        },
+        "volume": null,
+        "page": "p 468, Pl. 54-57",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1814284",
+          "legacy_id": "116963",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 468, Pl. 17.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_468_pl_17",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "opuntia_leptocaulis",
+          "type": "species",
+          "archival_data": [
+            "1421807"
+          ]
+        },
+        "volume": null,
+        "page": "p 468, Pl. 17.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1814307",
+          "legacy_id": "116987",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 468, Pl. 45.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_468_pl_45",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "opuntia_macrocentra",
+          "type": "species",
+          "archival_data": [
+            "1421811"
+          ]
+        },
+        "volume": null,
+        "page": "p 468, Pl. 45.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1814311",
+          "legacy_id": "116991",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 468, Pl. 32.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_468_pl_32",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "opuntia_nicholii",
+          "type": "species",
+          "archival_data": [
+            "1421818"
+          ]
+        },
+        "volume": null,
+        "page": "p 468, Pl. 32.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1814575",
+          "legacy_id": "117010",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 468, Pl. 53.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_468_pl_53",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "opuntia_oricola",
+          "type": "species",
+          "archival_data": [
+            "1421820"
+          ]
+        },
+        "volume": null,
+        "page": "p 468, Pl. 53.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1814577",
+          "legacy_id": "117012",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 468, Pl. 18-19.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_468_pl_18_19",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "opuntia_pulchella",
+          "type": "species",
+          "archival_data": [
+            "1421830"
+          ]
+        },
+        "volume": null,
+        "page": "p 468, Pl. 18-19.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1814594",
+          "legacy_id": "117029",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 468, Pl. 20.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_468_pl_20",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "opuntia_ramosissima",
+          "type": "species",
+          "archival_data": [
+            "1421832"
+          ]
+        },
+        "volume": null,
+        "page": "p 468, Pl. 20.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1814595",
+          "legacy_id": "117030",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 468, Pl. 36.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_468_pl_36",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "opuntia_rufida",
+          "type": "species",
+          "archival_data": [
+            "1421834"
+          ]
+        },
+        "volume": null,
+        "page": "p 468, Pl. 36.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1814600",
+          "legacy_id": "117035",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 468, Pl. 6-7.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_468_pl_6_7",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "opuntia_spinosior",
+          "type": "species",
+          "archival_data": [
+            "1421844"
+          ]
+        },
+        "volume": null,
+        "page": "p 468, Pl. 6-7.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1814606",
+          "legacy_id": "117054",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 468, Pl. 60.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_468_pl_60",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "opuntia_tomentosa",
+          "type": "species",
+          "archival_data": [
+            "1421849"
+          ]
+        },
+        "volume": null,
+        "page": "p 468, Pl. 60.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1814614",
+          "legacy_id": "117062",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 468, Pl. 37.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_468_pl_37",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "opuntia_triacantha",
+          "type": "species",
+          "archival_data": [
+            "1421851"
+          ]
+        },
+        "volume": null,
+        "page": "p 468, Pl. 37.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1814618",
+          "legacy_id": "117066",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 468, Pl. 8.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_468_pl_8",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "opuntia_versicolor",
+          "type": "species",
+          "archival_data": [
+            "1422139"
+          ]
+        },
+        "volume": null,
+        "page": "p 468, Pl. 8.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1814624",
+          "legacy_id": "117072",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 596, Pl. 61.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_596_pl_61",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rhipsalis_baccifera",
+          "type": "species",
+          "archival_data": [
+            "1423592"
+          ]
+        },
+        "volume": null,
+        "page": "p 596, Pl. 61.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": true
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1822813",
+          "legacy_id": "127195",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 788, Pl. 131.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_788_pl_131",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "sclerocactus_mesae_verdae",
+          "type": "species",
+          "archival_data": [
+            "1433310"
+          ]
+        },
+        "volume": null,
+        "page": "p 788, Pl. 131.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1828038",
+          "legacy_id": "132535",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 788, Pl. 136.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_788_pl_136",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "sclerocactus_polyancistrus",
+          "type": "species",
+          "archival_data": [
+            "1433314"
+          ]
+        },
+        "volume": null,
+        "page": "p 788, Pl. 136.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1828044",
+          "legacy_id": "132541",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 788, Pl. 132.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_788_pl_132",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "sclerocactus_spinosior",
+          "type": "species",
+          "archival_data": [
+            "1433318"
+          ]
+        },
+        "volume": null,
+        "page": "p 788, Pl. 132.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1828303",
+          "legacy_id": "132555",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 788, Pl. 133-34.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_788_pl_133_34",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "sclerocactus_whipplei",
+          "type": "species",
+          "archival_data": [
+            "1433324"
+          ]
+        },
+        "volume": null,
+        "page": "p 788, Pl. 133-34.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1828312",
+          "legacy_id": "132564",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 596, Pl. 125.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_596_pl_125",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "thelocactus_setispinus",
+          "type": "species",
+          "archival_data": [
+            "1430418"
+          ]
+        },
+        "volume": null,
+        "page": "p 596, Pl. 125.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1835389",
+          "legacy_id": "137083",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 468, Pl. 34.",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_468_pl_34",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "yucca_brevifolia",
+          "type": "species",
+          "archival_data": [
+            "1438657"
+          ]
+        },
+        "volume": null,
+        "page": "p 468, Pl. 34.",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1838872",
+          "legacy_id": "142026",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 596",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_596",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "echinocereus_fendleri_boyce_thompsonii",
+          "type": "variety",
+          "archival_data": [
+            "1474258"
+          ]
+        },
+        "volume": null,
+        "page": "p 596",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1937351",
+          "legacy_id": "315074",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483190112"
+        }
+      },
+      {
+        "name": "Benson, Lyman. The Cacti of the United States and Canada. (1982) p 596",
+        "machine_name": "benson_lyman_the_cacti_of_the_united_states_and_canada_1982_p_596",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "echinocereus_bonkerae",
+          "type": "species",
+          "archival_data": [
+            "1458357"
+          ]
+        },
+        "volume": null,
+        "page": "p 596",
+        "year": "1982",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1937352",
+          "legacy_id": "315075",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483190112"
+        }
+      }
+    ]
+  }
+}

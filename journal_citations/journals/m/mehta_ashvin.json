@@ -1,0 +1,4428 @@
+{
+  "mehta_ashvin_100_himalayan_flowers": {
+    "name": "Mehta, Ashvin. 100 Himalayan Flowers.",
+    "machine_name": "mehta_ashvin_100_himalayan_flowers",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "1682099",
+      "legacy_id": "4437",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": []
+  },
+  "mehta_ashvin_100_himalayan_flowers_1991": {
+    "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991)",
+    "machine_name": "mehta_ashvin_100_himalayan_flowers_1991",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1991",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "2110228",
+      "legacy_id": "4437",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": [
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 68, Pl. 50.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_68_pl_50",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "carduus_edelbergii_lanatus",
+          "type": "variety",
+          "archival_data": [
+            "1470668"
+          ]
+        },
+        "volume": null,
+        "page": "p 68, Pl. 50.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1707346",
+          "legacy_id": "6247",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 13, Pl. 1b.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_13_pl_1b",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "caltha_palustris_alba",
+          "type": "variety",
+          "archival_data": [
+            "1465239"
+          ]
+        },
+        "volume": null,
+        "page": "p 13, Pl. 1b.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1707563",
+          "legacy_id": "4939",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 12-13, Pl. 1|1a",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_12_13_pl_1_1a",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "caltha_palustris_himalensis",
+          "type": "variety",
+          "archival_data": [
+            "1465241"
+          ]
+        },
+        "volume": null,
+        "page": "p 12-13, Pl. 1|1a",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1707565",
+          "legacy_id": "4941",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 83-84, Pl. 64|64a.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_83_84_pl_64_64a",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "primula_nivalis_macrophylla",
+          "type": "variety",
+          "archival_data": [
+            "1488117"
+          ]
+        },
+        "volume": null,
+        "page": "p 83-84, Pl. 64|64a.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1737790",
+          "legacy_id": "40285",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 76, Pl. 58a.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_76_pl_58a",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rhododendron_arboreum_lali_gurans",
+          "type": "variety",
+          "archival_data": [
+            "1487630"
+          ]
+        },
+        "volume": null,
+        "page": "p 76, Pl. 58a.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1746493",
+          "legacy_id": "43740",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483154438"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 119, Pl. 93.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_119_pl_93",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "allium_wallichianum",
+          "type": "species",
+          "archival_data": [
+            "1402454"
+          ]
+        },
+        "volume": null,
+        "page": "p 119, Pl. 93.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1764663",
+          "legacy_id": "70350",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 22, Pl. 9.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_22_pl_9",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "anemone_obtusiloba",
+          "type": "species",
+          "archival_data": [
+            "1399432"
+          ]
+        },
+        "volume": null,
+        "page": "p 22, Pl. 9.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1764736",
+          "legacy_id": "71711",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 23, Pl. 10a.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_23_pl_10a",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "anemone_rivularis",
+          "type": "species",
+          "archival_data": [
+            "1399449"
+          ]
+        },
+        "volume": null,
+        "page": "p 23, Pl. 10a.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1764771",
+          "legacy_id": "71746",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 21, Pl. 8.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_21_pl_8",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "anemone_rupicola",
+          "type": "species",
+          "archival_data": [
+            "1399451"
+          ]
+        },
+        "volume": null,
+        "page": "p 21, Pl. 8.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1764776",
+          "legacy_id": "71751",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 125, Pl. 99a.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_125_pl_99a",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "arisaema_costatum",
+          "type": "species",
+          "archival_data": [
+            "1401817"
+          ]
+        },
+        "volume": null,
+        "page": "p 125, Pl. 99a.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1765129",
+          "legacy_id": "73231",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 125, Pl. 99.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_125_pl_99",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "arisaema_jacquemontii",
+          "type": "species",
+          "archival_data": [
+            "1401833"
+          ]
+        },
+        "volume": null,
+        "page": "p 125, Pl. 99.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1765155",
+          "legacy_id": "73257",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 126, Pl. 100|100a.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_126_pl_100_100a",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "arisaema_propinquum",
+          "type": "species",
+          "archival_data": [
+            "1401839"
+          ]
+        },
+        "volume": null,
+        "page": "p 126, Pl. 100|100a.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1765164",
+          "legacy_id": "73266",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 89, Pl. 68|68a.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_89_pl_68_68a",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "arnebia_benthamii",
+          "type": "species",
+          "archival_data": [
+            "1402224"
+          ]
+        },
+        "volume": null,
+        "page": "p 89, Pl. 68|68a.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1765802",
+          "legacy_id": "73491",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 18, Pl. 5.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_18_pl_5",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "aconitum_heterophyllum",
+          "type": "species",
+          "archival_data": [
+            "1398230"
+          ]
+        },
+        "volume": null,
+        "page": "p 18, Pl. 5.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1767834",
+          "legacy_id": "68494",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 17, Pl. 4b.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_17_pl_4b",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "aquilegia_fragrans",
+          "type": "species",
+          "archival_data": [
+            "1400666"
+          ]
+        },
+        "volume": null,
+        "page": "p 17, Pl. 4b.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1768030",
+          "legacy_id": "72536",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 15, Pl. 3|3a.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_15_pl_3_3a",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "aquilegia_nivalis",
+          "type": "species",
+          "archival_data": [
+            "1400673"
+          ]
+        },
+        "volume": null,
+        "page": "p 15, Pl. 3|3a.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1768042",
+          "legacy_id": "72552",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 16, Pl. 4|4a.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_16_pl_4_4a",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "aquilegia_pubiflora",
+          "type": "species",
+          "archival_data": [
+            "1400678"
+          ]
+        },
+        "volume": null,
+        "page": "p 16, Pl. 4|4a.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1768050",
+          "legacy_id": "72560",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 20, Pl. 7.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_20_pl_7",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "adonis_chrysocyathus",
+          "type": "species",
+          "archival_data": [
+            "1399334"
+          ]
+        },
+        "volume": null,
+        "page": "p 20, Pl. 7.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1769149",
+          "legacy_id": "68835",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 23, Pl. 10.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_23_pl_10",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "anemone_biflora",
+          "type": "species",
+          "archival_data": [
+            "1399093"
+          ]
+        },
+        "volume": null,
+        "page": "p 23, Pl. 10.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1769305",
+          "legacy_id": "71561",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 42, Pl. 26.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_42_pl_26",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "bergenia_stracheyi",
+          "type": "species",
+          "archival_data": [
+            "1401145"
+          ]
+        },
+        "volume": null,
+        "page": "p 42, Pl. 26.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1770585",
+          "legacy_id": "75927",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 72, Pl. 54|54a.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_72_pl_54_54a",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "campanula_latifolia",
+          "type": "species",
+          "archival_data": [
+            "1406664"
+          ]
+        },
+        "volume": null,
+        "page": "p 72, Pl. 54|54a.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1771773",
+          "legacy_id": "78870",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 41, Pl. 25.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_41_pl_25",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "aruncus_dioicus",
+          "type": "species",
+          "archival_data": [
+            "1402629"
+          ]
+        },
+        "volume": null,
+        "page": "p 41, Pl. 25.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1772458",
+          "legacy_id": "73793",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 112, Pl. 86.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_112_pl_86",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "calanthe_tricarinata",
+          "type": "species",
+          "archival_data": [
+            "1399217"
+          ]
+        },
+        "volume": null,
+        "page": "p 112, Pl. 86.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1772969",
+          "legacy_id": "77901",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 56, Pl. 39.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_56_pl_39",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "aster_asteroides",
+          "type": "species",
+          "archival_data": [
+            "1403377"
+          ]
+        },
+        "volume": null,
+        "page": "p 56, Pl. 39.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1774375",
+          "legacy_id": "74240",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 57, Pl. 40.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_57_pl_40",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "aster_flaccidus",
+          "type": "species",
+          "archival_data": [
+            "1403393"
+          ]
+        },
+        "volume": null,
+        "page": "p 57, Pl. 40.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1774402",
+          "legacy_id": "74267",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 73, Pl. 55.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_73_pl_55",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "codonopsis_rotundifolia",
+          "type": "species",
+          "archival_data": [
+            "1409404"
+          ]
+        },
+        "volume": null,
+        "page": "p 73, Pl. 55.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1778320",
+          "legacy_id": "83388",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 69, Pl. 51.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_69_pl_51",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cichorium_intybus",
+          "type": "species",
+          "archival_data": [
+            "1407108"
+          ]
+        },
+        "volume": null,
+        "page": "p 69, Pl. 51.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1778586",
+          "legacy_id": "82125",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 120, Pl. 94.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_120_pl_94",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "colchicum_luteum",
+          "type": "species",
+          "archival_data": [
+            "1403709"
+          ]
+        },
+        "volume": null,
+        "page": "p 120, Pl. 94.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1778975",
+          "legacy_id": "83546",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 19, Pl. 6.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_19_pl_6",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "delphinium_denudatum",
+          "type": "species",
+          "archival_data": [
+            "1405782"
+          ]
+        },
+        "volume": null,
+        "page": "p 19, Pl. 6.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1780256",
+          "legacy_id": "87902",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 19, Pl. 6a.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_19_pl_6a",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "delphinium_himalayae",
+          "type": "species",
+          "archival_data": [
+            "1405791"
+          ]
+        },
+        "volume": null,
+        "page": "p 19, Pl. 6a.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1780269",
+          "legacy_id": "87916",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 61, Pl. 44|44a.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_61_pl_44_44a",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cremanthodium_arnicoides",
+          "type": "species",
+          "archival_data": [
+            "1407571"
+          ]
+        },
+        "volume": null,
+        "page": "p 61, Pl. 44|44a.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1781118",
+          "legacy_id": "85517",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 62, Pl. 45.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_62_pl_45",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cremanthodium_plantagineum",
+          "type": "species",
+          "archival_data": [
+            "1407573"
+          ]
+        },
+        "volume": null,
+        "page": "p 62, Pl. 45.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1781121",
+          "legacy_id": "85520",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 113, Pl. 87.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_113_pl_87",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cypripedium_himalaicum",
+          "type": "species",
+          "archival_data": [
+            "1404225"
+          ]
+        },
+        "volume": null,
+        "page": "p 113, Pl. 87.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1782161",
+          "legacy_id": "87094",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 114, Pl. 88.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_114_pl_88",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "dactylorhiza_hatagirea",
+          "type": "species",
+          "archival_data": [
+            "1404653"
+          ]
+        },
+        "volume": null,
+        "page": "p 114, Pl. 88.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1783432",
+          "legacy_id": "87397",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 27, Pl. 13|13a.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_27_pl_13_13a",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "corydalis_cashmeriana",
+          "type": "species",
+          "archival_data": [
+            "1406019"
+          ]
+        },
+        "volume": null,
+        "page": "p 27, Pl. 13|13a.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1783580",
+          "legacy_id": "84773",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 28, Pl. 14|14a.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_28_pl_14_14a",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "corydalis_govaniana",
+          "type": "species",
+          "archival_data": [
+            "1406042"
+          ]
+        },
+        "volume": null,
+        "page": "p 28, Pl. 14|14a.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1783621",
+          "legacy_id": "84814",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 74, Pl. 56.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_74_pl_56",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cyananthus_lobatus",
+          "type": "species",
+          "archival_data": [
+            "1409099"
+          ]
+        },
+        "volume": null,
+        "page": "p 74, Pl. 56.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1784333",
+          "legacy_id": "86305",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 45, Pl. 29.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_45_pl_29",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "chamerion_angustifolium",
+          "type": "species",
+          "archival_data": [
+            "1405924"
+          ]
+        },
+        "volume": null,
+        "page": "p 45, Pl. 29.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1786185",
+          "legacy_id": "92212",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 46, Pl. 30.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_46_pl_30",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "epilobium_latifolium",
+          "type": "species",
+          "archival_data": [
+            "1414721"
+          ]
+        },
+        "volume": null,
+        "page": "p 46, Pl. 30.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1786255",
+          "legacy_id": "92282",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 47, Pl. 31.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_47_pl_31",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "epilobium_laxum",
+          "type": "species",
+          "archival_data": [
+            "1414722"
+          ]
+        },
+        "volume": null,
+        "page": "p 47, Pl. 31.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1786259",
+          "legacy_id": "92286",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 121, Pl. 95|95a.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_121_pl_95_95a",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "eremurus_himalaicus",
+          "type": "species",
+          "archival_data": [
+            "1415479"
+          ]
+        },
+        "volume": null,
+        "page": "p 121, Pl. 95|95a.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1786579",
+          "legacy_id": "92615",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 48, Pl. 32.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_48_pl_32",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "eryngium_caucasicum",
+          "type": "species",
+          "archival_data": [
+            "1412501"
+          ]
+        },
+        "volume": null,
+        "page": "p 48, Pl. 32.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1787440",
+          "legacy_id": "93642",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 101, Pl. 77.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_101_pl_77",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "dracocephalum_wallichii",
+          "type": "species",
+          "archival_data": [
+            "1404320"
+          ]
+        },
+        "volume": null,
+        "page": "p 101, Pl. 77.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1788813",
+          "legacy_id": "90250",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 86, Pl. 66.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_86_pl_66",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "gentiana_carinata",
+          "type": "species",
+          "archival_data": [
+            "1410768"
+          ]
+        },
+        "volume": null,
+        "page": "p 86, Pl. 66.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1789794",
+          "legacy_id": "98662",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 87, Pl. 66a.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_87_pl_66a",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "gentiana_venusta",
+          "type": "species",
+          "archival_data": [
+            "1411145"
+          ]
+        },
+        "volume": null,
+        "page": "p 87, Pl. 66a.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1790458",
+          "legacy_id": "98849",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 35, Pl. 20a.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_35_pl_20a",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "geranium_himalayense",
+          "type": "species",
+          "archival_data": [
+            "1411507"
+          ]
+        },
+        "volume": null,
+        "page": "p 35, Pl. 20a.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1790761",
+          "legacy_id": "98993",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 110-11, Pl. 85|85a.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_110_11_pl_85_85a",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "euphorbia_wallichii",
+          "type": "species",
+          "archival_data": [
+            "1411854"
+          ]
+        },
+        "volume": null,
+        "page": "p 110-11, Pl. 85|85a.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1791551",
+          "legacy_id": "96378",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 50, Pl. 34|34a.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_50_pl_34_34a",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "ferula_narthex",
+          "type": "species",
+          "archival_data": [
+            "1412946"
+          ]
+        },
+        "volume": null,
+        "page": "p 50, Pl. 34|34a.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1793169",
+          "legacy_id": "96789",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 111, Pl. 85b.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_111_pl_85b",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "euphorbia_helioscopia",
+          "type": "species",
+          "archival_data": [
+            "1410687"
+          ]
+        },
+        "volume": null,
+        "page": "p 111, Pl. 85b.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1794092",
+          "legacy_id": "95746",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 92, Pl. 70.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_92_pl_70",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "hyoscyamus_niger",
+          "type": "species",
+          "archival_data": [
+            "1421359"
+          ]
+        },
+        "volume": null,
+        "page": "p 92, Pl. 70.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1794622",
+          "legacy_id": "103896",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 117, Pl. 91.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_117_pl_91",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "hedychium_spicatum",
+          "type": "species",
+          "archival_data": [
+            "1410850"
+          ]
+        },
+        "volume": null,
+        "page": "p 117, Pl. 91.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1796067",
+          "legacy_id": "101535",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 34, Pl. 20.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_34_pl_20",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "geranium_pratense",
+          "type": "species",
+          "archival_data": [
+            "1411542"
+          ]
+        },
+        "volume": null,
+        "page": "p 34, Pl. 20.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1796899",
+          "legacy_id": "99139",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 33, Pl. 19|19a.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_33_pl_19_19a",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "geranium_wallichianum",
+          "type": "species",
+          "archival_data": [
+            "1411576"
+          ]
+        },
+        "volume": null,
+        "page": "p 33, Pl. 19|19a.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1797262",
+          "legacy_id": "99266",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 115, Pl. 89.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_115_pl_89",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "habenaria_intermedia",
+          "type": "species",
+          "archival_data": [
+            "1415333"
+          ]
+        },
+        "volume": null,
+        "page": "p 115, Pl. 89.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1798579",
+          "legacy_id": "100861",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 51, Pl. 35.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_51_pl_35",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "heracleum_candicans",
+          "type": "species",
+          "archival_data": [
+            "1412049"
+          ]
+        },
+        "volume": null,
+        "page": "p 51, Pl. 35.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1799332",
+          "legacy_id": "102385",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 90-91, Pl. 69|69a.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_90_91_pl_69_69a",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "lindelofia_longiflora",
+          "type": "species",
+          "archival_data": [
+            "1418099"
+          ]
+        },
+        "volume": null,
+        "page": "p 90-91, Pl. 69|69a.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1799528",
+          "legacy_id": "109203",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 58, Pl. 41.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_58_pl_41",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "leontopodium_himalayanum",
+          "type": "species",
+          "archival_data": [
+            "1415846"
+          ]
+        },
+        "volume": null,
+        "page": "p 58, Pl. 41.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1800364",
+          "legacy_id": "107964",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 94-95, Pl. 72|72a.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_94_95_pl_72_72a",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "lagotis_cashmeriana",
+          "type": "species",
+          "archival_data": [
+            "1420664"
+          ]
+        },
+        "volume": null,
+        "page": "p 94-95, Pl. 72|72a.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1801955",
+          "legacy_id": "107100",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 36-37, Pl. 21|21a.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_36_37_pl_21_21a",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "impatiens_glandulifera",
+          "type": "species",
+          "archival_data": [
+            "1416473"
+          ]
+        },
+        "volume": null,
+        "page": "p 36-37, Pl. 21|21a.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1802063",
+          "legacy_id": "104448",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 37, Pl. 21b.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_37_pl_21b",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "impatiens_scabrida",
+          "type": "species",
+          "archival_data": [
+            "1416493"
+          ]
+        },
+        "volume": null,
+        "page": "p 37, Pl. 21b.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1802094",
+          "legacy_id": "104480",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 59, Pl. 42.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_59_pl_42",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "inula_grandiflora",
+          "type": "species",
+          "archival_data": [
+            "1416842"
+          ]
+        },
+        "volume": null,
+        "page": "p 59, Pl. 42.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1802455",
+          "legacy_id": "104605",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 63, Pl. 46.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_63_pl_46",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "ligularia_amplexicaulis",
+          "type": "species",
+          "archival_data": [
+            "1417332"
+          ]
+        },
+        "volume": null,
+        "page": "p 63, Pl. 46.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1802706",
+          "legacy_id": "108626",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 122, Pl. 96.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_122_pl_96",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "lilium_oxypetalum",
+          "type": "species",
+          "archival_data": [
+            "1417708"
+          ]
+        },
+        "volume": null,
+        "page": "p 122, Pl. 96.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1803990",
+          "legacy_id": "108935",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 123, Pl. 97.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_123_pl_97",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "lilium_polyphyllum",
+          "type": "species",
+          "archival_data": [
+            "1417719"
+          ]
+        },
+        "volume": null,
+        "page": "p 123, Pl. 97.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1804267",
+          "legacy_id": "108966",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 118, Pl. 92|92a.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_118_pl_92_92a",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "iris_kamaonensis",
+          "type": "species",
+          "archival_data": [
+            "1417289"
+          ]
+        },
+        "volume": null,
+        "page": "p 118, Pl. 92|92a.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1804392",
+          "legacy_id": "105086",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 32, Pl. 18.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_32_pl_18",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "lavatera_cachemiriana",
+          "type": "species",
+          "archival_data": [
+            "1421430"
+          ]
+        },
+        "volume": null,
+        "page": "p 32, Pl. 18.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1804533",
+          "legacy_id": "107729",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 31, Pl. 17.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_31_pl_17",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "myricaria_elegans",
+          "type": "species",
+          "archival_data": [
+            "1416365"
+          ]
+        },
+        "volume": null,
+        "page": "p 31, Pl. 17.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1805035",
+          "legacy_id": "114608",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 25-26, Pl. 12|12a.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_25_26_pl_12_12a",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "meconopsis_aculeata",
+          "type": "species",
+          "archival_data": [
+            "1418581"
+          ]
+        },
+        "volume": null,
+        "page": "p 25-26, Pl. 12|12a.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1807209",
+          "legacy_id": "112473",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 26, Pl. 12b.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_26_pl_12b",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "meconopsis_paniculata",
+          "type": "species",
+          "archival_data": [
+            "1418601"
+          ]
+        },
+        "volume": null,
+        "page": "p 26, Pl. 12b.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1807804",
+          "legacy_id": "112578",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 54, Pl. 37b.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_54_pl_37b",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "morina_coulteriana",
+          "type": "species",
+          "archival_data": [
+            "1421643"
+          ]
+        },
+        "volume": null,
+        "page": "p 54, Pl. 37b.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1808866",
+          "legacy_id": "114168",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 53, Pl. 37|37a.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_53_pl_37_37a",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "morina_longifolia",
+          "type": "species",
+          "archival_data": [
+            "1421646"
+          ]
+        },
+        "volume": null,
+        "page": "p 53, Pl. 37|37a.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1808872",
+          "legacy_id": "114174",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 14, Pl. 2.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_14_pl_2",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "paraquilegia_anemonoides",
+          "type": "species",
+          "archival_data": [
+            "1425156"
+          ]
+        },
+        "volume": null,
+        "page": "p 14, Pl. 2.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1810557",
+          "legacy_id": "118692",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 109, Pl. 84|84a.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_109_pl_84_84a",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "oxyria_digyna",
+          "type": "species",
+          "archival_data": [
+            "1423640"
+          ]
+        },
+        "volume": null,
+        "page": "p 109, Pl. 84|84a.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1811785",
+          "legacy_id": "117684",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 99, Pl. 75c.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_99_pl_75c",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "pedicularis_pectinata",
+          "type": "species",
+          "archival_data": [
+            "1426332"
+          ]
+        },
+        "volume": null,
+        "page": "p 99, Pl. 75c.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1813477",
+          "legacy_id": "119414",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 99, Pl. 75b.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_99_pl_75b",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "pedicularis_pyramidata",
+          "type": "species",
+          "archival_data": [
+            "1426334"
+          ]
+        },
+        "volume": null,
+        "page": "p 99, Pl. 75b.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1813479",
+          "legacy_id": "119416",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 96, Pl. 73|73a.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_96_pl_73_73a",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "pedicularis_rhinanthoides",
+          "type": "species",
+          "archival_data": [
+            "1426338"
+          ]
+        },
+        "volume": null,
+        "page": "p 96, Pl. 73|73a.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1813485",
+          "legacy_id": "119422",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 98, Pl. 75|75a.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_98_pl_75_75a",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "pedicularis_siphonantha",
+          "type": "species",
+          "archival_data": [
+            "1426344"
+          ]
+        },
+        "volume": null,
+        "page": "p 98, Pl. 75|75a.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1813495",
+          "legacy_id": "119432",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 49, Pl. 33|33a.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_49_pl_33_33a",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "pleurospermum_candollei",
+          "type": "species",
+          "archival_data": [
+            "1426748"
+          ]
+        },
+        "volume": null,
+        "page": "p 49, Pl. 33|33a.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1815971",
+          "legacy_id": "122739",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 24, Pl. 11.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_24_pl_11",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "podophyllum_hexandrum",
+          "type": "species",
+          "archival_data": [
+            "1427144"
+          ]
+        },
+        "volume": null,
+        "page": "p 24, Pl. 11.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1816677",
+          "legacy_id": "122959",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 79, Pl. 60.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_79_pl_60",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "primula_rosea",
+          "type": "species",
+          "archival_data": [
+            "1424261"
+          ]
+        },
+        "volume": null,
+        "page": "p 79, Pl. 60.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1816697",
+          "legacy_id": "124229",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 82, Pl. 63.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_82_pl_63",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "primula_sessilis",
+          "type": "species",
+          "archival_data": [
+            "1424271"
+          ]
+        },
+        "volume": null,
+        "page": "p 82, Pl. 63.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1816715",
+          "legacy_id": "124247",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 81, Pl. 62.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_81_pl_62",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "primula_stuartii",
+          "type": "species",
+          "archival_data": [
+            "1424286"
+          ]
+        },
+        "volume": null,
+        "page": "p 81, Pl. 62.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1816757",
+          "legacy_id": "124291",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 88, Pl. 67|67a.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_88_pl_67_67a",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "polemonium_caeruleum",
+          "type": "species",
+          "archival_data": [
+            "1427170"
+          ]
+        },
+        "volume": null,
+        "page": "p 88, Pl. 67|67a.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1817006",
+          "legacy_id": "123043",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 97, Pl. 74.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_97_pl_74",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "phlomis_bracteosa",
+          "type": "species",
+          "archival_data": [
+            "1423384"
+          ]
+        },
+        "volume": null,
+        "page": "p 97, Pl. 74.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1817815",
+          "legacy_id": "120626",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 124, Pl. 98.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_124_pl_98",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "polygonatum_verticillatum",
+          "type": "species",
+          "archival_data": [
+            "1422029"
+          ]
+        },
+        "volume": null,
+        "page": "p 124, Pl. 98.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1817925",
+          "legacy_id": "123230",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 40, Pl. 24.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_40_pl_24",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "potentilla_nepalensis",
+          "type": "species",
+          "archival_data": [
+            "1423458"
+          ]
+        },
+        "volume": null,
+        "page": "p 40, Pl. 24.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1819631",
+          "legacy_id": "123720",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 80, Pl. 61.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_80_pl_61",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "primula_atrodentata",
+          "type": "species",
+          "archival_data": [
+            "1423836"
+          ]
+        },
+        "volume": null,
+        "page": "p 80, Pl. 61.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1820270",
+          "legacy_id": "123873",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 39, Pl. 23|23a.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_39_pl_23_23a",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rosa_macrophylla",
+          "type": "species",
+          "archival_data": [
+            "1427935"
+          ]
+        },
+        "volume": null,
+        "page": "p 39, Pl. 23|23a.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1821348",
+          "legacy_id": "129429",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 103, Pl. 79.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_103_pl_79",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "salvia_hians",
+          "type": "species",
+          "archival_data": [
+            "1430237"
+          ]
+        },
+        "volume": null,
+        "page": "p 103, Pl. 79.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1821372",
+          "legacy_id": "130801",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 52, Pl. 36.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_52_pl_36",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "sambucus_wightiana",
+          "type": "species",
+          "archival_data": [
+            "1436700"
+          ]
+        },
+        "volume": null,
+        "page": "p 52, Pl. 36.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1822037",
+          "legacy_id": "131059",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 108, Pl. 83|83a.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_108_pl_83_83a",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rheum_australe",
+          "type": "species",
+          "archival_data": [
+            "1423558"
+          ]
+        },
+        "volume": null,
+        "page": "p 108, Pl. 83|83a.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1822500",
+          "legacy_id": "127124",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 76, Pl. 58.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_76_pl_58",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rhododendron_arboreum",
+          "type": "species",
+          "archival_data": [
+            "1423966"
+          ]
+        },
+        "volume": null,
+        "page": "p 76, Pl. 58.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1823446",
+          "legacy_id": "127343",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 77, Pl. 58b.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_77_pl_58b",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rhododendron_barbatum",
+          "type": "species",
+          "archival_data": [
+            "1423991"
+          ]
+        },
+        "volume": null,
+        "page": "p 77, Pl. 58b.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1823770",
+          "legacy_id": "127419",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 75, Pl. 57|57a.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_75_pl_57_57a",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rhododendron_campanulatum",
+          "type": "species",
+          "archival_data": [
+            "1430521"
+          ]
+        },
+        "volume": null,
+        "page": "p 75, Pl. 57|57a.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1824108",
+          "legacy_id": "127513",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 85, Pl. 65.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_85_pl_65",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "swertia_petiolata",
+          "type": "species",
+          "archival_data": [
+            "1428161"
+          ]
+        },
+        "volume": null,
+        "page": "p 85, Pl. 65.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1825659",
+          "legacy_id": "135954",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 70, Pl. 52.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_70_pl_52",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "taraxacum_officinale",
+          "type": "species",
+          "archival_data": [
+            "1429314"
+          ]
+        },
+        "volume": null,
+        "page": "p 70, Pl. 52.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1827616",
+          "legacy_id": "136547",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 100, Pl. 76.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_100_pl_76",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "stachys_sericea",
+          "type": "species",
+          "archival_data": [
+            "1432286"
+          ]
+        },
+        "volume": null,
+        "page": "p 100, Pl. 76.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1827871",
+          "legacy_id": "135124",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 65, Pl. 48.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_65_pl_48",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "saussurea_gossypiphora",
+          "type": "species",
+          "archival_data": [
+            "1441828"
+          ]
+        },
+        "volume": null,
+        "page": "p 65, Pl. 48.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1829577",
+          "legacy_id": "131618",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 66-67, Pl. 49|49a.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_66_67_pl_49_49a",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "saussurea_obvallata",
+          "type": "species",
+          "archival_data": [
+            "1431404"
+          ]
+        },
+        "volume": null,
+        "page": "p 66-67, Pl. 49|49a.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1829589",
+          "legacy_id": "131630",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 64, Pl. 47.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_64_pl_47",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "senecio_chrysanthemoides",
+          "type": "species",
+          "archival_data": [
+            "1428453"
+          ]
+        },
+        "volume": null,
+        "page": "p 64, Pl. 47.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1829946",
+          "legacy_id": "132988",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 55, Pl. 38.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_55_pl_38",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "solidago_virgaurea",
+          "type": "species",
+          "archival_data": [
+            "1431088"
+          ]
+        },
+        "volume": null,
+        "page": "p 55, Pl. 38.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1830041",
+          "legacy_id": "134341",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 29, Pl. 15.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_29_pl_15",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "viola_suavis",
+          "type": "species",
+          "archival_data": [
+            "1436903"
+          ]
+        },
+        "volume": null,
+        "page": "p 29, Pl. 15.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1830865",
+          "legacy_id": "141314",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 116, Pl. 90.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_116_pl_90",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "thunia_alba",
+          "type": "species",
+          "archival_data": [
+            "1430828"
+          ]
+        },
+        "volume": null,
+        "page": "p 116, Pl. 90.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1831295",
+          "legacy_id": "137390",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 93, Pl. 71|71a.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_93_pl_71_71a",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "verbascum_thapsus",
+          "type": "species",
+          "archival_data": [
+            "1430190"
+          ]
+        },
+        "volume": null,
+        "page": "p 93, Pl. 71|71a.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1832402",
+          "legacy_id": "140307",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 60, Pl. 43.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_60_pl_43",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "tussilago_farfara",
+          "type": "species",
+          "archival_data": [
+            "1427918"
+          ]
+        },
+        "volume": null,
+        "page": "p 60, Pl. 43.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1834282",
+          "legacy_id": "139453",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 38, Pl. 22.",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_38_pl_22",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "thermopsis_barbata",
+          "type": "species",
+          "archival_data": [
+            "1430448"
+          ]
+        },
+        "volume": null,
+        "page": "p 38, Pl. 22.",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1835709",
+          "legacy_id": "137157",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Mehta, Ashvin. 100 Himalayan Flowers. (1991) p 51",
+        "machine_name": "mehta_ashvin_100_himalayan_flowers_1991_p_51",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cachrys_pabularia",
+          "type": "species",
+          "archival_data": [
+            "1398866"
+          ]
+        },
+        "volume": null,
+        "page": "p 51",
+        "year": "1991",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1948487",
+          "legacy_id": "288895",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483190112"
+        }
+      }
+    ]
+  }
+}

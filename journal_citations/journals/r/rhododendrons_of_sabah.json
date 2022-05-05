@@ -1,0 +1,1804 @@
+{
+  "rhododendrons_of_sabah": {
+    "name": "Rhododendrons of Sabah.",
+    "machine_name": "rhododendrons_of_sabah",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "1681369",
+      "legacy_id": "5331",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": []
+  },
+  "rhododendrons_of_sabah_1988": {
+    "name": "Rhododendrons of Sabah. (1988)",
+    "machine_name": "rhododendrons_of_sabah_1988",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1988",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "2112882",
+      "legacy_id": "5331",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": [
+      {
+        "name": "Rhododendrons of Sabah. (1988) p 77",
+        "machine_name": "rhododendrons_of_sabah_1988_p_77",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rhododendron_cuneifolium_cuneifolium",
+          "type": "variety",
+          "archival_data": [
+            "1487915"
+          ]
+        },
+        "volume": null,
+        "page": "p 77",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1746826",
+          "legacy_id": "43825",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483154438"
+        }
+      },
+      {
+        "name": "Rhododendrons of Sabah. (1988) p 82",
+        "machine_name": "rhododendrons_of_sabah_1988_p_82",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rhododendron_durionifolium_sabahense",
+          "type": "variety",
+          "archival_data": [
+            "1487939"
+          ]
+        },
+        "volume": null,
+        "page": "p 82",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1746885",
+          "legacy_id": "43884",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483154438"
+        }
+      },
+      {
+        "name": "Rhododendrons of Sabah. (1988) p 24, Pl. 7c-d.",
+        "machine_name": "rhododendrons_of_sabah_1988_p_24_pl_7c_d",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rhododendron_javanicum_cockburnii",
+          "type": "variety",
+          "archival_data": [
+            "1487958"
+          ]
+        },
+        "volume": null,
+        "page": "p 24, Pl. 7c-d.",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1747180",
+          "legacy_id": "43932",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483154438"
+        }
+      },
+      {
+        "name": "Rhododendrons of Sabah. (1988) p 25, Pl. 8.",
+        "machine_name": "rhododendrons_of_sabah_1988_p_25_pl_8",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rhododendron_javanicum_gracile",
+          "type": "variety",
+          "archival_data": [
+            "1487959"
+          ]
+        },
+        "volume": null,
+        "page": "p 25, Pl. 8.",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1747181",
+          "legacy_id": "43933",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483154438"
+        }
+      },
+      {
+        "name": "Rhododendrons of Sabah. (1988) p 20, Pl. 5.",
+        "machine_name": "rhododendrons_of_sabah_1988_p_20_pl_5",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rhododendron_javanicum_javanicum",
+          "type": "variety",
+          "archival_data": [
+            "1487960"
+          ]
+        },
+        "volume": null,
+        "page": "p 20, Pl. 5.",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1747182",
+          "legacy_id": "43934",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483154438"
+        }
+      },
+      {
+        "name": "Rhododendrons of Sabah. (1988) p 22-23, Pl. 6a-b.",
+        "machine_name": "rhododendrons_of_sabah_1988_p_22_23_pl_6a_b",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rhododendron_javanicum_kinabaluense",
+          "type": "variety",
+          "archival_data": [
+            "1487961"
+          ]
+        },
+        "volume": null,
+        "page": "p 22-23, Pl. 6a-b.",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1747183",
+          "legacy_id": "43935",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483154438"
+        }
+      },
+      {
+        "name": "Rhododendrons of Sabah. (1988) p 23-24, Pl. 7a-b.",
+        "machine_name": "rhododendrons_of_sabah_1988_p_23_24_pl_7a_b",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rhododendron_javanicum_moultonii",
+          "type": "variety",
+          "archival_data": [
+            "1487962"
+          ]
+        },
+        "volume": null,
+        "page": "p 23-24, Pl. 7a-b.",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1747184",
+          "legacy_id": "43936",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483154438"
+        }
+      },
+      {
+        "name": "Rhododendrons of Sabah. (1988) p 32, Pl. 14.",
+        "machine_name": "rhododendrons_of_sabah_1988_p_32_pl_14",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rhododendron_longiflorum_longipetalum",
+          "type": "variety",
+          "archival_data": [
+            "1487969"
+          ]
+        },
+        "volume": null,
+        "page": "p 32, Pl. 14.",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1747209",
+          "legacy_id": "43961",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483154438"
+        }
+      },
+      {
+        "name": "Rhododendrons of Sabah. (1988) p 31, Pl. 13.",
+        "machine_name": "rhododendrons_of_sabah_1988_p_31_pl_13",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rhododendron_longiflorum_subcordatum",
+          "type": "variety",
+          "archival_data": [
+            "1487970"
+          ]
+        },
+        "volume": null,
+        "page": "p 31, Pl. 13.",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1747210",
+          "legacy_id": "43962",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483154438"
+        }
+      },
+      {
+        "name": "Rhododendrons of Sabah. (1988) p 64",
+        "machine_name": "rhododendrons_of_sabah_1988_p_64",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rhododendron_rugosum_laeve",
+          "type": "variety",
+          "archival_data": [
+            "1488227"
+          ]
+        },
+        "volume": null,
+        "page": "p 64",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1747511",
+          "legacy_id": "44017",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483154438"
+        }
+      },
+      {
+        "name": "Rhododendrons of Sabah. (1988) p 3, Pl. 3a-b|62-63",
+        "machine_name": "rhododendrons_of_sabah_1988_p_3_pl_3a_b_62_63",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rhododendron_rugosum_rugosum",
+          "type": "variety",
+          "archival_data": [
+            "1488228"
+          ]
+        },
+        "volume": null,
+        "page": "p 3, Pl. 3a-b|62-63",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1747512",
+          "legacy_id": "44018",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483154438"
+        }
+      },
+      {
+        "name": "Rhododendrons of Sabah. (1988) p 45, Pl. 25.",
+        "machine_name": "rhododendrons_of_sabah_1988_p_45_pl_25",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rhododendron_stenophyllum_angustifolium",
+          "type": "variety",
+          "archival_data": [
+            "1488243"
+          ]
+        },
+        "volume": null,
+        "page": "p 45, Pl. 25.",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1747531",
+          "legacy_id": "44037",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483154438"
+        }
+      },
+      {
+        "name": "Rhododendrons of Sabah. (1988) p 44, Pl. 24.",
+        "machine_name": "rhododendrons_of_sabah_1988_p_44_pl_24",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rhododendron_stenophyllum_stenophyllum",
+          "type": "variety",
+          "archival_data": [
+            "1488244"
+          ]
+        },
+        "volume": null,
+        "page": "p 44, Pl. 24.",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1747532",
+          "legacy_id": "44038",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483154438"
+        }
+      },
+      {
+        "name": "Rhododendrons of Sabah. (1988) p 59",
+        "machine_name": "rhododendrons_of_sabah_1988_p_59",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rhododendron_suaveolens_rosea",
+          "type": "variety",
+          "archival_data": [
+            "1488246"
+          ]
+        },
+        "volume": null,
+        "page": "p 59",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1747534",
+          "legacy_id": "44040",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483154438"
+        }
+      },
+      {
+        "name": "Rhododendrons of Sabah. (1988) p 57-58",
+        "machine_name": "rhododendrons_of_sabah_1988_p_57_58",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rhododendron_suaveolens_suaveolens",
+          "type": "variety",
+          "archival_data": [
+            "1488247"
+          ]
+        },
+        "volume": null,
+        "page": "p 57-58",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1747535",
+          "legacy_id": "44041",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483154438"
+        }
+      },
+      {
+        "name": "Rhododendrons of Sabah. (1988) p 33, Pl. 15.",
+        "machine_name": "rhododendrons_of_sabah_1988_p_33_pl_15",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rhododendron_lanceolatum",
+          "type": "species",
+          "archival_data": [
+            "1431311"
+          ]
+        },
+        "volume": null,
+        "page": "p 33, Pl. 15.",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1820877",
+          "legacy_id": "127962",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Rhododendrons of Sabah. (1988) p 100",
+        "machine_name": "rhododendrons_of_sabah_1988_p_100",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rhododendron_liewianum",
+          "type": "species",
+          "archival_data": [
+            "1431320"
+          ]
+        },
+        "volume": null,
+        "page": "p 100",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1820912",
+          "legacy_id": "127997",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Rhododendrons of Sabah. (1988) p 4, Pl. 4.",
+        "machine_name": "rhododendrons_of_sabah_1988_p_4_pl_4",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rhododendron_longiflorum",
+          "type": "species",
+          "archival_data": [
+            "1431330"
+          ]
+        },
+        "volume": null,
+        "page": "p 4, Pl. 4.",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1820930",
+          "legacy_id": "128015",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Rhododendrons of Sabah. (1988) p 27-28, Pl. 10-11a-b.",
+        "machine_name": "rhododendrons_of_sabah_1988_p_27_28_pl_10_11a_b",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rhododendron_lowii",
+          "type": "species",
+          "archival_data": [
+            "1431333"
+          ]
+        },
+        "volume": null,
+        "page": "p 27-28, Pl. 10-11a-b.",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1820935",
+          "legacy_id": "128020",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Rhododendrons of Sabah. (1988) p 93-94",
+        "machine_name": "rhododendrons_of_sabah_1988_p_93_94",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rhododendron_malayanum",
+          "type": "species",
+          "archival_data": [
+            "1431352"
+          ]
+        },
+        "volume": null,
+        "page": "p 93-94",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1821246",
+          "legacy_id": "128081",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Rhododendrons of Sabah. (1988) p 36, Pl. 16.",
+        "machine_name": "rhododendrons_of_sabah_1988_p_36_pl_16",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rhododendron_maxwellii",
+          "type": "species",
+          "archival_data": [
+            "1431359"
+          ]
+        },
+        "volume": null,
+        "page": "p 36, Pl. 16.",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1821264",
+          "legacy_id": "128099",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Rhododendrons of Sabah. (1988) p 94",
+        "machine_name": "rhododendrons_of_sabah_1988_p_94",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rhododendron_micromalayanum",
+          "type": "species",
+          "archival_data": [
+            "1431656"
+          ]
+        },
+        "volume": null,
+        "page": "p 94",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1821524",
+          "legacy_id": "128108",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Rhododendrons of Sabah. (1988) p 43, Pl. 23.",
+        "machine_name": "rhododendrons_of_sabah_1988_p_43_pl_23",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rhododendron_nervosulum",
+          "type": "species",
+          "archival_data": [
+            "1431674"
+          ]
+        },
+        "volume": null,
+        "page": "p 43, Pl. 23.",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1821568",
+          "legacy_id": "128152",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Rhododendrons of Sabah. (1988) p 67",
+        "machine_name": "rhododendrons_of_sabah_1988_p_67",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rhododendron_nieuwenhuisii",
+          "type": "species",
+          "archival_data": [
+            "1431675"
+          ]
+        },
+        "volume": null,
+        "page": "p 67",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1821569",
+          "legacy_id": "128153",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Rhododendrons of Sabah. (1988) p 60-61",
+        "machine_name": "rhododendrons_of_sabah_1988_p_60_61",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rhododendron_orbiculatum",
+          "type": "species",
+          "archival_data": [
+            "1431693"
+          ]
+        },
+        "volume": null,
+        "page": "p 60-61",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1821855",
+          "legacy_id": "128190",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Rhododendrons of Sabah. (1988) p 101",
+        "machine_name": "rhododendrons_of_sabah_1988_p_101",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rhododendron_planecostatum",
+          "type": "species",
+          "archival_data": [
+            "1431720"
+          ]
+        },
+        "volume": null,
+        "page": "p 101",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1821902",
+          "legacy_id": "128237",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Rhododendrons of Sabah. (1988) p 70",
+        "machine_name": "rhododendrons_of_sabah_1988_p_70",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rhododendron_pneumonanthum",
+          "type": "species",
+          "archival_data": [
+            "1431724"
+          ]
+        },
+        "volume": null,
+        "page": "p 70",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1821904",
+          "legacy_id": "128239",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Rhododendrons of Sabah. (1988) p 51-52",
+        "machine_name": "rhododendrons_of_sabah_1988_p_51_52",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rhododendron_praetervisum",
+          "type": "species",
+          "archival_data": [
+            "1431733"
+          ]
+        },
+        "volume": null,
+        "page": "p 51-52",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1821917",
+          "legacy_id": "128252",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Rhododendrons of Sabah. (1988) p 25, Pl. 9a.",
+        "machine_name": "rhododendrons_of_sabah_1988_p_25_pl_9a",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rhododendron_retivenium",
+          "type": "species",
+          "archival_data": [
+            "1432043"
+          ]
+        },
+        "volume": null,
+        "page": "p 25, Pl. 9a.",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1822233",
+          "legacy_id": "128323",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Rhododendrons of Sabah. (1988) p 2, Pl. 2b.",
+        "machine_name": "rhododendrons_of_sabah_1988_p_2_pl_2b",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rhododendron_stenophyllum",
+          "type": "species",
+          "archival_data": [
+            "1432105"
+          ]
+        },
+        "volume": null,
+        "page": "p 2, Pl. 2b.",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1822842",
+          "legacy_id": "128441",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Rhododendrons of Sabah. (1988) p 49",
+        "machine_name": "rhododendrons_of_sabah_1988_p_49",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rhododendron_abietifolium",
+          "type": "species",
+          "archival_data": [
+            "1423935"
+          ]
+        },
+        "volume": null,
+        "page": "p 49",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1823143",
+          "legacy_id": "127284",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Rhododendrons of Sabah. (1988) p 87",
+        "machine_name": "rhododendrons_of_sabah_1988_p_87",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rhododendron_acuminatum",
+          "type": "species",
+          "archival_data": [
+            "1423937"
+          ]
+        },
+        "volume": null,
+        "page": "p 87",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1823145",
+          "legacy_id": "127286",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Rhododendrons of Sabah. (1988) p 89",
+        "machine_name": "rhododendrons_of_sabah_1988_p_89",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rhododendron_variolosum",
+          "type": "species",
+          "archival_data": [
+            "1432434"
+          ]
+        },
+        "volume": null,
+        "page": "p 89",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1823178",
+          "legacy_id": "128532",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Rhododendrons of Sabah. (1988) p 53-54",
+        "machine_name": "rhododendrons_of_sabah_1988_p_53_54",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rhododendron_yongii",
+          "type": "species",
+          "archival_data": [
+            "1432463"
+          ]
+        },
+        "volume": null,
+        "page": "p 53-54",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1823510",
+          "legacy_id": "128620",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Rhododendrons of Sabah. (1988) p 50",
+        "machine_name": "rhododendrons_of_sabah_1988_p_50",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rhododendron_baconii",
+          "type": "species",
+          "archival_data": [
+            "1423983"
+          ]
+        },
+        "volume": null,
+        "page": "p 50",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1823744",
+          "legacy_id": "127393",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Rhododendrons of Sabah. (1988) p 47-48",
+        "machine_name": "rhododendrons_of_sabah_1988_p_47_48",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rhododendron_bagobonum",
+          "type": "species",
+          "archival_data": [
+            "1423984"
+          ]
+        },
+        "volume": null,
+        "page": "p 47-48",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1823745",
+          "legacy_id": "127394",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Rhododendrons of Sabah. (1988) p 74",
+        "machine_name": "rhododendrons_of_sabah_1988_p_74",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rhododendron_borneense",
+          "type": "species",
+          "archival_data": [
+            "1424002"
+          ]
+        },
+        "volume": null,
+        "page": "p 74",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1823786",
+          "legacy_id": "127435",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Rhododendrons of Sabah. (1988) p 55",
+        "machine_name": "rhododendrons_of_sabah_1988_p_55",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rhododendron_burtii",
+          "type": "species",
+          "archival_data": [
+            "1430510"
+          ]
+        },
+        "volume": null,
+        "page": "p 55",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1823806",
+          "legacy_id": "127455",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Rhododendrons of Sabah. (1988) p 71-73",
+        "machine_name": "rhododendrons_of_sabah_1988_p_71_73",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rhododendron_buxifolium",
+          "type": "species",
+          "archival_data": [
+            "1430511"
+          ]
+        },
+        "volume": null,
+        "page": "p 71-73",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1823810",
+          "legacy_id": "127459",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Rhododendrons of Sabah. (1988) p 38-41, Pl. 18-21.",
+        "machine_name": "rhododendrons_of_sabah_1988_p_38_41_pl_18_21",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rhododendron_crassifolium",
+          "type": "species",
+          "archival_data": [
+            "1430574"
+          ]
+        },
+        "volume": null,
+        "page": "p 38-41, Pl. 18-21.",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1824729",
+          "legacy_id": "127643",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Rhododendrons of Sabah. (1988) p 80",
+        "machine_name": "rhododendrons_of_sabah_1988_p_80",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rhododendron_ericoides",
+          "type": "species",
+          "archival_data": [
+            "1430906"
+          ]
+        },
+        "volume": null,
+        "page": "p 80",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1825049",
+          "legacy_id": "127719",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Rhododendrons of Sabah. (1988) p 84-85",
+        "machine_name": "rhododendrons_of_sabah_1988_p_84_85",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rhododendron_fallacinum",
+          "type": "species",
+          "archival_data": [
+            "1430922"
+          ]
+        },
+        "volume": null,
+        "page": "p 84-85",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1825073",
+          "legacy_id": "127743",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Rhododendrons of Sabah. (1988) p 91-92",
+        "machine_name": "rhododendrons_of_sabah_1988_p_91_92",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rhododendron_himantodes",
+          "type": "species",
+          "archival_data": [
+            "1430974"
+          ]
+        },
+        "volume": null,
+        "page": "p 91-92",
+        "year": "1988",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1825426",
+          "legacy_id": "127850",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      }
+    ]
+  }
+}

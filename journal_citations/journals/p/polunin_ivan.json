@@ -1,0 +1,6683 @@
+{
+  "polunin_ivan_plants_and_flowers_of_singapore": {
+    "name": "Polunin, Ivan. Plants and Flowers of Singapore.",
+    "machine_name": "polunin_ivan_plants_and_flowers_of_singapore",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": null,
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "1681133",
+      "legacy_id": "5296",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": []
+  },
+  "polunin_ivan_plants_and_flowers_of_singapore_1987": {
+    "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987)",
+    "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987",
+    "type": "journal_book",
+    "volume": null,
+    "number": null,
+    "year": "1987",
+    "additional_info": null,
+    "publish_date": null,
+    "pulling_date": null,
+    "description": null,
+    "archival_data": {
+      "id": "2109754",
+      "legacy_id": "5296",
+      "author": "oitadmin",
+      "created": "1473951107"
+    },
+    "citation_reference_items": [
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 112, Pl. 87",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_112_pl_87",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "acalypha_wilkesiana_godseffiana",
+          "type": "variety",
+          "archival_data": [
+            "1466341"
+          ]
+        },
+        "volume": null,
+        "page": "p 112, Pl. 87",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1705254",
+          "legacy_id": "160",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 153, Pl. 160",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_153_pl_160",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "capsicum_frutescens_minimum",
+          "type": "variety",
+          "archival_data": [
+            "1470659"
+          ]
+        },
+        "volume": null,
+        "page": "p 153, Pl. 160",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1707332",
+          "legacy_id": "6233",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 92, Pl. 48",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_92_pl_48",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "dendrobium_cultivars_bangsaen_beauty",
+          "type": "variety",
+          "archival_data": [
+            "1470878"
+          ]
+        },
+        "volume": null,
+        "page": "p 92, Pl. 48",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1715371",
+          "legacy_id": "12307",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 66, Pl. 5.",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_66_pl_5",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "ipomoea_pes_caprae_brasiliensis",
+          "type": "variety",
+          "archival_data": [
+            "1477984"
+          ]
+        },
+        "volume": null,
+        "page": "p 66, Pl. 5.",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1722739",
+          "legacy_id": "23362",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483151195"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 94, Pl. 53",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_94_pl_53",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "sansevieria_trifasciata_laurentii",
+          "type": "variety",
+          "archival_data": [
+            "1491545"
+          ]
+        },
+        "volume": null,
+        "page": "p 94, Pl. 53",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1756489",
+          "legacy_id": "55627",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483154438"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 92, Pl. 49",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_92_pl_49",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "vanda_cultivars_tan_chay_yan",
+          "type": "variety",
+          "archival_data": [
+            "1498351"
+          ]
+        },
+        "volume": null,
+        "page": "p 92, Pl. 49",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1759017",
+          "legacy_id": "58925",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 112, Pl. 86",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_112_pl_86",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "acalypha_wilkesiana",
+          "type": "species",
+          "archival_data": [
+            "1402424"
+          ]
+        },
+        "volume": null,
+        "page": "p 112, Pl. 86",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1760228",
+          "legacy_id": "67877",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 64, Pl. 2.",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_64_pl_2",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "acanthus_ilicifolius",
+          "type": "species",
+          "archival_data": [
+            "1402792"
+          ]
+        },
+        "volume": null,
+        "page": "p 64, Pl. 2.",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1761184",
+          "legacy_id": "67928",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 148, Pl. 150",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_148_pl_150",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "abelmoschus_esculentus",
+          "type": "species",
+          "archival_data": [
+            "1400806"
+          ]
+        },
+        "volume": null,
+        "page": "p 148, Pl. 150",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1763050",
+          "legacy_id": "67149",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 93, Pl. 50",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_93_pl_50",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "vanda_cultivars_miss_joaquim",
+          "type": "variety",
+          "archival_data": [
+            "1498318"
+          ]
+        },
+        "volume": null,
+        "page": "p 93, Pl. 50",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1763918",
+          "legacy_id": "58895",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 155, Pl. 163",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_155_pl_163",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "areca_catechu",
+          "type": "species",
+          "archival_data": [
+            "1401417"
+          ]
+        },
+        "volume": null,
+        "page": "p 155, Pl. 163",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1764172",
+          "legacy_id": "73014",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 132, Pl. 123",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_132_pl_123",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "argyreia_nervosa",
+          "type": "species",
+          "archival_data": [
+            "1401786"
+          ]
+        },
+        "volume": null,
+        "page": "p 132, Pl. 123",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1764815",
+          "legacy_id": "73164",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 74, Pl. 18",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_74_pl_18",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "alpinia_javanica",
+          "type": "species",
+          "archival_data": [
+            "1403308"
+          ]
+        },
+        "volume": null,
+        "page": "p 74, Pl. 18",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1766012",
+          "legacy_id": "70712",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 80, Pl. 27",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_80_pl_27",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "ageratum_conyzoides",
+          "type": "species",
+          "archival_data": [
+            "1400961"
+          ]
+        },
+        "volume": null,
+        "page": "p 80, Pl. 27",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1766261",
+          "legacy_id": "69441",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 86, Pl. 40",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_86_pl_40",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "anthurium_ferrierense",
+          "type": "species",
+          "archival_data": [
+            "1400260"
+          ]
+        },
+        "volume": null,
+        "page": "p 86, Pl. 40",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1766754",
+          "legacy_id": "72249",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 56",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_56",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "albizia_saman",
+          "type": "species",
+          "archival_data": [
+            "1401372"
+          ]
+        },
+        "volume": null,
+        "page": "p 56",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1767524",
+          "legacy_id": "69717",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 76, Pl. 20",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_76_pl_20",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "amorphophallus_campanulatus",
+          "type": "species",
+          "archival_data": [
+            "1398315"
+          ]
+        },
+        "volume": null,
+        "page": "p 76, Pl. 20",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1767665",
+          "legacy_id": "71155",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 132, Pl. 125",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_132_pl_125",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "allamanda_cathartica",
+          "type": "species",
+          "archival_data": [
+            "1401755"
+          ]
+        },
+        "volume": null,
+        "page": "p 132, Pl. 125",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1768210",
+          "legacy_id": "69913",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 143, Pl. 142",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_143_pl_142",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "ananas_comosus",
+          "type": "species",
+          "archival_data": [
+            "1398674"
+          ]
+        },
+        "volume": null,
+        "page": "p 143, Pl. 142",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1768304",
+          "legacy_id": "71302",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 122, Pl. 105",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_122_pl_105",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "adenanthera_pavonina",
+          "type": "species",
+          "archival_data": [
+            "1398943"
+          ]
+        },
+        "volume": null,
+        "page": "p 122, Pl. 105",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1768785",
+          "legacy_id": "68718",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 101, Pl. 67",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_101_pl_67",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "adenium_obesum",
+          "type": "species",
+          "archival_data": [
+            "1398974"
+          ]
+        },
+        "volume": null,
+        "page": "p 101, Pl. 67",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1769095",
+          "legacy_id": "68779",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 116, Pl. 96",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_116_pl_96",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "calophyllum_inophyllum",
+          "type": "species",
+          "archival_data": [
+            "1400487"
+          ]
+        },
+        "volume": null,
+        "page": "p 116, Pl. 96",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1769418",
+          "legacy_id": "78402",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 115, Pl. 93",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_115_pl_93",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "bruguiera_gymnorrhiza",
+          "type": "species",
+          "archival_data": [
+            "1397704"
+          ]
+        },
+        "volume": null,
+        "page": "p 115, Pl. 93",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1770013",
+          "legacy_id": "77146",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 75, Pl. 19",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_75_pl_19",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "asystasia_gangetica",
+          "type": "species",
+          "archival_data": [
+            "1398424"
+          ]
+        },
+        "volume": null,
+        "page": "p 75, Pl. 19",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1770543",
+          "legacy_id": "74614",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 152, Pl. 157",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_152_pl_157",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "averrhoa_bilimbi",
+          "type": "species",
+          "archival_data": [
+            "1398808"
+          ]
+        },
+        "volume": null,
+        "page": "p 152, Pl. 157",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1771201",
+          "legacy_id": "74780",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 102, Pl. 69",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_102_pl_69",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "bixa_orellana",
+          "type": "species",
+          "archival_data": [
+            "1401892"
+          ]
+        },
+        "volume": null,
+        "page": "p 102, Pl. 69",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1771911",
+          "legacy_id": "76275",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 104, Pl. 74",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_104_pl_74",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "caesalpinia_pulcherrima",
+          "type": "species",
+          "archival_data": [
+            "1398890"
+          ]
+        },
+        "volume": null,
+        "page": "p 104, Pl. 74",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1771974",
+          "legacy_id": "77625",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 149, Pl. 151",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_149_pl_151",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "artocarpus_altilis",
+          "type": "species",
+          "archival_data": [
+            "1402607"
+          ]
+        },
+        "volume": null,
+        "page": "p 149, Pl. 151",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1772123",
+          "legacy_id": "73702",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 95, Pl. 56",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_95_pl_56",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "caladium_bicolor",
+          "type": "species",
+          "archival_data": [
+            "1400029"
+          ]
+        },
+        "volume": null,
+        "page": "p 95, Pl. 56",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1772375",
+          "legacy_id": "77787",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 79, Pl. 26",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_79_pl_26",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "asclepias_curassavica",
+          "type": "species",
+          "archival_data": [
+            "1402975"
+          ]
+        },
+        "volume": null,
+        "page": "p 79, Pl. 26",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1773086",
+          "legacy_id": "73931",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483157682"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 104, Pl. 73",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_104_pl_73",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "calliandra_emarginata",
+          "type": "species",
+          "archival_data": [
+            "1399274"
+          ]
+        },
+        "volume": null,
+        "page": "p 104, Pl. 73",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1773340",
+          "legacy_id": "78028",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 101, Pl. 68",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_101_pl_68",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "barleria_cristata",
+          "type": "species",
+          "archival_data": [
+            "1399934"
+          ]
+        },
+        "volume": null,
+        "page": "p 101, Pl. 68",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1773524",
+          "legacy_id": "75385",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 116, Pl. 94",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_116_pl_94",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "barringtonia_asiatica",
+          "type": "species",
+          "archival_data": [
+            "1399952"
+          ]
+        },
+        "volume": null,
+        "page": "p 116, Pl. 94",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1773810",
+          "legacy_id": "75427",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 121, Pl. 103",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_121_pl_103",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "caryota_mitis",
+          "type": "species",
+          "archival_data": [
+            "1408592"
+          ]
+        },
+        "volume": null,
+        "page": "p 121, Pl. 103",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1774806",
+          "legacy_id": "79785",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 126, Pl. 113",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_126_pl_113",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cassia_bakeriana",
+          "type": "species",
+          "archival_data": [
+            "1408610"
+          ]
+        },
+        "volume": null,
+        "page": "p 126, Pl. 113",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1774831",
+          "legacy_id": "79810",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 128, Pl. 117",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_128_pl_117",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cerbera_odollam",
+          "type": "species",
+          "archival_data": [
+            "1405164"
+          ]
+        },
+        "volume": null,
+        "page": "p 128, Pl. 117",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1774872",
+          "legacy_id": "81128",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 127, Pl. 114",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_127_pl_114",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cassia_fistula",
+          "type": "species",
+          "archival_data": [
+            "1408910"
+          ]
+        },
+        "volume": null,
+        "page": "p 127, Pl. 114",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1775101",
+          "legacy_id": "79831",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 81, Pl. 29",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_81_pl_29",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cassia_mimosoides",
+          "type": "species",
+          "archival_data": [
+            "1408931"
+          ]
+        },
+        "volume": null,
+        "page": "p 81, Pl. 29",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1775116",
+          "legacy_id": "79847",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 67, Pl. 8",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_67_pl_8",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "catharanthus_roseus",
+          "type": "species",
+          "archival_data": [
+            "1403626"
+          ]
+        },
+        "volume": null,
+        "page": "p 67, Pl. 8",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1776497",
+          "legacy_id": "80245",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 109, Pl. 82",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_109_pl_82",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "clerodendrum_paniculatum",
+          "type": "species",
+          "archival_data": [
+            "1408682"
+          ]
+        },
+        "volume": null,
+        "page": "p 109, Pl. 82",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1776945",
+          "legacy_id": "82993",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 110, Pl. 83",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_110_pl_83",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cordyline_terminalis",
+          "type": "species",
+          "archival_data": [
+            "1405276"
+          ]
+        },
+        "volume": null,
+        "page": "p 110, Pl. 83",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1777021",
+          "legacy_id": "84258",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 133, Pl. 126",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_133_pl_126",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "clitoria_ternatea",
+          "type": "species",
+          "archival_data": [
+            "1409016"
+          ]
+        },
+        "volume": null,
+        "page": "p 133, Pl. 126",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1777603",
+          "legacy_id": "83155",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 154, Pl. 161",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_154_pl_161",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "ceiba_pentandra",
+          "type": "species",
+          "archival_data": [
+            "1404022"
+          ]
+        },
+        "volume": null,
+        "page": "p 154, Pl. 161",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1777779",
+          "legacy_id": "80537",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 81, Pl. 30",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_81_pl_30",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "celosia_argentea",
+          "type": "species",
+          "archival_data": [
+            "1404076"
+          ]
+        },
+        "volume": null,
+        "page": "p 81, Pl. 30",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1778098",
+          "legacy_id": "80615",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 154, Pl. 162",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_154_pl_162",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cocos_nucifera",
+          "type": "species",
+          "archival_data": [
+            "1409377"
+          ]
+        },
+        "volume": null,
+        "page": "p 154, Pl. 162",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1778278",
+          "legacy_id": "83342",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 112, Pl. 88",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_112_pl_88",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "codiaeum_variegatum",
+          "type": "species",
+          "archival_data": [
+            "1409379"
+          ]
+        },
+        "volume": null,
+        "page": "p 112, Pl. 88",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1778294",
+          "legacy_id": "83360",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 144, Pl. 143",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_144_pl_143",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "carica_papaya",
+          "type": "species",
+          "archival_data": [
+            "1408207"
+          ]
+        },
+        "volume": null,
+        "page": "p 144, Pl. 143",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1778734",
+          "legacy_id": "79479",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 124, Pl. 109",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_124_pl_109",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cinnamomum_iners",
+          "type": "species",
+          "archival_data": [
+            "1407137"
+          ]
+        },
+        "volume": null,
+        "page": "p 124, Pl. 109",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1778910",
+          "legacy_id": "82205",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 70, Pl. 13",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_70_pl_13",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "didymocarpus_platypus",
+          "type": "species",
+          "archival_data": [
+            "1408461"
+          ]
+        },
+        "volume": null,
+        "page": "p 70, Pl. 13",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1780010",
+          "legacy_id": "89218",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 140, Pl. 136",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_140_pl_136",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "dendrobium_anosmum",
+          "type": "species",
+          "archival_data": [
+            "1406138"
+          ]
+        },
+        "volume": null,
+        "page": "p 140, Pl. 136",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1780625",
+          "legacy_id": "88032",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 99, Pl. 64",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_99_pl_64",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "dillenia_suffruticosa",
+          "type": "species",
+          "archival_data": [
+            "1408808"
+          ]
+        },
+        "volume": null,
+        "page": "p 99, Pl. 64",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1780680",
+          "legacy_id": "89408",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 118, Pl. 99",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_118_pl_99",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cratoxylum_formosum",
+          "type": "species",
+          "archival_data": [
+            "1407564"
+          ]
+        },
+        "volume": null,
+        "page": "p 118, Pl. 99",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1781111",
+          "legacy_id": "85510",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 140, Pl. 137",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_140_pl_137",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "dendrobium_crumenatum",
+          "type": "species",
+          "archival_data": [
+            "1406196"
+          ]
+        },
+        "volume": null,
+        "page": "p 140, Pl. 137",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1781232",
+          "legacy_id": "88152",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 84, Pl. 38",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_84_pl_38",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "crinum_asiaticum",
+          "type": "species",
+          "archival_data": [
+            "1407615"
+          ]
+        },
+        "volume": null,
+        "page": "p 84, Pl. 38",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1781440",
+          "legacy_id": "85601",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 33",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_33",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "dipterocarpus_grandiflorus",
+          "type": "species",
+          "archival_data": [
+            "1409262"
+          ]
+        },
+        "volume": null,
+        "page": "p 33",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1781625",
+          "legacy_id": "89712",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 123, Pl. 108",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_123_pl_108",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cyrtostachys_renda",
+          "type": "species",
+          "archival_data": [
+            "1404598"
+          ]
+        },
+        "volume": null,
+        "page": "p 123, Pl. 108",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1782814",
+          "legacy_id": "87263",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 64, Pl. 1.",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_64_pl_1",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cryptocoryne_ciliata",
+          "type": "species",
+          "archival_data": [
+            "1408715"
+          ]
+        },
+        "volume": null,
+        "page": "p 64, Pl. 1.",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1783366",
+          "legacy_id": "86071",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 24",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_24",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cryptocoryne_griffithii",
+          "type": "species",
+          "archival_data": [
+            "1408716"
+          ]
+        },
+        "volume": null,
+        "page": "p 24",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1783368",
+          "legacy_id": "86073",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 83, Pl. 36",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_83_pl_36",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cosmos_bipinnatus",
+          "type": "species",
+          "archival_data": [
+            "1406470"
+          ]
+        },
+        "volume": null,
+        "page": "p 83, Pl. 36",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1784638",
+          "legacy_id": "85100",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 97, Pl. 59",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_97_pl_59",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "cycas_rumphii",
+          "type": "species",
+          "archival_data": [
+            "1409154"
+          ]
+        },
+        "volume": null,
+        "page": "p 97, Pl. 59",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1784670",
+          "legacy_id": "86395",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 74, Pl. 17",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_74_pl_17",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "costus_speciosus",
+          "type": "species",
+          "archival_data": [
+            "1406483"
+          ]
+        },
+        "volume": null,
+        "page": "p 74, Pl. 17",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1784906",
+          "legacy_id": "85126",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 128, Pl. 115",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_128_pl_115",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "delonix_regia",
+          "type": "species",
+          "archival_data": [
+            "1405760"
+          ]
+        },
+        "volume": null,
+        "page": "p 128, Pl. 115",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1785098",
+          "legacy_id": "87841",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 65, Pl. 4.",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_65_pl_4",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "enhalus_acoroides",
+          "type": "species",
+          "archival_data": [
+            "1413956"
+          ]
+        },
+        "volume": null,
+        "page": "p 65, Pl. 4.",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1785914",
+          "legacy_id": "91933",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 105, Pl. 76",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_105_pl_76",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "epiphyllum_oxypetalum",
+          "type": "species",
+          "archival_data": [
+            "1415078"
+          ]
+        },
+        "volume": null,
+        "page": "p 105, Pl. 76",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1786400",
+          "legacy_id": "92434",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 90-91, Pl. 47",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_90_91_pl_47",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "episcia_cupreata",
+          "type": "species",
+          "archival_data": [
+            "1415087"
+          ]
+        },
+        "volume": null,
+        "page": "p 90-91, Pl. 47",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1786420",
+          "legacy_id": "92455",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 142, Pl. 140",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_142_pl_140",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "durio_zibethinus",
+          "type": "species",
+          "archival_data": [
+            "1406278"
+          ]
+        },
+        "volume": null,
+        "page": "p 142, Pl. 140",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1788668",
+          "legacy_id": "90850",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 111, Pl. 85",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_111_pl_85",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "dracaena_goldieana",
+          "type": "species",
+          "archival_data": [
+            "1404306"
+          ]
+        },
+        "volume": null,
+        "page": "p 111, Pl. 85",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1788791",
+          "legacy_id": "90227",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 118, Pl. 98",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_118_pl_98",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "dysoxylum_cauliflorum",
+          "type": "species",
+          "archival_data": [
+            "1405459"
+          ]
+        },
+        "volume": null,
+        "page": "p 118, Pl. 98",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1788866",
+          "legacy_id": "90885",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 68, Pl. 9",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_68_pl_9",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "eichhornia_crassipes",
+          "type": "species",
+          "archival_data": [
+            "1413149"
+          ]
+        },
+        "volume": null,
+        "page": "p 68, Pl. 9",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1788934",
+          "legacy_id": "91470",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483160925"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 105, Pl. 75",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_105_pl_75",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "euphorbia_pulcherrima",
+          "type": "species",
+          "archival_data": [
+            "1411441"
+          ]
+        },
+        "volume": null,
+        "page": "p 105, Pl. 75",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1790594",
+          "legacy_id": "96142",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 146, Pl. 147",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_146_pl_147",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "eugenia_aquea",
+          "type": "species",
+          "archival_data": [
+            "1415213"
+          ]
+        },
+        "volume": null,
+        "page": "p 146, Pl. 147",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1791767",
+          "legacy_id": "95097",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 123, Pl. 107",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_123_pl_107",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "fagraea_fragrans",
+          "type": "species",
+          "archival_data": [
+            "1412566"
+          ]
+        },
+        "volume": null,
+        "page": "p 123, Pl. 107",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1792240",
+          "legacy_id": "96586",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 152, Pl. 158",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_152_pl_158",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "etlingera_elatior",
+          "type": "species",
+          "archival_data": [
+            "1413247"
+          ]
+        },
+        "volume": null,
+        "page": "p 152, Pl. 158",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1792673",
+          "legacy_id": "94107",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 44",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_44",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "ficus_benjamina",
+          "type": "species",
+          "archival_data": [
+            "1412986"
+          ]
+        },
+        "volume": null,
+        "page": "p 44",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1793493",
+          "legacy_id": "96875",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 123, Pl. 106",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_123_pl_106",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "ficus_elastica",
+          "type": "species",
+          "archival_data": [
+            "1413004"
+          ]
+        },
+        "volume": null,
+        "page": "p 123, Pl. 106",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1793535",
+          "legacy_id": "96917",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 108, Pl. 80",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_108_pl_80",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "gardenia_jasminoides",
+          "type": "species",
+          "archival_data": [
+            "1409957"
+          ]
+        },
+        "volume": null,
+        "page": "p 108, Pl. 80",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1793599",
+          "legacy_id": "98245",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 120, Pl. 101",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_120_pl_101",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "ficus_microcarpa",
+          "type": "species",
+          "archival_data": [
+            "1413318"
+          ]
+        },
+        "volume": null,
+        "page": "p 120, Pl. 101",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1793820",
+          "legacy_id": "96961",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 122, Pl. 104",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_122_pl_104",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "ficus_religiosa",
+          "type": "species",
+          "archival_data": [
+            "1413343"
+          ]
+        },
+        "volume": null,
+        "page": "p 122, Pl. 104",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1793857",
+          "legacy_id": "96998",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 120, Pl. 102",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_120_pl_102",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "ficus_variegata",
+          "type": "species",
+          "archival_data": [
+            "1413365"
+          ]
+        },
+        "volume": null,
+        "page": "p 120, Pl. 102",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": true,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1794129",
+          "legacy_id": "97035",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 85, Pl. 39",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_85_pl_39",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "hymenocallis_littoralis",
+          "type": "species",
+          "archival_data": [
+            "1421324"
+          ]
+        },
+        "volume": null,
+        "page": "p 85, Pl. 39",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1794314",
+          "legacy_id": "103831",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 110, Pl. 84",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_110_pl_84",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "graptophyllum_pictum",
+          "type": "species",
+          "archival_data": [
+            "1413433"
+          ]
+        },
+        "volume": null,
+        "page": "p 110, Pl. 84",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1795333",
+          "legacy_id": "100041",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 106, Pl. 78",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_106_pl_78",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "hibiscus_mutabilis",
+          "type": "species",
+          "archival_data": [
+            "1419089"
+          ]
+        },
+        "volume": null,
+        "page": "p 106, Pl. 78",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1795507",
+          "legacy_id": "102720",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 107, Pl. 79",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_107_pl_79",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "hibiscus_rosa_sinensis",
+          "type": "species",
+          "archival_data": [
+            "1419098"
+          ]
+        },
+        "volume": null,
+        "page": "p 107, Pl. 79",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1795530",
+          "legacy_id": "102743",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 117, Pl. 97",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_117_pl_97",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "hibiscus_tiliaceus",
+          "type": "species",
+          "archival_data": [
+            "1419106"
+          ]
+        },
+        "volume": null,
+        "page": "p 117, Pl. 97",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1795821",
+          "legacy_id": "102794",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 82, Pl. 33",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_82_pl_33",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "impatiens_balsamina",
+          "type": "species",
+          "archival_data": [
+            "1416467"
+          ]
+        },
+        "volume": null,
+        "page": "p 82, Pl. 33",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1796268",
+          "legacy_id": "104420",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 88, Pl. 45",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_88_pl_45",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "heliconia_rostrata",
+          "type": "species",
+          "archival_data": [
+            "1411598"
+          ]
+        },
+        "volume": null,
+        "page": "p 88, Pl. 45",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1797410",
+          "legacy_id": "101911",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 96, Pl. 58",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_96_pl_58",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "glochidion_littorale",
+          "type": "species",
+          "archival_data": [
+            "1412338"
+          ]
+        },
+        "volume": null,
+        "page": "p 96, Pl. 58",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1799146",
+          "legacy_id": "99688",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 108, Pl. 81",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_108_pl_81",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "ixora_javanica",
+          "type": "species",
+          "archival_data": [
+            "1418065"
+          ]
+        },
+        "volume": null,
+        "page": "p 108, Pl. 81",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1801539",
+          "legacy_id": "105674",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 129, Pl. 118",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_129_pl_118",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "lagerstroemia_speciosa",
+          "type": "species",
+          "archival_data": [
+            "1420658"
+          ]
+        },
+        "volume": null,
+        "page": "p 129, Pl. 118",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1801951",
+          "legacy_id": "107096",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 78, Pl. 25",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_78_pl_25",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "imperata_cylindrica",
+          "type": "species",
+          "archival_data": [
+            "1416502"
+          ]
+        },
+        "volume": null,
+        "page": "p 78, Pl. 25",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1802110",
+          "legacy_id": "104501",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 87, Pl. 42",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_87_pl_42",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "jatropha_podagrica",
+          "type": "species",
+          "archival_data": [
+            "1418439"
+          ]
+        },
+        "volume": null,
+        "page": "p 87, Pl. 42",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1802468",
+          "legacy_id": "105884",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 144, Pl. 144",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_144_pl_144",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "lansium_domesticum",
+          "type": "species",
+          "archival_data": [
+            "1420718"
+          ]
+        },
+        "volume": null,
+        "page": "p 144, Pl. 144",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1802594",
+          "legacy_id": "107256",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 98, Pl. 62",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_98_pl_62",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "lantana_camara",
+          "type": "species",
+          "archival_data": [
+            "1420722"
+          ]
+        },
+        "volume": null,
+        "page": "p 98, Pl. 62",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1802612",
+          "legacy_id": "107274",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 151, Pl. 155",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_151_pl_155",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "ipomoea_aquatica",
+          "type": "species",
+          "archival_data": [
+            "1416875"
+          ]
+        },
+        "volume": null,
+        "page": "p 151, Pl. 155",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1802785",
+          "legacy_id": "104692",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 130, Pl. 120",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_130_pl_120",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "ipomoea_cairica",
+          "type": "species",
+          "archival_data": [
+            "1416882"
+          ]
+        },
+        "volume": null,
+        "page": "p 130, Pl. 120",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1803045",
+          "legacy_id": "104710",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 130, Pl. 121",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_130_pl_121",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "ipomoea_nil",
+          "type": "species",
+          "archival_data": [
+            "1416908"
+          ]
+        },
+        "volume": null,
+        "page": "p 130, Pl. 121",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1803096",
+          "legacy_id": "104765",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 78, Pl. 24",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_78_pl_24",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "kalanchoe_pinnata",
+          "type": "species",
+          "archival_data": [
+            "1419194"
+          ]
+        },
+        "volume": null,
+        "page": "p 78, Pl. 24",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1804164",
+          "legacy_id": "106361",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 68, Pl. 10",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_68_pl_10",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "limnocharis_flava",
+          "type": "species",
+          "archival_data": [
+            "1417755"
+          ]
+        },
+        "volume": null,
+        "page": "p 68, Pl. 10",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1804622",
+          "legacy_id": "109083",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 153, Pl. 159",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_153_pl_159",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "myristica_fragrans",
+          "type": "species",
+          "archival_data": [
+            "1416383"
+          ]
+        },
+        "volume": null,
+        "page": "p 153, Pl. 159",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": true,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1805074",
+          "legacy_id": "114649",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483164168"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 145, Pl. 145",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_145_pl_145",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "mangifera_indica",
+          "type": "species",
+          "archival_data": [
+            "1417433"
+          ]
+        },
+        "volume": null,
+        "page": "p 145, Pl. 145",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1805566",
+          "legacy_id": "112053",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 37",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_37",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "manihot_esculenta",
+          "type": "species",
+          "archival_data": [
+            "1417436"
+          ]
+        },
+        "volume": null,
+        "page": "p 37",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": true,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1805830",
+          "legacy_id": "112071",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 125, Pl. 111",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_125_pl_111",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "macaranga_hypoleuca",
+          "type": "species",
+          "archival_data": [
+            "1420815"
+          ]
+        },
+        "volume": null,
+        "page": "p 125, Pl. 111",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1806108",
+          "legacy_id": "110849",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 69, Pl. 12",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_69_pl_12",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "nelumbo_nucifera",
+          "type": "species",
+          "archival_data": [
+            "1417119"
+          ]
+        },
+        "volume": null,
+        "page": "p 69, Pl. 12",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1806358",
+          "legacy_id": "115041",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 80, Pl. 28",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_80_pl_28",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "mimosa_pudica",
+          "type": "species",
+          "archival_data": [
+            "1420498"
+          ]
+        },
+        "volume": null,
+        "page": "p 80, Pl. 28",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1806571",
+          "legacy_id": "113570",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 106, Pl. 77",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_106_pl_77",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "malpighia_coccigera",
+          "type": "species",
+          "archival_data": [
+            "1415906"
+          ]
+        },
+        "volume": null,
+        "page": "p 106, Pl. 77",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1808083",
+          "legacy_id": "111359",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 98, Pl. 61",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_98_pl_61",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "melastoma_malabathricum",
+          "type": "species",
+          "archival_data": [
+            "1419312"
+          ]
+        },
+        "volume": null,
+        "page": "p 98, Pl. 61",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1808788",
+          "legacy_id": "112842",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 114, Pl. 92",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_114_pl_92",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "lumnitzera_littorea",
+          "type": "species",
+          "archival_data": [
+            "1420029"
+          ]
+        },
+        "volume": null,
+        "page": "p 114, Pl. 92",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1808996",
+          "legacy_id": "110289",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 134-35, Pl. 127",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_134_35_pl_127",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "mucuna_bennettii",
+          "type": "species",
+          "archival_data": [
+            "1415626"
+          ]
+        },
+        "volume": null,
+        "page": "p 134-35, Pl. 127",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1809207",
+          "legacy_id": "114267",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 68, Pl. 11",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_68_pl_11",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "nymphoides_indica",
+          "type": "species",
+          "archival_data": [
+            "1425427"
+          ]
+        },
+        "volume": null,
+        "page": "p 68, Pl. 11",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1810050",
+          "legacy_id": "115901",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 81, Pl. 32",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_81_pl_32",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "peperomia_pellucida",
+          "type": "species",
+          "archival_data": [
+            "1421863"
+          ]
+        },
+        "volume": null,
+        "page": "p 81, Pl. 32",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1810300",
+          "legacy_id": "120021",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 88, Pl. 44",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_88_pl_44",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "orthosiphon_aristatus",
+          "type": "species",
+          "archival_data": [
+            "1422909"
+          ]
+        },
+        "volume": null,
+        "page": "p 88, Pl. 44",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1810742",
+          "legacy_id": "117372",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 48",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_48",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "oxalis_corniculata",
+          "type": "species",
+          "archival_data": [
+            "1423296"
+          ]
+        },
+        "volume": null,
+        "page": "p 48",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1811399",
+          "legacy_id": "117543",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 93, Pl. 51",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_93_pl_51",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "phalaenopsis_amabilis",
+          "type": "species",
+          "archival_data": [
+            "1422682"
+          ]
+        },
+        "volume": null,
+        "page": "p 93, Pl. 51",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1811568",
+          "legacy_id": "120411",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 136, Pl. 129",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_136_pl_129",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "passiflora_foetida",
+          "type": "species",
+          "archival_data": [
+            "1425921"
+          ]
+        },
+        "volume": null,
+        "page": "p 136, Pl. 129",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1812453",
+          "legacy_id": "119119",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 147, Pl. 148",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_147_pl_148",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "passiflora_laurifolia",
+          "type": "species",
+          "archival_data": [
+            "1425931"
+          ]
+        },
+        "volume": null,
+        "page": "p 147, Pl. 148",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1812494",
+          "legacy_id": "119162",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 136, Pl. 128",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_136_pl_128",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "nepenthes_rafflesiana",
+          "type": "species",
+          "archival_data": [
+            "1417540"
+          ]
+        },
+        "volume": null,
+        "page": "p 136, Pl. 128",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1812908",
+          "legacy_id": "115303",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 142, Pl. 139",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_142_pl_139",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "nephelium_lappaceum",
+          "type": "species",
+          "archival_data": [
+            "1417581"
+          ]
+        },
+        "volume": null,
+        "page": "p 142, Pl. 139",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1813244",
+          "legacy_id": "115399",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 97, Pl. 60",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_97_pl_60",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "pandanus_odoratissimus",
+          "type": "species",
+          "archival_data": [
+            "1424100"
+          ]
+        },
+        "volume": null,
+        "page": "p 97, Pl. 60",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1813388",
+          "legacy_id": "118070",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 100, Pl. 65",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_100_pl_65",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "nerium_oleander",
+          "type": "species",
+          "archival_data": [
+            "1417892"
+          ]
+        },
+        "volume": null,
+        "page": "p 100, Pl. 65",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1813556",
+          "legacy_id": "115469",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 126, Pl. 112",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_126_pl_112",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "peltophorum_pterocarpum",
+          "type": "species",
+          "archival_data": [
+            "1427034"
+          ]
+        },
+        "volume": null,
+        "page": "p 126, Pl. 112",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1814741",
+          "legacy_id": "119714",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 40",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_40",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "plectocomia_griffithii",
+          "type": "species",
+          "archival_data": [
+            "1426399"
+          ]
+        },
+        "volume": null,
+        "page": "p 40",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1815323",
+          "legacy_id": "122581",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 52",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_52",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "pinanga_coronata",
+          "type": "species",
+          "archival_data": [
+            "1424937"
+          ]
+        },
+        "volume": null,
+        "page": "p 52",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1816533",
+          "legacy_id": "121571",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 113, Pl. 89",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_113_pl_89",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "polyscias_fruticosa",
+          "type": "species",
+          "archival_data": [
+            "1422394"
+          ]
+        },
+        "volume": null,
+        "page": "p 113, Pl. 89",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1817944",
+          "legacy_id": "123249",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 94, Pl. 54",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_94_pl_54",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "pseuderanthemum_reticulatum",
+          "type": "species",
+          "archival_data": [
+            "1425706"
+          ]
+        },
+        "volume": null,
+        "page": "p 94, Pl. 54",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1819646",
+          "legacy_id": "124980",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 81, Pl. 31",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_81_pl_31",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "physalis_minima",
+          "type": "species",
+          "archival_data": [
+            "1424176"
+          ]
+        },
+        "volume": null,
+        "page": "p 81, Pl. 31",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1820087",
+          "legacy_id": "121194",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 59",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_59",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "pterocarpus_indicus",
+          "type": "species",
+          "archival_data": [
+            "1426084"
+          ]
+        },
+        "volume": null,
+        "page": "p 59",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1820309",
+          "legacy_id": "125151",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 84, Pl. 37",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_84_pl_37",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "sanchezia_nobilis",
+          "type": "species",
+          "archival_data": [
+            "1430608"
+          ]
+        },
+        "volume": null,
+        "page": "p 84, Pl. 37",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1822052",
+          "legacy_id": "131074",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 23",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_23",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rhizophora_mucronata",
+          "type": "species",
+          "archival_data": [
+            "1423626"
+          ]
+        },
+        "volume": null,
+        "page": "p 23",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1823101",
+          "legacy_id": "127238",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 114, Pl. 91",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_114_pl_91",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "rhizophora_mucronata",
+          "type": "species",
+          "archival_data": [
+            "1423626"
+          ]
+        },
+        "volume": null,
+        "page": "p 114, Pl. 91",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1823102",
+          "legacy_id": "127239",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483167411"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 9",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_9",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "randia_macrophylla",
+          "type": "species",
+          "archival_data": [
+            "1422094"
+          ]
+        },
+        "volume": null,
+        "page": "p 9",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1824656",
+          "legacy_id": "126325",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 20",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_20",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "shorea_curtisii",
+          "type": "species",
+          "archival_data": [
+            "1429235"
+          ]
+        },
+        "volume": null,
+        "page": "p 20",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": true,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1826475",
+          "legacy_id": "133433",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 119, Pl. 100",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_119_pl_100",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "shorea_macroptera",
+          "type": "species",
+          "archival_data": [
+            "1429236"
+          ]
+        },
+        "volume": null,
+        "page": "p 119, Pl. 100",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1826476",
+          "legacy_id": "133434",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 124, Pl. 110",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_124_pl_110",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "spathodea_campanulata",
+          "type": "species",
+          "archival_data": [
+            "1431530"
+          ]
+        },
+        "volume": null,
+        "page": "p 124, Pl. 110",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1826528",
+          "legacy_id": "134752",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 93, Pl. 52",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_93_pl_52",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "spathoglottis_plicata",
+          "type": "species",
+          "archival_data": [
+            "1431536"
+          ]
+        },
+        "volume": null,
+        "page": "p 93, Pl. 52",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1826550",
+          "legacy_id": "134777",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 96, Pl. 57",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_96_pl_57",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "scaevola_taccada",
+          "type": "species",
+          "archival_data": [
+            "1432520"
+          ]
+        },
+        "volume": null,
+        "page": "p 96, Pl. 57",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1826672",
+          "legacy_id": "132143",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 113, Pl. 90",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_113_pl_90",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "schefflera_actinophylla",
+          "type": "species",
+          "archival_data": [
+            "1432551"
+          ]
+        },
+        "volume": null,
+        "page": "p 113, Pl. 90",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1826713",
+          "legacy_id": "132184",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 146, Pl. 146",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_146_pl_146",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "syzygium_malaccense",
+          "type": "species",
+          "archival_data": [
+            "1428889"
+          ]
+        },
+        "volume": null,
+        "page": "p 146, Pl. 146",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1826918",
+          "legacy_id": "136248",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 100, Pl. 66",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_100_pl_66",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "tabernaemontana_divaricata",
+          "type": "species",
+          "archival_data": [
+            "1428910"
+          ]
+        },
+        "volume": null,
+        "page": "p 100, Pl. 66",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1826955",
+          "legacy_id": "136287",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 70, Pl. 14",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_70_pl_14",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "tacca_integrifolia",
+          "type": "species",
+          "archival_data": [
+            "1428917"
+          ]
+        },
+        "volume": null,
+        "page": "p 70, Pl. 14",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1826971",
+          "legacy_id": "136303",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 143, Pl. 141",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_143_pl_141",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "sapota_achras",
+          "type": "species",
+          "archival_data": [
+            "1430692"
+          ]
+        },
+        "volume": null,
+        "page": "p 143, Pl. 141",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1828547",
+          "legacy_id": "131304",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 128, Pl. 116",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_128_pl_116",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "saraca_thaipingensis",
+          "type": "species",
+          "archival_data": [
+            "1430697"
+          ]
+        },
+        "volume": null,
+        "page": "p 128, Pl. 116",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1828559",
+          "legacy_id": "131317",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 137, Pl. 131",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_137_pl_131",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "saritaea_magnifica",
+          "type": "species",
+          "archival_data": [
+            "1431028"
+          ]
+        },
+        "volume": null,
+        "page": "p 137, Pl. 131",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1828881",
+          "legacy_id": "131399",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 27",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_27",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "sterculia_coccinea",
+          "type": "species",
+          "archival_data": [
+            "1433029"
+          ]
+        },
+        "volume": null,
+        "page": "p 27",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": true,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1829167",
+          "legacy_id": "135454",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 149, Pl. 152",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_149_pl_152",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "solanum_melongena",
+          "type": "species",
+          "archival_data": [
+            "1430730"
+          ]
+        },
+        "volume": null,
+        "page": "p 149, Pl. 152",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1829367",
+          "legacy_id": "134138",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 150, Pl. 153",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_150_pl_153",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "sauropus_androgynus",
+          "type": "species",
+          "archival_data": [
+            "1431385"
+          ]
+        },
+        "volume": null,
+        "page": "p 150, Pl. 153",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1829551",
+          "legacy_id": "131592",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 62-63",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_62_63",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "sonneratia_caseolaris",
+          "type": "species",
+          "archival_data": [
+            "1431106"
+          ]
+        },
+        "volume": null,
+        "page": "p 62-63",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1830354",
+          "legacy_id": "134410",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 130, Pl. 119",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_130_pl_119",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "thunbergia_alata",
+          "type": "species",
+          "archival_data": [
+            "1430816"
+          ]
+        },
+        "volume": null,
+        "page": "p 130, Pl. 119",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1831243",
+          "legacy_id": "137338",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 132, Pl. 124",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_132_pl_124",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "thunbergia_grandiflora",
+          "type": "species",
+          "archival_data": [
+            "1430822"
+          ]
+        },
+        "volume": null,
+        "page": "p 132, Pl. 124",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1831272",
+          "legacy_id": "137367",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 53",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_53",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "tristellateia_australasiae",
+          "type": "species",
+          "archival_data": [
+            "1427458"
+          ]
+        },
+        "volume": null,
+        "page": "p 53",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1832292",
+          "legacy_id": "138910",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 103, Pl. 71",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_103_pl_71",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "wrightia_religiosa",
+          "type": "species",
+          "archival_data": [
+            "1438004"
+          ]
+        },
+        "volume": null,
+        "page": "p 103, Pl. 71",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1832503",
+          "legacy_id": "141832",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 151, Pl. 156",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_151_pl_156",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "xanthosoma_sagittifolium",
+          "type": "species",
+          "archival_data": [
+            "1438326"
+          ]
+        },
+        "volume": null,
+        "page": "p 151, Pl. 156",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1832842",
+          "legacy_id": "141932",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 67, Pl. 7",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_67_pl_7",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "wedelia_biflora",
+          "type": "species",
+          "archival_data": [
+            "1437918"
+          ]
+        },
+        "volume": null,
+        "page": "p 67, Pl. 7",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1833091",
+          "legacy_id": "141679",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 103, Pl. 72",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_103_pl_72",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "tecoma_stans",
+          "type": "species",
+          "archival_data": [
+            "1429345"
+          ]
+        },
+        "volume": null,
+        "page": "p 103, Pl. 72",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1833780",
+          "legacy_id": "136694",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 82, Pl. 34",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_82_pl_34",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "tithonia_rotundifolia",
+          "type": "species",
+          "archival_data": [
+            "1432004"
+          ]
+        },
+        "volume": null,
+        "page": "p 82, Pl. 34",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1833880",
+          "legacy_id": "138039",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 83, Pl. 35",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_83_pl_35",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "torenia_fournieri",
+          "type": "species",
+          "archival_data": [
+            "1432329"
+          ]
+        },
+        "volume": null,
+        "page": "p 83, Pl. 35",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1834171",
+          "legacy_id": "138085",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 77, Pl. 22",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_77_pl_22",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "turnera_ulmifolia",
+          "type": "species",
+          "archival_data": [
+            "1427913"
+          ]
+        },
+        "volume": null,
+        "page": "p 77, Pl. 22",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1834261",
+          "legacy_id": "139432",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 116, Pl. 95",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_116_pl_95",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "terminalia_catappa",
+          "type": "species",
+          "archival_data": [
+            "1429688"
+          ]
+        },
+        "volume": null,
+        "page": "p 116, Pl. 95",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1834401",
+          "legacy_id": "136828",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 102, Pl. 70",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_102_pl_70",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "thevetia_peruviana",
+          "type": "species",
+          "archival_data": [
+            "1430470"
+          ]
+        },
+        "volume": null,
+        "page": "p 102, Pl. 70",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": true,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1835750",
+          "legacy_id": "137198",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 87, Pl. 43",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_87_pl_43",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "zephyranthes_rosea",
+          "type": "species",
+          "archival_data": [
+            "1439024"
+          ]
+        },
+        "volume": null,
+        "page": "p 87, Pl. 43",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1839826",
+          "legacy_id": "142288",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483170654"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 13",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_13",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "albizia_falcataria",
+          "type": "species",
+          "archival_data": [
+            "1401363"
+          ]
+        },
+        "volume": null,
+        "page": "p 13",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": false,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": true,
+          "Root": false,
+          "Habit": true,
+          "Leaf": false,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1895260",
+          "legacy_id": "239252",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483180383"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 141",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_141",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "bulbophyllum_vaginatum",
+          "type": "species",
+          "archival_data": [
+            "1398476"
+          ]
+        },
+        "volume": null,
+        "page": "p 141",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": true,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1948229",
+          "legacy_id": "288875",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483190112"
+        }
+      },
+      {
+        "name": "Polunin, Ivan. Plants and Flowers of Singapore. (1987) p 66",
+        "machine_name": "polunin_ivan_plants_and_flowers_of_singapore_1987_p_66",
+        "type": "citation_reference",
+        "plant": {
+          "machine_name": "canavalia_maritima",
+          "type": "species",
+          "archival_data": [
+            "1407022"
+          ]
+        },
+        "volume": null,
+        "page": "p 66",
+        "year": "1987",
+        "notes": null,
+        "parts_shown": {
+          "Flower": true,
+          "Seed": false,
+          "Fruit": false,
+          "Bark": false,
+          "Root": false,
+          "Habit": false,
+          "Leaf": true,
+          "Twig": false,
+          "Unclear": false
+        },
+        "citation_type": {
+          "Art": false,
+          "Photo": false
+        },
+        "archival_data": {
+          "id": "1948306",
+          "legacy_id": "290638",
+          "AD": false,
+          "fpi_pub_issue": null,
+          "pullingdat": "1",
+          "active": true,
+          "author": "oitadmin",
+          "created": "1483190112"
+        }
+      }
+    ]
+  }
+}
