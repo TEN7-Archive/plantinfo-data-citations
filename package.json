@@ -4,6 +4,7 @@
   "description": "Plantinfo Data - Citations",
   "main": "index.js",
   "scripts": {
+    "index": "node index.js",
     "combine": "node combine.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
